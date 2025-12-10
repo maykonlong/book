@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MINHA ESCOLHA - Leitura Online</title>
+    <meta name="description"
+        content="Leia MINHA ESCOLHA - Uma história sobre autodescoberta e o poder de escolher a si mesma">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&family=Inter:wght@500;600&display=swap"
+        rel="stylesheet">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --color-primary: #2c1810;
+            --color-accent: #d4a574;
+            --color-bg: #f5f1ed;
+            --color-page: #ffffff;
+            --color-text: #1a1a1a;
+            --color-text-light: #4a4a4a;
+
+            --font-serif: 'Crimson Pro', Georgia, serif;
+            --font-sans: 'Inter', system-ui, sans-serif;
+        }
+
+        body {
+            font-family: var(--font-serif);
+            background: var(--color-bg);
+            overflow-x: hidden;
+        }
+
+        /* Book Container */
+        .book-container {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Page */
+        .page {
+            display: none;
+            background: var(--color-page);
+            min-height: 100vh;
+            padding: 1.5rem 1.5rem 5rem;
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        .page.active {
+            display: block;
+            animation: fadeIn 0.5s ease forwards;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateX(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .page-content {
+            max-width: 680px;
+            margin: 0 auto;
+        }
+
+        /* Cover Page */
+        .cover-page {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 1.5rem 1.5rem 5rem;
+            background: linear-gradient(135deg, var(--color-primary) 0%, #3d2817 100%);
+            color: #fff;
+            min-height: 100vh;
+        }
+
+        .cover-image {
+            max-width: 300px;
+            width: 90%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.5);
+            margin-bottom: 2rem;
+        }
+
+        .cover-title {
+            font-size: clamp(2.5rem, 8vw, 4.5rem);
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+            line-height: 1.1;
+        }
+
+        .cover-subtitle {
+            font-family: var(--font-sans);
+            font-size: clamp(1rem, 2.5vw, 1.2rem);
+            font-weight: 300;
+            opacity: 0.9;
+            max-width: 500px;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+        }
+
+        .start-reading {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--color-accent);
+            color: var(--color-primary);
+            padding: 1rem 2.5rem;
+            border-radius: 50px;
+            text-decoration: none;
+            font-family: var(--font-sans);
+            font-weight: 600;
+            font-size: 1.1rem;
+            box-shadow: 0 5px 20px rgba(212, 165, 116, 0.4);
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .start-reading:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(212, 165, 116, 0.6);
+        }
+
+        /* Chapter Header */
+        .chapter-header {
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 2px solid rgba(212, 165, 116, 0.2);
+        }
+
+        .chapter-number {
+            font-family: var(--font-sans);
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #8b6f47;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            margin-bottom: 0.5rem;
+        }
+
+        .chapter-title {
+            font-size: clamp(1.8rem, 5vw, 2.5rem);
+            font-weight: 600;
+            color: var(--color-primary);
+            line-height: 1.2;
+        }
+
+        .chapter-image {
+            display: block;
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Chapter Content */
+        .chapter-content {
+            font-size: 18px;
+            line-height: 1.8;
+            color: var(--color-text);
+        }
+
+        .chapter-content p {
+            margin-bottom: 1.5rem;
+            text-align: justify;
+        }
+
+        .chapter-content p:first-of-type::first-letter {
+            font-size: 4em;
+            line-height: 0.8;
+            float: left;
+            margin: 0.1em 0.15em 0 0;
+            font-weight: 600;
+            color: #8b6f47;
+        }
+
+        .chapter-content em {
+            font-style: italic;
+            color: var(--color-text-light);
+        }
+
+        .separator {
+            text-align: center;
+            margin: 2.5rem 0;
+            color: var(--color-accent);
+            font-size: 1.5rem;
+            letter-spacing: 1rem;
+        }
+
+        /* Navigation */
+        .nav-controls {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.98);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 -2px 15px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1rem;
+            z-index: 1000;
+            border-top: 1px solid rgba(139, 111, 71, 0.15);
+        }
+
+        .nav-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            background: var(--color-primary);
+            color: #fff;
+            border: none;
+            border-radius: 50px;
+            font-family: var(--font-sans);
+            font-weight: 600;
+            font-size: 0.95rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(44, 24, 16, 0.2);
+        }
+
+        .nav-btn:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(44, 24, 16, 0.3);
+        }
+
+        .nav-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .page-indicator {
+            font-family: var(--font-sans);
+            font-size: 0.9rem;
+            color: var(--color-text-light);
+            min-width: 80px;
+            text-align: center;
+        }
+
+        /* Progress Bar */
+        .progress-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 3px;
+            background: var(--color-accent);
+            transition: width 0.3s ease;
+            z-index: 1001;
+        }
+
+        /* Responsive */
+        @media (min-width: 768px) {
+            .page {
+                padding: 3rem 2rem 6rem;
+            }
+
+            .chapter-content {
+                font-size: 20px;
+                line-height: 1.85;
+            }
+
+            .cover-image {
+                max-width: 350px;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .chapter-content {
+                font-size: 21px;
+            }
+
+            .chapter-content p {
+                text-align: left;
+            }
+        }
+
+        ::selection {
+            background: rgba(212, 165, 116, 0.3);
+            color: var(--color-primary);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="progress-bar" id="progressBar"></div>
+
+    <div class="book-container">
+        <!-- CAPA -->
+        <div class="page active cover-page" id="page0">
+            <img src="C:/Users/Acer/.gemini/antigravity/brain/339d2618-cd0e-4332-8af5-9581a6ff8433/capa_livro_1765372601756.png"
+                alt="Capa" class="cover-image">
+            <h1 class="cover-title">MINHA ESCOLHA</h1>
+            <p class="cover-subtitle">Uma jornada de autodescoberta, coragem e o poder de escolher a si mesma</p>
+            <button class="start-reading" onclick="nextPage()">
+                Começar a Ler →
+            </button>
+        </div>
+
+        <!-- CAPÍTULO 1 -->
+        <div class="page" id="page1">
+            <div class="page-content">
+                <div class="chapter-header">
+                    <div class="chapter-number">Capítulo 1</div>
+                    <h2 class="chapter-title">A Rotina Invisível</h2>
+                </div>
+
+                <img src="C:/Users/Acer/.gemini/antigravity/brain/339d2618-cd0e-4332-8af5-9581a6ff8433/cap1_rotina_invisivel_1765372373250.png"
+                    alt="Rotina Invisível" class="chapter-image">
+
+                <div class="chapter-content">
+                    <p>Você já acordou cansada?</p>
+                    <p>Não do tipo de cansaço de uma noite mal dormida. Mas do tipo que já está lá quando você abre os
+                        olhos, esperando por você como uma conta que nunca foi paga.</p>
+                    <p>Camila conhecia bem esse tipo de cansaço.</p>
+                    <p>O despertador ainda não tinha tocado - faltavam sete minutos - mas ela já estava acordada. O
+                        corpo tinha esse relógio interno irritante que a acordava antes do alarme, como se quisesse dar
+                        tempo para ela <em>sentir</em> o peso de mais um dia antes de precisar começá-lo.</p>
+                    <p>Ao seu lado, Ricardo dormia profundamente. Respiração pesada, quase um ronco. O travesseiro dele
+                        estava torto, o cobertor meio jogado. Camila tinha essa vontade estranha toda manhã: acordá-lo.
+                        Não com carinho. Não com beijo. Mas sacudir e gritar "ACORDA. VOCÊ TAMBÉM TEM FILHOS. VOCÊ
+                        TAMBÉM MORA AQUI."</p>
+                    <p>Mas ela não fazia isso. Nunca fazia.</p>
+                    <p>Em vez disso, ela deslizou para fora da cama com cuidado para não fazer barulho. Não que ele
+                        fosse acordar - Ricardo tinha o sono pesado de quem não carrega nada além do próprio corpo. Mas
+                        Camila tinha desenvolvido esse hábito silencioso de ocupar o mínimo de espaço possível. De não
+                        incomodar. De ser invisível.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>A cozinha estava no silêncio que Camila apreciava e odiava ao mesmo tempo. Silêncio porque era o
+                        único momento do dia em que ninguém precisava dela. Ódio porque ela sabia o que vinha depois: a
+                        avalanche.</p>
+                    <p>Café. Sempre começava pelo café. Água na chaleira. Pó no filtro. Aroma enchendo a cozinha. Esse
+                        era o único ritual que Camila ainda sentia como seu, mesmo sabendo que era para ele, para
+                        Ricardo, que chegaria correndo atrasado reclamando que o café estava fraco ou forte demais.</p>
+                    <p>A vida de Camila era uma lista infinita que nunca era riscada por completo.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Nove e meia da noite. Bia dormia no quarto dela, pijama de princesa, cabelo ainda úmido do banho.
+                        Camila tinha lido três histórias até ela finalmente apagar. Léo estava no quarto dele, mais dez
+                        minutos de leitura antes de dormir.</p>
+                    <p>A cozinha estava limpa. Louça lavada. Bancada organizada. Lancheiras prontas para amanhã.
+                        Uniformes separados. Mochilas na porta.</p>
+                    <p>Ricardo tinha chegado às nove, comido o prato que ela tinha deixado separado, e ido direto para o
+                        sofá.</p>
+                    <p>Camila foi até o banheiro. Fechou a porta. Olhou-se no espelho.</p>
+                    <p>O rosto que a encarava de volta era familiar, mas estranho. Olheiras fundas. Pele cansada. Cabelo
+                        preso no mesmo coque apressado de doze horas atrás. Ela levantou a mão e tocou o próprio rosto,
+                        como se precisasse confirmar que aquela era realmente ela.</p>
+                    <p><em>Quando foi que eu fiquei assim?</em></p>
+                    <p>Quando foi a última vez que ela tinha sorrido de verdade? Não aquele sorriso automático que ela
+                        dava para as crianças, para os colegas de trabalho, para a professora. Mas um sorriso real. De
+                        alegria. De leveza.</p>
+                    <p>Camila não lembrava.</p>
+                    <p>Ela olhou para os próprios olhos no espelho e sentiu algo que não conseguia nomear. Não era
+                        raiva. Não era tristeza. Era maior. Mais profundo. Era como se ela estivesse olhando para uma
+                        pessoa que ela conheceu uma vez, muito tempo atrás, e que tinha sumido sem avisar.</p>
+                    <p><em>Quem é você? Onde está a Camila?</em></p>
+                    <p>Do lado de fora, ela ouviu Ricardo mudar de canal. Ouviu o barulho familiar da TV, do dia
+                        terminando, da rotina que recomeçaria em poucas horas.</p>
+                    <p>E Camila, sozinha no banheiro, olhando para o espelho, não tinha resposta.</p>
+                    <p>Ela só sabia uma coisa: estava cansada.</p>
+                    <p>E o cansaço não era só do corpo. Era da alma.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- CAPÍTULO 2 -->
+        <div class="page" id="page2">
+            <div class="page-content">
+                <div class="chapter-header">
+                    <div class="chapter-number">Capítulo 2</div>
+                    <h2 class="chapter-title">O Aniversário Esqu
+
+                        ecido</h2>
+                </div>
+
+                <div class="chapter-content">
+                    <p>Quinze dias. Camila olhou para o calendário na geladeira e contou de novo. Quinze dias para o
+                        aniversário de Léo.</p>
+                    <p>Oito anos.</p>
+                    <p>O problema não era lembrar. Camila lembrava de tudo. O problema era <em>fazer</em>. E fazer
+                        sozinha. De novo.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Naquela noite, depois do jantar, Camila encontrou Ricardo no sofá. Ela precisava falar sobre a
+                        festa.</p>
+                    <p>— Amor, precisamos conversar sobre o aniversário do Léo.</p>
+                    <p>Ricardo não tirou os olhos do celular. — Hm?</p>
+                    <p>— O aniversário. Do Léo. Daqui a quinze dias.</p>
+                    <p>— Ah, é. — Ele fez scroll na tela. — E aí?</p>
+                    <p>— E aí que a gente precisa organizar, Ricardo. Festa, bolo, essas coisas.</p>
+                    <p>— Ah, sim. Você já decidiu o que vai fazer?</p>
+                    <p><em>Você já decidiu.</em></p>
+                    <p>Não "vamos decidir". Não "o que a gente vai fazer". <em>Você.</em></p>
+                    <p>Ricardo finalmente olhou para ela. — Amor, você sabe que eu não entendo dessas coisas. Você
+                        sempre faz tão bem... Você é ótima nisso.</p>
+                    <p><em>Você é ótima nisso.</em> Como se ser boa em carregar tudo sozinha fosse um elogio.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Os quinze dias passaram como um relâmpago e um século ao mesmo tempo. Camila organizou tudo
+                        sozinha. Decoração, bolo, salgados, convites, presente, tudo.</p>
+                    <p>Dia do aniversário chegou. Sábado. Camila acordou às seis da manhã. A festa começava às três da
+                        tarde.</p>
+                    <p>Ricardo dormia.</p>
+                    <p>Quando finalmente acordou, saiu. Disse que tinha "um negócio" e que voltaria a tempo.</p>
+                    <p>Ele não voltou a tempo.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Quatro horas. Hora do parabéns.</p>
+                    <p>E Ricardo não tinha chegado.</p>
+                    <p>Camila olhou para Léo, que olhava para a porta pela décima vez. Ela viu o exato momento em que o
+                        filho desistiu de esperar. Viu a resignação pequenina nos olhos de uma criança de oito anos.</p>
+                    <p>E algo dentro dela morreu.</p>
+                    <p>— Vamos cantar parabéns, pessoal?</p>
+                    <p>Léo estava na frente do bolo, velas acesas iluminando o rostinho dele. Ele olhou para a mãe.
+                        Procurou o pai. Camila viu o exato momento em que o filho desistiu de esperar.</p>
+                    <p>— Faz um pedido, amor — Camila disse, a voz quase falhando.</p>
+                    <p>Léo fechou os olhos. Soprou as velas.</p>
+                    <p>Todos aplaudiram.</p>
+                    <p>E foi nessa hora que Ricardo abriu a porta.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Ele entrou largo, sorridente, com um embrulho de presente na mão.</p>
+                    <p>— Cheguei! Parabéns, campeão!</p>
+                    <p>Ricardo tinha chegado <em>depois</em> do parabéns. Cheirando a churrasco.</p>
+                    <p>— Consegui chegar, viu? Falei que dava.</p>
+                    <p>Camila olhou para o marido e não disse nada. Porque se abrisse a boca, ia gritar. Então engoliu.
+                        Mais uma vez.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Naquela noite, depois de limpar tudo sozinha, Camila confrontou Ricardo.</p>
+                    <p>— Você perdeu o parabéns.</p>
+                    <p>— Ah, amor, mas eu cheguei, não cheguei? Tá tudo bem.</p>
+                    <p>— Não está tudo bem, Ricardo.</p>
+                    <p>— Camila, eu trabalho. Eu pago as contas. Você acha que é fácil?</p>
+                    <p>— E você acha que organizar festa é fácil? Você sabe quantas coisas eu tive que fazer sozinha
+                        nesses quinze dias?</p>
+                    <p>— Você sempre faz tão bem essas coisas...</p>
+                    <p>E ali. Naquela frase. <em>Você sempre faz tão bem.</em></p>
+                    <p>Como se ser boa em fazer tudo sozinha fosse motivo para continuar fazendo tudo sozinha.</p>
+                    <p>Camila foi para o quarto. Deitou e chorou em silêncio.</p>
+                    <p>Chorou pela festa que organizou sozinha. Pelo filho que esperou o pai. Por ela mesma, que
+                        carregava tudo e ninguém via.</p>
+                    <p>E chorou porque percebeu algo terrível: não era a primeira vez.</p>
+                    <p>E provavelmente não seria a última.</p>
+                    <p>A menos que ela fizesse algo a respeito.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- CAPÍTULO 3 -->
+        <div class="page" id="page3">
+            <div class="page-content">
+                <div class="chapter-header">
+                    <div class="chapter-number">Capítulo 3</div>
+                    <h2 class="chapter-title">A Tentativa da Terapia</h2>
+                </div>
+
+                <img src="C:/Users/Acer/.gemini/antigravity/brain/339d2618-cd0e-4332-8af5-9581a6ff8433/cap3_tentativa_terapia_1765372395861.png"
+                    alt="Tentativa da Terapia" class="chapter-image">
+
+                <div class="chapter-content">
+                    <p>Três dias depois do aniversário de Léo, Camila ainda conseguia sentir o gosto amargo da
+                        frustração na boca.</p>
+                    <p>A cabeça dela estava em outro lugar. No olhar de Léo quando percebeu que o pai não ia chegar a
+                        tempo. Na facilidade com que Ricardo tinha dito <em>"você sempre faz tão bem"</em> como se fosse
+                        elogio.</p>
+                    <p>Camila pegou o celular. Abriu o Google. Hesitou. Depois digitou: <strong>"terapia de casal são
+                            paulo"</strong></p>
+                    <p>Ia sugerir. Ia tentar. Mais uma vez. Porque se ela não tentasse, como poderia justificar
+                        desistir?</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Naquela noite, Camila encontrou Ricardo no sofá.</p>
+                    <p>— Amor, eu queria conversar com você.</p>
+                    <p>— Fala.</p>
+                    <p>— Eu estava pensando... a gente podia fazer terapia de casal.</p>
+                    <p>Silêncio.</p>
+                    <p>— Ricardo, você me ouviu?</p>
+                    <p>— Ouvi. Terapia?</p>
+                    <p>— É. Terapia de casal. Eu pesquisei. Tem profissionais bons...</p>
+                    <p>— Camila. A gente não precisa disso.</p>
+                    <p>— Como não precisa? Ricardo, a gente mal conversa. Você não participa de nada em casa. Eu estou
+                        me sentindo sozinha nesse casamento.</p>
+                    <p>— Você está exagerando. Todo casamento tem problemas. A gente não precisa pagar alguém para ouvir
+                        a gente reclamar.</p>
+                    <p>— Não é reclamar. É tentar melhorar.</p>
+                    <p>— Melhorar o quê, Camila? Eu trabalho, eu pago as contas, eu estou aqui. O que mais você quer?
+                    </p>
+                    <p><em>O que mais você quer.</em></p>
+                    <p>— Eu quero parceria. Eu quero que você divida as coisas comigo. De verdade. Não só
+                        financeiramente. Eu quero que você lembre do aniversário do seu filho. Que você ajude sem eu ter
+                        que pedir. Que você me veja.</p>
+                    <p>Ricardo revirou os olhos. — De novo com isso.</p>
+                    <p>— Você sempre foi melhor nessas coisas. Organização, casa, lembrar de tudo. É o seu jeito.</p>
+                    <p><em>É o seu jeito.</em> Como se carregar tudo sozinha fosse uma característica de personalidade,
+                        e não uma imposição.</p>
+                    <p>Camila sentiu as lágrimas queimando. — Mas não funciona, Ricardo. Para mim não funciona. Eu estou
+                        exausta.</p>
+                    <p>— Então delega — ele disse, simplesmente.</p>
+                    <p>— Delegar para quem? Para você?</p>
+                    <p>— Olha o tom, Camila.</p>
+                    <p>— Que tom? Eu estou sendo honesta.</p>
+                    <p>— Você está sendo agressiva.</p>
+                    <p>E ali estava. A inversão. Ela, exausta de carregar tudo, virando a agressiva.</p>
+                    <p>Ricardo finalmente pareceu levar a sério. — Camila, eu te amo. Você sabe disso. Mas eu não vou
+                        gastar dinheiro com terapeuta para ficar ouvindo que eu sou um marido ruim. Porque eu não sou.
+                        Eu trabalho, eu sustento essa casa, eu amo você e as crianças. Se isso não é suficiente para
+                        você, eu não sei o que é.</p>
+                    <p><em>Se isso não é suficiente para você.</em></p>
+                    <p>Ele transformou o problema dela em defeito dela.</p>
+                    <p>E pior: ele acreditava no que estava dizendo.</p>
+                    <p>Camila se levantou. — Tudo bem. Esquece.</p>
+                    <p>Foi para o quarto. Olhou para os números dos terapeutas que tinha anotado. Depois deletou. Não ia
+                        adiantar ir sozinha. E Ricardo deixou claro: ele não ia.</p>
+
+                    <div class="separator">***</div>
+
+                    <p>Dias depois, no almoço do trabalho, Fernanda entrou na copa.</p>
+                    <p>— Cara de enterro hoje, hein?</p>
+                    <p>— Só cansada.</p>
+                    <p>— Cansada ou cansada-cansada?</p>
+                    <p>— A segunda.</p>
+                    <p>Fernanda sentou. — Senta. Come. Desabafa.</p>
+                    <p>E Camila desabafou tudo. O aniversário. A tentativa de terapia. A rejeição de Ricardo.</p>
+                    <p>Fernanda ouviu. Depois disse:</p>
+                    <p>— Você tentou conversar. Ele não quis ouvir. Agora você sabe que ele não vai mudar. Homem que não
+                        quer entender não entende, Camila. A pergunta é: por quanto tempo mais você aguenta?</p>
+                    <p>— Então o que eu faço?</p>
+                    <p>— Você decide. Você aguenta mais dez, vinte, trinta anos assim? Ou você escolhe você?</p>
+                    <p><em>Você escolhe você.</em></p>
+                    <p>As palavras ficaram suspensas no ar.</p>
+                    <p>E em algum lugar no fundo da exaustão, no meio da dor, uma sementinha pequenininha foi plantada.
+                        A semente da possibilidade de que talvez, só talvez, ela merecesse mais do que estava recebendo.
+                    </p>
+
+                    <div class="separator">***</div>
+
+                    <p>Naquela noite, Ricardo tentou fazer as pazes com flores. Margaridas. Não eram suas favoritas
+                        (eram rosas. Sempre foram rosas. Ele nunca lembrava).</p>
+                    <p>— A gente está bem, né?</p>
+                    <p>Camila sorriu de volta. — Está.</p>
+                    <p>Mentira. Mas Camila ainda não estava pronta para a verdade.</p>
+                    <p>Ainda não.</p>
+                    <p>Mas a semente continuava lá. Quietinha. Esperando para crescer.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation Controls -->
+    <div class="nav-controls">
+        <button class="nav-btn" id="prevBtn" onclick="prevPage()" disabled>
+            ← Anterior
+        </button>
+        <span class="page-indicator" id="pageIndicator">Capa</span>
+        <button class="nav-btn" id="nextBtn" onclick="nextPage()">
+            Próximo →
+        </button>
+    </div>
+
+    <script>
+        let currentPage = 0;
+        const totalPages = 3; // 0=capa, 1-3=capítulos
+
+        const pageNames = ['Capa', 'Cap. 1', 'Cap. 2', 'Cap. 3'];
+
+        function updatePage() {
+            // Hide all pages
+            document.querySelectorAll('.page').forEach(page => {
+                page.classList.remove('active');
+            });
+
+            // Show current page
+            document.getElementById('page' + currentPage).classList.add('active');
+
+            // Update buttons
+            document.getElementById('prevBtn').disabled = currentPage === 0;
+            document.getElementById('nextBtn').disabled = currentPage === totalPages;
+
+            // Update indicator
+            document.getElementById('pageIndicator').textContent = pageNames[currentPage];
+
+            // Update progress bar
+            const progress = (currentPage / totalPages) * 100;
+            document.getElementById('progressBar').style.width = progress + '%';
+
+            // Scroll to top
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function nextPage() {
+            if (currentPage < totalPages) {
+                currentPage++;
+                updatePage();
+            }
+        }
+
+        function prevPage() {
+            if (currentPage > 0) {
+                currentPage--;
+                updatePage();
+            }
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') nextPage();
+            if (e.key === 'ArrowLeft') prevPage();
+        });
+
+        // Touch swipe (mobile)
+        let touchStartX = 0;
+        let touchEndX = 0;
+
+        document.addEventListener('touchstart', e => {
+            touchStartX = e.changedTouches[0].screenX;
+        });
+
+        document.addEventListener('touchend', e => {
+            touchEndX = e.changedTouches[0].screenX;
+            handleSwipe();
+        });
+
+        function handleSwipe() {
+            if (touchEndX < touchStartX - 50) nextPage();
+            if (touchEndX > touchStartX + 50) prevPage();
+        }
+    </script>
+</body>
+
+</html>
