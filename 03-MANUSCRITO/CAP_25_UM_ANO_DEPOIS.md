@@ -1,5 +1,67 @@
 # CAPÍTULO 25
-## O Teste
+## Um Ano Depois: A Nova Paz
+
+Um ano.
+Fazia doze meses que Ricardo tinha saído.
+
+A rotina agora era outra. Não era perfeita, mas era *dela*.
+
+Domingo à noite. O interfone tocou. Ricardo devolvendo as crianças.
+
+Antigamente, esse momento causava taquicardia em Camila. Ela ficava ansiosa para saber se eles comeram, se fizeram lição, se Ricardo tinha falado mal dela.
+
+Hoje?
+Camila estava no sofá, terminando um livro, com uma taça de vinho na mão.
+
+A porta abriu. As crianças entraram feito furacão.
+— Mãe! O pai me deixou jogar GTA a tarde inteira! — gritou Léo.
+— Mãe! A gente comeu McDonald's no almoço e no jantar! — contou Bia.
+
+Camila olhou para Ricardo, parado na porta. Ele parecia cansado. A roupa levemente amarrotada (ninguém passava para ele, lembra?).
+— Tchau, crianças. Tchau, Camila.
+— Tchau, Ricardo. Obrigada.
+
+Ele saiu. A porta fechou.
+
+Camila olhou para os filhos. Sujos de catchup. Agitados de açúcar e tela.
+
+A Camila de um ano atrás teria surtado. Teria gritado com Ricardo. Teria passado horas angustiada sobre como eles estavam sendo "estragados".
+
+A Camila de hoje?
+Ela sorriu.
+
+— Ok, pequenos monstros. O fim de semana do pai foi o fim de semana da bagunça. Agora começa a semana da mãe. A semana da ordem.
+
+— Ahhh não... — reclamou Léo, mas sem convicção.
+— Ah sim. Banho agora. E amanhã tem feijão e salada.
+
+Ela os levou para o banho. Enquanto esfregava as costas da Bia, pensou:
+Ricardo podia ser o pai da diversão fácil. O pai do açúcar e do videogame.
+Mas ela era o porto seguro.
+Ela era quem curava a gripe, quem ajudava na matemática, quem ensinava a comer brócolis e a ter empatia.
+
+E as crianças, na sabedoria infinita delas, sabiam.
+Sabiam que podiam se divertir lá, mas que era *aqui* que a vida acontecia de verdade.
+
+Léo saiu do banho cheirando a sabonete de lavanda. Deitou no colo dela no sofá.
+— Mãe?
+— Oi.
+— O pai é legal. Mas eu gosto de voltar pra casa.
+— É? Por quê?
+— Porque aqui é... calmo. E tem cheiro de você.
+
+Camila beijou a testa dele.
+— É bom ter você de volta, filho.
+
+Ela não precisava competir com o pai.
+Ela não precisava provar nada.
+Ela só precisava ser mãe.
+
+E naquela noite, com a casa em silêncio de novo, as crianças dormindo limpas e seguras, Camila sentiu uma gratidão imensa.
+Pelo divórcio.
+Porque ele tinha permitido que ela construísse esse santuário.
+Um lar onde não havia gritos abafados, nem tensão no ar.
+Apenas paz. E amor. E cheiro de lavanda.
 
 Um mês.
 

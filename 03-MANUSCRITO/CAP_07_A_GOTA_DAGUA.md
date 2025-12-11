@@ -1,316 +1,198 @@
 # CAPÍTULO 7
 ## A Gota D'água
 
-*Você já teve aquele momento? Aquele em que tudo muda em um segundo? Não por causa de algo grande. Mas por algo pequenininho. Insignificante. A gota d'água que transborda o copo que você vinha enchendo há anos.*
+Camila não sabia, mas seu corpo estava contando os dias. O estresse crônico corrói o sistema imunológico silenciosamente, até que uma brecha mínima aparece.
 
-Para Camila, foi uma segunda-feira.
+A brecha apareceu numa terça-feira pós-feriado.
 
-Segunda-feira comum. Fevereiro. Calor infernal de São Paulo. Ar parado. Trânsito impossível. Dia de trabalho tenso com prazo apertado.
+Camila acordou com a sensação de ter engolido arame farpado. Sua cabeça pesava uma tonelada. Cada junta do corpo gritava.
 
-E ela estava com febre.
+Ela abriu os olhos. O teto girou.
 
----
+Tateou a mesa de cabeceira, derrubou o copo d'água, achou o termômetro.
+Colocou embaixo do braço. Esperou, tremendo debaixo do edredom, embora estivesse suando frio.
 
-Camila acordou com a garganta arranhando. Corpo dolorido. Aquela sensação de ossos pesados que vem antes da gripe se instalar de vez. Ela mediu a temperatura: 38,2º.
+*Pi-pi-pi.*
+39,2ºC.
 
-Ótimo.
+— Ai, meu Deus — sussurrou. A voz não saiu. Era só um chiado doloroso.
 
-Ela olhou para o relógio: seis e quinze. Quinze minutos para o alarme tocar.
+Ela olhou para o lado. Ricardo dormia o sono da inocência, boca entreaberta, babando levemente no travesseiro.
 
-Ao lado dela, Ricardo dormia profundamente. Sem febre. Sem dor. Sem nada além do próprio sono tranquilo.
+Eram 06h15.
+Hora da rotina. Café. Lancheiras. Uniformes. Mochilas. Levar pra escola. Ir pro trabalho. Reunião às 09h. Entrega de projeto às 14h.
 
-Camila pensou em acordá-lo. Em dizer "estou doente, você pode ficar com as crianças hoje?" Pensou em ligar no trabalho e dizer que estava passando mal. Pensou em, pela primeira vez em anos, se colocar em primeiro lugar.
+Camila tentou sentar. O mundo inclinou violentamente para a esquerda. A náusea subiu. Ela caiu de volta no travesseiro.
 
-Mas então pensou na reunião importante das dez. No relatório que só ela sabia fazer. Em quem ia levar as crianças na escola. Em quem ia buscá-las.
+*Não consigo*, pensou, em pânico. *Eu literalmente não consigo levantar.*
 
-E levantou.
+Ela estendeu a mão e sacudiu o ombro de Ricardo.
 
-Porque era o que ela sempre fez.
+— Ricardo...
 
----
+Ele resmungou, puxou o cobertor.
 
-O dia foi um borrão de dor.
+— Ricardo, acorda. Por favor.
 
-Camila fez café com as mãos tremendo de febre. Preparou lancheiras estendocega. Acordou Léo e Bia com a voz rouca. Colocou uniforme, pegou mochilas, levou para a escola - tudo no automático, tudo doendo.
+Ele abriu um olho. Vermelho de sono.
+— Que foi? Que horas são?
 
-No trabalho, tomou três dipironas. Fez a reunião. Entregou o relatório. Ignorou os comentários de "você não está com uma cara boa" porque se parasse para admitir que não estava bem, ia desmoronar.
+— Seis e quinze. Eu tô mal. Tô com febre alta. Trinta e nove.
 
-Cinco horas. Buscou as crianças. Bia percebeu imediatamente.
+— Hã? — Ele parecia não processar.
 
-— Mãe, você tá quentinha.
+— Tô doente. Não consigo levantar. Você precisa cuidar das crianças hoje. Levar pra escola.
 
-— Um pouquinho, amor. Mas tá tudo bem.
+Ricardo esfregou o rosto. Suspirou longo e alto.
+— Puta que pariu, Camila. Hoje? Eu tenho reunião cedo.
 
-Não estava.
+A primeira frase.
+Não foi "Você tá bem?". Não foi "Vou pegar um remédio".
+Foi "Eu tenho reunião".
 
-Em casa, Camila fez o jantar sentindo o chão balançar. Serviu as crianças. Deu banho (Bia reclamando, Léo preocupado). Colocou para dormir.
+Uma lágrima quente de febre e raiva escorreu pelo rosto de Camila.
 
-E então, finalmente, se arrastou para o sofá.
+— Eu também tenho reunião, Ricardo. Mas eu tô com quase quarenta graus de febre. Eu não consigo ficar em pé.
 
-Ricardo estava lá, como sempre. Assistindo algo no celular.
+— Tá, tá. — Ele sentou na cama, irritado. Jogou as cobertas longe. — Que inferno. Todo dia uma coisa. Onde tá o uniforme do Léo?
 
-Camila deitou no outro canto do sofá. Tremendo de frio mesmo com calor.
+— Na cadeira...
 
-— Amor — ela disse, a voz mal saindo. — Eu tô muito mal. Acho que tô com gripe forte.
+Ele levantou batendo pé. Batendo porta de armário. Fazendo questão de mostrar que estava sendo martirizado.
 
-Ricardo olhou brevemente.
+Camila ficou na cama, ouvindo o caos se desenrolar lá fora.
+Ricardo gritando: *"Léo, cadê seu tênis? Bia, come logo esse cereal! Eu tô com pressa!"*
+Bia chorando: *"Eu quero a mamãe!"*
+Ricardo respondendo: *"A mamãe tá dormindo! Para de chorar e veste logo!"*
 
-— Toma um dipirona.
+*Dormindo.* Ele disse que ela estava dormindo. Não doente. Dormindo. Como se fosse um luxo.
 
-— Já tomei três.
+Vinte minutos depois, Léo abriu a porta do quarto.
+Ele já estava de uniforme, mochila nas costas, tênis desamarrado.
 
-— Então toma mais água. Se hidratar Camila fechou os olhos. Tentou de novo.
+Ele caminhou até a cama na ponta dos pés. O rostinho dele estava assustado.
 
-— Você pode... lavar a louça? Eu não tô conseguindo levantar.
+— Mãe? — sussurrou.
 
-Ricardo suspirou. Aquele suspiro de quem está sendo incomodado.
+Camila abriu os olhos com esforço.
 
-— Amor, eu acabei de chegar. To cansado.
+— Oi, meu amor.
 
-Camila abriu os olhos. Olhou para ele.
+— Você tá muito doente? O pai disse que você tá com preguiça.
 
-— Eu também tô cansada. E doente.
+O coração de Camila parou por um segundo.
+*Preguiça.*
 
-— Depois eu lavo. Deixa eu dar uma relaxada primeiro.
+— O pai... disse isso?
 
-Ela esperou. Dez minutos. Vinte. Meia hora.
+— Disse. Disse que você não quis levantar e sobrou pra ele. — Léo encostou a mãozinha fria na testa dela. — Nossa, mãe! Você tá pegando fogo! Igual o Tocha Humana!
 
-Ele não levantou.
+— É febre, filho. A mamãe tá dodói. Mas vai passar.
 
-Estava ali, confortavelmente recostado, rolando feed do Instagram enquanto a esposa dele tremia de febre a um metro de distância.
+— Eu não queria ir pra escola. Queria cuidar de você. Eu sei fazer compressa fria, a vovó ensinou.
 
-Camila levantou. Devagar. Tonta. Foi até a cozinha.
+Camila sentiu as lágrimas jorrarem. Seu filho de oito anos tinha mais empatia no dedo mindinho do que o marido tinha no corpo inteiro.
 
-A pia estava cheia. Pratos do café da manhã. Do almoço (ela tinha deixado algo pronto para Ricardo esquentar). Do jantar. Panelas. Copos. Tudo sujo, empilhado, esperando.
+— Vai pra escola, meu anjo. O papai leva. A mamãe vai ficar bem.
 
-Esperando por ela.
+— Certeza?
 
-Sempre esperando por ela.
+— Certeza. Te amo.
 
-Camila olhou para aquela louça. Para aqueles pratos. E algo dentro dela simplesmente... quebrou.
+Léo beijou a bochecha dela (ignorando o calor febril) e saiu.
 
-Ela não chorou. Não gritou. Não teve collapse dramático.
+Camila ouviu a porta da sala bater. O silêncio desceu sobre a casa.
+Mas não trouxe paz.
 
-Apenas ficou ali, parada, olhando para a pia, e percebeu com uma clareza cristalina:
+Ela levantou.
+Apoiando-se nas paredes, arrastando os pés, tonta de febre, ela foi até a cozinha.
 
-*Eu estou me afogando. E ninguém liga.*
+Precisava beber água. Precisava tomar um remédio.
 
-Se ela desmaiasse ali, naquele momento, Ricardo provavelmente levantaria. Eventualmente. Depois de terminar de rolar o feed. Depois de ver só mais um vídeo.
+A cozinha estava um cenário de guerra.
+Leite derramado no balcão.
+Pote de cereal aberto, sem tampa.
+Casca de banana no chão.
+A louça da noite anterior ainda na pia (ele não lavou). A louça do café empilhada em cima.
 
-Mas ela não estava literalmente morrendo. Estava apenas doente. Apenas exausta. Apenas implorando por um mínimo de cuidado.
+Ricardo tinha feito o "favor" de levar as crianças, mas tinha deixado o caos para trás. Para a "preguiçosa" limpar quando levantasse.
 
-E isso não era suficiente para ele se mexer.
+Camila olhou para aquela cozinha.
+Olhou para a poça de leite pingando no chão limpo.
 
-Camila largou a esponja.
+E foi ali.
+A gota d'água não foi a febre.
+Não foi o "preguiça".
+Não foi o grito.
 
-Não lavou a louça.
+Foi o leite.
+Aquele fiozinho branco pingando do balcão para o chão.
+*Plic. Plic. Plic.*
 
-Pela primeira vez em onze anos de casamento, ela largou a esponja e foi para o quarto.
+Ricardo sabia que ela odiava sujeira. Ricardo sabia que ela estava doente. E ele deixou o leite derramar e não passou um pano. Um gesto de dois segundos.
 
-Deitou na cama. Tapou até a cabeça. E deixou estar.
+Ele não limpou porque sabia que *ela* limparia.
+Mesmo com febre. Mesmo morrendo. Ele sabia que ela não deixaria sujo.
 
----
+Ele contava com a exploração dela. Ele bancava a exaustão dela.
 
-Na manhã seguinte, Camila continuava pior.
+Camila sentiu uma raiva tão branca, tão pura, tão quente, que superou a febre.
+A tontura passou.
+A dor no corpo foi anestesiada pela adrenalina do ódio.
 
-A febre tinha subido - 39º. Ela mal conseguia abrir os olhos. Cada músculo doía.
-
-O despertador tocou.
-
-Ela desligou.
-
-E ficou deitada.
-
-Esperando.
-
-Esperando para ver quanto tempo levaria até Ricardo perceber que ela não tinha levantado. Que as crianças precisavam ir para a escola. Que alguém precisava fazer café, lancheira, a rotina toda.
-
-Cinco minutos.
-
-Dez.
-
-Quinze.
-
-Ela ouviu Léo acordando sozinho. Ouviu a porta do quarto dele abrindo. Passos pequenos até a cozinha.
-
-— Mãe? — a voz dele, confusa. — Mãe, cadê você?
-
-Camila tentou responder, mas a voz não saiu. Garganta travada de inflamação.
-
-Léo veio até o quarto. Abriu a porta devagar.
+Ela pegou o celular.
+Ligou para a mãe.
 
 — Mãe?
+— Oi, filha. Tá com voz estranha.
+— Mãe, tô com febre. Mas não é isso. Você pode buscar as crianças na escola hoje e ficar com elas pra dormir?
+— Posso, claro. Mas o que houve?
+— Eu vou sair de casa.
 
-Camila se virou. Olhou para o filho.
+Silêncio do outro lado.
 
-— Tô doente, amor — ela conseguiu sussurrar.
+— Hoje?
+— Agora.
+— Doente desse jeito?
+— Mãe, se eu ficar aqui mais um dia, esperando ele voltar e perguntar "o que tem pro jantar?"... eu acho que eu mato ele. Ou morro eu.
 
-— Você não vai levantar?
+Dona Sônia entendeu. Mães entendem.
 
-— Não consigo.
+— Vai, filha. Pega um táxi. Vem pra cá. A cama do quarto de hóspedes tá limpa. Eu faço uma canja.
 
-Léo olhou para ela. Oito anos. E naqueles olhos, Camila viu preocupação de criança mas também algo mais velho. Mais pesado. A maturidade forçada de quem já sabia que a mãe carregava tudo.
+Camila desligou.
 
-— Eu acordo o pai — Léo disse.
+Ela não fez as malas. Não tinha força.
+Pegou apenas o essencial. Documentos. Notebook. Carregador. Uma muda de roupa jogada na mochila. Escova de dente.
 
-E saiu.
+Ela olhou para o apartamento.
+Para o sofá onde Ricardo passava a vida.
+Para a cozinha suja de leite.
 
-Camila ouviu a porta do filho batendo de leve. Ouviu passinhos até o lado da cama onde Ricardo dormia. Ouviu a vozinha:
+Ela pegou um papel de caderno do Léo e uma caneta.
+Escreveu um bilhete.
+Não um texto longo. Não uma explicação. Ela já tinha explicado mil vezes.
 
-— Pai. Pai, acorda. A mãe tá doente.
+Escreveu apenas três palavras.
+Deixou em cima da poça de leite seco no balcão.
 
-Ricardo resmungou algo.
+Saiu.
+Bateu a porta.
+Entrou no elevador tremendo, suando, febril.
 
-— Pai, sério. Ela não consegue levantar.
+O porteiro perguntou:
+— Dona Camila? A senhora tá bem? Tá pálida.
 
-— Tá bom, Léo. Deixa eu dormir mais um pouco.
+Ela olhou para ele. Sorriu. Um sorriso fraco, de doente, mas genuíno.
+— Tô não, Seu José. Mas vou ficar. Pela primeira vez em muito tempo, eu vou ficar.
 
-Silêncio.
+Entrou no Uber.
+Encostou a cabeça no vidro frio.
+Fechou os olhos.
 
-Camila virou a cabeça no travesseiro. Olhou.
+A febre queimava. Mas por dentro, onde importava, o incêndio tinha finalmente parado.
 
-Ricardo tinha simplesmente... virado para o outro lado e voltado a dormir.
-
-O filho dele tinha vindo dizer que a esposa dele estava doente. E ele tinha escolhido dormir mais.
-
-Léo voltou para o quarto dela.
-
-— Mãe, o pai não quer acordar.
-
-E aquilo.
-
-Aquilo ali.
-
-Um menino de oito anos tendo que lidar sozinho com mãe doente e pai que não queria acordar.
-
-Aquilo foi a gota d'água.
-
-Não foi a louça.
-
-Não foi a febre.
-
-Foi ver o filho dela - *o filho deles* - tendo que ser adulto porque o pai se recusava a ser.
-
----
-
-Camila não sabe como, mas levantou.
-
-Flutuando em febre e força de vontade pura, ela levantou. Tropeçou até o banheiro. Jogou água no rosto. Tomou dois dipironas e um ibuprofeno (provavelmente não deveria misturar, mas tanto faz).
-
-Foi até a cozinha.
-
-A louça de ontem ainda estava lá. Intocada.
-
-Ricardo não tinha lavado.
-
-Óbvio.
-
-Camila não lavou também. Pegou pratos limpos do armário. Fez café. Cereal para os as crianças. Termômetro ainda marcando 39º.
-
-Léo e Bia comeram em silêncio. Preocupados. Percebendo que algo estava errado além da mãe estar doente.
-
-Sete e meia.
-
-Ricardo finalmente levantou.
-
-Entrou na cozinha bocejando, esticando os braços, completamente alheio.
-
-— Bom dia. Tem café?
-
-Camila olhou para ele.
-
-Realmente olhou.
-
-E viu um estranho. Um completo, absoluto estranho.
-
-— Tá na mesa — ela disse, voz rouca.
-
-Ricardo se serviu. Tomou um gole. Fez cara de nojo.
-
-— Tá fraco demais hoje.
-
-*Tá fraco.*
-
-Ela tinha 39 de febre. Tinha levantado apesar de mal conseguir ficar em pé. Tinha feito café, cereal, tinha acordado as crianças. E o café estava fraco.
-
-Camila colocou a caneca na mesa. Devagar. Controlado.
-
-— Ricardo.
-
-— Hm?
-
-— Eu quero o divórcio.
-
-Silêncio.
-
-Léo parou de comer. Bia olhou de um para o outro, confusa.
-
-Ricardo piscou.
-
-— O quê?
-
-— Eu quero me separar. Quero o divórcio. Acabou.
-
-— Camila, você tá com febre. Tá delirando.
-
-— Não estou. Eu nunca estive tão lúcida na minha vida. — Ela olhou para ele com uma calma assustadora. — Eu não aguento mais. Não aguento carregar tudo sozinha. Não aguento ser invisível. E principalmente não aguento ver meu filho de oito anos tendo que ser adulto porque você não quer ser.
-
-— Do que você tá falando?
-
-— Você deixou o Léo lidar sozinho comigo doente esta manhã porque você queria dormir mais. Você viu a louça ontem e não moveu um dedo. Você me vê me afogando todo dia e não faz nada. E eu cansei.
-
-Ricardo olhou para as crianças. Depois para Camila. Tentou rir.
-
-— Você está exagerando. Como sempre.
-
-— Não estou. E sabe como eu sei? Porque eu já tentei de tudo. Tentei conversar. Tentei pedir ajuda. Tentei terapia. Tentei fazer jantar especial. Tentei gritar. Tentei chorar. E nada funcionou. Porque você não quer mudar. E eu não vou mais esperar que você queira.
-
-— Camila, para com isso. Está assustando as crianças.
-
-Ela olhou para Léo e Bia. Léo estava pálido. Bia tinha lágrimas nos olhos.
-
-E Camila soube: deveria parar. Deveria esperar. Deveria ter essa conversa em particular.
-
-Mas ela estava tão cansada de esperar.
-
-Tão cansada de engolir.
-
-Tão cansada de proteger todo mundo menos a si mesma.
-
-— Nós vamos conversar direito depois — ela disse para as crianças, a voz mais gentil. — Mas a mamãe precisa que vocês saibam que não foi nada que vocês fizeram. Tá bom?
-
-Léo assentiu. Bia choramingou um "tá".
-
-Camila voltou a atenção para Ricardo.
-
-— Você pode levá-los para a escola hoje? Eu preciso ir ao médico.
-
-Ricardo ainda estava processando. Ou fingindo processar.
-
-— Você não está falando sério.
-
-— Estou. Completamente. — Ela foi até a porta, pegou a bolsa. — Eu vou ao médico. Você leva as crianças. E quando eu voltar, a gente conversa sobre como vai ser daqui para frente. Mas a decisão já está tomada.
-
-— Camila!
-
-Ela parou na porta.
-
-— Eu passei anos pedindo para você me ver. Agora você não precisa mais fingir. Eu estou saindo.
-
-E saiu.
-
-Literalmente com 39º de febre, tremendo, tonta, mas saiu.
-
-Porque se ela ficasse mais um segundo, ia desmoronar.
-
-E ela já tinha desmoronado o suficiente.
-
-Agora era hora de se reconstruir.
-
-Nem que fosse do zero.
-
+Ela tinha se salvado.
 Sozinha.
-
 Como sempre.
-
-Só que dessa vez, por escolha.
+Mas agora, para sempre.

@@ -1,6 +1,96 @@
 # CAPÍTULO 14
 ## A Nova Rotina
 
+A casa tem uma maneira cruel de lembrar a mulher divorciada de que ela está sozinha.
+
+Não são os grandes vazios. São as pequenas manutenções.
+
+Uma semana depois da mudança de Ricardo, a torneira da pia da cozinha começou a pingar. *Plic. Plic. Plic.* O som do inferno.
+
+Em outra vida (a vida de casada), Camila teria dito: "Ricardo, a pia tá pingando". Ele teria resmungado, enrolado três dias, e finalmente consertado (ou chamado alguém). Mas era problema "dele" resolver.
+
+Agora, era dela.
+
+Camila olhou para a torneira.
+Olhou para a caixa de ferramentas que Ricardo tinha deixado para trás (provavelmente porque comprou uma nova e melhor para a vida nova).
+
+— Eu dou conta — disse em voz alta para a cozinha vazia.
+
+Abriu o Youtube. *"Como consertar torneira pingando fácil".*
+Vídeo de 5 minutos. Parecia simples. Desligar o registro. Desenroscar não sei o quê. Trocar a "borrachinha".
+
+Camila foi à loja de ferragens. O vendedor olhou para ela com aquele ar de "querida, você sabe o que está fazendo?".
+— Eu quero uma vedação de borracha para torneira Deca — disse ela, firme, lendo o papelzinho.
+Ele vendeu. Custou dois reais.
+
+Voltou para casa. Desligou o registro (teve que brigar com o registro emperrado, usando um pano pra não machucar a mão, xingando três gerações da família do fabricante).
+
+Desenroscou a torneira. Saiu água suja. Molhou a blusa dela.
+— Merda.
+
+Mas ela continuou. Trocou a borrachinha. Enroscou de volta.
+Ligou o registro.
+
+A torneira explodiu.
+
+Não explodiu tipo bomba. Mas espirrou água para todo lado. No teto. Nos armários. Na cara dela inteira.
+
+— CARALHO! — gritou ela, correndo para fechar o registro, escorregando na poça.
+
+Fechou. O silêncio voltou. A cozinha estava alagada. Ela estava encharcada. O cabelo (recém-cortado) grudado na testa.
+
+Camila sentou no chão molhado.
+
+E a vontade de chorar veio. Forte. Avassaladora.
+*Eu não consigo. Eu sou uma fraude. Eu preciso de um homem. Eu preciso de ajuda.*
+
+Ela pegou o celular para ligar para o Ricardo. O dedo pairou sobre o nome dele.
+Seria tão fácil. "Ricardo, socorro, fiz merda na cozinha". Ele viria. Consertaria. E olharia para ela com aquele olhar de superioridade condescendente: *"Viu? Você não consegue sem mim."*
+
+Camila olhou para o telefone.
+Olhou para a torneira assassina.
+
+E, com uma raiva fria, largou o celular no balcão.
+
+— Nem fodendo — sussurrou.
+
+Levantou. Secou o rosto na manga molhada.
+Abriu o vídeo de novo. Assistiu com atenção. Onde ela tinha errado? Ah. Apertou demais a rosca, espanou a vedação. Tinha que ser com jeito, não com força.
+
+Abriu a caixa de ferramentas de novo. Pegou outra borrachinha (tinha comprado duas, por garantia).
+
+Respirou fundo.
+Mãos trêmulas.
+Fez tudo de novo. Devagar. Com cuidado. Sem força bruta.
+
+Enroscou. Ligou o registro. Com medo.
+
+A água fluiu. Normal. Sem explosão.
+Fechou a torneira.
+A água parou.
+Sem pingo.
+
+Camila ficou olhando para a torneira.
+
+Abriu. Água.
+Fechou. Seco.
+
+Ela começou a rir. Uma risada histérica, sozinha na cozinha molhada.
+
+— Eu consertei — disse ela. — Eu consertei essa merda.
+
+Não era sobre a torneira. Nunca é sobre a torneira.
+Era sobre saber que ela podia sobreviver ao caos. Que ela podia se molhar, errar, fazer bagunça, e depois limpar e consertar. Sozinha.
+
+Ela limpou a cozinha. Secou o chão. Tomou um banho quente.
+
+E naquela noite, quando foi beber água na cozinha antes de dormir, olhou para a torneira com um carinho inédito.
+Ela não precisava de um homem para estancar os vazamentos da sua vida.
+Ela só precisava dela mesma, de um vídeo no Youtube e de teimosia.
+
+Muita teimosia.
+E isso, Camila tinha de sobra.
+
 Dois meses após Ricardo sair de casa, Camila finalmente pegou o ritmo.
 
 Não foi fácil. Não foi rápido. Mas aconteceu.

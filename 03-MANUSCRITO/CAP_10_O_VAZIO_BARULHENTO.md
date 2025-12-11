@@ -1,6 +1,94 @@
 # CAPÍTULO 10
 ## O Vazio Barulhento
 
+A primeira noite sem Ricardo em casa não foi silenciosa.
+
+Foi barulhenta.
+
+Mas não era barulho de som. Era barulho de *falta*.
+
+A geladeira zumbia mais alto. O elevador parecia um trovão. O vento na janela da área de serviço soava como um lamento.
+
+Ricardo tinha saído à tarde, com duas malas grandes e uma cara de vítima que faria um ator de novela mexicana corar. Ele não se despediu dela. Só deu um beijo rápido nas crianças, prometeu mundos e fundos ("Papai vai levar vocês na Disney", "Papai vai comprar o videogame novo", "Papai vai ser o cara mais legal do mundo"), e saiu batendo a porta.
+
+Agora eram dez da noite.
+
+As crianças dormiam. Exaustas de chorar, de perguntar, de tentar entender a nova geografia da família.
+
+Camila estava na sala.
+Sentada no sofá.
+No "lugar dela".
+Olhou para o "lugar dele". O canto esquerdo do sofá em L, onde o estofado já tinha o formato da bunda dele de tanto ficar ali.
+
+Estava vazio.
+
+Não tinha ninguém rolando o feed do Instagram. Ninguém reclamando do governo. Ninguém pedindo cerveja. Ninguém ignorando ela.
+
+Só o vazio.
+
+Camila levantou e foi até a cozinha. Abriu a geladeira.
+Lá estavam as cervejas dele. A marca artesanal cara que ele gostava e que custava o triplo da normal.
+
+Ela pegou uma garrafa. Olhou.
+Sentiu uma vontade súbita de jogar a garrafa na parede. De ver vidro e líquido dourado explodindo naquele chão de porcelanato branco que ela limpava com tanto cuidado.
+
+Mas não jogou. Porque quem teria que limpar depois seria ela.
+Sempre ela.
+
+Guardou a garrafa. Fechou a porta.
+
+Foi para o quarto.
+
+A cama parecia um oceano. King Size. Lençóis brancos.
+Ela deitou no seu lado.
+Estendeu a mão para o lado dele.
+Frio.
+Liso.
+Vazio.
+
+Por um momento, o pânico subiu pela garganta. *O que eu fiz? Meu Deus, o que eu fiz? Destruí minha família. Afastei o pai dos meus filhos. Vou morrer sozinha.*
+
+O medo era físico. Um aperto no peito que simulava um infarto.
+
+Ela correu para o banheiro. Ligou o chuveiro na temperatura máxima. Entrou de roupa e tudo no box. (Nem percebeu que estava de pijama de flanela).
+
+Sentou no chão, abraçou os joelhos, e deixou a água quente bater nas costas.
+
+Chorou.
+Berrou.
+Uivou.
+
+O som do choro se misturava com o barulho da água. Ali, no chão do box, molhada e miserável, ela deixou sair tudo. O medo. A culpa (ah, a maldita culpa materna). A raiva. A saudade do que nunca teve.
+
+Ficou ali até a água começar a esfriar.
+
+Levantou. Tirou a roupa molhada pesada. O pijama grudava na pele como uma segunda pele de tristeza.
+Secou-se. Vestiu uma camiseta velha.
+
+Voltou para o quarto.
+Deitou na cama de novo.
+
+E então, aconteceu.
+
+No meio do silêncio, ela ouviu sua própria respiração.
+*Inspira. Expira.*
+Calma. Rítmica.
+
+Não havia ronco.
+Não havia a tensão de esperar ele chegar bêbado.
+Não havia a ansiedade de saber se ele estava bravo ou não.
+
+Havia apenas ela.
+
+Camila esticou as pernas. Ocupou o centro da cama. Abriu os braços, fazendo um anjo de neve imaginário no lençol.
+
+O vazio era barulhento, sim. Gritava solidão.
+Mas, pela primeira vez em anos, o barulho era *dela*.
+
+E ela podia lidar com o próprio barulho. O que ela não aguentava mais era o barulho dele silenciando a música dela.
+
+Adormeceu atravessada na cama, ocupando todo o espaço que, por direito, sempre deveria ter sido seu.
+
 Ricardo saiu de casa numa quinta-feira.
 
 Não foi dram

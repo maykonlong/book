@@ -1,6 +1,149 @@
 # CAPÍTULO 8
 ## Eu Quero me Separar
 
+O pronto-socorro estava com aquele cheiro específico de éter e desinfetante barato que embrulha o estômago de quem já não está bem.
+
+Camila estava sentada em uma cadeira de plástico azul, dura, segurando sua bolsa contra o peito como se fosse um escudo.
+
+A médica, Dra. Helena, tinha sido clara. *"Você tem uma virose forte, mas o seu corpo está gritando exaustão, minha filha. Se você não parar, ele vai te parar. De novo."*
+
+Camila saiu do consultório com uma receita de antibiótico e outra de ansiolítico leve.
+
+Ela olhou para o papel branco na mão.
+Não era o corpo que precisava parar.
+Era a vida que ela levava que precisava parar.
+
+Ela pegou o celular. Vinte ligações perdidas de Ricardo. Dez mensagens.
+
+*"Onde você está?"*
+*"Para com essa loucura."*
+*"Você não pode sair assim."*
+*"As crianças estão perguntando."*
+
+Ela não respondeu. Chamou um Uber.
+Não para a casa da mãe.
+Para a sua casa.
+
+Ela precisava terminar o que começou. O bilhete na poça de leite não era suficiente. Ela devia isso a si mesma: encarar o monstro de frente e dizer que não tinha mais medo dele.
+
+---
+
+Quando ela entrou no apartamento, eram duas da tarde. O silêncio era absoluto. As crianças deviam estar na escola (se Ricardo teve a decência de levá-las).
+
+Ricardo estava na sala.
+Sentado no sofá.
+Sem celular na mão, pela primeira vez na história recente.
+
+Ele levantou quando a viu.
+
+— Você voltou. — Ele parecia aliviado e irritado ao mesmo tempo. — Meu Deus, Camila. Que susto. Você não pode simplesmente sumir!
+
+— Eu não sumi. Deixei um bilhete.
+
+— "Eu vou embora"? Isso é bilhete? Isso é terrorismo, Camila! Terrorismo psicológico!
+
+Ele estava gritando. Tentando retomar o controle pelo volume da voz.
+
+Camila colocou a bolsa no balcão da cozinha (que agora estava limpo, alguém tinha passado um pano na poça de leite).
+
+Ela estava calma.
+Era uma calma assustadora. A calma de quem já sobreviveu ao naufrágio e agora só olha o mar de longe.
+
+— Ricardo, senta.
+
+— Não vou sentar! Você tem que me explicar que palhaçada foi essa! Sair doente, deixar as crianças... a minha mãe teve que vir buscar eles!
+
+— Senta. — A voz dela não se alterou uma oitava. Foi um comando baixo, firme.
+
+Ricardo parou. Olhou para ela. Viu algo nos olhos da esposa que nunca tinha visto antes. Não era tristeza. Não era súplica. Era ferro.
+
+Ele sentou.
+
+Camila ficou em pé.
+
+— Eu não voltei para ficar. Eu voltei para pegar mais roupas e para conversar com as crianças quando elas chegarem.
+
+— Como assim "não voltei pra ficar"? Do que você tá falando?
+
+— Eu quero o divórcio, Ricardo.
+
+Ele soltou uma risada curta, nervosa. Um "hã-hã" de descrença.
+
+— Divórcio. Tá. Corta essa, Camila. Você tá doente. Tá com febre. Tá estressada do trabalho. Tira uns dias de folga, vai pra um spa, sei lá. Mas para com esse drama de divórcio.
+
+— Não é drama. E não é de hoje. Faz anos, Ricardo. Anos que eu tento. Anos que eu peço. Anos que eu me sinto sozinha do seu lado. Acabou. A minha cota acabou.
+
+Ele levantou, gesticulando.
+
+— Acabou o quê? O amor? Você não me ama mais, é isso? Tem outro?
+
+Sempre a busca pelo culpado externo.
+
+— Não tem outro. E o amor... — Camila pensou. — O amor morreu de fome, Ricardo. Morreu de sede. Eu te amei muito. Amei por dois durante muito tempo. Mas cansei de amar sozinha.
+
+— Amar sozinha... que papo de novela! Eu tô aqui! Eu sou fiel! Eu pago as contas! Eu sou um bom pai!
+
+— Ser pai não é só brincar no fim de semana. Ser marido não é só pagar boleto. Você é um hóspede na sua própria vida, Ricardo. Você assiste a gente viver. Você não participa.
+
+— Ah, lá vem. O discurso da "carga mental". Você leu isso na internet, né? Essas feministas colocando caraminhola na sua cabeça.
+
+Camila sentiu uma pontada de raiva, mas deixou passar. Não valia a pena. Ele não ia entender.
+
+— Pense o que quiser. A culpa é da internet, da minha mãe, da febre. Não importa. O fato é: eu não quero mais. Eu quero acordar de manhã e não ter que cuidar de um terceiro filho de 35 anos.
+
+Ricardo ficou vermelho.
+
+— Você vai jogar onze anos no lixo? Onze anos, Camila! Uma família! Por causa de... de cansaço?
+
+— Não. Eu vou salvar o resto da minha vida *do* lixo. Porque se eu ficar aqui mais um ano, eu vou sumir. Eu vou evaporar. E eu não quero sumir.
+
+Ricardo mudou a tática. O tom de voz baixou. Virou vítima.
+
+— E as crianças? Você pensou nelas? Vai destruir a cabeça do Léo. Da Bia. Você quer que eles cresçam em lar desfeito?
+
+Era o golpe baixo. O que ele sabia que doeria mais.
+
+Camila respirou fundo. Segurou as lágrimas.
+
+— Lar desfeito é aquele onde a mãe chora escondida no banheiro e o pai não sabe nem o nome da professora do filho. Meus filhos merecem uma mãe feliz. E eu não sou feliz aqui.
+
+Ricardo olhou para ela. Viu que a manipulação não funcionou. Viu que a culpa não colou.
+
+O rosto dele endureceu.
+
+— Eu não vou sair daqui. O apartamento é meu.
+
+— É nosso. Mas tudo bem. Eu vou para a minha mãe. A gente resolve o apartamento na justiça.
+
+— Eu não vou te dar um centavo, Camila. Se você sair por essa porta, esquece.
+
+— Eu trabalho, Ricardo. Eu tenho meu salário. Eu não preciso do seu dinheiro para sobreviver. Eu preciso da minha paz.
+
+Ele ficou mudo.
+Pela primeira vez, ele percebeu que não tinha com o que ameaçá-la. Ele não podia tirar o dinheiro (ela trabalhava). Não podia tirar o amor (ela estava exausta). Não podia tirar a casa (era lei).
+
+Camila foi até o quarto. Pegou uma mala grande. Começou a jogar roupas dentro.
+
+Ricardo ficou na porta, olhando.
+
+— Você vai se arrepender — disse ele. — Você vai ver como é difícil lá fora. Mulher divorciada com dois filhos. Ninguém vai te querer.
+
+Camila parou. Olhou para ele. Sorriu.
+
+— Ricardo, você acha mesmo que eu estou procurando alguém para me "querer"? A minha maior fantasia agora é dormir oito horas seguidas e não ter que lavar a cueca de ninguém.
+
+Ela fechou a mala. Passou por ele.
+
+— Vou esperar as crianças na sala. Vamos contar juntos.
+
+— Eu não vou contar nada. — Ele virou as costas. — A ideia é sua, o problema é seu. Eu não vou participar dessa palhaçada.
+
+— Ótimo — disse Camila. — Melhor assim. Menos mentira para eles ouvirem.
+
+E foi para a sala esperar.
+
+---
+
 O pronto-socorro estava lotado.
 
 Camila sentou em uma cadeira de plástico duro, pegou a senha, e esperou. Ao redor, o caos familiar de um PS brasileiro: criança chorando, alguém tossindo, televisão ligada em programa matinal que ninguém assistia.

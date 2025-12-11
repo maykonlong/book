@@ -1,264 +1,183 @@
 # CAPÍTULO 6
 ## A Última Tentativa
 
-Camila decidiu fazer uma última tentativa.
+Apesar da conversa com Fernanda — e da suculenta no lixo —, a inércia de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
 
-Não porque acreditava que ia funcionar. Mas porque precisava olhar para si mesma no espelho daqui a dez, vinte anos e dizer: "Eu tentei tudo." Precisava dessa absolvição. Dessa certeza de que não foi por falta de esforço.
+Camila teve uma recaída de esperança.
 
-Então ela planejou.
+Ou talvez não esperança. Talvez fosse apenas a necessidade desesperada de *ter certeza absoluta*. De poder dizer ao juiz, aos filhos, a Deus e a si mesma: "Eu tentei até a última gota."
 
-Uma conversa. Honesta, completa, sem rodeios. Ia falar tudo. Tudo mesmo. Ia colocar na mesa cada dor, cada frustração, cada tentativa ignorada. E ia dar a Ricardo uma escolha clara: mudamos juntos ou eu mudo sozinha.
+Faltava uma semana para o Carnaval. Ricardo sugeriu, casualmente:
+— A gente podia viajar, né? Aquele hotel fazenda em Atibaia que as crianças gostam.
 
-Era tudo ou nada.
+Camila surpreendeu-se. Ele sugerindo algo?
+— Você quer ir?
+— É, tô precisando relaxar. E as crianças cansam menos lá com os monitores.
 
-E no fundo do coração ela já sabia qual seria a resposta.
+*Cansam menos.* O objetivo não era estar com a família. Era terceirizar as crianças para monitores em um cenário diferente. Mas Camila agarrou a sugestão como uma boia.
 
-Mas precisava tentar.
+— Vamos. Vou reservar.
 
----
+— Vê se consegue desconto, tá? Fevereiro é caro.
 
-Sexta-feira à noite.
+Ela reservou. Ela fez as malas (as quatro malas). Ela revisou o carro. Ela comprou os snacks para a estrada.
 
-Camila preparou o terreno com cuidado. Pediu para a mãe ficar com as crianças (Dona Sônia fez mil perguntas, Camila inventou que era um jantar de trabalho). Chegou em casa antes de Ricardo. Fez um jantar simples - nada romântico dessa vez, só funcional. Ensaiou mentalmente o que ia dizer.
+Sexta-feira de saída.
 
-Quando Ricardo chegou, ela estava na sala esperando.
+O dia estava abafado, aquele calor pré-chuva que deixa todos irritados. Ricardo chegou do trabalho atrasado.
+— Putz, trânsito tá um inferno. Já tá tudo pronto?
+— Tudo pronto. As malas estão no carro. As crianças já fizeram xixi. Só falta você tomar banho.
 
-— Oi. — Ele pareceu surpreso. — Cadê as crianças?
+Ele tomou banho. Demorou vinte minutos. Camila esperava na porta, suando, segurando Bia no colo que choramingava de sono.
 
-— Na minha mãe. Eu preciso conversar com você.
+Finalmente saíram.
 
-Algo no tom dela o fez parar. Ele largou a mochila.
+A viagem deveria durar uma hora e meia. Durou quatro.
 
-— Aconteceu alguma coisa?
+O trânsito na Fernão Dias estava parado. Um mar de luzes vermelhas de freio até onde a vista alcançava.
 
-— Senta.
+Nos primeiros trinta minutos, Ricardo reclamou do Waze.
+Nos trinta seguintes, reclamou do governo que não arrumava as estradas.
+Depois, começou a reclamar dos outros motoristas.
 
-Ricardo sentou no sofá. Camila sentou na poltrona de frente. Não ao lado. Distância. Clareza. Seriedade.
+— Olha esse idiota! Cortando pela direita! É por isso que esse país não vai pra frente.
+— Ricardo, calma. As crianças estão ouvindo.
+— Calma o cacete, Camila. Olha isso! A gente não anda!
 
-Ela respirou fundo.
+O carro era uma panela de pressão. Léo, no banco de trás, perguntou:
+— Pai, falta muito?
+— Falta, Leonardo! Falta muito! Se a gente andasse seria mais rápido!
 
-— Ricardo, nosso casamento está quebrado.
+O grito assustou o menino. Léo encolheu-se. Camila sentiu a raiva borbulhar.
 
-Ele fez aquela cara. A cara de "lá vem ela de novo".
+— Não grita com ele, Ricardo. Ele só perguntou.
 
-— Camila, não começa...
+— Ah, pronto. Agora a mãe protetora. Eu tô aqui dirigindo nesse inferno, com a perna doendo de tanto pisar na embreagem, e não posso nem desabafar?
 
-— Não. — Ela levantou a mão. — Você vai me ouvir. Até o final. Sem interromper. Sem minimizar. Sem fazer eu me sentir louca. Você me deve isso.
+— Desabafa comigo, não com seu filho de oito anos.
 
-Ele fechou a boca. Cruzou os braços. Postura defensiva.
+— Você é chata, hein? Puta merda.
 
-Mas ficou quieto.
+Ele ligou o rádio. Aumentou o volume. Um rock pesado que ele gostava e Camila detestava.
+Ele sabia que ela detestava.
+Ele sabia que dava dor de cabeça nela.
 
-E Camila começou a falar.
+— Pode baixar um pouco?
+— O carro é meu, eu tô dirigindo. Preciso de música pra não dormir.
 
-Falou sobre a solidão. Sobre acordar todo dia para uma rotina que só ela mantinha. Sobre ser invisível na própria casa. Sobre pedir ajuda e ouvir que estava exagerando.
+Camila olhou para fora. A chuva começou a cair. Grossa. Pesada.
+O limpador de para-brisa fazia um barulho rítmico. *Vraaa. Vraaa.*
 
-Falou sobre o aniversário de Léo. Sobre as tentativas de reconexão que foram sabotadas. Sobre a terapia rejeitada. Sobre carregar sozinha não só as tarefas, mas a *carga mental* de absolutamente tudo.
+Ela olhou para o perfil do marido. A mandíbula travada, a testa franzida.
+Ela tentou imaginar um momento feliz. Tentou lembrar da lua de mel. Das primeiras viagens.
+Mas só conseguia sentir o cheiro de cigarro que vinha da roupa dele (ele tinha voltado a fumar "socialmente", escondido, mas o cheiro impregnava o estofado).
 
-Falou sobre listas que ninguém via. Sobre lembrar aniversários, compromissos, vacinas, reuniões escolares, contas, mercado, tudo, enquanto ele só lembrava das próprias coisas.
+Chegaram ao hotel às onze da noite.
 
-Falou sobre chorar sozinha. Sobre olhar no espelho e não se reconhecer. Sobre ter medo de acordar daqui a vinte anos e perceber que desperdiçou a vida inteira sendo a mulher invisível que faz tudo mas não é vista.
+As crianças dormiam, tortas nas cadeirinhas.
+Ricardo estacionou na vaga. Desligou o motor.
 
-Quando terminou, tinha lágrimas no rosto. Mas a voz estava firme.
+— Chegamos. Graças a Deus. Que inferno de viagem.
 
-— Eu te amo, Ricardo. Ou pelo menos eu amei. Mas amor sem parceria não é suficiente. Amor sem ação é só palavra. E eu estou cansada de palavras vazias.
+Ele abriu a porta e saiu, alongando as costas.
+Camila saiu também. O ar da serra era fresco, cheirava a mato molhado.
 
-Silêncio.
+Ricardo foi até o porta-malas. Tirou a mala dele.
+— Vou fazer o check-in e pegar a chave. Tô morrendo de fome, ver se tem algo aberto ainda.
 
-Ricardo olhou para ela. Processando. Ou pelo menos ela esperava que estivesse processando.
+E começou a andar em direção à recepção.
 
-Finalmente, ele falou:
+Camila ficou parada ao lado do carro.
+Olhou para as duas crianças dormindo no banco de trás. Olhou para as outras três malas pesadas no porta-malas. Olhou para as mochilas de mão.
 
-— Então o que você quer que eu faça?
+— Ricardo? — ela chamou.
 
-A pergunta deveria dar esperança. Mas não deu. Porque não foi "o que *a gente* pode fazer". Foi "o que *você quer que eu faça*".
+Ele parou, virou-se, impaciente.
+— O que foi?
 
-Como se fosse tarefa. Check-list. Mais uma coisa para Camila gerenciar.
+— Você vai entrar?
+— Vou, ué. Fazer o check-in.
+— E as malas? E as crianças?
 
-Mas ela tentou. Deus, ela tentou.
+Ele olhou para o carro como se fosse um problema de matemática complexo.
 
-— Eu quero que você seja parceiro. De verdade. Que você divida a carga mental comigo. Que você lembre das coisas sem eu ter que pedir. Que você *veja* quando eu estou me afogando e ofereça ajuda sem eu precisar implorar.
+— Ué, acorda eles. Traz as coisas leves. Eu mando o mensageiro buscar as malas depois.
 
-— Mas eu não sei fazer essas coisas tão bem quanto você...
+E virou as costas.
+Continuou andando.
 
-— Porque você nunca tentou! — A voz dela subiu. — Você nunca tentou porque era mais fácil deixar eu fazer. Mas eu não aguento mais fazer tudo sozinha.
+Camila ficou ali, na chuva fina que caía.
+Sozinha.
+Com duas crianças adormecidas pesadas para carregar.
+Com mochilas.
+Com a responsabilidade.
 
-— Eu trabalho, Camila. Eu sustento essa casa.
+Ela não gritou. Não discutiu.
+Abriu a porta de trás. Desafivelou o cinto de Bia. Pegou a menina no colo — ela estava pesada, quatro anos de peso morto adormecido.
+Sacudiu Léo.
+— Filho, acorda. Chegamos. Pega sua mochila.
 
-— E eu também trabalho! E também sustento! E ainda faço tudo o resto!
+Caminharam até a recepção. Camila carregando Bia, a própria bolsa, a mochila de Bia. Léo arrastando a mochila dele, sonolento.
 
-Ele revirou os olhos.
+Na recepção, Ricardo já estava com uma taça de vinho na mão (vinho de boas-vindas), rindo de alguma coisa com a recepcionista bonita.
 
-E foi ali.
+— Ah, chegaram! — disse ele, sorridente, como se não os tivesse abandonado no estacionamento há cinco minutos. — Amor, o jantar já fechou, mas eles têm sanduíche. Pedi um misto pra mim. Quer o quê?
 
-Naquele revirar de olhos.
+Camila ajeitou Bia no colo. Seus braços tremiam de esforço.
 
-Naquele gesto pequenininho que dizia "lá vem o exagero de novo".
+— Eu não quero nada — disse ela. — Só a chave do quarto.
 
-Foi ali que algo dentro de Camila morreu definitivamente.
+— Nossa, que mau humor. A viagem cansou, né?
 
-Porque ela tinha colocado tudo na mesa. Tinha sido vulnerável. Tinha explicado com palavras claras, simples, honestas.
+Camila pegou a chave do balcão. Não olhou para ele.
+Subiu para o quarto com as crianças.
 
-E mesmo assim, ele não ouviu.
+Deu banho neles (meio dormindo). Colocou pijamas. Colocou na cama.
+Ricardo chegou meia hora depois, cheirando a mostarda e vinho.
 
-Não porque não entendeu. Mas porque não quis entender.
+— O quarto é bom, hein? — Ele se jogou na cama king size. — E amanhã tem feijoada.
 
-— Sabe de uma coisa? — Camila se levantou. — Esquece.
+Ele ligou a TV.
 
-— Camila, senta. Vamos conversar direito.
+Camila estava em pé, perto da janela, olhando para a escuridão da mata lá fora.
 
-— A gente acabou de conversar. Eu falei. Você ouviu. E você não entendeu. Ou pior: você entendeu e não liga.
+— Ricardo.
 
-— Você está sendo dramática de novo.
+— Hm?
 
-*Dramática.*
+— Você me deixou sozinha no estacionamento com as crianças e as malas.
 
-Ali estava a palavra de novo. O curinga dele. A forma de invalidar qualquer sentimento dela que fosse inconveniente.
+— Ai, Camila, lá vem. Eu vim pegar a chave! Mandei o mensageiro lá, não mandei? As malas já estão aqui. Qual o problema?
 
-— Não, Ricardo. Eu estou sendo realista. E a realidade é: você não vai mudar. Você não *quer* mudar. Porque para você está confortável assim. Você tem uma esposa que faz tudo, cuida de tudo, lembra de tudo. E você só precisa aparecer, sentar no sofá e reclamar que o café está forte.
+— O problema é que a sua primeira reação não é "como eu ajudo minha família". A sua primeira reação é "como eu resolvo o meu lado". Você pegou sua mala e saiu. Você nem olhou pra trás.
 
-— Agora você está sendo ridícula.
+— Eu tava cansado! Dirigi quatro horas!
 
-— Estou sendo honesta.
+— Eu também tô cansada, Ricardo!
 
-Camila pegou a bolsa. Foi até a porta.
+— Mas você veio sentada lendo revista! Eu vim pisando na embreagem!
 
-— Aonde você vai?
+Camila calou-se.
+Não valia a pena.
+A lógica dele era blindada pelo egoísmo. O cansaço dele era sênior. O dela, estagiário.
 
-— Buscar as crianças. Pensar. Decidir.
+Ela deitou na beirada da cama, o mais longe possível dele.
+Ele tentou colocar a mão na perna dela.
+— Vamos aproveitar? Estamos no hotel...
 
-— Decidir o quê?
+Camila tirou a mão dele. Seca.
+— Não.
 
-Ela parou. Virou. Olhou para o marido - aquele homem que ela tinha amado, casado, construído uma vida.
+— Pfff. Tá bom. Boa noite então, iceberg.
 
-E viu um estranho.
+Ele virou e dormiu.
+Em três minutos, roncava.
 
-— Decidir se eu quero passar o resto da minha vida assim.
+Camila ficou acordada, ouvindo os grilos lá fora e o ronco dele aqui dentro.
+O som da solidão não é o silêncio.
+O som da solidão é o ronco de alguém que dorme ao seu lado mas vive em outro planeta.
 
-E saiu.
-
----
-
-No carro, Camila segurou o volante com força. Respirou. Uma vez. Duas. Dez.
-
-Ela tinha tentado. Realmente tentado. Colocado tudo na mesa. Sido clara, vulnerável, honesta.
-
-E não tinha funcionado.
-
-Porque não era sobre comunicação. Nunca foi.
-
-Era sobre ele não querer mudar. E você não pode forçar alguém a querer.
-
-Camila ligou o carro e dirigiu até a casa da mãe.
-
-No caminho, uma clareza estranha a invadiu. Não era paz. Não ainda. Mas era... decisão.
-
-Ela sabia o que precisava fazer.
-
-Sabia e, pela primeira vez, não estava mais com medo de fazer.
-
----
-
-Na casa de Dona Sônia, as crianças estavam assistindo desenho. A mãe dela estava na cozinha fazendo chá.
-
-— Já voltou? O jantar foi rápido.
-
-— Foi.
-
-Dona Sônia olhou para a filha. Realmente olhou. E viu algo que a fez parar.
-
-— Camila, o que aconteceu?
-
-Camila sentou na mesa da cozinha. A mesma mesa onde tinha sentado quando era criança. Adolescente. Adulta. A vida inteira voltando para aquela cozinha.
-
-— Mãe, eu preciso te contar uma coisa.
-
-Dona Sônia sentou. Preocupada.
-
-— Fala, filha.
-
-E Camila falou.
-
-Não tudo. Mas o suficiente. Sobre o casamento. Sobre a solidão. Sobre tentar e falhar.
-
-Sobre estar considerando o divórcio.
-
-Dona Sônia ficou em silêncio. Camila esperava julgamento. Esperava "pensa nas crianças", "casamento é para sempre", "você tem que aguentar".
-
-Mas Dona Sônia apenas perguntou:
-
-— Você está infeliz?
-
-Camila não esperava essa pergunta. Lágrimas vieram.
-
-— Muito.
-
-— Há quanto tempo?
-
-— Eu não sei. Anos, talvez.
-
-Dona Sônia suspirou. Pegou a mão da filha.
-
-— Sabe, quando eu casei, a gente aprendeu que mulher aguenta. Que casamento é sacrifício. Que felicidade era luxo. — Ela olhou para Camila nos olhos. — Mas eu não quero isso para você. Eu quero que você seja feliz. De verdade.
-
-Camila não conseguiu segurar. Chorou. E a mãe abraçou.
-
-— Você tem certeza? — Dona Sônia perguntou, delicadamente.
-
-Camila pensou. Realmente pensou.
-
-E respondeu:
-
-— Tenho.
-
-— Então você tem meu apoio.
-
-E naquele momento, naquela cozinha, nos braços da mãe, Camila percebeu:
-
-Ela não estava sozinha.
-
-Não completamente.
-
-Tinha Fernanda. Tinha a mãe. Tinha a si mesma.
-
-E talvez, só talvez, isso fosse suficiente.
-
----
-
-Naquela noite, de volta em casa, Ricardo estava no quarto.
-
-Camila entrou. Ele virou.
-
-— Você já se acalmou?
-
-*Você já se acalmou.*
-
-Como se o problema fosse ela estar "alterada", não a validade do que ela sentiu.
-
-Camila olhou para ele. E decidiu.
-
-Não agora. Não hoje. Mas logo.
-
-Muito logo.
-
-Ela ia fazer o que precisava fazer.
-
-Ia escolher ela.
-
-Pela primeira vez em onze anos, ia colocar a si mesma em primeiro lugar.
-
-E se isso significava terminar o casamento?
-
-Então que terminasse.
-
-Porque ela merecia mais.
-
-Merecia parceria. Merecia ser vista. Merecia não se afogar.
-
-E se Ricardo não ia dar isso, ela ia buscar sozinha.
-
-Mesmo que isso significasse realmente ficar sozinha.
-
-Porque sozinha de verdade era melhor do que sozinha acompanhada.
-
-Sempre foi.
+Aquela foi a última tentativa.
+O hotel era lindo.
+A feijoada devia ser ótima.
+Mas o casamento tinha ficado em algum lugar na Fernão Dias, abandonado no acostamento, debaixo de chuva.

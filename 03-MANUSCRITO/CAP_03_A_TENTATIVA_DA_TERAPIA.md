@@ -1,300 +1,200 @@
 # CAPÍTULO 3
 ## A Tentativa da Terapia
 
-Três dias depois do aniversário de Léo, Camila ainda conseguia sentir o gosto amargo da frustração na boca.
+Três dias depois do aniversário de Léo, o gosto amargo da decepção ainda não tinha saído da boca de Camila. Era como se ela tivesse mordido uma fruta podre e o sabor persistisse, contaminando tudo o que ela comia, bebia ou falava.
 
-Ela estava na mesa da cozinha, laptop aberto, fingindo trabalhar em um relatório que tinha prazo para o fim da semana. Mas as palavras na tela embaçavam. Ela lia a mesma linha três, quatro vezes, sem processar nada.
+Quarta-feira à noite.
 
-A cabeça dela estava em outro lugar.
+A casa estava finalmente quieta. As crianças dormiam. A máquina de lavar louça zumbia monotonamente na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
 
-No olhar de Léo quando percebeu que o pai não ia chegar a tempo. Na facilidade com que Ricardo tinha dito *"você sempre faz tão bem"* como se fosse elogio. Na forma como ela tinha chorado sozinha no quarto enquanto o marido assistia TV.
+Ela estava no banheiro, encarando seu reflexo no espelho iluminado pela luz branca e impiedosa.
 
-*Talvez você, leitora, já tenha chorado assim. Daquele jeito silencioso, com medo de fazer barulho. Com medo de ser um incômodo até na própria dor.*
+Havia ensaiado aquela conversa no chuveiro. Tinha ensaiado no trânsito. Tinha ensaiado enquanto dobrava as roupas íntimas de Ricardo.
 
-Camila pegou o celular. Abriu o Google. Hesitou. Depois digitou:
+*"Nós precisamos conversar."* (Muito clichê).
+*"Eu não estou feliz."* (Muito agressivo, ele ficaria na defensiva).
+*"Acho que precisamos de ajuda."* (Melhor. Soava colaborativo).
 
-**"terapia de casal são paulo"**
+Camila respirou fundo. Soltou o ar devagar. Passou um creme nas mãos só para ter o que fazer com elas caso começasse a tremer.
 
-A tela encheu de resultados. Clínicas. Psicólogos especializados. Depoimentos. Preços (ai, os preços). Ela clicou em alguns links. Leu sobre como a terapia de casal poderia ajudar na comunicação, nos conflitos, no resgate da parceria.
+Dirigiu-se à sala.
 
-*Parceria.*
+Ricardo estava lá, no seu habitat natural: o canto esquerdo do sofá retrátil, pernas esticadas, controle remoto na mão direita, celular na esquerda. A TV exibia um noticiário qualquer no mudo.
 
-Essa palavra de novo.
+— Amor? — chamou ela.
 
-Camila se perguntou quando foi a última vez que ela e Ricardo tinham sido parceiros de verdade. Namorados, sim. No começo. Quando ele a fazia rir. Quando planejavam o futuro juntos. Quando ele realmente a *escutava*.
+— Fala — respondeu ele, olhos fixos na tela do celular. Estava vendo um vídeo de cachorros engraçados. Camila ouviu os latidos fininhos saindo do aparelho.
 
-Mas parceiros? Companheiros de vida, dividindo peso, responsabilidade, decisões?
+Ela sentou-se na outra ponta do sofá. Manteve uma distância segura.
 
-Ela não lembrava.
+— Você pode largar o celular um minuto? Por favor.
 
-Talvez nunca tivessem sido.
+O tom de voz dela deve ter sido diferente, porque Ricardo parou. Bloqueou a tela (mas manteve o dedo no gatilho) e olhou para ela.
 
-Ela anotou o telefone de três terapeutas. Depois guardou o celular e respirou fundo. Ia sugerir. Ia tentar. Mais uma vez.
+— O que foi? Aconteceu alguma coisa com as crianças?
 
-Porque se ela não tentasse, como poderia justificar desistir?
+Sempre as crianças. Como se fosse a única catástrofe possível. O casamento desmoronando não contava como emergência.
+
+— Não. É com a gente.
+
+Ele suspirou. Não foi um suspiro alto, teatral. Foi sutil. Uma exalação curta pelo nariz e um leve revirar de olhos imperceptível para leigos, mas gritante para uma esposa de oito anos. *Lá vem ela.*
+
+— Tá. Pode falar.
+
+— Ricardo, eu andei pensando muito esses dias. Desde a festa do Léo. E antes também.
+
+— Ah, não. Vai voltar no assunto da festa? Eu já pedi desculpa, Camila. Eu cheguei, não cheguei? Trouxe presente e tudo.
+
+— Não é só sobre a festa. A festa foi só... o sintoma. — Ela usou a palavra que tinha lido em um blog de psicologia hoje cedo.
+
+— Sintoma? — Ele riu, nervoso. — Agora você virou médica?
+
+— Ricardo, escuta. — Ela se inclinou para frente. — A gente não está bem. Nós não conversamos mais. Nós apenas... coexistimos. Eu gerencio a casa e as crianças, você trabalha e paga as contas, e a gente se encontra no corredor. Eu me sinto sozinha. E eu acho que você também deve sentir falta de como a gente era antes.
+
+Ele a encarava com uma expressão indecifrável. Tédio? Medo? Fome?
+
+— Eu acho... — ela continuou, a coragem vacilando — que a gente deveria tentar terapia de casal.
+
+O silêncio que se seguiu foi pesado, denso. O zumbido da máquina de lavar louça parecia ensurdecedor.
+
+Ricardo piscou. Depois soltou uma risada curta, seca.
+
+— Terapia? Você tá falando sério?
+
+— Estou. Muito sério. Eu pesquisei alguns profissionais aqui no bairro. Tem uma psicóloga ótima que foca em casais com filhos pequenos, em resgatar a parceria...
+
+— Parceria... — Ele repetiu a palavra como se fosse um termo estrangeiro exótico. — Camila, olha pra mim. Eu tenho cara de quem vai sentar numa poltrona bege pra falar da minha infância pra uma desconhecida?
+
+— Não é sobre infância, Ricardo. É sobre nós. Sobre comunicação. Sobre dividir a carga.
+
+Ele se endireitou no sofá, a postura defensiva armada.
+
+— Que carga, Camila? Pelo amor de Deus. Nós temos uma vida boa. Apartamento próprio, dois carros, crianças saudáveis em escola particular. Você reclama de barriga cheia. Tem mulher por aí que o marido bebe, bate, torra o dinheiro no jogo. Eu sou um cara família.
+
+A "Barra do Mínimo" apareceu novamente.
+
+— Eu sei que você é um cara família. Mas eu não quero só um marido que não bate. Eu quero um companheiro. Alguém que esteja *comigo*. Ricardo, eu estou exausta. Eu sinto que carrego o mundo nas costas e você está assistindo da arquibancada.
+
+— Ah, pronto. O drama da "mulher guerreira". Camila, eu trabalho dez horas por dia! Você acha que eu fico coçando no escritório? Eu carrego o peso financeiro dessa família.
+
+— E eu carrego todo o resto! — A voz dela subiu. — O emocional, o doméstico, o logístico! Quem marca médico? Quem sabe o tamanho do sapato das crianças? Quem lembra de comprar presente pra sua mãe? Quem organiza as férias? Quem?
+
+Ricardo levantou as mãos, como quem se rende a uma insanidade.
+
+— Tá bom, tá bom. Você faz tudo. Você é a mártir. Entendi. E você acha que pagar trezentos reais por hora pra uma mulher ouvir isso vai mudar o quê?
+
+— Vai mudar que talvez você me escute lá! Porque aqui você não escuta!
+
+— Eu não preciso de terapia, Camila. Se você está infeliz, se você está estressada, vai você. Faz sua terapia, faz ioga, toma um remédio. Resolve o *seu* problema. Não tenta inventar problema onde não tem.
+
+*Resolve o seu problema.*
+
+Camila sentiu como se tivesse levado um tapa físico.
+
+Ela olhou para o homem com quem dividia a cama há quase uma década. Viu a recusa absoluta nos olhos dele. Ele não via "nós". Ele via "ela". O problema era ela. A insatisfação era dela. O trabalho era dela.
+
+— Então é isso? — perguntou ela, a voz fina. — Você não vai?
+
+— Não. Não vou gastar dinheiro e tempo com essa bobagem. Nosso casamento está ótimo pra mim. Se está ruim pra você, é você que tem que se consertar.
+
+Ele desbloqueou o celular. O vídeo dos cachorros voltou a rodar.
+
+A conversa estava encerrada.
+Simples assim.
+Ele decretou o fim da tentativa de salvamento.
+
+Camila levantou-se. Suas pernas tremiam. Ela queria gritar, quebrar a TV, arrancar aquele celular da mão dele.
+
+Mas a exaustão foi maior que a fúria.
+
+Ela foi para o quarto. Deitou-se na cama feita. Olhou para o teto de gesso, para a mancha de infiltração que Ricardo prometeu consertar há seis meses e nunca consertou.
+
+*Nosso casamento está ótimo pra mim.*
+
+Claro que estava. Ele tinha uma cozinheira, governanta, babá, secretária executiva e organizadora de eventos pessoal. Tudo de graça. E ainda tinha sexo quando ela não estava morta de cansaço. Por que ele mudaria algo nesse arranjo perfeito?
+
+Camila chorou. Um choro silencioso, quente, que queimava as têmporas.
+
+E naquela noite, uma certeza gelada começou a se formar no peito dela, mais fria que o ar condicionado:
+*Eu estou sozinha.*
+*E nada do que eu fizer vai mudar quem ele é.*
 
 ---
 
-Naquela noite, depois que as crianças dormiram, Camila encontrou Ricardo de novo no sofá. Posição padrão: recostado, celular na mão, TV ligada em algum programa que ele não estava realmente assistindo.
+No dia seguinte, a rotina foi um refúgio e uma tortura.
 
-Ela sentou ao lado dele. O coração batia rápido. Não deveria ser tão difícil ter essa conversa com o próprio marido. Mas era. Sempre era.
+Camila funcionou no piloto automático. Sorriu para os filhos, dirigiu, trabalhou.
 
-— Amor, eu queria conversar com você.
+Mas seus olhos estavam inchados.
 
-Ricardo não tirou os olhos do celular.
+Na copa do escritório, enquanto esperava o café da máquina — aquele café horrível de cápsula genérica —, Fernanda entrou.
 
-— Fala.
+Fernanda era a redatora sênior. Uma mulher de 38 anos, divorciada, com um corte de cabelo assimétrico e uma habilidade assustadora de ler pessoas.
 
-Camila respirou. Organizou as palavras na cabeça. Tentou soar calma, razoável, não-acusatória.
+— Bom dia... ixi. — Fernanda parou na porta, analisando Camila. — Passou um caminhão por cima de você?
 
-— Eu estava pensando... a gente podia fazer terapia de casal.
+Camila tentou sorrir, mas o lábio tremeu.
 
-Silêncio.
+— Um caminhão chamado Ricardo.
 
-Ricardo continuou rolando a tela do celular. Como se ela tivesse comentado sobre o tempo, não sobre salvar o casamento deles.
+Fernanda fechou a porta da copa. Caminhou até a máquina, tirou um café e encostou no balcão, ao lado de Camila.
 
-— Ricardo, você me ouviu?
+— Quer falar ou quer um abraço?
 
-— Ouvi. — Ele finalmente olhou para ela, mas era aquele olhar de enfado. — Terapia?
+— Acho que se você me abraçar eu desmorono e sujo sua camisa de rímel.
 
-— É. Terapia de casal. Eu pesquisei. Tem profissionais bons, que trabalham com comunicação, com...
+— Rímel sai com água. Mágoa é que é foda de tirar. Fala.
 
-— Camila. — Ele a interrompeu. — A gente não precisa disso.
+E Camila falou. Vomitou tudo. A festa. O "você é boa nisso". A conversa da noite anterior. A recusa da terapia. O "resolve o seu problema".
 
-— Como não precisa? Ricardo, a gente mal conversa. Você não participa de nada em casa. Eu estou me sentindo sozinha nesse casamento.
+Fernanda ouviu em silêncio, bebendo seu café, os olhos inteligentes fixos em Camila.
 
-Ele suspirou. Aquele suspiro cansado de quem estava sendo incomodado.
+Quando o desabafo acabou, Fernanda suspirou.
 
-— Você está exagerando. Todo casamento tem problemas. A gente não precisa pagar alguém para ouvir a gente reclamar.
+— Cá, eu vou te falar uma coisa dura. Posso?
 
-— Não é reclamar. É tentar melhorar.
+— Pode. Nada pode ser pior do que ouvir que o problema sou eu.
 
-— Melhorar o quê, Camila? Eu trabalho, eu pago as contas, eu estou aqui. O que mais você quer?
+— O problema não é você. O problema é que o Ricardo está confortável.
 
-*O que mais você quer.*
+— Confortável?
 
-Camila sentiu a pergunta como um tapa. Porque a resposta era tão óbvia, tão gritante, que o fato dele não saber já era a resposta.
+— É o "Conforto do Rei Pelado". Ele está nu, exposto, sendo um marido medíocre, mas como você está vestindo ele com todo o seu esforço, cobrindo as falhas dele, fazendo tudo funcionar... ele se sente vestido de veludo. Ele não sente frio, Camila. Quem sente frio é você.
 
-— Eu quero parceria. Eu quero que você divida as coisas comigo. De verdade. Não só financeiramente. Eu quero que você lembre do aniversário do seu filho. Que você ajude sem eu ter que pedir. Que você me veja.
+Fernanda colocou a xícara na pia.
 
-Ricardo revirou os olhos.
+— Homem confortável não muda. Por que ele mudaria? O jantar aparece na mesa. Os filhos aparecem limpos. A agenda social acontece. A casa brilha. O custo pra ele ser assim é zero. O custo é todo seu.
 
-— De novo com isso.
+Camila olhou para o fundo da sua xícara vazia.
 
-— Com o quê?
+— Então o que eu faço? Paro de fazer as coisas? A casa cai. As crianças sofrem.
 
-— Com essa história de que eu não ajudo. Camila, eu trabalho o dia inteiro. Chego em casa cansado. Você não pode esperar que eu fique gerenciando tudo igual você.
+— Não sei o que você faz. — Fernanda tocou o ombro dela. — Mas sei que terapia de casal só funciona quando os dois querem salvar a relação. Se um acha que está tudo bem e o outro está sangrando... isso não é casamento. É parasitismo.
 
-— Eu também trabalho o dia inteiro, Ricardo!
+*Parasitismo.*
 
-— Sim, mas você sempre foi melhor nessas coisas. Organização, casa, lembrar de tudo. É o seu jeito. Por que a gente precisa mudar algo que funciona?
+A palavra ecoou na cabeça de Camila o resto do dia.
 
-*É o seu jeito.*
+Ela voltou para casa à noite. Viu Ricardo no sofá. Viu a mancha no teto. Viu a louça na pia.
 
-Como se carregar tudo sozinha fosse uma característica de personalidade, e não uma imposição.
+Ele sorriu para ela quando ela entrou.
 
-Como se ela tivesse *nascido* para isso, e não tivesse sido *forçada* a isso porque ninguém mais fazia.
+— E aí, amor? Passou a neura de ontem?
 
-Camila sentiu as lágrimas queimando, mas segurou. Não ia chorar. Ainda não.
+Camila olhou para ele. Para o hospedeiro saudável sugando a vida dela.
 
-— Mas não funciona, Ricardo. Para mim não funciona. Eu estou exausta. Estou cansada de ser a única a lembrar de tudo, a fazer tudo, a carregar tudo.
+— Passou — mentiu ela.
 
-— Então delega — ele disse, simplesmente. Como se fosse fácil. Como se o problema fosse ela não saber "delegar".
+Mas não tinha passado. Tinha mudado. A tristeza tinha coagulado e virado algo mais duro. Algo que começava a parecer, perigosamente, com indiferença.
 
-— Delegar para quem? Para você? Você mal lembra de levar a própria mochila de trabalho pela manhã.
+— Que bom. Pedi pizza, tá? De preguiça hoje.
 
-Ele fez cara feia.
+Ele pediu pizza. Sentiu-se o herói da noite.
 
-— Olha o tom, Camila.
+Camila foi para o quarto tirar os sapatos. Olhou para o espelho.
 
-— Que tom? Eu estou sendo honesta.
+— Você escolhe você — sussurrou Fernanda em sua memória.
 
-— Você está sendo agressiva.
+*Ainda não*, pensou Camila. *Ainda não tenho coragem.*
 
-E ali estava. A inversão. Ela, exausta de carregar tudo, tentando comunicar, virando a agressiva. Ela, pedindo ajuda, virando a exigente. Ela, tentando salvar o casamento, virando o problema.
-
-— Eu não estou sendo agressiva. Eu só quero que você entenda que eu preciso de ajuda. E que terapia poderia nos ajudar a nos comunicar melhor.
-
-Ricardo colocou o celular de lado. Finalmente. Olhou para ela com aquele olhar de seriedade falsa que ele usava quando queria parecer que estava Levando A Sério™ mas na verdade só queria encerrar a conversa.
-
-— Camila, eu te amo. Você sabe disso. Mas eu não vou gastar dinheiro com terapeuta para ficar ouvindo que eu sou um marido ruim. Porque eu não sou. Eu trabalho, eu sustento essa casa, eu amo você e as crianças. Se isso não é suficiente para você, eu não sei o que é.
-
-*Se isso não é suficiente para você.*
-
-Ele transformou o problema dela em defeito dela.
-
-E pior: ele acreditava no que estava dizendo. Camila via nos olhos dele. Ricardo genuinamente achava que trabalhar e "amar" era suficiente. Que presença física era o mesmo que presença emocional. Que pagar as contas cancelava a necessidade de parceria.
-
-Ele não entendia.
-
-E o mais doloroso: não queria entender.
-
-Camila se levantou.
-
-— Tudo bem. Esquece.
-
-— Não fica assim, amor. — Ele tentou pegar a mão dela, mas sem muito esforço. — Você sabe que eu te amo, né?
-
-Ela olhou para a mão dele. Depois para o rosto dele. E sentiu... nada. Nem raiva. Nem amor. Só um vazio cansado.
-
-— Eu sei.
-
-Mas amor sem ação era só palavra. E palavra, Camila estava percebendo, custava barato.
-
-Ela foi para o quarto. Deitou. Pegou o celular. Olhou de novo para os números dos terapeutas que tinha anotado.
-
-Hesitou.
-
-Depois deletou.
-
-Não ia adiantar ir sozinha. E Ricardo deixou claro: ele não ia.
-
-Então qual era o sentido?
-
----
-
-No dia seguinte, Camila acordou com a mesma rotina. Despertador. Banho rápido. Café. Lancheira. Crianças. Escola. Trabalho.
-
-Mas algo era diferente.
-
-Ela sentia algo pesado no peito. Não era a exaustão de sempre - ela já estava acostumada com essa. Era outra coisa. Maior. Mais assustadora.
-
-Era a percepção gritante de que ela tinha tentado. E falhado.
-
-Que ela tinha estendido a mão e Ricardo tinha recusado.
-
-Que ela tinha pedido ajuda e ele tinha dito que ela estava exagerando.
-
-E o pior de tudo: ela sabia que se contasse para alguém - para a mãe, para alguma amiga, para qualquer pessoa - a reação seria a mesma:
-
-*"Mas todo casamento é assim."*
-
-*"Homem é assim mesmo."*
-
-*"Pelo menos ele não te trai, não bebe, não bate."*
-
-Como se a barra para um marido decente fosse tão baixa que incluísse apenas não fazer o mal ativo. Como se parceria fosse luxo. Como se ela devesse agradecer por não ser agredida fisicamente.
-
-Camila dirigiu no trânsito lento de São Paulo e se pegou pensando:
-
-*Quanto tempo mais eu aguento isso?*
-
-A pergunta a assustou. Porque pela primeira vez, ela não tinha certeza da resposta.
-
----
-
-Naquela tarde, na hora do almoço, Camila estava na copa do escritório esquentando a marmita quando Fernanda entrou.
-
-Fernanda. A colega de trabalho que sempre tinha uma piada pronta, um comentário perspicaz, aquela energia de quem não se deixava abater por nada. Camila gostava dela, mas mantinha distância. Porque Fernanda tinha aquela coisa de *ver demais*. E Camila não queria ser vista. Via demais significava ter que admitir demais.
-
-— Oi, Cá. — Fernanda abriu a geladeira e pegou a marmita dela. — Cara de enterro hoje, hein?
-
-Camila forçou um sorriso.
-
-— Só cansada.
-
-— Cansada ou cansada-cansada?
-
-— Existe diferença?
-
-Fernanda colocou a comida no micro-ondas e se virou para Camila. Ela tinha trinta e oito anos, cabelo curto num corte moderno, óculos de armação colorida, e uma presença que ocupava o ambiente sem pedir licença.
-
-— Existe. Cansada é "dormi mal". Cansada-cansada é "estou exausta da minha própria vida".
-
-Camila deu uma risada curta, sem humor.
-
-— A segunda, então.
-
-Fernanda inclinou a cabeça, analisando.
-
-— Marido?
-
-Camila hesitou. Depois assentiu.
-
-— Marido. Filhos. Casa. Trabalho. Tudo.
-
-— Bem-vinda ao clube. — Fernanda pegou a marmita quentinha e sentou na mesinha da copa. — Senta. Come. Desabafa.
-
-— Não quero te incomodar.
-
-— Camila. — Fernanda a olhou sério. — Eu *ofereci*. Senta.
-
-E talvez fosse o cansaço. Ou a conversa frustrada de ontem com Ricardo. Ou o simples fato de que alguém estava oferecendo para ouvir sem ela ter que pedir.
-
-Mas Camila sentou.
-
-E começou a falar.
-
-Falou sobre o aniversário do Léo. Sobre a rotina exaustiva. Sobre a tentativa de sugerir terapia e a rejeição de Ricardo. Sobre se sentir sozinha mesmo estando casada.
-
-Fernanda ouviu. Sem interromper. Sem julgar. Apenas... ouviu.
-
-Quando Camila terminou, Fernanda suspirou.
-
-— Você tentou conversar. Ele não quis ouvir. Agora você sabe.
-
-— Sabe o quê?
-
-— Que ele não vai mudar. — Fernanda falou com uma franqueza que doeu. — Homem que não quer entender não entende, Camila. Não importa quantas vezes você explique. Não importa o quanto você se mate de trabalhar. Ele não vai acordar um dia e virar parceiro.
-
-— Mas... — Camila procurou argumentos. — Ele não é mal. Ele trabalha. Ele...
-
-— Ele é o mínimo — Fernanda completou. — E você está se matando para compensar tudo que ele não é. A pergunta é: por quanto tempo mais você aguenta?
-
-E ali estava de novo. A pergunta que Camila tinha feito para si mesma no carro.
-
-*Quanto tempo mais?*
-
-Fernanda continuou, mas com voz mais gentil:
-
-— Olha, eu não estou dizendo para você se separar. Não sou eu quem vai viver esse casamento. Mas eu já fui casada. Já passei por isso. E posso te dizer uma coisa com certeza: ninguém muda porque você quer que eles mudem. Eles mudam porque *eles* querem. E se o Ricardo não vê problema, ele não vai mudar nada.
-
-— Então o que eu faço?
-
-— Você decide. — Fernanda deu de ombros. — Você aguenta mais dez, vinte, trinta anos assim? Ou você escolhe você?
-
-*Você escolhe você.*
-
-As palavras ficaram suspensas no ar.
-
-Camila não respondeu. Porque não sabia a resposta. Ou sabia, mas não queria admitir.
-
-O micro-ondas apitou. Camila pegou a marmita. Fernanda pegou a dela. Voltaram para as mesas sem falar muito mais.
-
-Mas quando Camila sentou de volta na baia, olhando para a tela do computador, a voz de Fernanda ecoava:
-
-*Você escolhe você.*
-
-E em algum lugar no fundo da exaustão, no meio da dor, uma sementinha pequenininha foi plantada.
-
-A semente da possibilidade de que talvez, só talvez, ela merecesse mais do que estava recebendo.
-
----
-
-Naquela noite, Ricardo tentou fazer as pazes.
-
-Ele chegou em casa com flores. Margaridas, que eram bonitas, mas que não eram as favoritas de Camila (eram rosas. Sempre foram rosas. Ele nunca lembrava).
-
-— Isso é para você. — Ele entregou as flores com um sorriso. — Desculpa se eu fui grosso ontem.
-
-Camila pegou as flores. Cheirou. Agradeceu.
-
-— Obrigada.
-
-— A gente está bem, né? — ele perguntou, como se estar "bem" fosse apenas não estar brigando.
-
-Camila olhou para o marido. Para as flores que ele comprou em um gesto vazio de entendimento real. Para o sorriso dele que esperava que tudo estivesse resolvido.
-
-E ela sorriu de volta.
-
-— Está.
-
-Mentira.
-
-Mas Camila ainda não estava pronta para a verdade.
-
-Ainda não.
-
-Mas a semente continuava lá. Quietinha. Esperando.
-
-Esperando para crescer.
+Mas a semente estava lá. Regada com lágrimas e café ruim, mas estava lá. Esperando para romper o concreto.

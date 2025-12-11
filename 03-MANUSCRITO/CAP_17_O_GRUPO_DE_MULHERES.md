@@ -1,182 +1,78 @@
 # CAPÍTULO 17
 ## O Grupo de Mulheres
 
-Quinta-feira à noite. Aula de aquarela.
+A aula de aquarela tinha virado o ponto alto da semana de Camila.
+Não só pela pintura (que estava melhorando, a água agora obedecia um pouco mais aos comandos dela), mas pelas pessoas.
 
-Camila estava terminando uma paisagem - ainda meio torta, as proporções estranhas, mas melhor que as primeiras tentativas - quando Paula fez o anúncio:
+Havia um grupo peculiar naquela sala de ateliê com cheiro de terebintina e café.
 
-— Pessoal, tô organizando uma exposiçãozinha aqui no ateliê daqui a dois meses. Nada grande, só para mostrar o trabalho de vocês. Quem topa participar?
+**Júlia:** 32 anos, publicitária, ligada no 220v. Pintava quadros abstratos violentos e coloridíssimos. Falava alto, ria alto e tinha uma energia caótica que Camila adorava.
 
-Camila sentiu o estômago apertar. Expor? Seria como se despir em público. Mostrar as partes mais vulneráveis dela penduradas em paredes para estranhos julgarem.
+**Beatriz:** 55 anos, recém-viúva. Pintava flores com uma delicadeza cirúrgica. Tinha uma tristeza nos olhos que Camila reconhecia, mas também uma doçura infinita.
 
-— Eu topo! — Júlia, a moça de trinta e poucos anos que sentava duas mesas à frente, levantou a mão na hora.
+**Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era a personificação da resiliência.
 
-— Eu também — disse Clara, a senhora mais velha que sempre pintava flores delicadas.
+Numa quinta-feira chuvosa, Paula, a professora, sugeriu:
+— Gente, a chuva está triste. Vamos encerrar meia hora mais cedo e ir na padaria da esquina? Eu pago o pão de queijo.
 
-— Não sei... — Beatriz, a mulher de cinquenta anos que tinha entrado no curso há um mês, hesitou. — Ainda não sou boa o suficiente.
+Foram as cinco (Paula, Camila, Júlia, Beatriz e Clara).
 
-Paula sorriu gentil:
+Sentaram-se numa mesa de canto, com cafés fumegantes e uma cesta de pão de queijo.
 
-— Ninguém aqui é Picasso. O ponto não é ser perfeito. É compartilhar. Camila, e você?
+O assunto começou trivial (tintas, pincéis, a chuva), mas logo, como sempre acontece quando mulheres se sentam juntas com café, a conversa aprofundou.
 
-Todos olharam para ela.
+— E aí, Camila? — perguntou Júlia. — Como tá a vida de recém-solteira? O Ex-Marido-Que-Não-Deve-Ser-Nomeado já parou de encher o saco?
 
-Camila queria dizer não. A palavra estava na ponta da língua.
+Camila riu. Ela tinha contado algumas histórias (a da jaqueta, a do aniversário esquecido).
+— Parar não parou. Mas eu parei de me importar. Essa é a diferença.
 
-Mas então lembrou do Dr. Lucas: *"Você tem permissão para ocupar espaço."*
+— Aleluia! — brindou Júlia com a xícara. — A indiferença é o oposto do amor, gata. Quando você para de sentir raiva e passa a sentir "tanto faz", aí você tá curada.
 
-— Eu... acho que sim. Eu topo.
+— Eu ainda sinto raiva — admitiu Camila. — Principalmente quando vejo ele sendo o "pai divertido" no fim de semana enquanto eu sou a "mãe chata da rotina" durante a semana.
 
-Júlia sorriu, animada:
+Clara suspirou.
+— Eu te entendo. O pai dos gêmeos é assim. Aparece a cada quinze dias, leva no shopping, entope de doce, e devolve as crianças pilhadas domingo à noite para eu lidar com a glicose e a birra na segunda-feira. É o clássico "Pai Disney".
 
-— Que máximo! A gente devia ir tomar café depois da aula hoje. Comemorar que todas toparam!
+— Pai Disney! — Camila bateu na mesa. — É exatamente isso!
 
-Camila não tinha planejado ficar depois. Tinha que acordar cedo no dia seguinte. E socializar com pessoas novas era... desconfortável.
+— Meninas — disse Beatriz, a voz suave. — Eu sei que dá raiva. Meu marido... o falecido... ele era um homem bom, mas eu fazia tudo. Tudo. E quando ele morreu, todo mundo dizia "pobre Alfredo, trabalhava tanto". Ninguém via o meu trabalho. É ingrato.
 
-Mas algo - talvez solidão, talvez curiosidade, talvez só vontade de tentar - a fez acenar.
+— É invisível — corrigiu Paula.
 
-— Café parece bom.
+Ficaram em silêncio por um segundo. A chuva batia na janela.
 
----
+— Sabe o que eu acho? — disse Júlia, quebrando o clima. — Que a gente devia montar um sindicato. Sindicato das Mulheres Exaustas que Pintam para Não Matar Ninguém.
 
-Meia hora depois, quatro mulheres sentadas numa cafeteria pequena perto do ateliê.
+Todas riram.
 
-Júlia, Beatriz, Clara e Camila.
+— Eu voto a favor — disse Camila.
 
-Mesa redonda. Cafés fumegantes. Silêncio inicial levemente questionido.
+— Mas falando sério — continuou Júlia. — Vocês são fodas. Olha pra gente. Sobrevivendo. Criando. Rindo numa quinta-feira de chuva. A gente é muito foda.
 
-Foi Júlia quem quebrou:
+Camila olhou para aquelas mulheres.
+Tão diferentes. Unidas por nada além de uma aula de pintura e pela experiência universal de ser mulher num mundo que exige demais.
 
-— Então, vou começar me apresentando direito. Júlia, trinta e dois, trabalho com marketing, mãe solteira de um menino de quatro anos. Por escolha. Fiz inseminação. Melhor decisão da minha vida.
+Ela sentiu uma onda de calor no peito.
+Dra. Lucas tinha dito para ela encontrar "sua tribo".
+Ela achava que tribo era algo místico, difícil de achar.
 
-Camila piscou. Mãe solteira por escolha. Ela nunca tinha conhecido alguém assim.
+Mas tribo era isso.
+Eram mulheres comendo pão de queijo, reclamando dos ex-maridos e rindo das próprias desgraças.
+Eram pessoas que validavam a sua dor sem tentar consertá-la.
 
-Beatriz foi a próxima:
+— Um brinde ao Sindicato — disse Camila, levantando seu café.
 
-— Beatriz, cinquenta, recém-divorciada. Vinte e cinco anos de casamento. Estou... apavorada. — Ela deu risada nervosa. — Não sei quem eu sou sem ele. Por isso comecei a pintar. Para tentar me encontrar.
+— Ao Sindicato! — responderam as outras.
 
-Clara acenou compreensiva:
+Naquela noite, voltando para casa, Camila criou um grupo no WhatsApp.
+*"As Aquarelistas (e o Sindicato)"*
+Adicionou as quatro.
 
-— Clara, quarenta e cinco. Perdi meu marido há dois anos. Câncer. E to ainda aprendendo a viver sozinha. A pintura me salva.
+A primeira mensagem foi de Beatriz:
+*"Obrigada, meninas. Eu estava me sentindo muito sozinha hoje. Vocês iluminaram minha noite."*
 
-Três histórias. Três tipos diferentes de dor. Três mulheres reconstruindo.
+Coração. Coração. Coração.
 
-Todas olharam para Camila.
-
-— Camila, trinta e quatro. Separando. Dois filhos. Oito e cinco anos. — Ela respirou. — Onze anos de casamento que... não funcionou. Estou tentando descobrir quem eu sou além de mãe e ex-esposa.
-
-— Quanto tempo faz? — Beatriz perguntou, gentil.
-
-— Cinco meses desde ele saiu. Divórcio ainda não saiu.
-
-— E como você está?
-
-Camila pensou. Honestamente.
-
-— Confusa. Aliviada. Assustada. Tudo ao mesmo tempo.
-
-Júlia acenou:
-
-— Normal. Transição é sempre confusa.
-
-— Vocês não acham... — Beatriz hesitou. — Vocês não acham que a gente é velha demais para recomeçar?
-
-Júlia quase cuspiu o café:
-
-— Velha? Beatriz, você tem cinquenta! Não setenta!
-
-— Mas eu casei com vinte e cinco. Faz vinte e cinco anos que eu não fico sozinha. Eu não sei nem como paquerar. Eu mal sei usar Tinder!
-
-Clara riu:
-
-— Ninguém sabe usar Tinder, querida. Aquilo é território alienígena.
-
-— Mas sério — Beatriz insistiu — vocês não têm medo? De ficar sozinhas para sempre?
-
-Silêncio contemplativo.
-
-Então Camila respondeu, surpreendendo a si mesma:
-
-— Eu tenho. Muito medo. Mas sabe o que eu tenho mais medo? De ficar presa em algo que me mata aos poucos. De acordar daqui a vinte anos e perceber que desperdicei minha vida inteira fingindo estar feliz.
-
-As três olharam para ela.
-
-— Exato — Júlia disse suave. — É sobre escolher. Sozinha e inteira ou acompanhada e vazia. E eu escolho inteira toda vez.
-
-— Mesmo que signifique ficar sozinha para sempre? — Beatriz perguntou.
-
-— Não vai ser para sempre — Clara disse, sábia. — A gente acha que sim quando está no meio da dor. Mas a vida surpreende. Às vezes quando a gente para de procurar, as coisas aparecem.
-
-Júlia complementou:
-
-— E mesmo que seja para sempre, está tudo bem. Melhor sozinha e feliz que acompanhada e miserável.
-
-Camila sentiu lágrimas queimando. Porque eram palavras que ela precisava ouvir. Validação de que não estava louca. De que escolher a si mesma não era egoísmo.
-
-— Obrigada — ela disse baixinho. — Por entenderem.
-
-— A gente se entende porque todas passamos por isso — Beatriz pegou a mão dela. — Cada uma do seu jeito, mas todas aqui estamos reconstruindo.
-
-— Para mulheres fodas reconstruindo — Júlia levantou a xícara de café.
-
-As outras levantaram também.
-
-Brinde silencioso mas poderoso.
-
----
-
-Uma hora depois, quando estavam saindo, Júlia pegou o celular:
-
-— A gente devia criar grupo no WhatsApp. Para se apoiar. Trocar ideias. Desabafar.
-
-— Boa ideia — Clara concordou.
-
-Beatriz e Camila acenaram.
-
-Júlia criou na hora. Nome do grupo: **"Aquarelas da Vida 🎨"**
-
-Primeira mensagem, de Júlia:
-
-*"Grupo oficial de mulheres fodas que escolheram recomeçar. Regras: honestidade, apoio, zero julgamento, e muitas doses de café virtual."*
-
-Beatriz mandou emoji rindo.
-
-Clara mandou coração.
-
-Camila digitou:
-
-*"Obrigada por existirem."*
-
-E meant.
-
----
-
-No caminho para casa, dirigindo sozinha, Camila pensou sobre a noite.
-
-Quatro mulheres. Quatro histórias diferentes. Mas todas com um fio comum: coragem de escolher a si mesmas.
-
-Júlia, que escolheu ser mãe sozinha porque não queria esperar homem certo.
-
-Beatriz, que teve coragem de deixar casamento de 25 anos porque percebeu que estava se perdendo.
-
-Clara, que perdeu o amor da vida mas estava aprendendo a amar a própria vida de novo.
-
-E ela. Camila. Que estava no meio da desconstrução mas começando a ver glimpses do que poderia ser reconstrução.
-
-O celular vibrou. Grupo de WhatsApp.
-
-Beatriz: *"Meninas, obrigada pela noite. Faz tempo que eu não me sinto tão... compreendida."*
-
-Júlia: *"Essa é a magia de mulheres se apoiando. A gente cura junto."*
-
-Clara: *"Sororidade é remédio."*
-
-Camila sorriu.
-
-E pela primeira vez em muito tempo, não se sentiu sozinha.
-
-Porque talvez - só talvez - a gente não precise de um homem para nos completar.
-
-Talvez a gente precise de outras mulheres que nos lembrem que somos completas.
-
-E essa descoberta, simples como era, mudou tudo.
+Camila sorriu para o celular.
+Ela tinha amigas. Amigas novas. Amigas suas, que não conheciam o Ricardo, que não conheciam a "Camila Esposa". Conheciam a Camila de agora.
+E a Camila de agora estava começando a gostar muito, mas muito mesmo, dessa nova turma.

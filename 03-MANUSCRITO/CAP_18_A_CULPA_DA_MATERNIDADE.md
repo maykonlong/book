@@ -1,6 +1,78 @@
 # CAPÍTULO 18
 ## A Culpa da Maternidade
 
+Léo tinha apresentação na escola. "Minha Família" - trabalho de História. Quinta-feira, duas da tarde.
+Camila tinha pedido para sair mais cedo do trabalho duas semanas antes.
+
+E Ricardo?
+Ricardo tinha dito: "Vou tentar."
+
+*Tentar.* O verbo favorito dos pais ausentes.
+
+Camila chegou à escola às 13h45. O auditório cheirava a lustra-móveis e ansiedade infantil.
+Ela sentou na terceira fila. Guardou o lugar ao lado com a bolsa.
+
+Mandou mensagem: *"Já estou aqui. Terceira fila."*
+Visualizada. Sem resposta.
+
+As apresentações começaram.
+Crianças subiam no palco com cartolinas coloridas. Algumas falavam bem, outras gaguejavam. Pais tiravam fotos, filmavam, acenavam.
+
+Às 14h10, chamaram Leonardo.
+
+Camila olhou para a porta. Nada.
+O lugar ao lado dela continuava vazio.
+
+Léo subiu no palco. Ele estava lindo com a camisa polo que ela tinha passado de manhã.
+Ele olhou para a plateia. Seus olhos varreram as cadeiras. Encontraram Camila. Ele sorriu.
+Mas então os olhos continuaram procurando. Foram para o lado dela. Viram a cadeira vazia.
+
+O sorriso murchou.
+
+Foi uma fração de segundo. Mas para uma mãe, durou uma eternidade. O momento exato em que o coração de um filho quebra um pouquinho.
+
+Léo segurou a cartolina.
+— Minha família... — A voz dele falhou. Ele tossiu. — Minha família agora é em duas casas.
+
+Ele mostrou o desenho. De um lado, um prédio (o da mãe). Do outro, um hotel (o do pai). No meio, ele e a Bia.
+
+— Eu moro com a minha mãe e vejo meu pai de fim de semana. A minha mãe cuida da gente e trabalha. O meu pai trabalha muito também.
+
+"Trabalha muito". A desculpa que as crianças aprendem a dar para justificar a ausência dos pais.
+
+Camila filmava com a mão trêmula. Queria subir lá, abraçar o filho e gritar. Mas ficou quieta. Sorrindo. Acenando. Sendo a rocha que ele precisava ver.
+
+Quando acabou, Léo desceu. Camila o abraçou forte.
+— Você foi incrível, filho! Incrível!
+— O pai não veio — disse ele. Não foi uma pergunta.
+— Ele teve uma emergência no trabalho, amor. Ele queria muito vir. (Mentira. Quem quer, vem. Mas a gente mente para proteger.)
+
+— Tá bom — disse Léo. Seco. Adulto demais.
+
+No carro, voltando para casa, a culpa bateu em Camila como um caminhão.
+*É culpa minha. Se eu não tivesse separado, o Ricardo estaria lá. Ou pelo menos estaria em casa esperando. Agora meu filho tem que apresentar trabalho sobre "duas casas" e passar vergonha.*
+
+Ela chorou no banho, escondida.
+A culpa materna não precisa de fatos. Ela se alimenta de "e se".
+*E se eu tivesse aguentado mais um pouco?*
+*E se eu for egoísta por querer ser feliz às custas da estabilidade deles?*
+
+Mas então, à noite, Léo veio até a sala onde ela estava sentada no escuro.
+— Mãe?
+— Oi, filho.
+— Obrigado por ter ido.
+— É claro que eu fui. Eu sempre vou.
+— Eu sei. Você sempre tá lá.
+
+Ele deu um beijo na bochecha dela e foi dormir.
+Camila ficou ali, no escuro.
+"Você sempre tá lá".
+
+Talvez a culpa estivesse errada.
+Talvez o que importasse não fosse a família perfeita da cartolina.
+Mas sim quem estava na terceira fila, aplaudindo, faça chuva ou faça sol.
+E essa pessoa era ela.
+
 Léo tinha apresentação na escola.
 
 "Minha Família" - trabalho de História sobre estruturas familiares ao longo do tempo. Cada criança apresentaria a própria família. Quinta-feira, duas da tarde.

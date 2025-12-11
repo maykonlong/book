@@ -3,306 +3,368 @@
 
 Você já acordou cansada?
 
-Não do tipo de cansaço de uma noite mal dormida. Mas do tipo que já está lá quando você abre os olhos, esperando por você como uma conta que nunca foi paga.
+Não falo daquele cansaço físico de quem correu uma maratona ou faxinou a casa inteira no domingo. Falo de um cansaço que parece morar na medula dos ossos. Aquele tipo de exaustão que já está lá, sentada no peito, no exato segundo em que você abre os olhos, esperando por você como uma visita indesejada que nunca vai embora.
 
-Camila conhecia bem esse tipo de cansaço.
+Camila conhecia bem esse tipo de cansaço. Ele tinha se tornado seu companheiro mais fiel, mais constante até que o marido que dormia ao seu lado.
 
-O despertador ainda não tinha tocado - faltavam sete minutos - mas ela já estava acordada. O corpo tinha esse relógio interno irritante que a acordava antes do alarme, como se quisesse dar tempo para ela *sentir* o peso de mais um dia antes de precisar começá-lo.
+Eram 05h53 da manhã.
 
-Ao seu lado, Ricardo dormia profundamente. Respiração pesada, quase um ronco. O travesseiro dele estava torto, o cobertor meio jogado. Camila tinha essa vontade estranha toda manhã: acordá-lo. Não com carinho. Não com beijo. Mas sacudir e gritar "ACORDA. VOCÊ TAMBÉM TEM FILHOS. VOCÊ TAMBÉM MORA AQUI."
+O despertador do celular ainda não tinha tocado — faltavam exatos sete minutos — mas os olhos de Camila se abriram sozinhos. Seu corpo tinha desenvolvido um relógio biológico cruel, treinado pelo cortisol e pela ansiedade, que a acordava antes do alarme apenas para que ela tivesse tempo de *sentir* o peso do dia que estava por vir.
 
-Mas ela não fazia isso.
+O quarto estava na penumbra azulada da pré-manhã. O ar condicionado zumbia baixinho, um som que costumava relaxá-la, mas que agora parecia apenas mais um ruído branco em uma mente que nunca desligava.
 
-Nunca fazia.
+Ao seu lado, Ricardo dormia o sono dos justos. Ou melhor, o sono dos isentos.
 
-Em vez disso, ela deslizou para fora da cama com cuidado para não fazer barulho. Não que ele fosse acordar - Ricardo tinha o sono pesado de quem não carrega nada além do próprio corpo. Mas Camila tinha desenvolvido esse hábito silencioso de ocupar o mínimo de espaço possível. De não incomodar. De ser invisível.
+Ele estava virado de costas, ocupando dois terços da cama king size, com o edredom embolado entre as pernas. A respiração dele era pesada, ritmada, profunda. Camila ficou ali, imóvel, observando as costas largas do marido. Havia uma inveja ácida subindo por sua garganta.
 
-O chão estava frio. Janeiro em São Paulo era um inferno durante o dia, mas as manhãs ainda guardavam aquele frescor enganoso. Camila pegou o roupão jogado na cadeira - a mesma cadeira onde Ricardo tinha largado a calça do trabalho ontem à noite, que ela teria que recolher depois - e foi para o banheiro.
+Como ele conseguia? Como ele conseguia desligar o mundo daquele jeito? Como ele não acordava pensando se tinha pão para o lanche das crianças, se o uniforme do Léo tinha secado a tempo, se a reunião das 10h ia conflitar com a entrega do relatório trimestral?
+
+Camila teve uma vontade súbita, quase infantil, de chutar a canela dele. De sacudi-lo pelos ombros e gritar: *"ACORDA! A vida está acontecendo e eu estou carregando ela sozinha!"*
+
+Mas ela não fez isso.
+
+Claro que não.
+
+Em vez disso, ela realizou sua primeira performance do dia: a saída silenciosa. Deslizou para fora da cama com a leveza de uma bailarina exausta, pisando no chão frio de porcelanato que enviou um choque térmico até sua espinha. Melhor assim. Ajudava a despertar.
+
+Ela recolheu o roupão de seda que estava caído na poltrona do canto — a mesma poltrona onde Ricardo havia jogado a calça do trabalho na noite anterior, ignorando o cesto de roupa suja a dois metros de distância. Camila pegou a calça dele automaticamente. Não pensou. Não reclamou. Apenas pegou e colocou no cesto.
+
+Era um gesto pequeno, invisível. O primeiro de mil que ela faria nas próximas doze horas.
 
 Seis minutos para o alarme.
 
-Banho rápido. Muito rápido. Camila tinha cronometrado a própria vida: sete minutos no chuveiro, três para se secar e vestir, dois para prender o cabelo ainda molhado. Doze minutos no total. Tinha que ser assim. Porque depois começava o resto.
+Camila foi para o banheiro e trancou a porta. Aquele clique da fechadura era o som mais reconfortante da sua manhã. Ali, naquele espaço de três metros quadrados, ela podia ser apenas Camila. Não a mãe do Léo e da Bia. Não a esposa do Ricardo. Não a coordenadora de marketing. Apenas uma mulher lavando o rosto.
 
-E o resto era tudo.
+Ela abriu a torneira e jogou água gelada nas bochechas. Olhou-se no espelho.
 
----
+As olheiras estavam lá, profundas e arroxeadas, como hematomas de uma luta que ninguém via. Havia novas linhas finas ao redor dos olhos, marcas de quem passava muito tempo franzindo a testa em preocupação.
 
-A cozinha estava no silêncio que Camila apreciava e odiava ao mesmo tempo. Silêncio porque era o único momento do dia em que ninguém precisava dela. Ódio porque ela sabia o que vinha depois: a avalanche.
+— Você consegue — ela sussurrou para o reflexo. Mas a voz saiu rouca, sem convicção. — É só mais uma terça-feira.
 
-Café. Sempre começava pelo café. Água na chaleira. Pó no filtro. Aroma enchendo a cozinha. Esse era o único ritual que Camila ainda sentia como seu, mesmo sabendo que era para ele, para Ricardo, que chegaria correndo atrasado reclamando que o café estava fraco ou forte demais.
+Banho rápido. Cronometrado. Sete minutos de água quente para tentar soltar os nós nos ombros. Três minutos para se secar. Dois minutos para prender o cabelo ainda úmido em um coque "despojado" que, na verdade, era apenas prático.
 
-Enquanto a água esquentava, Camila abriu a geladeira. A lista mental começou a se desenrolar como um pergaminho infinito:
+Doze minutos. Tinha que ser assim. Porque se ela demorasse quinze, a engrenagem emperrava. O lanche não ficaria pronto. O café atrasaria. As crianças se atrasariam. O trânsito congestionaria. O mundo acabaria.
 
-*Fazer lancheira do Léo. Não esquecer que ele não gosta de mortadela. Bia vai querer o iogurte de morango, não o de uva. Precisa comprar mais queijo. Anotar na lista do mercado. Cadê a lista? Deve estar na bolsa. Lembrar de pegar a lista. Comprar queijo. E pão. O pão está acabando. E leite também. Colocar na lista. Onde diabos está a lista?*
-
-A vida de Camila era uma lista infinita que nunca era riscada por completo.
-
-Ela montou as lancheiras no piloto automático. Sanduíche de queijo branco para Léo, sem casca porque ele reclamava. Biscoitos de maisena. Suco de caixinha. Para Bia: bisnaguinha com requeijão, o iogurte, as bolachas de chocolate que ela amava. Duas maçãs lavadas. Guardanapos. Fechou as lancheiras. Guardou na geladeira. Riscou mentalmente.
-
-Próximo: uniforme.
-
-Camila foi até a área de serviço. As roupas que ela tinha lavado ontem - e estendido, e recolhido, e dobrado, tudo sozinha enquanto Ricardo assistia ao jogo - estavam impecáveis na cesta. Ela separou: uniforme do Léo, uniforme da Bia. Meias combinando. O tênis dela estava na porta do quarto, o dele perto da sapateira.
-
-Sete e quinze. 
-
-Hora de acordar as crianças.
+Ou pelo menos, era assim que parecia.
 
 ---
 
-O quarto de Léo cheirava a menino de oito anos: uma mistura de sabonete, lençol que precisava trocar e tênis. Ele estava virado para a parede, enrolado no cobertor como um casulo. Camila sentou na beirada da cama e passou a mão no cabelo castanho dele, bagunçado de sono.
+A cozinha estava mergulhada naquele silêncio tenso que antecede a tempestade.
 
-— Bom dia, amor. Hora de acordar.
+Camila amava aquele momento. Amava o cheiro do pó de café recém-aberto. Amava o som da água borbulhando na chaleira elétrica. Era o seu ritual. O único momento em que ela controlava todas as variáveis.
 
-Léo resmungou.
+Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldita Lista Mental que nunca tinha fim. Ela se desenrolava em sua cabeça como aqueles pergaminhos infinitos de filmes antigos:
 
-— Cinco minutos, mãe...
+*1. Lancheira do Léo (ele disse que enjoou de maçã, tentar colocar pera picada).*
+*2. Uniforme da Bia (verificar se a mancha de tinta saiu).*
+*3. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza de novo e Ricardo vai reclamar do gasto).*
+*4. Pagar a conta de luz (vence hoje, colocar lembrete).*
+*5. Responder o e-mail do cliente chato sobre a campanha de Natal.*
+*6. Marcar o dentista das crianças.*
+*7. Comprar presente para a festa do amiguinho do Léo no sábado.*
+*8. Onde está a lista de compras? O leite acabou. O queijo também.*
 
-— Você sabe que não tem cinco minutos, meu amor. Vamos, levanta. Eu já deixei o uniforme separado.
+Camila abriu a geladeira e suspirou. Só havia duas fatias de queijo.
 
-Léo abriu um olho só, encontrou os olhos cansados da mãe e algo no rosto dela o fez sentar. Ele sempre fazia isso. Sempre percebia. Camila odiava e amava isso ao mesmo tempo. Odiava porque uma criança de oito anos não deveria ter que ler o cansaço da própria mãe. Amava porque significava que alguém, pelo menos alguém, a via.
+— Ótimo — murmurou. — Léo fica com o queijo, Bia vai ter que comer requeijão.
 
-— Pode ir, mãe. Eu levanto.
+Seus movimentos eram mecânicos, eficientes. Cortar o pão. Passar manteiga. Cortar a fruta. Encher as garrafinhas de água. Acondicionar tudo nas lancheiras térmicas com os personagens favoritos deles — Sonic para ele, Patrulha Canina para ela.
 
-Ela beijou a testa dele.
+Riscou mentalmente dois itens da lista. Faltavam apenas oitocentos.
 
-— Cinco minutos. De verdade dessa vez.
+Sete e quinze.
 
-No quarto ao lado, Bia estava acordada, mas fingindo que dormia. Camila conhecia esse jogo.
+A hora da batalha.
 
-— Eu sei que você está acordada, mocinha.
+Camila foi até a área de serviço, onde as mochilas já estavam "magicamente" prontas (graças a ela, às 23h da noite anterior). Pegou os uniformes passados e dobrados.
 
-Bia abriu os dois olhos de uma vez e deu aquele sorriso banguela que ainda derretia qualquer resquício de paciência que Camila pudesse ter acabado de perder.
+Respirou fundo, enchendo os pulmões de ar e coragem, e se dirigiu ao corredor.
 
-— Bom dia, mamãe!
+O quarto de Léo cheirava a menino — uma mistura indefinível de lápis de cor, suor noturno e tênis. Ele estava enrolado no cobertor como um casulo, apenas um tufo de cabelo castanho visível.
 
-— Bom dia, meu amor. Vamos trocar de roupa?
+Camila sentou na beirada da cama. A mão dela, instintivamente, foi fazer um carinho na cabeça dele. Era nesses momentos, observando os filhos dormirem, que a culpa diminuía e o amor transbordava, lembrando-a do porquê de todo aquele esforço.
 
-— Eu quero trocar sozinha!
+— Bom dia, meu amor. Hora de acordar.
 
-Bia tinha quatro anos e uma independência feroz quando era conveniente para ela. Outras vezes - tipo na hora de guardar os brinquedos - essa independência sumia misteriosamente.
+Um resmungo abafado.
 
-— Tudo bem. Mas rápido, viu? A roupa está ali na cadeira.
+— Cinco minutos, mãe... — A voz dele era arrastada, grossa de sono.
 
-Camila voltou para a cozinha. O café estava pronto. Ela se serviu de uma caneca grande - a que tinha uma frase motivacional desbotada que já não motivava ninguém - e tomou o primeiro gole. Quente demais. Camila tomou mesmo assim. Não tinha tempo para esperar esfriar.
+— Você sabe que não temos cinco minutos, filho. Vamos. O sol já nasceu.
+
+Mentira. O dia estava nublado, cinza chumbo, típico de São Paulo em janeiro. Mas "o sol já nasceu" soava mais otimista.
+
+Léo se mexeu, descobrindo o rosto amassado. Ele abriu um olho só, fitou a mãe com aquela honestidade brutal das crianças.
+
+— Você tá com cara de cansada, mãe.
+
+Camila travou. O sorriso congelou no rosto.
+
+Era doloroso como as crianças viam tudo. Ricardo podia passar dias sem notar que ela cortou o cabelo ou que estava chorando no chuveiro, mas Léo, com seus oito anos, via as olheiras dela em três segundos.
+
+— É só sono, querido. A mamãe dormiu pouco. Vai, levanta. Uniforme na cadeira.
+
+No quarto ao lado, a batalha foi diferente. Bia, com seus quatro anos e personalidade de imperatriz, já estava acordada, sentada na cama, com o cabelo parecendo um ninho de pássaros revoltados.
+
+— Eu não quero ir pra escola hoje — decretou, cruzando os braços pequeninos sobre o pijama de unicórnio.
+
+— Bom dia para você também, Vossa Alteza — brincou Camila, buscando o uniforme. — E por que não?
+
+— Porque a Luana não é mais minha amiga. Ela não me emprestou o giz de cera rosa.
+
+— Tenho certeza que hoje ela empresta. Vem, vamos colocar esse vestido lindo.
+
+— Não quero vestido! Quero a calça de bolinha!
+
+— A calça de bolinha está lavando, Bia.
+
+— ENTÃO EU NÃO VOU!
+
+O grito agudo perfurou o tímpano de Camila. Ela fechou os olhos por um segundo. Contou até três. Não funcionou. Contou até cinco.
+
+— Beatriz — o tom de voz dela baixou uma oitava. O temido "Voz de Mãe Séria". — Nós não vamos discutir isso agora. Vestido. Agora.
+
+A menina bufou, mas obedeceu. Camila vestiu a filha com a eficiência de quem veste um boneco articulado que resiste aos movimentos. Pentear o cabelo foi outra negociação diplomática complexa, envolvendo promessas de assistir desenho no tablet por dez minutos à noite.
 
 Sete e vinte e oito.
 
-Ricardo entrou na cozinha.
+Camila voltou à cozinha puxando as duas crianças, já vestidas e razoavelmente apresentáveis. Colocou cereal nas tigelas. Serviu o leite.
 
-Ele usava a cueca e a camiseta amassada de dormir, o cabelo espetado de um lado só. Passou direto por Camila - sem bom dia, sem beijo, sem olhar nos olhos - e pegou uma caneca do armário. Serviu-se de café. Tomou um gole. Fez cara de nojo.
+E foi aí que Ricardo apareceu.
 
-— Tá muito forte.
+Ele entrou na cozinha coçando a barriga, vestindo apenas a cueca samba-canção e uma camiseta surrada da faculdade que Camila vinha tentando jogar fora há cinco anos. O cabelo estava amassado de um lado só, dando a ele um ar cômico se não fosse trágico.
 
-Camila respirou fundo. Contou até três. Uma técnica que a terapeuta que ela não tinha dinheiro nem tempo para ir ensinaria.
+Ele passou direto por Camila.
 
-— Fiz do mesmo jeito de sempre.
+Sem beijo. Sem "bom dia". Sem um toque no ombro.
 
-— Sei lá. Tá forte.
+Ele foi direto para a garrafa térmica. Serviu uma caneca fumegante. Tomou um gole ruidoso e fez uma careta.
 
-Ele tomou mais um gole na mesma assim e foi para o quarto. Camila ouviu o chuveiro ligar. Doze minutos. Ricardo levava doze minutos no banho. Os mesmos doze minutos que ela levava para banho, roupa, cabelo e existir.
+— Nossa. Tá forte hoje, hein? — reclamou, olhando para a caneca como se ela o tivesse ofendido pessoalmente.
 
-A diferença entre eles cabia nesses doze minutos.
+Camila, que estava limpando uma gota de leite que Bia derramou na mesa, sentiu o sangue esquentar.
 
----
+— Bom dia para você também, Ricardo.
 
-Léo apareceu na cozinha vestido, mas com a camisa do uniforme do avesso. Camila apontou sem dizer nada. Ele olhou, revirou os olhos para si mesmo e voltou para o quarto. Bia chegou logo atrás, vestida, mas com a calça ao contrário e o cabelo parecendo um ninho de passarinho.
+Ele piscou, parecendo notá-la pela primeira vez.
 
-— Lindo, Bia. Vem cá que a mamãe ajeita.
+— Ah. Bom dia. — Ele olhou para as crianças. — E aí, monstros? Prontos pra escola?
 
-Camila sentou a filha no balcão da cozinha e começou a pentear o cabelo. Bia reclamou de cada puxão, cada elástico, cada grampo. Camila fez dois rabinhos. Simples. Funcional. Não tinha tempo para tranças.
+Léo sorriu de boca cheia. Bia ignorou, ainda emburrada com a falta da calça de bolinha.
 
-— Pronto. Agora vira a calça.
+Ricardo encostou no balcão, tomando seu café com calma. Com uma calma irritante. Com a calma de quem sabe que não precisa se preocupar com o horário porque *alguém* está gerenciando o horário.
 
-— Mas tá boa assim!
+— Você viu minha camisa azul? Aquela de listras finas? — perguntou ele.
 
-— Bia...
+— Está no cabide, na porta do guarda-roupa. Passei ontem à noite — respondeu Camila, sem tirar os olhos do relógio. Sete e trinta e cinco. Estavam atrasados.
 
-— Tá bom...
+— Ah. Valeu. — Ele bocejou. — Vou tomar banho.
 
-Enquanto Bia descia do balcão, Léo voltou, camisa corrigida. Camila serviu cereal para os dois. Leite. Colheres. Guardanapos. Enquanto eles comiam, ela pegou as mochilas, conferiu cadernos, conferiu agenda, colocou as lancheiras que estavam na geladeira.
+Camila parou.
 
-*Léo tem educação física hoje. Está com tênis? Está. Bia precisa levar o livro de história. Está na mochila? Está. Reunião da escola sexta-feira. Anotar. Não esquecer. Colocar no celular. COLOCAR NO CELULAR.*
+— Ricardo, você vai tomar banho agora? Eu preciso sair com as crianças em cinco minutos.
 
-Ricardo passou pela cozinha de novo, agora vestido para o trabalho. Camisa social azul, calça cáqui. Cheiro de perfume. Ele pegou uma torrada, passou manteiga, comeu em três mordidas.
+— Ué, sai. Eu vou depois. Tenho reunião só às nove e meia.
 
-— Eu vou indo. Reunião cedo hoje.
+Claro. A reunião dele era às nove e meia. O tempo dele era elástico. O dela era uma bomba relógio.
 
-E foi.
+Ricardo foi para o banheiro. Camila ouviu o barulho do chuveiro ligando.
 
-Sem perguntar se Camila precisava de alguma coisa. Sem perguntar quem ia levar as crianças. Sem perguntar nada. Porque ele sabia. Sempre foi ela. Sempre seria ela.
+Ela olhou para a própria xícara de café, intocada, em cima do balcão. Estava fria.
 
-A porta bateu.
+Ela pegou a xícara e virou o líquido gelado e amargo de uma vez só, como se fosse um remédio. Talvez fosse. Cafeína para manter a máquina funcionando.
 
-Léo olhou para a mãe.
-
-— O pai não disse tchau.
-
-Camila forçou um sorriso.
-
-— Ele estava atrasado, amor. Vamos, termina logo o cereal que a gente precisa sair também.
+— Vamos, crianças. Escovar os dentes. Rápido!
 
 ---
 
-Trânsito. Deus do céu, o trânsito.
+O trânsito da Avenida Rebouças era a representação física do estado mental de Camila: caótico, barulhento e travado.
 
-Camila olhou para o relógio do painel do carro: sete e cinquenta e cinco. A escola começava às oito e quinze. Vinte minutos. Era apertado, mas dava. Dava se não tivesse esse inferno de carros parados na Avenida Rebouças.
+Bia cantava "Livres Estou" no banco de trás, desafinando com convicção. Léo olhava pela janela, quieto demais para uma criança de oito anos.
 
-No banco de trás, Bia cantava alguma música da Frozen desafinada efeliz. Léo olhava pela janela, quieto demais. Camila ajustou o retrovisor para ver o filho.
+— Tudo bem aí atrás, filho? — perguntou ela, ajustando o retrovisor para ver os olhos dele.
 
-— Tudo bem, Léo?
+— O pai esqueceu de assinar minha agenda — disse ele, baixinho.
 
-— Tá, mãe.
+O coração de Camila apertou.
 
-Não estava. Camila sabia. Mas o que ela poderia fazer agora? Parar o carro no meio do trânsito e ter uma conversa profunda sobre o que estava incomodando um menino de oito anos que provavelmente sentia a tensão da casa mesmo sem entender?
+— O que tinha na agenda?
 
-Não. Ela não podia. Então ela fez o que sempre fazia: anotou mentalmente.
+— O bilhete sobre a excursão. Tinha que entregar hoje.
 
-*Conversar com Léo hoje à noite. Não esquecer. Colocar alarme no celular. Conversar com Léo.*
+— Por que você não me pediu, Léo?
 
-Oito e doze. Camila estacionou em frente à escola na vaga de embarque e desembarque. Abriu a porta de trás. Bia pulou para fora. Léo saiu devagar.
+— A professora disse que era para o pai ou a mãe. Eu pedi pro pai ontem quando ele chegou. Ele disse "depois eu vejo".
 
-— Mochila, lancheira. Bia, sua mochila está aberta. Léo, cadê o boné? Esqueceu? Tudo bem, não tem sol forte hoje. Tchau, meu amor. Tchau, minha princesa. Bom dia pra vocês. A mamãe busca vocês às cinco, tá bom?
+Camila apertou o volante com tanta força que os nós dos dedos ficaram brancos.
 
-Beijos. Abraços. Tchau, mãe. Tchau, mamãe.
+*Depois eu vejo.* O mantra de Ricardo. O "depois" dele significava "nunca". Significava "Camila vai ver depois e resolver".
 
-Eles entraram.
+— Não se preocupa, amor. Quando a gente chegar lá, a mamãe assina. Eu desço com você.
 
-Camila respirou.
+— Mas a vaga de parar é ruim, mãe...
 
-Um segundo. Dois. Três.
+— Não tem problema. A mamãe dá um jeito. A mamãe sempre dá um jeito.
 
-E foi para o trabalho.
+Ela estacionou em uma vaga proibida, ligou o pisca-alerta, correu com Léo até a portaria, assinou o bilhete apoiando o papel na parede, deu um beijo na testa suada dele e correu de volta antes que tomasse uma multa.
 
----
+Deixou Bia na portaria da pré-escola. Mais beijos. Mais tchauzinhos.
 
-O escritório era em Pinheiros. Mais trânsito. Mais buzinas. Mais o rádio falando de coisas que Camila não estava processando. Ela estacionou no subsolo do prédio comercial às oito e quarenta e três. Atrasada. Mas não muito. O suficiente para se sentir mal, mas não o suficiente para alguém reclamar.
+Voltou para o carro.
 
-Camila trabalha como coordenadora de marketing numa empresa média de e-commerce. Não era o emprego dos sonhos - esse ela tinha deixado para trás há muito tempo, na agência criativa onde trabalhava antes de Léo nascer - mas era estável. Pagava as contas. Tinha horário fixo. Bem, teoricamente fixo.
+Eram oito e quinze.
 
-Ela entrou no elevador com mais três pessoas que pareciam tão cansadas quanto ela. Todos olhando para os celulares. Ninguém olhando para ninguém. Camila aproveitou e checou as notificações.
+O silêncio do carro, agora vazio, caiu sobre ela como um manto de chumbo.
 
-Três e-mails não lidos. Uma mensagem do grupo de mães da escola de Bia sobre festa de aniversário. Um lembrete do Google: *Aniversário do Léo - 15 dias*.
+Não havia música da Frozen. Não havia reclamações sobre giz de cera. Apenas o zumbido do motor e a respiração curta dela mesma.
 
-*Festa. Precisa organizar a festa. Bolo. Salgados. Convites. Decoração. Fazer lista. LISTA.*
+Camila encostou a testa no volante por um segundo. Só um segundo. Permitiu-se fechar os olhos.
 
-O elevador abriu no oitavo andar.
+A vontade de chorar veio rápida e violenta, subindo pelo peito. Mas ela a empurrou para baixo. Engoliu o choro junto com a saliva.
 
-— Bom dia, Camila! — A recepcionista era sempre muito animada. Camila nunca entendeu como.
+*Não agora. Você tem reunião.*
+*Não agora. Se chorar, vai borrar a maquiagem e você esqueceu o rímel em casa.*
+*Não agora.*
 
-— Bom dia, Jú.
+Ela levantou a cabeça, olhou-se no espelho retrovisor, ajeitou um fio de cabelo solto e engatou a primeira marcha.
 
-Camila foi para a baia dela. Computador. Café da copa (de novo). E-mails. Reunião às dez. Apresentação às onze e meia. Prazo de campanha na sexta. Relatório mensal atrasado. Mais listas. Sempre mais listas.
+O escritório a esperava. As planilhas a esperavam. As demandas a esperavam.
 
-O celular tocou. Escola de Bia.
+Camila — a mulher, a sonhadora, a artista que ela costumava ser — teria que esperar mais um pouco. Talvez para sempre.
 
-O coração de Camila pulou. Escola só ligava quando tinha problema.
-
-— Alô?
-
-— Dona Camila? É da secretaria da escola. A Beatriz esqueceu a garrafinha de água. A senhora consegue trazer?
-
-Camila olhou para a tela do computador. Para o relógio. Para a reunião que começaria em quarenta minutos.
-
-— Consigo. Eu levo.
-
-Ela desligou. Respirou fundo. Mandou mensagem no grupo do trabalho: *Preciso sair rápido, volto para a reunião das 10. Urgência familiar.*
-
-Pegou a bolsa. Voltou para o carro. Dirigiu até em casa (vinte minutos). Pegou a garrafinha que estava na pia da cozinha onde Bia tinha "esquecido" (porque ela não tinha conferido de manhã, porque ela estava ocupada com outras noventa coisas). Voltou ao carro. Escola (quinze minutos). Entregou a garrafa. Voltou para o trabalho (mais vinte minutos).
-
-Chegou às dez e sete.
-
-A reunião tinha começado.
-
-Camila entrou na sala de reunião tentando ser invisível. Murmurou um "desculpa" e sentou. Seu chefe, Marcelo, mal olhou para ela. Continuou falando sobre métricas de campanha.
-
-O celular de Camila vibrou. Mensagem de Ricardo:
-
-*"Vai ter janta hoje? Vou chegar tarde."*
-
-Ela olhou para a mensagem. Não respondeu. Guardou o celular.
-
-Ia ter janta. Sempre tinha. Porque se ela não fizesse, ninguém fazia.
+Ela acelerou, misturando-se aos milhares de outros carros cinzas na avenida cinza, em mais um dia cinza de sua vida invisível.
 
 ---
 
-O resto do dia foi um borrão.
+O dia no escritório foi aquele borrão frenético de quem trabalha em agência ou departamentos de marketing modernos. "Urgente" era a palavra favorita de todos.
 
-Reunião. E-mails. Mais reunião. Telefonema com fornecedor. Apresentação de campanha. Feedback. Ajustes. Mais e-mails. O celular tocou mais duas vezes: uma da mãe dela, Dona Sônia, que ela ignorou porque não tinha energia para aquela conversa agora. Outra de um número desconhecido que era propaganda.
+Tudo era "para ontem". 
+"Camila, precisamos aprovar o layout."
+"Camila, o cliente não gostou da fonte."
+"Camila, o relatório de performance caiu."
 
-Cinco horas.
+Ela resolveu tudo. Apagou incêndios com a competência de quem faz isso há anos. Ela era boa no que fazia. Muito boa. Organizada, criativa, ágil.
 
-Camila salvou tudo, desligou o computador, pegou a bolsa e praticamente correu para o carro.
+Às três da tarde, seu celular vibrou na mesa.
 
-Trânsito de novo. Mas agora era pior. Todo mundo saindo do trabalho ao mesmo tempo, numa cidade que tinha mais carros do que paciência.
+Era uma mensagem de Ricardo.
 
-Ela chegou na escola às cinco e vinte e três. Léo e Bia estavam esperando com a professora do período estendido. Bia veio correndo.
+*"Amor, lembra que hoje tenho futebol com o pessoal da firma? Não vou jantar em casa."*
 
-— MAMÃE!
+Camila olhou para a tela iluminada.
 
-Léo veio andando, mochila pesada. Ele parecia mais cansado que de manhã.
+Futebol. Numa terça-feira.
 
-— Desculpa o atraso.
+Ela digitou: *"Ok. Divirta-se."*
 
-A professora sorriu, mas era aquele sorriso que dizia *você está sempre atrasada*.
+Apagou.
 
-— Tudo bem, Dona Camila.
+Digitou: *"Mas você disse que ia me ajudar com a lição do Léo hoje."*
 
-Camila colocou as crianças no carro. Bia falava sem parar sobre a aula de artes. Léo ficou quieto. Camila fez anotação mental número seiscentas e doze do dia: *Conversar. Com. Léo.*
+Apagou.
 
-— Quem quer pão de queijo? — ela perguntou, porque sabia que não ia ter tempo de fazer um jantar elaborado.
+Ele não ia lembrar que disse isso. E se lembrasse, diria que o futebol era importante para o "networking".
 
-— EUUUU! — Bia.
+Ela digitou apenas: *"Tá bom."*
 
-— Eu quero — Léo, baixinho.
+Bloqueou a tela. Sentiu aquele gosto amargo na boca que não tinha nada a ver com o café ruim da copa. Era o gosto da resignação.
 
-Padaria. Pão de queijo. Leite. Aproveitou e comprou o pão e o queijo da lista mental de manhã.
+Às cinco e meia, ela saiu correndo. Literalmente correu até o estacionamento. O trânsito da volta era pior. A ansiedade da "segunda jornada" começava a bater.
 
-Chegaram em casa às seis e quinze.
+Buscar crianças. Trânsito. Ouvir como foi o dia. Trânsito. Chegar em casa.
 
-A lista recomeçou:
+A porta do apartamento se abriu às 18h45.
 
-*Banho nas crianças. Lição do Léo. Atenção para Bia. Jantar. Louça. Roupa para lavar. Roupa para estender. Mochilas para o dia seguinte. Uniforme limpo?  Verificar. Sempre verificar.*
+O cenário era o mesmo de sempre. A casa estava vazia e silenciosa, mas as almofadas do sofá ainda guardavam o formato do corpo de Ricardo de manhã. A xícara de café dele continuava no balcão, agora com uma crosta de leite seco na borda.
 
----
+Ele não tinha nem colocado na pia.
 
-Nove e meia da noite.
+Camila olhou para aquela xícara.
 
-Bia dormia no quarto dela, pijama de princesa, cabelo ainda úmido do banho. Camila tinha lido três histórias até ela finalmente apagar. Léo estava no quarto dele, mais dez minutos de leitura antes de dormir - ele tinha pedido, e Camila não tinha conseguido negar.
+Era apenas uma xícara de cerâmica branca, barata, com uma lasca na borda. Mas, naquele momento, iluminada pela luz amarela da cozinha, ela parecia um monumento ao descaso.
 
-A cozinha estava limpa. Louça lavada. Bancada organizada. Lancheiras prontas para amanhã. Uniformes separados. Mochilas na porta.
+— Vai se trocar, Léo. Bia, tira o tênis — ela comandou, a voz saindo automática.
 
-Ricardo tinha chegado às nove, comido o prato que ela tinha deixado separado (pão de queijo requentado, salada, um pedaço de frango grelhado que ela tinha feito rapidamente), e ido direto para o sofá. Agora ele assistia algum programa de esporte com o volume baixo, quase dormindo.
+Enquanto as crianças iam para seus quartos, Camila foi até a xícara. Pegou-a. O resto de café frio balançou dentro dela.
 
-Camila foi até o banheiro.
+Ela teve vontade de atirar a xícara na parede. Imaginou a cerâmica explodindo, os caquinhos voando, a mancha marrom de café escorrendo pelo papel de parede bege. Imaginou o barulho. O estrondo. O susto.
 
-Fechou a porta.
+Seria libertador.
 
-Olhou-se no espelho.
+Mas quem limparia depois?
 
-O rosto que a encarava de volta era familiar, mas estranho. Olheiras fundas. Pele cansada. Cabelo preso no mesmo coque apressado de doze horas atrás. Ela levantou a mão e tocou o próprio rosto, como se precisasse confirmar que aquela era realmente ela.
+Ela.
 
-*Quando foi que eu fiquei assim?*
+Sempre ela.
 
-Quando foi a última vez que ela tinha sorrido de verdade? Não aquele sorriso automático que ela dava para as crianças, para os colegas de trabalho, para a professora. Mas um sorriso real. De alegria. De leveza.
+Então, Camila apenas suspirou, derrotada. Derramou o café na pia, passou água e detergente na xícara, e a colocou no escorredor.
 
-Camila não lembrava.
+— Mãe! Tô com fome! — gritou Bia da sala.
 
-Ela olhou para os próprios olhos no espelho e sentiu algo que não conseguia nomear. Não era raiva. Não era tristeza. Era maior. Mais profundo. Era como se ela estivesse olhando para uma pessoa que ela conheceu uma vez, muito tempo atrás, e que tinha sumido sem avisar.
+— Já vou, filha! — gritou ela de volta.
 
-*Quem é você?*
+Ela abriu a geladeira. Tirou o frango descongelado. Pegou a tábua de cortar. Pegou a faca.
 
-A pergunta ecoou na mente silenciosa.
+E começou tudo de novo.
 
-*Onde está a Camila?*
+Cortar. Refogar. Mexer. Servir. Limpar. Dar banho. Secar cabelo. Ler história. Beijo de boa noite. Apagar a luz.
 
-Do lado de fora, ela ouviu Ricardo mudar de canal. Ouviu o barulho familiar da TV, do dia terminando, da rotina que recomeçaria em poucas horas.
+Quando Camila finalmente se sentou no sofá, eram dez e meia da noite.
 
-E Camila, sozinha no banheiro, olhando para o espelho, não tinha resposta.
+A casa estava em ordem. As crianças dormiam. O jantar de Ricardo (que ela tinha deixado pronto, caso ele chegasse com fome do futebol) estava no micro-ondas.
 
-Ela só sabia uma coisa:
+Ela estava sozinha na sala.
 
-Estava cansada.
+O silêncio agora não era tenso. Era pesado. Esmagador.
 
-E o cansaço não era só do corpo.
+Camila ouviu a chave girar na porta.
 
-Era da alma.
+Ricardo entrou. Cheirava a sabonete de vestiário e desodorante masculino barato, com um fundo leve de cerveja. Estava corado, animado, energizado pelo exercício e pela companhia dos amigos.
+
+— E aí, amor! — Ele sorriu, jogando a mochila de esportes no chão (no chão!). — Cansada?
+
+Camila olhou para ele. Para o rosto suado e feliz. Para a mochila no meio da sala limpa.
+
+— Estou — disse ela. Apenas isso.
+
+— Ah, futebol hoje foi intenso. Fiz dois gols. O pessoal marcou churrasco pro fim de semana.
+
+Ele foi até a cozinha, abriu a geladeira, pegou uma garrafa de água. Voltou bebendo no gargalo.
+
+— As crianças já dormiram?
+
+— Já.
+
+— Beleza. Vou deitar. Tô morto.
+
+Ele passou por ela, deu um beijo estalado e úmido no topo da cabeça dela — como se dá um beijo em um móvel ou em um animal de estimação querido — e foi para o quarto.
+
+— Não vem deitar? — gritou ele do corredor.
+
+— Daqui a pouco — respondeu Camila.
+
+Mas ela não foi.
+
+Ela ficou ali, sentada no escuro da sala, ouvindo o tique-taque do relógio de parede que parecia contar os segundos da sua vida que estavam escorrendo pelo ralo.
+
+Ela olhou para as próprias mãos pousadas no colo. Mãos que tinham trocado fraldas, digitado relatórios, limpado xícaras, dirigido carros, acariciado febres, segurado o mundo.
+
+Mãos que tremiam levemente.
+
+Camila se perguntou, com uma curiosidade mórbida e assustadora:
+
+*Se eu sumisse amanhã... quanto tempo Ricardo demoraria para notar que o papel higiênico não se repõe sozinho no suporte?*
+
+Ela não sabia a resposta.
+
+E naquele momento, com a escuridão da sala abraçando-a como um cobertor frio, Camila percebeu que a pior parte não era o cansaço físico. Não eram as olheiras. Não era a lista infinita.
+
+A pior parte era a solidão.
+
+A solidão acompanhada. A solidão de dormir ao lado de alguém que não sabia a cor da sua escova de dentes ou o nome da sua angústia.
+
+Camila levantou-se, apagou a última luz, e caminhou para o quarto, arrastando os pés e a alma, pronta para dormir pouco e acordar sete minutos antes do despertador, para fazer tudo de novo.
+
+Invisível.
+Imprescindível.
+E completamente só.

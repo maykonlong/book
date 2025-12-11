@@ -1,328 +1,200 @@
 # CAPÍTULO 4
 ## As Pequenas Sabotagens
 
-Camila decidiu tentar de novo.
+Há um tipo específico de loucura que acomete mulheres casadas e exaustas: a crença teimosa de que *mais esforço* gerará *mais amor*.
 
-Ela sabia - em algum lugar no fundo da lógica que ela ainda tentava manter - que era insanidade. Fazer a mesma coisa e esperar resultados diferentes. Mas ela também sabia outra coisa: se ela não tentasse, ela nunca poderia dizer para si mesma que fez tudo que podia.
+É a lógica do trabalho: se eu trabalhar mais, serei promovida. Se eu estudar mais, passarei na prova. Então, se eu me esforçar mais no casamento, se eu for mais carinhosa, mais atenciosa, criativa, ele vai notar. Ele vai retribuir.
 
-E Camila precisava poder dizer isso. Precisava saber que esgotou todas as possibilidades antes de... antes de quê? Ela não completava esse pensamento. Não ainda.
+Camila caiu nessa armadilha na sexta-feira seguinte.
 
-Então ela planejou.
+A recusa da terapia ainda doía, mas sua mente traidora racionalizou: *Ele tem razão em partes. A rotina engoliu a gente. Talvez a gente só precise de romance. De leveza.*
 
-Um jantar romântico.
+Ela decidiu preparar um jantar surpresa.
 
-Simples. Só os dois. As crianças dormiriam cedo. Ela faria algo especial. Eles conversariam. De verdade. Reconectariam. Porque talvez - *talvez* - o problema fosse só que eles estavam distantes. Cansados. Precisando de tempo juntos.
+Não era aniversário de namoro. Não era data especial. Era apenas uma sexta-feira chuvosa em que Camila queria desesperadamente sentir que ainda tinha um marido, não apenas um colega de quarto que roncava.
 
-Talvez fosse só isso.
+Ela saiu do trabalho às 16h, inventando uma desculpa de dentista para o chefe. Correu ao supermercado.
 
-*(Camila sabia que não era só isso. Mas ela precisava tentar.)*
+Encheu o carrinho com os "favoritos do Ricardo".
+Filé mignon (o preço fez seus olhos lacrimejarem, mas valia a pena).
+A garrafa de vinho tinto chileno que ele gostava.
+Morangos para a sobremesa.
+Velas.
 
----
+Chegou em casa como um furacão eficiente. Deu banho nas crianças, deu jantar a eles mais cedo ("hoje é dia de piquenique no tapete do quarto!", ela inventou, e eles adoraram), colocou um desenho longo.
 
-Sexta-feira.
+Às 19h30, a casa estava transformada.
 
-Camila saiu do trabalho mais cedo - pediu para sair às quatro, compensaria as horas na próxima semana. Foi ao mercado. Comprou ingredientes para o prato favorito de Ricardo: filé ao molho madeira, arroz branco, batatas sauté, salada. Comprou uma garrafa de vinho (não o mais caro, porque o orçamento estava apertado, mas um bom). Comprou velas.
+Luzes baixas. Playlist de jazz suave tocando (aquela que eles ouviam quando namoravam). A mesa posta com os jogos americanos bons, guardanapo de tecido, taças de cristal que estavam empoeiradas. O cheiro de carne assada e ervas inundava o apartamento, mascarando o cheiro eterno de lancheira e produtos de limpeza.
 
-Em casa, colocou as crianças para brincar no quarto. Organizou a sala, limpou a mesa de jantar (que eles raramente usavam, sempre comiam na cozinha ou na saleta). Colocou uma toalha bonita. Colocou as velas. Baixou uma playlist de música suave no Spotify.
+Camila tomou um banho. Passou perfume. Soltou o cabelo. Colocou um vestido que não usava há anos, rezando para fechar. Fechou. Ficou ótimo.
 
-Quando Ricardo ligou às seis, ela estava terminando de fazer a comida.
+Ela se olhou no espelho e viu uma mulher bonita. Cansada, sim, mas bonita. Esperançosa.
 
-— Oi, amor. Alguma coisa? — ela atendeu, mexendo o molho.
+*Vai ser legal*, pensou. *Ele vai chegar, vai ver a mesa, vai ficar surpreso. A gente vai rir. Vai beber vinho. Talvez até tranque a porta do quarto mais tarde...*
 
-— Não, só ligando para avisar que eu vou chegar um pouco mais tarde hoje. Vou sair com o pessoal do trabalho para tomar uma cerveja.
+O coração dela acelerou. Uma fagulha de desejo — coisa rara — acendeu.
 
-O coração de Camila parou.
+19h45. Hora dele chegar.
 
-— Ah. — Ela desligou o fogo. Olhou para a mesa arrumada. Para as velas. Para a comida. — Hoje?
+Ela foi para a cozinha finalizar o molho madeira. Estava perfeito. Aveludado, brilhante.
 
-— É, por que? Aconteceu alguma coisa?
+20h00.
+Ricardo não tinha chegado. Trânsito, provavelmente. Sexta-feira em São Paulo era o inferno bíblico com garoa.
 
-*Aconteceu alguma coisa.*
+20h15.
+Camila mandou uma mensagem: *"Já tá chegando, amor? Tenho uma surpresa."*
+Enviou um emoji de piscadinha. Ousada.
 
-Como se ela precisasse de um motivo especial, uma *coisa*, para querer jantar com o próprio marido.
+20h30.
+Nenhuma resposta.
+O molho estava engrossando demais. Ela desligou o fogo. Acendeu as velas para testar o clima. Ficou lindo. Apagou para não gastar.
 
-Camila respirou fundo. Não ia deixar a frustração tomar conta. Ia ser razoável. Tranquila. Ia comunicar.
+20h45.
+O celular vibrou. Mas era o grupo das mães da escola discutindo piolho. Camila ignorou.
 
-— Na verdade, eu preparei um jantar especial. Para a gente. Pensei que a gente pudesse conversar, passar um tempo junto...
+21h00.
+O celular vibrou de novo. Ricardo chamando.
 
-Silêncio do outro lado.
+Camila atendeu no primeiro toque, aliviada.
+— Oi, amor! Onde você está? O jantar tá quase...
+— Oi, Cá. — A voz dele estava alta, com barulho de fundo. Risadas. Vidro. Vozes masculinas. — Escuta, esqueci de avisar. O pessoal da firma animou um happy hour aqui no barzinho da esquina do escritório. Tô aqui com o Marcão, o Felipe...
 
-— Ah. — A voz dele soou... irritada? Incomodada? — Você podia ter avisado antes.
+Camila sentiu o chão abrir.
 
-*Você podia ter avisado antes.*
+— Happy hour? — repetiu ela. Sua voz saiu estranha. Oca. — Agora?
 
-Ela tinha que avisar que queria jantar com o marido. Tinha que marcar. Colocar na agenda. Porque aparecer em casa era uma opção viável, mas jantar com a esposa precisava de confirmação prévia.
+— É, a gente veio comemorar o fechamento do mês. Tomei umas duas já. Tá bem legal. Você não se importa se eu chegar mais tarde, né? Janta alguma coisa aí com as crianças, não me espera.
 
-— Eu achei que seria uma surpresa boa — Camila disse, a voz saindo mais fina que ela queria.
+Camila olhou para a mesa posta. Para os guardanapos de tecido dobrados em forma de origami (ela tinha visto no YouTube). Para o vinho respirando no decanter. Para o seu próprio reflexo no vidro escuro da janela, vestida e perfumada para ninguém.
 
-— É, mas é que eu já confirmei com o pessoal, sabe? Fica chato desmarcar agora.
+— Ricardo... eu fiz jantar.
 
-Fica chato. Desmarcar cerveja com amigos fica chato. Mas dispensar o jantar que a esposa preparou não fica.
+— Fez? Ué, mas é sexta. A gente geralmente pede pizza ou come sobra.
 
-— Ricardo, eu fiz comida. Arrumei a mesa. Eu...
+— Eu fiz um jantar especial. Filé ao molho madeira. Comprei vinho. As crianças já comeram e estão no quarto. Eu... eu me arrumei.
 
-— Camila, por favor. Não precisa fazer drama. Eu janto quando chegar. A gente pode fazer isso amanhã.
+Houve um silêncio do outro lado da linha. Depois, um suspiro impaciente.
 
-— Amanhã você vai assistir ao jogo.
+— Puta, Camila. Mas você não avisou nada!
 
-— Domingo então.
+— Era uma surpresa.
 
-— Domingo é almoço na casa da sua mãe.
+— Surpresa a gente avisa que vai ter, pelo menos! "Reserva a noite", sei lá. Eu não tenho bola de cristal. Agora eu tô aqui, já pedi outra cerveja, o Marcão tá contando uma história... fica chato eu sair correndo.
 
-— Segunda?
+*Fica chato.*
+A frase a atingiu como um soco.
+Ficava chato sair do bar com os amigos.
+Não era "chato" deixar a esposa esperando em casa com velas acesas e comida esfriando.
 
-— Segunda é dia de semana, Ricardo. Você chega cansado. As crianças têm escola cedo.
+— Então você não vem?
 
-Ela ouviu o suspiro dele pelo telefone.
+— Vou, claro que vou. Mas mais tarde. Guarda a comida, a gente esquenta quando eu chegar. Ou come amanhã. Não precisa fazer drama, amor.
 
-— Então eu não sei o que você quer que eu faça, Camila. Eu não posso largar tudo toda hora que você decide fazer jantarzinho surpresa.
+— Eu não estou fazendo drama. — A voz dela tremeu.
 
-*Jantarzinho.*
+— Tá sim. Tá com essa voz de choro. Camila, eu trabalho pra caramba, mereço uma cerveja. Não faz eu me sentir culpado, vai.
 
-Diminutivo. Minimizando. Tornando pequeno. Como se o esforço dela fosse bobagem. Como se ela estivesse sendo dramática por querer atenção do próprio marido.
+Ele inverteu. Ele sempre invertia. De repente, ela era a vilã controladora que queria impedir o pobre trabalhador de ter seu lazer.
 
-Camila sentiu as lágrimas vindo. Segurou.
+— Tá bom, Ricardo. Divirta-se. — Ela disse.
 
-— Tudo bem. Vai com seus amigos.
+— Tchau. Beijo. Não me espera acordada.
 
-— Não fica assim, amor.
+Ele desligou.
 
-— Não estou "assim". Tudo bem. Vai.
+Camila ficou segurando o celular mudo na cozinha silenciosa.
 
-— Camila...
+Olhou para o filé mignon de oitenta reais.
+Olhou para as velas apagadas.
+Sentiu-se a mulher mais ridícula do planeta.
 
-— Vai, Ricardo. Sério. Está tudo bem.
+Uma estúpida vestida de gala na cozinha vazia.
 
-Ela desligou.
+— Mãe?
 
-Ficou parada na cozinha. Olhou para a comida pronta. Para a mesa arrumada. Para as velas que ela tinha comprado no mercado gastando dinheiro que eles não tinham sobrando.
+Ela se virou. Léo estava na porta da cozinha, de pijama, segurando seu boneco.
 
-*Jantarzinho.*
+— Uau, mãe! Você tá linda! Vai numa festa?
 
-Lágrimas escorreram. Ela nem tentou segurar dessa vez.
+Camila engoliu o choro com tanta força que sua garganta doeu fisicamente. Forçou um sorriso para o filho.
 
----
+— Não, meu amor. Eu me arrumei... pra gente. Pra ficar bonita em casa.
 
-Léo apareceu na cozinha.
+— E o pai? Ele não vem comer? O cheiro tá muito bom.
 
-— Mãe, está chorando?
+— O pai... teve que trabalhar mais um pouco. Reunião.
 
-Camila limpou o rosto rápido. Sorriu.
+— De novo? — Léo fez bico. — Ele sempre tem reunião na sexta à noite.
 
-— Não, amor. É alergia.
+Até a criança sabia que era mentira.
 
-Léo não acreditou. Ela viu nos olhos dele. Mas ele tinha oito anos e não sabia o que fazer com a tristeza da mãe, então aceitou a mentira porque era mais fácil que a verdade.
+— Vem cá — disse Camila. — Você tá com fome ainda? Cabe um pedacinho de carne chique?
 
-— A janta tá cheirando bem.
+— Cabe!
 
-Camila olhou para a comida.
+Camila serviu um prato para o filho. Sentou-se à mesa com ele. Acendeu uma vela só para ele ver.
 
-— Quer jantar mais cedo hoje?
+— Olha, jantar à luz de velas! — brincou ela.
 
-— Pode ser. Mas... não era para ser um jantar especial? Com o pai?
+Léo riu, encantado.
 
-Como ele sabia? Camila tinha tentado esconder. Mas crianças sabem. Sempre sabem.
+Ela assistiu ao filho comer a carne que era para o marido. Bebeu uma taça de vinho sozinha. Depois outra.
 
-— O pai teve um imprevisto. Mas a gente pode jantar junto. Você, eu e a Bia.
+Léo comeu tudo.
+— Tá muito bom, mãe. O pai é bobo de perder isso.
 
-Léo assentiu.
+*O pai é bobo de perder isso.*
+A sabedoria dos inocentes.
 
-— Tudo bem. Eu chamo a Bia.
+Camila colocou Léo na cama depois. Beijou sua testa.
+— Boa noite, meu principezinho.
+— Boa noite, mãe linda. Você é a mais linda.
 
-Ele saiu. E Camila começou a tirar as velas da mesa. Guardou a toalha bonita. Voltar tudo ao normal. Como sempre.
+Camila voltou para a sala. Tirou a mesa. Jogou o resto da comida em potes plásticos sem nenhum cuidado.
 
----
+Apagou as luzes.
 
-Ricardo chegou em casa às onze e meia da noite.
+Ricardo chegou às 01h30 da manhã.
+Tropeçou no tapete da entrada. Ria sozinho. Cheiro de álcool e cigarro (ele não fumava, mas o bar devia estar cheio).
 
-Ela ouviu a chave na porta. Ouviu ele entrando, chutando o sapato. Cheiro de cerveja. Ele foi direto para o quarto.
+Camila estava no sofá, no escuro. Ainda de vestido.
 
-Camila estava deitada, de costas para o lado dele da cama. Acordada. Mas fingindo que dormia.
+— Eita! — Ele se assustou ao vê-la. — Que susto, Camila! O que você tá fazendo aí no escuro igual uma assombração?
 
-Ele deitou. Nem teve o cuidado de ser silencioso. Curvou o colchão com o peso. Em dois minutos, estava roncando.
+— Esperando — disse ela.
 
-E Camila ficou ali. Olhos abertos no escuro. Ouvindo a respiração pesada do marido que tinha escolhido cerveja com amigos ao invés dela.
+— Eu falei pra não esperar. — Ele foi até ela, tentou dar um beijo, mas ela virou o rosto. Ele beijou sua orelha. Estava bêbado e carinhoso. — Hum, tá cheirosa. É aquele vestido que eu gosto? Decote bonito...
 
-Sem remorso. Sem desculpas depois. Sem nem perceber o quanto doeu.
+Ele tentou passar a mão no seio dela.
 
----
+Camila sentiu uma repulsa violenta. Empurrou a mão dele.
 
-Sábado. Dia de jogo.
+— Não encosta em mim.
 
-É claro que era dia de jogo. Ricardo tinha avisado na segunda-feira: sábado às quatro tinha jogo importante, ele ia assistir com os amigos no bar. Camila tinha anotado mentalmente.
+— Qual é? Tá brava ainda? Por causa do jantarzinho?
 
-Ela acordou, fez café, café da manhã das crianças, limpou a cozinha. Ricardo acordou quase meio-dia.
+— Jantarzinho... — Ela repetiu, amarga.
 
-— Bom dia — ele disse, bocejando.
+— Amanhã a gente sai pra jantar, tá bom? Eu pago. Vamos naquele japonês caro. Pronto. Compensa?
 
-Camila não respondeu. Continuou lavando a louça.
+Ele achava que era uma transação. Troca-se um filé caseiro rejeitado por um rodízio japonês e o saldo fica zerado. Ele não entendia que o que ela queria não era comida. Era consideração. Era prioridade.
 
-— Amor, bom dia.
+— Não compensa, Ricardo. Não compensa. Vai dormir. Você está fedendo a bar.
 
-— Bom dia.
+— Ah, que mau humor. Tá na TPM?
 
-Tom seco. Ricardo percebeu.
+A cartada final. O clássico. Se a mulher tem sentimentos, deve ser hormônio.
 
-— Você ainda está brava por ontem?
+Ricardo foi para o quarto, resmungando sobre mulheres loucas.
 
-Camila largou a esponja. Virou-se.
+Camila ficou no sofá. Tirou o vestido ali mesmo, ficando de lingerie no frio da sala. Sentia-se exposta. Nua. Tola.
 
-— Brava? Eu estou decepcionada.
+Ela jurou para si mesma, ali no escuro:
+*Nunca mais.*
+*Nunca mais eu vou me arrumar pra quem prefere beber cerveja morna com o Marcão.*
+*Nunca mais eu vou cozinhar amor pra quem só tem fome de conveniência.*
 
-— Camila, eu avisei que tinha esse compromisso.
-
-— Você não avisou. Você ligou em cima da hora e foi. Mesmo sabendo que eu tinha preparado algo.
-
-— Mas eu não pedi para você preparar.
-
-*Eu não pedi.*
-
-E ali estava. A lógica dele. Se ele não pediu explicitamente, então ela não deveria ter feito. Iniciativa era um erro. Surpresa era invasão. Esforço não solicitado não tinha valor.
-
-— Casamento não deveria precisar de pedido formal para momentos juntos, Ricardo.
-
-— Nós já estamos juntos. Moramos juntos. Isso não é suficiente?
-
-— Não. Não é.
-
-Ele revirou os olhos.
-
-— Dramática.
-
-Camila sentiu algo estalando. Pequenininho. Mais uma linha. Mais uma rachadura.
-
-— Sabe de uma coisa? Vai pro seu jogo. Aproveita.
-
-— Eu vou. Mas não precisa ficar assim.
-
-— Assim como?
-
-— Fazendo drama. Eu vou sair, vou assistir um jogo, vou voltar. Não é o fim do mundo.
-
-Não era o fim do mundo. Ele estava certo. Tecnicamente certo. Um jogo não era o fim do mundo. Um jantar cancelado não era o fim do mundo.
-
-Mas não era sobre o jogo. Nunca foi.
-
-Era sobre o padrão. Sobre ele sempre, *sempre*, escolher qualquer outra coisa que não fosse ela. Sobre ela sempre sendo a última prioridade. A opção descartável. A que podia esperar porque ia estar lá de qualquer jeito.
-
-Mas como explicar isso para alguém que não queria entender?
-
-— Vai, Ricardo. Aproveita seu jogo.
-
-E ele foi.
-
----
-
-Domingo. Almoço na casa da sogra.
-
-Camila não queria ir. Estava exausta emocionalmente. Mas era compromisso. E compromisso não se desmarca (pelo menos os compromissos dela - os dele, aparentemente, podiam).
-
-A mãe de Ricardo, Dona Vera, era do tipo de sogra que achava que o filho era perfeito. Que fazia tudo certo. Que qualquer problema no casamento era porque a nora "não sabia lidar com ele".
-
-Almoço foi o de sempre. Comida farta. Conversas superficiais. Ricardo rindo com o pai sobre futebol. Dona Vera perguntando sobre as crianças, mas olhando para Camila como se julgasse cada resposta.
-
-— E você, Camila? Trabalhando muito?
-
-— Sim, bastante.
-
-— Deve ser difícil, né. Trabalhar e cuidar da casa. — O tom deixava claro que ela achava que Camila deveria escolher um dos dois.
-
-— A gente dá um jeito.
-
-— O Ricardo te ajuda?
-
-Camila quase riu. Quase.
-
-— O possível.
-
-— Homem não foi feito para casa, né? É da natureza. — Dona Vera deu aquele sorriso condescendente. — Meu marido nunca pegou numa vassoura na vida.
-
-E ela falava como se fosse medalha. Como se ter um marido inútil em casa fosse conquista. Como se ser a única responsável por tudo fosse honra.
-
-Camila sorriu de volta. Educada. Vazia.
-
-— Pois é.
-
-Quando foram embora, já era quase noite. Ricardo dirigiu de volta para casa. Camila no banco do lado. Léo e Bia atrás, cansados, quase dormindo.
-
-— Minha mãe estava bem hoje, né?
-
-Camila olhou pela janela.
-
-— Estava.
-
-— Você ficou quieta.
-
-— Estava cansada.
-
-— Você está sempre cansada.
-
-*Você está sempre cansada.*
-
-Como se fosse defeito dela. Como se ela tivesse escolhido isso. Como se o cansaço fosse frescura, não consequência.
-
-Camila não respondeu.
-
-Chegaram em casa. Rotina de sempre. Banho nas crianças. Jantar leve. Colocar para dormir. Arrumar mochila para segunda. Separar uniforme. Sempre a mesma dança.
-
-Ricardo no sofá. Como sempre.
-
-E Camila, olhando para o calendário na geladeira, contando os dias. Para quê, ela não sabia. Mas contando mesmo assim.
-
----
-
-Segunda-feira.
-
-Camila acordou e percebeu algo.
-
-Ela tinha tentado. Tinha tentado de verdade. Terapia: rejeitada. Jantar romântico: sabotado. Tempo juntos: sempre tinha algo mais importante.
-
-Não era por falta de esforço dela. Era porque ele não queria.
-
-E você não pode salvar sozinha algo que precisa de dois.
-
-No trabalho, Fernanda passou pela baia dela.
-
-— E aí? Como foi o fim de semana?
-
-Camila olhou para a colega. E pela primeira vez, falou a verdade sem filtro:
-
-— Horrível.
-
-Fernanda puxou uma cadeira e sentou.
-
-— Conta.
-
-E Camila contou. O jantar cancelado. O jogo. O almoço na sogra. Tudo.
-
-Quando terminou, Fernanda ficou em silêncio por um momento. Depois falou, sem rodeios:
-
-— Camila, escuta o que eu vou te falar com muito carinho: você está tentando regar uma planta morta.
-
-Camila piscou.
-
-— O quê?
-
-— Planta morta. Você tá jogando água, colocando no sol, conversando com ela, fazendo tudo certinho. Mas ela está morta. E nada que você faça vai ressuscitar se a raiz já foi embora.
-
-— Você está dizendo que o meu casamento está morto?
-
-— Estou dizendo que talvez você seja a única que ainda está tentando mantê-lo vivo.
-
-As palavras ficaram suspensas entre elas.
-
-Camila abriu a boca para argumentar. Para dizer que não, que Ricardo só estava cansado, estressado, que eles só estavam em uma fase ruim.
-
-Mas as palavras não saíram.
-
-Porque no fundo, no fundo mesmo, ela sabia.
-
-Fernanda tinha razão.
-
-Camila estava tentando salvar sozinha algo que precisava de dois. E estava se matando no processo.
-
-A pergunta era: por quanto tempo mais ela ia continuar?
-
-E pela primeira vez, Camila não tinha certeza de que queria saber a resposta.
-
-Porque começava a suspeitar que a resposta era: *não muito*.
+Foi a primeira "pequena sabotagem" consciente dela.
+Ela parou de tentar agradar.
+E quando a mulher para de tentar agradar, o casamento começa a mostrar suas verdadeiras fundações podres.

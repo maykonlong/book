@@ -1,222 +1,118 @@
 # CAPÍTULO 5
 ## A Conversa com Fernanda
 
-A planta morta.
+Segunda-feira. O dia internacional do arrependimento por não ter vivido o fim de semana que se sonhou.
 
-A metáfora ficou grudada na cabeça de Camila como chiclete no sapato. Ela não conseguia parar de pensar nisso. Durante a reunião de quarta-feira. Durante o almoço de quinta. Durante o banho das crianças na sexta à noite.
+Camila chegou ao escritório arrastando os pés. Seus olhos ardiam. Ela tinha passado o domingo chorando escondida no banheiro enquanto Ricardo assistia a todos os jogos do Campeonato Brasileiro, um após o outro, como se fosse um trabalho remunerado.
 
-*Você está tentando regar uma planta morta.*
+Às 10h da manhã, ela foi para a copa. Precisava de café. Cafeína era o único combustível que a mantinha em pé.
 
-E pior: ela sabia que Fernanda tinha razão.
+A copa era pequena, com cheiro permanente de pó de café queimado e desinfetante de limão. Havia uma mesa redonda bamba e duas cadeiras de plástico.
 
-Mas admitir isso significava admitir que onze anos - *onze anos* - tinham sido desperdiçados. Que ela tinha perdido a si mesma por algo que já estava morto há muito tempo. E isso era grande demais. Assustador demais.
+Fernanda já estava lá.
 
-Então ela fez o que sempre fez: empurrou o pensamento para o canto e continuou.
+Fernanda era redatora sênior. Trinta e oito anos, divorciada, mãe de gêmeos, e dona de uma energia que Camila invejava secretamente. Fernanda parecia *inteira*. Mesmo cansada, ela parecia dona de si.
 
-Até sexta à noite.
+— Bom dia... ixi. — Fernanda parou a xícara no meio do caminho ao ver o rosto de Camila. — Anota a placa.
 
----
+— Que placa? — Camila perguntou, confusa, servindo-se do café preto.
 
-Camila estava na cozinha. Era quase dez da noite. As crianças dormiam. Ricardo estava no sofá. E ela olhava para a pia cheia de louça com uma exaustão que ia além do físico.
+— Do caminhão que passou por cima de você. Amiga, você tá com uma olheira que dá pra pendurar uma bolsa.
 
-Ela lavou um prato. Depois outro. E outro.
+Camila tentou rir, mas saiu um som estrangulado. Ela encostou-se no balcão e sentiu a vontade de chorar subir pela garganta como refluxo.
 
-E de repente, sem aviso, começou a chorar.
+— É... o fim de semana foi difícil.
 
-Não aquele choro silencioso e controlado que ela fazia no banho ou no carro. Mas um choro alto, descontrolado, de soluços que vinham do fundo do peito. As mãos ainda na água da pia, lágrimas caindo junto com a espuma do detergente.
+Fernanda colocou a xícara na mesa. Sua expressão mudou de brincalhona para atenta.
 
-Ricardo apareceu na porta da cozinha.
+— Ricardo de novo?
 
-— Que que tá acontecendo?
+Camila assentiu. Não precisava explicar. Fernanda sabia. Todo mundo sabia, de um jeito ou de outro, que Camila carregava o mundo nas costas.
 
-Camila nem se virou. Não conseguia parar de chorar.
+— Senta aqui. — Fernanda puxou uma das cadeiras. — A pauta das 11h pode esperar.
 
-— Camila. — A voz dele soou irritada, não preocupada. — Que dramalhão é esse?
+Camila sentou. Olhou para o centro da mesa. Havia um vasinho triste com uma suculenta murcha, esquecida ali por alguém do RH. A terra estava seca, esturricada. As folhas estavam marrons e quebradiças.
 
-*Dramalhão.*
+— Eu não aguento mais, Fê — sussurrou Camila. — Eu faço tudo. Eu tento tudo. Jantar romântico, conversa, terapia... e nada funciona. Ele não me vê. Ele age como se eu fosse um eletrodoméstico que funciona sozinho.
 
-Ela virou, as mãos ainda molhadas de água e louça.
+Fernanda ouviu. Ela tinha aquele dom raro de escutar sem interromper com "comigo também é assim". Ela apenas escutava.
 
-— Eu não aguento mais.
+— Eu me sinto... oca — continuou Camila. — Sinto que estou gritando numa sala à prova de som. E o pior é que eu ainda amo ele. Ou acho que amo. Ou amo a ideia do que a gente podia ser.
 
-Ricardo fez aquela cara. A cara de quem estava cansado de lidar com "neura de mulher".
+Camila pegou um sachê de açúcar e começou a rasgar as bordas, nervosa.
 
-— Não aguenta o quê?
+— Eu fico pensando: se eu tentar mais um pouco... se eu for mais paciente... se eu explicar de outro jeito... talvez ele acorde.
 
-— ISSO! — Ela abriu os braços, englobando tudo. A cozinha. A casa. O casamento. A vida. — Eu não aguento mais carregar tudo sozinha. Não aguento mais ser invisível. Não aguento mais tentar e você nem perceber!
+Fernanda suspirou. Ela olhou para o vasinho de planta na mesa.
 
-— Camila, você está exagerando de novo...
+— Cá, olha pra essa planta.
 
-— EU NÃO ESTOU EXAGERANDO! — Ela gritou. Pela primeira vez em onze anos de casamento, ela gritou de verdade. — Eu estou me AFOGANDO, Ricardo! E você não vê. Ou pior: você vê e não liga!
+Camila olhou.
 
-— Todo mundo tem problemas, Camila. Você acha que só você trabalha? Só você fica cansada?
+— Tá morta, né? — disse Fernanda.
 
-— Não é sobre trabalho! É sobre TUDO. Sobre eu lembrar do aniversário dos seus filhos enquanto você esquece. Sobre eu fazer jantar especial e você preferir cerveja com os amigos. Sobre eu pedir terapia e você me chamar de dramática!
+— Tá. Secou.
 
-— Eu nunca te chamei de dramática!
+— Imagina que você decide salvar essa planta. Você traz adubo importado. Você rega com água mineral vulcânica. Você coloca música clássica pra ela. Você conversa com ela todo dia. Você passa o dia inteiro cuidando dela.
 
-— VOCÊ ACABOU DE ME CHAMAR!
+Fernanda fez uma pausa.
 
-Silêncio.
+— Ela vai reviver?
 
-Ricardo olhou para ela com aquela expressão de quem não sabia o que fazer. E Camila percebeu: não era que ele não sabia. Era que ele não *queria* saber. Porque saber significaria ter que mudar. E mudar era difícil. E ignorar era fácil.
+Camila olhou para as folhas marrons, estaladiças de tão secas. A raiz provavelmente já tinha virado pó.
 
-— Eu vou dormir — ele disse, finalmente. — Você está estressada. A gente conversa quando você se acalmar.
+— Não. Ela já morreu.
 
-*Quando você se acalmar.*
+— Pois é. — Fernanda olhou nos olhos de Camila. — Você pode ser a melhor jardineira do mundo. Você pode dar o seu sangue como adubo. Mas você não pode ressuscitar o que já morreu. E, amiga... desculpa te falar isso com essa franqueza, mas eu vejo você se matando pra regar uma relação que já secou faz tempo.
 
-Como se raiva válida fosse histeria. Como se exaustão fosse chilique.
+A metáfora bateu em Camila como um tapa físico.
 
-Ele saiu.
+*Regando planta morta.*
 
-E Camila ficou ali, na cozinha, com as mãos molhadas e o coração partido, percebendo algo que ela tinha evitado perceber por muito tempo:
+Era isso. Era exatamente isso. Todo o esforço dela. Todo o cansaço. Toda a elaboração de jantares, conversas, planos. Era tudo água derramada em terra morta.
 
-Ela estava sozinha.
+— Mas como eu sei? — perguntou Camila, a voz trêmula. — Como eu tenho certeza de que morreu? E se estiver só... dormindo?
 
-Completamente, absolutamente sozinha.
+— Você sabe — disse Fernanda, suavemente. — Você sabe porque você está sozinha nela. Uma relação viva tem troca. Tem dois jardineiros. Se só você está segurando o regador enquanto o outro reclama que a sombra tá pouca... isso não é casamento. É parasitismo.
 
----
+*Parasitismo.*
 
-Segunda-feira.
+Camila fechou os olhos. A imagem de Ricardo no sofá, com o celular na mão, enquanto ela corria com a casa, veio à mente. Ele não era um parceiro. Ele era um hóspede vip.
 
-Camila estava na copa do escritório quando Fernanda entrou.
+— Eu tenho medo — confessou Camila. — Medo de separar. Das crianças. Do dinheiro. De ficar sozinha.
 
-— Nossa. Você está com cara de quem não dormiu em uma semana.
+— O medo é real. — Fernanda segurou a mão dela sobre a mesa fria. — Eu me caguei de medo quando me separei. Mas sabe o que dá mais medo?
 
-Camila deu uma risada sem humor.
+— O quê?
 
-— Praticamente.
+— Passar os próximos trinta anos se sentindo exatamente como você está se sentindo agora. Sozinha, exausta e invisível.
 
-Fernanda sentou. Pegou a caneca de café que tinha trazido e deu um gole, esperando.
+Fernanda apertou a mão dela.
 
-Camila respirou fundo. E decidiu: não ia mais segurar. Não ia mais fingir que estava tudo bem.
+— A solidão de estar solteira a gente resolve com amigos, com livros, com vinho, com a própria companhia. Mas a solidão de estar casada com alguém que não te enxerga... essa solidão é um câncer, Camila. Ela te come por dentro.
 
-— Eu surtei na sexta.
+Camila olhou para a suculenta morta.
 
-— Surtou como?
+Ali, na copa, com cheiro de café velho, algo mudou. A esperança teimosa — aquela que a fazia tentar jantares e terapias — começou a dar lugar a outra coisa.
 
-— Chorei. Aos berros. Na frente do Ricardo.
+Uma aceitação fria.
+Uma compreensão lúcida.
 
-Fernanda levantou as sobrancelhas.
+Ela não estava lutando por um casamento. Ela estava lutando contra a realidade.
 
-— E?
+— Obrigada, Fê — disse Camila.
 
-— E ele disse que eu estava exagerando. Que eu estava estressada. Que a gente conversava quando eu me acalmasse.
+— Não precisa agradecer. Só... para de gastar sua água onde não brota mais nada. Guarda pra você. Você tá precisando.
 
-— Filho da mãe.
+Fernanda levantou-se, deu um beijo na testa de Camila e saiu.
 
-Camila quase riu. Fernanda não tinha filtro. E nesse momento, isso era exatamente o que ela precisava.
+Camila ficou ali mais um minuto.
+Ela pegou o vasinho com a planta morta.
+Levantou-se.
+E jogou no lixo.
 
-— Eu acho... — Camila começou, depois parou. Respirou. Continuou. — Eu acho que meu casamento acabou.
+O som do vaso batendo no fundo da lixeira foi o único ruído na sala.
+*Poc.*
 
-As palavras saíram. Finalmente. Depois de semanas circular em volta delas, ela falou.
-
-Fernanda não pareceu surpresa.
-
-— E como você se sente sobre isso?
-
-Camila esperava muitas reações. Choque. Julgamento. Conselho para tentar mais um pouco, por causa das crianças.
-
-Mas Fernanda só perguntou como ela se sentia.
-
-— Eu... — Camila procurou a resposta. — Eu me sinto aliviada. E apavorada. Ao mesmo tempo.
-
-— Isso faz sentido.
-
-— Faz?
-
-— Total. — Fernanda se inclinou. — Olha, eu não vou te dizer o que fazer. Não é minha vida. Mas posso te contar a minha?
-
-Camila assentiu.
-
-E Fernanda contou.
-
-Contou sobre o casamento dela. Sete anos com um homem que também era "bom". Que não traía, não batia, não bebia. Mas que também não era parceiro. Que deixava tudo nas costas dela. Que minimizava os sentimentos dela. Que a fazia sentir louca por querer mais.
-
-— Eu tentei de tudo — Fernanda disse. — Terapia. Conversas. Mudei eu, achando que o problema era comigo. Até que um dia eu percebi: o problema não era eu querer demais. Era ele oferecer de menos.
-
-— E você saiu?
-
-— Saí. — Fernanda sorriu. — Melhor decisão da minha vida.
-
-— Não teve medo?
-
-— Óbvio que tive. Estava apavorada. Medo de ficar sozinha. Medo de me arrepender. Medo do que as pessoas iam pensar. Mas sabe o que eu tinha mais medo?
-
-— Do quê?
-
-— De acordar daqui a vinte anos e perceber que eu tinha desperdiçado a minha vida por causa desse medo.
-
-As palavras ficaram suspensas.
-
-Camila pensou em ter quarenta e cinco anos. Cinquenta. Sessenta. Ainda exausta. Ainda invisível. Ainda carregando tudo sozinha enquanto Ricardo assistia TV.
-
-E percebeu que isso a assustava mais do que qualquer outra coisa.
-
-— Como você soube que era hora? — Camila perguntou, a voz baixa.
-
-Fernanda olhou para ela com aquele olhar de quem já passou por isso e sobreviveu.
-
-— Quando eu percebi que estava mais sozinha casada do que seria se estivesse realmente sozinha.
-
-*Mais sozinha casada.*
-
-Camila sentiu as lágrimas voltando.
-
-— Eu me sinto exatamente assim.
-
-Fernanda pegou a mão dela.
-
-— Então você já sabe a resposta.
-
-— Mas e as crianças?
-
-— As crianças vão preferir uma mãe feliz e separada do que uma mãe infeliz fingindo que está tudo bem. Criança sente tudo, Camila. Você sabe disso.
-
-Ela sabia. Deus, ela sabia. Via no jeito que Léo perguntava "mãe, você tá bem?" com aquela preocupação que criança de oito anos não deveria ter. Via na forma como Bia se agarrava nela quando sentia a tensão no ar.
-
-— E se eu não conseguir? Financeiramente, emocionalmente...
-
-— Você vai conseguir. — Fernanda apertou a mão dela. — Vai doer. Vai ser difícil. Mas você vai conseguir. Porque a alternativa é morrer aos poucos. E você não merece isso.
-
-Camila chorou. Ali, na copa do escritório, segundafeira de manhã, ela chorou. E Fernanda deixou. Não tentou consertar. Não tentou animar. Só ficou ali.
-
-Quando Camila finalmente parou, Fernanda falou:
-
-— Você não precisa decidir agora. Não precisa fazer nada hoje. Mas precisa parar de se enganar. Você já sabe o que precisa fazer. Só está com medo de fazer.
-
-E Camila sabia.
-
-Deus, ela sabia.
-
----
-
-Naquela noite, Camila deitou na cama ao lado de Ricardo - que já dormia, como sempre - e olhou para o teto no escuro.
-
-Ela pensou em onze anos. Pensou nos bons momentos, que existiram. No começo. Quando eles eram diferentes. Ou quando ela achava que eram.
-
-Pensou no anel de casamento, no juramento que fizeram.
-
-Pensou em Léo e Bia.
-
-Pensou na casa, nas contas, na estabilidade.
-
-Pensou em tudo que a prendia.
-
-Mas também pensou em outra coisa.
-
-Pensou em como seria acordar sem o peso no peito. Sem a lista mental infinita que ninguém mais via. Sem ter que pedir, implorar, suplicar por atenção básica.
-
-Pensou em como seria se sentir leve de novo.
-
-E decidiu.
-
-Não hoje. Não amanhã. Mas logo.
-
-Ela ia se salvar.
-
-Mesmo que isso significasse salvar sozinha.
-
-Porque no final das contas, ela sempre esteve sozinha mesmo.
-
-Pelo menos agora seria uma escolha.
+Fim. Acabou.
+Ela não ia mais regar cadáveres.

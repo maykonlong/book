@@ -1,0 +1,311 @@
+:root {
+    --bg-color: #fdfbf7;
+    --text-color: #2c2c2c;
+    --accent-color: #c96567;
+    --sidebar-bg: #f5f2eb;
+    --sidebar-text: #4a4a4a;
+    --font-serif: 'Garamond', 'Times New Roman', serif;
+    /* Fonte Clássica */
+    --font-sans: 'Inter', 'Helvetica Neue', sans-serif;
+    --current-font: var(--font-sans);
+    --font-size: 18px;
+    /* Ajustável */
+    --line-height: 1.5;
+    /* Espaçamento confortável */
+
+    /* Configuração A5 Vertical Simulada */
+    --content-max-width: 650px;
+    /* Largura otimizada para leitura (~12-14cm de texto) */
+}
+
+[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #d1d1d1;
+    --accent-color: #e08e90;
+    --sidebar-bg: #252525;
+    --sidebar-text: #b0b0b0;
+}
+
+[data-theme="sepia"] {
+    --bg-color: #f4ecd8;
+    --text-color: #5b4636;
+    --accent-color: #8f5e3e;
+    --sidebar-bg: #e9e0c9;
+    --sidebar-text: #5b4636;
+}
+
+* {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: var(--font-sans);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    /* App shell fixo */
+}
+
+/* UI Elements */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background-color: var(--bg-color);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+    z-index: 200;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 35px;
+    background-color: var(--bg-color);
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    font-size: 0.75rem;
+    color: var(--text-color);
+    opacity: 0.9;
+    z-index: 200;
+}
+
+.header-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-color);
+    padding: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.book-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    opacity: 0.8;
+    letter-spacing: 1px;
+}
+
+/* CONTAINER PRINCIPAL (Modo Único: Rolagem) */
+#reader-container {
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+    /* Scroll principal */
+    overflow-x: hidden;
+
+    /* Padding generoso para evitar texto escondido */
+    padding-top: 80px;
+    /* Mais que o header (60px) */
+    padding-bottom: 60px;
+    /* Mais que o footer */
+    padding-left: 20px;
+    padding-right: 20px;
+
+    font-family: var(--current-font);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#content {
+    max-width: var(--content-max-width);
+    margin: 0 auto;
+    /* Centraliza na tela */
+    padding-bottom: 50px;
+}
+
+/* Tipografia Refinada */
+#content h1 {
+    font-family: var(--font-sans);
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 40px;
+    /* Espaço extra antes do título */
+    margin-bottom: 40px;
+    color: var(--accent-color);
+    line-height: 1.2;
+}
+
+#content p {
+    margin-bottom: 1.5em;
+    text-align: justify;
+    text-indent: 0;
+    /* Moderno */
+}
+
+/* Nav Buttons In-Text */
+.chapter-nav {
+    margin-top: 60px;
+    padding-top: 30px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.nav-internal-btn {
+    padding: 12px 24px;
+    background: transparent;
+    border: 1px solid var(--text-color);
+    border-radius: 4px;
+    color: var(--text-color);
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.nav-internal-btn:hover {
+    background: var(--text-color);
+    color: var(--bg-color);
+}
+
+/* Sidebar e Modais (Mantidos) */
+#sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 85%;
+    max-width: 320px;
+    height: 100%;
+    background: var(--sidebar-bg);
+    transform: translateX(-100%);
+    transition: transform 0.3s;
+    z-index: 300;
+    padding: 80px 20px 20px;
+    /* Padding top maior */
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+    overflow-y: auto;
+}
+
+#sidebar.open {
+    transform: translateX(0);
+}
+
+.chapter-item {
+    padding: 15px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    font-size: 0.95rem;
+}
+
+.chapter-item.active {
+    color: var(--accent-color);
+    font-weight: bold;
+}
+
+.close-sidebar {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+#settings-modal {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--bg-color);
+    padding: 25px;
+    transform: translateY(100%);
+    transition: transform 0.3s;
+    z-index: 300;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.1);
+}
+
+#settings-modal.open {
+    transform: translateY(0);
+}
+
+#overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 250;
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+#overlay.visible {
+    display: block;
+    opacity: 1;
+}
+
+/* Configs UI */
+.setting-group {
+    margin-bottom: 25px;
+}
+
+.setting-label {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    opacity: 0.8;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.theme-options {
+    display: flex;
+    gap: 10px;
+}
+
+.theme-btn {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ddd;
+    background: transparent;
+    border-radius: 8px;
+    color: var(--text-color);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.8rem;
+}
+
+.theme-btn.active {
+    border-color: var(--accent-color);
+    background: rgba(0, 0, 0, 0.03);
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+input[type=range] {
+    width: 100%;
+    margin: 10px 0;
+    accent-color: var(--text-color);
+}

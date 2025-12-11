@@ -1,225 +1,112 @@
 # CAPÍTULO 23
 ## A Resistência
 
-Camila olhava para a mensagem no celular há cinco minutos.
+Ricardo apareceu na quarta-feira à noite. Sem avisar.
+Normalmente ele só vinha de fim de semana.
 
-Era de Daniel. Simples. Direta:
+A campainha tocou às oito. Camila estava de pijama (aquele velho e confortável), lendo no sofá depois que as crianças dormiram.
 
-*"Adorei conversar com você ontem na exposição. Topa um café semana que vem?"*
+Ela olhou no olho mágico. Ricardo.
+Segurava algo. Flores?
 
-A mensagem tinha chegado domingo de manhã. Agora era domingo à tarde.
+Camila abriu a porta, mas não tirou a corrente de segurança.
+— Ricardo? Aconteceu alguma coisa com as crianças?
 
-E Camila ainda não tinha respondido.
+— Não, não. Tudo bem. — Ele sorriu. Aquele sorriso de "bom moço" que costumava funcionar há doze anos. — Vim falar com você.
 
-Porque o terror a paralisava.
+— Agora? Tá tarde.
+— É rápido. Abre aí, Cá. Por favor.
 
----
+*Cá.* O apelido carinhoso. Fazia meses que ele não usava.
 
-Ela pegou o celular. Começou a digitar:
+Camila hesitou. Depois fechou a porta para tirar a corrente e abriu.
+Ele entrou. Trazia um buquê de lírios (as flores preferidas dela... ou eram? Não, ela gostava de girassol. Lírio era o que *a mãe dele* gostava).
 
-*"Oi Daniel! Café parece ó—"*
+— Pra você — estendeu as flores.
 
-Apagou.
+Camila pegou, confusa.
+— Obrigada. O que houve?
 
-Muito animado. Parece desesperada.
+Ricardo sentou no sofá sem ser convidado. Olhou para a sala.
+— A casa tá bonita. Você mudou os quadros?
 
-Tentou de novo:
+— São meus. Eu pintei.
+— Ah, é. A fase artista. Ficaram bons.
 
-*"Oi. Talvez. Deixa eu ver minha agen—"*
+*Fase artista.* condescendência sutil.
 
-Não. Muito frio.
+— Ricardo, fala logo.
 
-Terceira tentativa:
+Ele suspirou. Olhou para ela com olhos de cachorro pidão.
+— Eu tô com saudade, Camila.
+— Das crianças? Você vê elas sábado.
+— Não. De você. Da gente. De casa.
 
-*"Café seria legal—"*
+Camila sentiu o estômago revirar. Não de amor. De alerta.
 
-Para. Respira. POR QUE ISSO É TÃO DIFÍCIL?
+— Ricardo, a gente tá separado há cinco meses. O divórcio sai mês que vem.
+— Eu sei. Mas... eu andei pensando. Será que a gente não precipitou? Onze anos, Camila. É muita história pra jogar fora.
 
-Jogou o celular no sofá.
+Ele levantou e chegou perto dela.
+— Eu sei que eu errei. Fui ausente. Mas eu mudei. Aquele apartamento, ficar sozinho... me fez ver o valor que você tem. Eu juro que vai ser diferente.
 
-Ligou para Fernanda.
+Ele tentou pegar a mão dela.
+Camila recuou um passo.
 
-Atendeu no primeiro toque:
+Ela olhou para ele. Para o homem que ela tinha amado desesperadamente. O homem por quem ela chorou, implorou, fez terapia, leu livros de autoajuda.
 
-— Cá? Tá tudo bem?
+E não sentiu nada.
+Nem raiva. Nem amor. Nem pena.
+Só... tédio.
 
-— Ele me chamou para sair.
+Ela viu a camisa dele levemente amarrotada (ninguém passava para ele).
+Viu o corte de cabelo meio atrasado.
+Viu a necessidade nos olhos dele.
 
-Pausa. Então:
+Não era saudade dela.
+Era saudade do conforto que ela provia.
+Ele não queria a Camila de volta. Ele queria a cozinheira, a governanta, a secretária, a mãe substituta de volta. Ele queria a infraestrutura que ela mantinha.
 
-— E qual o problema?
+— Você não mudou, Ricardo — disse ela, calma.
 
-— TODO MUNDO é problema! — Camila quase gritou. — E se ele for outro Ricardo? E se eu confiar e ele me machucar? E se eu tô fazendo tudo errado de novo?
+— Mudei! Eu posso provar!
 
-— Respira — Fernanda, sempre calma. — Primeiro: café não é casamento. É café. Segundo: Daniel parece legal. Terceiro: você precisa parar de projetar Ricardo em todo homem que aparece.
+— Não mudou. Você só está desconfortável. Você descobriu que a vida de solteiro dá trabalho. Que tem que lavar roupa, limpar casa, lembrar de pagar conta. E você quer seu staff de volta.
 
-— Mas e se...
+Ele ficou vermelho.
+— Que injustiça! Eu te amo!
 
-— E se, e se, e se. Camila, você VAI ter mil "e se's". Porque você foi machucada. Mas não pode viver o resto da vida com medo. Algum risco é necessário.
+— Não ama. Você ama como eu faço você se sentir: cuidado, superior, atendido. Isso não é amor. É dependência.
 
-— Eu não quero sofrer de novo.
+— Você tá muito fria, Camila. Essa terapia tá te estragando.
 
-— Ninguém quer. Mas também ninguém quer ficar preso no medo para sempre. — Tom mais gentil. — Manda mensagem. Aceita o café. Vê no que dá. Se ele for babaca, você sai. Simples.
+— A terapia está me curando. De você.
 
-— E se ele não for babaca? E se eu que estragar tudo projetando coisas nele?
+Ricardo recuou. A máscara de bom moço caiu, revelando a irritação de sempre.
+— Tá bom. Se você quer assim. Depois não vem chorar quando eu estiver com outra.
 
-— Aí você trabalha isso na terapia. Mas pelo menos tentou.
+Camila riu.
+— Ricardo, eu torço para você ficar com outra. De verdade. Alguém tem que cuidar de você, e eu estou muito feliz que não sou mais eu.
 
-Camila suspirou.
+Ele ficou encarando-a, chocado com a audácia.
+Pegou a chave do carro.
+— Você vai se arrepender. Você vai ver como é envelhecer sozinha.
 
-— Ok. Vou mandar.
+— Prefiro envelhecer sozinha do que morrer em vida do seu lado. Tchau, Ricardo.
 
-— Manda AGORA. Enquanto estou online. Senão você vai enrolar mais três dias.
+Ele saiu batendo a porta.
+As flores ficaram na mesa de centro. Lírios. Cheiro forte de velório.
 
-Camila pegou o celular. Digitou rápido antes que pudesse desistir:
+Camila pegou o buquê.
+Foi até a lixeira da cozinha.
+Jogou no lixo.
 
-*"Oi Daniel. Café parece bom. Mas ir devagar, ok? Eu ainda estou processando algumas coisas."*
-
-Enviou.
-
-— Mandei.
-
-— ÓTIMA RESPOSTA! Honesta. Com limite. Perfeito.
-
-Três pontinhos. Daniel digitando.
-
-A resposta veio:
-
-*"Total. No ritmo que você se sentir confortável. Só café e conversa. Prometo. Sábado à tarde?"*
-
-Camila leu para Fernanda.
-
-— Ele parece respeitoso. Bom sinal.
-
-— Ou é manipulação inicial.
-
-— CAMILA. Para. Responde que sim e para de sabotar antes de começar.
-
-Camila digitou:
-
-*"Sábado funciona. 15h? Cafeteria Grão em Pinheiros?"*
-
-*"Perfeito. Até sábado :)"*
-
-Pronto. Estava marcado.
-
-Café. Com Daniel. Sábado.
-
-E Camila oscilava entre animação e terror absoluto.
-
----
-
-A semana passou arrastando e voando.
-
-Terça - terapia. Contou para Dr. Lucas sobre o café.
-
-— E como você se sente sobre isso?
-
-— Apavorada.
-
-— Do quê especificamente?
-
-— De repetir o padrão. De confiar e estar errada. De... tudo.
-
-Dr. Lucas acenou compreensivo:
-
-— Normal depois de relacionamento tóxico. Você desenvolveu hipervigilância. Procura red flags mesmo onde não tem.
-
-— E se TIVER e eu não perceber?
-
-— E se não tiver e você desperdiçar a chance de conhecer alguém legal por medo?
-
-Camila ficou quieta.
-
-— Olha — Dr. Lucas se inclinou — Nem todo homem é seu ex. Isso é importante lembrar. Daniel demonstrou até agora: respeito, interesse genuíno, limites. São green flags. Mas você está tão focada em procurar red flags que ignora os green.
-
-— Como eu paro de procurar red flags?
-
-— Não para completamente. Mantém a consciência. Mas também dá uma chance. Observa sem projetar. Vê Daniel como ele É, não como Ricardo foi.
-
-— E se eu não conseguir?
-
-— Aí você trabalha aqui comigo. Mas pelo menos tentou.
-
----
-
-Quinta - aula de pintura.
-
-Júlia puxou assunto no café depois:
-
-— Então, como tá indo com aquele professor bonitão?
-
-Camila quase cuspiu o café:
-
-— Quem?
-
-— O Daniel. Vi vocês conversando na exposição. A química era visível.
-
-— A gente vai tomar café sábado.
-
-— EEEE! — Júlia bateu palma. — Primeiro encontro pós-divórcio!
-
-— Não é encontro. É café.
-
-— Café É encontro, querida.
-
-Beatriz, sempre tímida, perguntou:
-
-— Você não tá com medo?
-
-— Apavorada.
-
-— Normal. Primeira vez depois de muito tempo é assustador.
-
-Clara, a viúva, complementou com sabedoria:
-
-— Medo é normal. Mas não pode deixar o medo controlar. Senão fica presa para sempre.
-
-— E se der errado?
-
-— E se der certo? — Júlia rebateu. — Para de só pensar no pior cenário.
-
----
-
-Sexta à noite. Véspera do café.
-
-Camila estava mais nervosa que antes da apresentação da escola. Que antes da exposição. Que antes de TUDO.
-
-Experimentou quatro roupas. Todas pareciam erradas.
-
-Muito arrumada = se esforçando demais.
-Muito casual = não liga.
-
-Decidiu por jeans e blusa simples mas bonita. Neutra.
-
-Checou o cabelo mil vezes. Lembrou que tinha cortado curtinho e não tinha como "arrumar" muito.
-
-Maquiagem leve.
-
-Parou na frente do espelho.
-
-Respirou.
-
-— Você consegue. É só café. Só conversa.
-
-Mas parte dela gritava: CORRE. CANCELA. FICA SEGURA EM CASA SOZINHA.
-
-Pegou o celular. Considerou cancelar.
-
-Mas então lembrou Dr. Lucas: *"Nem todo homem é seu ex."*
-
-E Fernanda: *"Algum risco é necessário."*
-
-E a própria voz interior, pequena mas crescendo mais forte: *"Você merece tentar."*
-
-Guardou o celular sem cancelar.
-
-E foi dormir repetindo para si mesma:
-
-*"Vai dar certo. Ou não vai. Mas pelo menos tentei."*
-
-E tentar já era coragem.
-
-Mesmo com medo.
-
-Especialmente com medo.
+Voltou para o sofá. Pegou seu livro.
+O silêncio da casa nunca tinha sido tão delicioso.
+
+Ela tinha passado no teste.
+O passado bateu na porta com flores e promessas.
+E ela não abriu.
+
+Camila sorriu para a página do livro.
+Ela estava, definitivamente, vacinada.

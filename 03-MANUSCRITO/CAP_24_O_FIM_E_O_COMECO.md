@@ -1,5 +1,75 @@
 # CAPÍTULO 24
-## O Primeiro Café
+## O Fim e o Começo
+
+O divórcio saiu numa terça-feira cinzenta.
+Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata.
+Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
+
+Ricardo estava lá. Usava o terno azul de sempre.
+Ele não olhou nos olhos dela. Falou com o advogado dele, assinou os papéis rápido, como se estivesse assinando uma multa de trânsito que queria esquecer.
+
+Camila assinou também.
+Sua mão não tremeu.
+Sua assinatura saiu firme: *Camila Ferreira Santos*. (Tinha tirado o sobrenome dele. Um ato burocrático, mas que pesava toneladas a menos na alma).
+
+— Pronto — disse o tabelião. — Estão divorciados.
+
+Ricardo levantou.
+— Bom. É isso.
+— É isso — disse Camila.
+
+Ele parou na porta. Hesitou.
+— Camila... boa sorte.
+— Pra você também, Ricardo.
+
+E ele saiu.
+Onze anos de casamento. Dois filhos. Uma vida inteira construída e desconstruída.
+Encerrados em vinte minutos e uma caneta BIC.
+
+Camila saiu do cartório.
+O céu lá fora ainda estava cinza. A cidade continuava barulhenta. O mundo não tinha parado porque o casamento dela tinha acabado oficialmente.
+E isso era libertador.
+
+Ela caminhou até uma cafeteria na esquina.
+Entrou. Pediu um cappuccino e um bolo de laranja.
+Sentou-se numa mesa perto da janela.
+
+Abriu a bolsa. Tirou o papel do divórcio dobrado.
+Olhou para ele.
+
+Esperou sentir dor. Esperou chorar. Esperou sentir o buraco no peito que a acompanhou por meses.
+
+Mas não sentiu nada disso.
+Sentiu... silêncio.
+
+Um silêncio bom.
+O silêncio de uma obra concluída. O silêncio depois da tempestade, quando a chuva para e só resta o cheiro de terra molhada.
+
+Ela tomou um gole do café. Estava quente, doce, perfeito.
+Olhou para a rua. Pessoas passando. Carros. A vida acontecendo.
+
+Ela estava sozinha.
+Divorciada.
+Com dois filhos para criar, uma carreira para alavancar, contas para pagar.
+
+E, pela primeira vez em toda a sua vida adulta, ela não estava com medo.
+Ela estava em paz.
+
+Ela pegou o celular. Abriu a câmera.
+Não tirou selfie. Tirou foto da xícara de café e do papel dobrado na mesa.
+Postou nos stories, apenas para ela (melhores amigos):
+
+*"Fim. E começo."*
+
+Fernanda respondeu em segundos: *"ORGULHO DE VOCÊ! 🥂"*
+Daniel (que ela tinha adicionado recentemente) respondeu: *"Parabéns pela coragem. O café parece ótimo."*
+
+Camila sorriu.
+Comeu o bolo de laranja.
+Sentiu o sabor cítrico na língua.
+
+A vida tinha gosto de novo.
+E ela estava faminta.
 
 Sábado. Três da tarde.
 
