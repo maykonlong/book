@@ -28,6 +28,13 @@
         <button id="settings-btn" class="header-btn" aria-label="Configurações">
             <span class="material-icons-round">settings</span>
         </button>
+        <!-- Language selector -->
+        <select id="language-select" class="header-btn" aria-label="Selecionar idioma" style="margin-left:8px;">
+            <option value="pt" selected>PT</option>
+            <option value="en">EN</option>
+            <option value="es">ES</option>
+            <option value="fr">FR</option>
+        </select>
     </header>
 
     <!-- Overlay -->
@@ -92,6 +99,17 @@
     <script src="js/marked.min.js"></script>
     <script src="js/book-content.js"></script>
     <script src="js/app.js"></script>
+    <script>
+        // Initialize language from localStorage
+        const langSelect = document.getElementById('language-select');
+        const savedLang = localStorage.getItem('selectedLanguage') || 'pt';
+        langSelect.value = savedLang;
+        langSelect.addEventListener('change', function () {
+            localStorage.setItem('selectedLanguage', this.value);
+            // Reload to apply language change (future implementation will load appropriate content)
+            location.reload();
+        });
+    </script>
 
 </body>
 

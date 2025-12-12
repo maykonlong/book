@@ -31,13 +31,11 @@ Léo e Bia estavam na sala. Assistindo desenho. Mas não realmente assistindo. S
 
 Camila sentou no sofá entre os dois.
 
-— Vocês jantaram?
+— Já jantaram?
 
-Léo abanou a cabeça.
+— Não, mamãe, não estou com fome.
 
-— Não tô com fome.
-
-— Nem eu — Bia disse, baixinho.
+— Eu também não, Bia.
 
 Camila pegou o controle e desligou a TV.
 
@@ -45,11 +43,9 @@ Camila pegou o controle e desligou a TV.
 
 Bia começou a choramingar imediatamente.
 
-— Você vai embora?
+— Mamãe, você vai embora?
 
-O coração de Camila partiu.
-
-— Não, meu amor. Eu não vou embora. Eu nunca vou te deixar. Nem você, nem o Léo. Nunca.
+— Não, meus amores. Eu não vou embora. Vou ficar aqui com vocês.
 
 — Mas você brigou com o papai.
 
@@ -57,9 +53,9 @@ O coração de Camila partiu.
 
 Léo,mais velho, mais percebente, fez a pergunta que Camila sabia que viria:
 
-— Vocês vão se separar?
+— Mamãe, vocês vão parar de viver juntos?
 
-Não tinha como mentir. Não para eles.
+— Sim, vamos nos separar.Não tinha como mentir. Não para eles.
 
 — Sim.
 
@@ -67,11 +63,7 @@ Bia soluçou. Léo ficou pálido.
 
 Camila puxou os dois para perto. Abraçou. Forte.
 
-— Olha para mim. Os dois. Olha.
-
-Eles olharam. Olhinhos cheios de lágrima, confusão, medo.
-
-— O papai e a mamãe não vão mais morar juntos. E eu sei que isso assusta. Eu também estou assustada. Mas eu preciso que vocês entendam uma coisa muito importante: isso não é culpa de vocês. Nada que vocês fizeram causou isso. Tá?
+— Olhem para mim, meus amores. O papai e a mamãe não vão mais morar na mesma casa. Isso não é culpa de vocês, tá?
 
 — Mas por quê? — Léo perguntou, a voz tremendo. — Por que vocês não podem ficar juntos?
 
@@ -79,21 +71,15 @@ Como explicar para uma criança de oito anos conceitos complexos como parceria, 
 
 Camila tentou simplificar:
 
-— Às vezes, duas pessoas se casam e são felizes. E às vezes, com o tempo, elas percebem que não são mais felizes juntas. E quando isso acontece, é melhor elas ficarem separadas, para todo mundo ser mais feliz.
+— Às vezes duas pessoas se casam e são felizes, mas com o tempo percebem que não são mais. Quando isso acontece, o melhor é cada um seguir seu caminho, para que todos sejam mais felizes.
 
-— Mas eu não quero que vocês fiquem separados — Bia chorou.
-
-— Eu sei, meu amor. Eu sei. E se eu pudesse fazer isso de eu um jeito que não machucasse vocês, eu faria. Mas às vezes a gente tem que fazer coisas que são difíceis agora para que todo mundo fique melhor depois.
+— Eu sei, meus amores. Eu também não quero que fiquem separados, mas preciso ser honesta.
 
 — Eu vou ter que escolher? — Léo perguntou. — Entre você e o papai?
 
 — Não. Nunca. Vocês vão ter os dois. Sempre. Só em casas diferentes.
 
-— Como funciona?
-
-Camila respirou. Tentou explicar o que ela mesma ainda não entendia completamente.
-
-— Ainda estamos decidindo os detalhes. Mas provavelmente vocês vão ficar uns dias comigo, outros dias com o papai. E mesmo nos dias que vocês não estiverem comigo, vocês podem me ligar sempre que quiserem. E eu vou estar sempre, sempre aqui para vocês.
+— Como vai ser? Ainda estamos definindo a rotina, mas vocês vão passar dias comigo e dias com o papai. Sempre podem me ligar.
 
 — E nas férias? — Bia perguntou, ainda chorando. — E no Natal?
 
@@ -101,25 +87,13 @@ Camila respirou. Tentou explicar o que ela mesma ainda não entendia completamen
 
 Léo ficou quieto. Processando. Depois perguntou:
 
-— Você está triste?
+— Mamãe, você está triste?
 
-A pergunta quebrou Camila.
-
-Porque ela deveria mentir? Dizer que estava bem, que estava tudo sob controle? Ou ser honesta?
-
-Ela escolheu honestidade.
-
-— Estou. Muito triste. Mas também um pouquinho aliviada. Porque eu estava muito cansada, Léo. Muito, muito cansada. E eu não estava conseguindo ser feliz. E criança merece ter pai e mãe felizes, mesmo que não juntos.
+— Sim, estou triste, mas também aliviada porque não preciso mais fingir.
 
 Léo abraçou a mãe. Forte. Aquele abraço de criança que entende mais do que deveria.
 
-— Eu só quero que você não seja tão triste, mãe. Você tá triste faz tempo.
-
-Ele tinha percebido.
-
-Claro que tinha percebido.
-
-Crianças sempre percebem.
+— Eu só quero que você fique mais feliz, mamãe. Você merece ser feliz.
 
 Camila chorou. Abraçou os dois filhos. E eles ficaram ali, um bolinho de tristeza e tentativa de cura, no sofá da sala.
 
