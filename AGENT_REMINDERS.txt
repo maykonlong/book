@@ -1,0 +1,4 @@
+REMINDER: DO NOT USE COMPLEX POWERSHELL SCRIPTS (PS1) THAT MIGHT HANG OR CRASH.
+Use simple, direct commands.
+Break tasks into smaller steps.
+Confirm actions with the user if unsure about file deletion.
