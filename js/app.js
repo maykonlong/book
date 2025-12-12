@@ -1,4 +1,9 @@
-document.addEventListener('DOMContentLoaded', () => {
+// Função de inicialização
+const startApp = () => {
+    // Evita inicialização duplicada se o evento disparar depois
+    if (window.appInitialized) return;
+    window.appInitialized = true;
+
     // --- ESTADO GLOBAL ---
     let state = {
         currentChapter: 0,
@@ -231,5 +236,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }));
     }
 
+    // Start
     init();
-});
+};
+
+// Verifica se o DOM já está pronto
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', startApp);
+} else {
+    startApp();
+}
+```
