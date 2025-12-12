@@ -95,7 +95,7 @@ Léo abraçou a mãe. Forte. Aquele abraço de criança que entende mais do que 
 
 — Eu só quero que você fique mais feliz, mamãe. Você merece ser feliz.
 
-Camila chorou. Abraçou os dois filhos. E eles ficaram ali, um bolinho de tristeza e tentativa de cura, no sofá da sala.
+Camila chorou. Abraçou os dois filhos. E ficaram ali, abraçados, no sofá, no silêncio da casa.
 
 Depois de um tempo, Bia perguntou:
 
@@ -217,9 +217,7 @@ Não mais.
 
 Na manhã seguinte, Camila acordou cedo.
 
-Fez café. Acordou as crianças. L
-
-ancheira. Fez tudo como sempre.
+Fez café. Acordou as crianças. Lancheira. Fez tudo como sempre.
 
 Mas algo era diferente.
 

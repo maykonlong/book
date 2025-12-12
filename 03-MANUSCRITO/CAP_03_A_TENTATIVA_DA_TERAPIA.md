@@ -169,11 +169,13 @@ Camila olhou para o fundo da sua xícara vazia.
 
 — Então o que eu faço? Paro de fazer as coisas? A casa cai. As crianças sofrem.
 
-— Não sei o que você faz. — Fernanda tocou o ombro dela. — Mas sei que terapia de casal só funciona quando os dois querem salvar a relação. Se um acha que está tudo bem e o outro está sangrando... isso não é casamento. É parasitismo.
+— Não sei o que você faz. — Fernanda tocou o ombro dela. — Mas sei que terapia de casal só funciona quando os dois querem salvar a relação. Se um acha que está tudo bem e o outro está sangrando... isso não é casamento.
 
-*Parasitismo.*
+Camila olhou para a amiga.
 
-A palavra ecoou na cabeça de Camila o resto do dia.
+— É solidão a dois — completou Fernanda.
+
+A frase ecoou na cabeça de Camila o resto do dia.
 
 Ela voltou para casa à noite. Viu Ricardo no sofá. Viu a mancha no teto. Viu a louça na pia.
 

@@ -91,9 +91,7 @@ Adormeceu atravessada na cama, ocupando todo o espaço que, por direito, sempre 
 
 Ricardo saiu de casa numa quinta-feira.
 
-Não foi dram
-
-ático. Não teve briga, choro, cena. Só... aconteceu.
+Não foi dramático. Não teve briga, choro, cena. Só... aconteceu.
 
 Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles finalmente sentaram e conversaram sobre logística.
 
@@ -139,7 +137,7 @@ Ricardo parou. Olhou para a filha.
 
 Promessa vazia. Camila sabia. Ela conhecia o Ricardo. Nas primeiras semanas ele ia tentar. Ia buscar as crianças, ia fazer programas. Mas eventualmente, ia cansar. Ia ter outros compromissos. Ia aparecer cada vez menos.
 
-Mas ela não disse nada. Deixou ele prometer. Porque as crianças precisavam daquela esperança, mesmo que fal sa.
+Mas ela não disse nada. Deixou ele prometer. Porque as crianças precisavam daquela esperança, mesmo que falsa.
 
 Quando Ricardo terminou de arrumar, ele foi até a sala.
 

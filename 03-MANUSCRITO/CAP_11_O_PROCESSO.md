@@ -87,7 +87,7 @@ O medo da pobreza pós-divórcio é um fantasma frio que assombra toda mulher qu
 *Será que vou ter que tirar as crianças da escola particular?*
 *Será que vou ter que voltar a morar com a minha mãe?*
 
-A "mulher empoderada" que saiu de casa decidida no capítulo anterior agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
+A "mulher empoderada" que saiu de casa decidida dias atrás agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
 
 Mas então ela lembrou da cena do leite derramado.
 Lembrou do Léo tentando acordar o pai.
