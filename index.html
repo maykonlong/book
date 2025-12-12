@@ -97,16 +97,31 @@
 
     <!-- Scripts -->
     <script src="js/marked.min.js"></script>
-    <script src="js/book-content.js"></script>
+    <script>
+        // Load correct book content based on language selection
+        (function () {
+            const savedLang = localStorage.getItem('selectedLanguage') || 'pt';
+            const script = document.createElement('script');
+            script.src = `js/book-content-${savedLang}.js`;
+            script.onerror = function () {
+                // Fallback to Portuguese if language file doesn't exist
+                console.warn(`Language file for ${savedLang} not found, using Portuguese`);
+                const fallbackScript = document.createElement('script');
+                fallbackScript.src = 'js/book-content-pt.js';
+                document.head.appendChild(fallbackScript);
+            };
+            document.head.appendChild(script);
+        })();
+    </script>
     <script src="js/app.js"></script>
     <script>
-        // Initialize language from localStorage
+        // Initialize language selector
         const langSelect = document.getElementById('language-select');
         const savedLang = localStorage.getItem('selectedLanguage') || 'pt';
         langSelect.value = savedLang;
         langSelect.addEventListener('change', function () {
             localStorage.setItem('selectedLanguage', this.value);
-            // Reload to apply language change (future implementation will load appropriate content)
+            // Reload to apply language change
             location.reload();
         });
     </script>
