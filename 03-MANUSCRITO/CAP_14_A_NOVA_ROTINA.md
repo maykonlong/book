@@ -163,9 +163,7 @@ Pequenas vitórias.
 
 ---
 
-Teve a vez que Ricardo devol
-
-veu Léo sem  o material de escola.
+Teve a vez que Ricardo devolveu Léo sem o material de escola.
 
 Era domingo à noite. Segunda era dia de prova importante. Léo percebeu:
 

@@ -1,124 +1,6 @@
 # CAPÍTULO 22
 ## O Encontro
 
-O café "Grão" em Pinheiros era charmoso, com mesas de madeira rústica e cheiro de torra fresca.
-Daniel chegou cinco minutos adiantado. Quando Camila chegou (no horário exato), ele já estava numa mesa perto da janela, lendo um livro.
-
-Ele levantou quando a viu. Sorriu. O sorriso dele era... gentil. Sem a arrogância de Ricardo.
-
-— Oi, Camila.
-— Oi, Daniel.
-
-Sentaram. Pediram café.
-Camila estava rígida como uma tábua. Suas mãos estavam frias.
-
-Daniel tentou puxar assunto.
-— E aí, pintou algo novo essa semana?
-— Não. Tive muito trabalho no escritório. Fechamento de mês. — Resposta seca. Curta.
-
-Ele tentou de novo.
-— Entendo. Eu também tô corrigindo provas finais. É um pesadelo. Alunos acham que professor adora dar nota baixa, mas na verdade a gente sofre junto.
-
-Era uma piada. Camila deveria rir.
-Mas ela só pensou: *Ele vai começar a reclamar do trabalho agora. Igual ao Ricardo.*
-— É — disse ela.
-
-O café chegou. Daniel tomou um gole.
-— Esse lugar tem o melhor pão de queijo da região. Você quer pedir um?
-
-*Ele quer decidir o que eu vou comer.*
-— Não, obrigada. Estou bem só com café.
-
-O encontro seguiu assim por duzentos anos (ou quarenta minutos).
-Daniel sendo simpático, aberto, interessado.
-Camila sendo um muro de concreto, interpretando cada frase dele como um sinal de alerta, uma manipulação ou um defeito.
-
-Ele perguntou dos filhos. *Quer saber se sou mãe solteira desesperada.*
-Ele perguntou dos livros. *Quer testar minha intelectualidade.*
-Ele elogiou a blusa dela. *Quer me objetificar.*
-
-A mente de Camila era um tribunal militar julgando um civil inocente.
-
-Finalmente, Daniel colocou a xícara na mesa. Suspirou.
-Olhou para ela com olhos calmos, mas cansados.
-
-— Camila.
-— O quê? — Ela se armou. Lá vinha a crítica.
-
-— Eu posso te fazer uma pergunta honesta?
-— Pode.
-— Eu estou te incomodando?
-
-Camila piscou.
-— Como assim?
-
-— É que... parece que você está odiando estar aqui. Você está tensa, defensiva, responde monossilabicamente. Se eu fiz algo errado ou se você não queria ter vindo, pode falar. A gente encerra, sem ressentimentos.
-
-A honestidade dele foi um balde de água fria no tribunal da cabeça dela.
-Ricardo nunca teria percebido. Ricardo teria continuado falando de si mesmo, ignorando o desconforto dela.
-
-Daniel *viu* o desconforto dela. E respeitou.
-
-Camila murchou na cadeira. A armadura caiu.
-— Desculpa — disse ela, a voz saindo pequena. — Não é você. Sou eu.
-
-Ele riu levemente.
-— O clássico "não é você, sou eu". Mas nesse caso, parece verdade.
-
-— É verdade. É que... — Camila olhou para as mãos. — Faz muito tempo que eu não... saio. E meu último relacionamento foi... difícil. Eu estou projetando coisas em você que não são suas.
-
-— Tipo o quê? — Ele perguntou, curioso, sem raiva.
-
-— Tipo achar que você vai me criticar a qualquer momento. Ou que quer me controlar. Ou que só quer falar de você.
-
-Daniel assentiu devagar.
-— Entendi. Fantasmas do passado. Eles são chatos mesmo.
-
-— São insuportáveis.
-
-Ficaram em silêncio. Mas um silêncio diferente. Mais leve.
-
-— Olha — disse Daniel. — Eu gostei de você na exposição. Achei você autêntica. Mas se você não está pronta para, sei lá, *conhecer* alguém agora, tudo bem. De verdade.
-
-Camila olhou para ele. Um homem decente. Maduro.
-Ela queria estar pronta. Queria muito.
-Mas não estava.
-O coração dela ainda estava em obras. O reboco estava fresco. Se alguém entrasse agora, ia sujar o pé e estragar o piso.
-
-— Eu acho que não estou — admitiu ela. — Eu ainda estou aprendendo a ficar sozinha. Se eu começar algo agora, vou acabar usando você como muleta. E você não merece ser muleta.
-
-Daniel sorriu. Um sorriso triste, mas bonito.
-— Justo. Ninguém merece ser muleta. E ninguém merece ser fantasma.
-
-Ele chamou o garçom. Pediu a conta.
-— Eu pago o meu — disse Camila, rápido.
-— Tudo bem. Dividimos.
-
-Saíram do café. O sol da tarde batia na calçada.
-
-— Obrigado pela honestidade, Camila — disse ele. — É rara hoje em dia.
-— Obrigada pela paciência, Daniel. E pelo café.
-
-Ele foi para o carro dele. Ela foi para o dela.
-
-Camila entrou no carro.
-O encontro tinha sido um "fracasso" romântico.
-Mas tinha sido um sucesso pessoal.
-
-Ela tinha sido honesta. Tinha estabelecido limite. Tinha reconhecido que não estava pronta e não tinha forçado a barra para agradar um homem.
-
-E ele tinha respeitado.
-
-*Homens que respeitam existem*, pensou ela, ligando o motor.
-Isso era uma informação nova e valiosa.
-
-Ela não ia namorar o Daniel.
-Mas saber que existiam "Daniéis" no mundo fazia o futuro parecer muito menos assustador.
-
-Ligou o rádio. Estava tocando uma música animada.
-Camila dirigiu para casa cantando.
-Sozinha. E muito bem acompanhada de si mesma.
-
 Quatro meses depois de Ricardo sair de casa.
 
 Camila estava na exposição do ateliê, nervosa, suando frio mesmo com ar-condicionado ligado, tentando parecer casual enquanto observava pessoas olhando seus quadros.
@@ -335,7 +217,7 @@ Ela merecia uma chance de pelo menos tentar.
 
 Digitou:
 
-*"Café parece bom. Mas ir devagar, ok? Eu estou... ainda processando algumas coisas."*
+*"Café parece bom. Mas vamos devagar, ok? Eu estou... ainda processando algumas coisas."*
 
 Honesta. Com limite. Mas sim.
 
@@ -364,3 +246,124 @@ Mas também pensou:
 Talvez.
 
 E talvez fosse um começo.
+
+---
+
+O café "Grão" em Pinheiros era charmoso, com mesas de madeira rústica e cheiro de torra fresca.
+
+Daniel chegou cinco minutos adiantado. Quando Camila chegou (no horário exato), ele já estava numa mesa perto da janela, lendo um livro.
+
+Ele levantou quando a viu. Sorriu. O sorriso dele era... gentil. Sem a arrogância de Ricardo.
+
+— Oi, Camila.
+— Oi, Daniel.
+
+Sentaram. Pediram café.
+Camila estava rígida como uma tábua. Suas mãos estavam frias.
+
+Daniel tentou puxar assunto.
+— E aí, pintou algo novo essa semana?
+— Não. Tive muito trabalho no escritório. Fechamento de mês. — Resposta seca. Curta.
+
+Ele tentou de novo.
+— Entendo. Eu também tô corrigindo provas finais. É um pesadelo. Alunos acham que professor adora dar nota baixa, mas na verdade a gente sofre junto.
+
+Era uma piada. Camila deveria rir.
+Mas ela só pensou: *Ele vai começar a reclamar do trabalho agora. Igual ao Ricardo.*
+— É — disse ela.
+
+O café chegou. Daniel tomou um gole.
+— Esse lugar tem o melhor pão de queijo da região. Você quer pedir um?
+
+*Ele quer decidir o que eu vou comer.*
+— Não, obrigada. Estou bem só com café.
+
+O encontro seguiu assim por duzentos anos (ou quarenta minutos).
+Daniel sendo simpático, aberto, interessado.
+Camila sendo um muro de concreto, interpretando cada frase dele como um sinal de alerta, uma manipulação ou um defeito.
+
+Ele perguntou dos filhos. *Quer saber se sou mãe solteira desesperada.*
+Ele perguntou dos livros. *Quer testar minha intelectualidade.*
+Ele elogiou a blusa dela. *Quer me objetificar.*
+
+A mente de Camila era um tribunal militar julgando um civil inocente.
+
+Finalmente, Daniel colocou a xícara na mesa. Suspirou.
+Olhou para ela com olhos calmos, mas cansados.
+
+— Camila.
+— O quê? — Ela se armou. Lá vinha a crítica.
+
+— Eu posso te fazer uma pergunta honesta?
+— Pode.
+— Eu estou te incomodando?
+
+Camila piscou.
+— Como assim?
+
+— É que... parece que você está odiando estar aqui. Você está tensa, defensiva, responde monossilabicamente. Se eu fiz algo errado ou se você não queria ter vindo, pode falar. A gente encerra, sem ressentimentos.
+
+A honestidade dele foi um balde de água fria no tribunal da cabeça dela.
+Ricardo nunca teria percebido. Ricardo teria continuado falando de si mesmo, ignorando o desconforto dela.
+
+Daniel *viu* o desconforto dela. E respeitou.
+
+Camila murchou na cadeira. A armadura caiu.
+— Desculpa — disse ela, a voz saindo pequena. — Não é você. Sou eu.
+
+Ele riu levemente.
+— O clássico "não é você, sou eu". Mas nesse caso, parece verdade.
+
+— É verdade. É que... — Camila olhou para as mãos. — Faz muito tempo que eu não... saio. E meu último relacionamento foi... difícil. Eu estou projetando coisas em você que não são suas.
+
+— Tipo o quê? — Ele perguntou, curioso, sem raiva.
+
+— Tipo achar que você vai me criticar a qualquer momento. Ou que quer me controlar. Ou que só quer falar de você.
+
+Daniel assentiu devagar.
+— Entendi. Fantasmas do passado. Eles são chatos mesmo.
+
+— São insuportáveis.
+
+Ficaram em silêncio. Mas um silêncio diferente. Mais leve.
+
+— Olha — disse Daniel. — Eu gostei de você na exposição. Achei você autêntica. Mas se você não está pronta para, sei lá, *conhecer* alguém agora, tudo bem. De verdade.
+
+Camila olhou para ele. Um homem decente. Maduro.
+Ela queria estar pronta. Queria muito.
+Mas não estava.
+O coração dela ainda estava em obras. O reboco estava fresco. Se alguém entrasse agora, ia sujar o pé e estragar o piso.
+
+— Eu acho que não estou — admitiu ela. — Eu ainda estou aprendendo a ficar sozinha. Se eu começar algo agora, vou acabar usando você como muleta. E você não merece ser muleta.
+
+Daniel sorriu. Um sorriso triste, mas bonito.
+— Justo. Ninguém merece ser muleta. E ninguém merece ser fantasma.
+
+Ele chamou o garçom. Pediu a conta.
+— Eu pago o meu — disse Camila, rápido.
+— Tudo bem. Dividimos.
+
+Saíram do café. O sol da tarde batia na calçada.
+
+— Obrigado pela honestidade, Camila — disse ele. — É rara hoje em dia.
+— Obrigada pela paciência, Daniel. E pelo café.
+
+Ele foi para o carro dele. Ela foi para o dela.
+
+Camila entrou no carro.
+O encontro tinha sido um "fracasso" romântico.
+Mas tinha sido um sucesso pessoal.
+
+Ela tinha sido honesta. Tinha estabelecido limite. Tinha reconhecido que não estava pronta e não tinha forçado a barra para agradar um homem.
+
+E ele tinha respeitado.
+
+*Homens que respeitam existem*, pensou ela, ligando o motor.
+Isso era uma informação nova e valiosa.
+
+Ela não ia namorar o Daniel.
+Mas saber que existiam "Daniéis" no mundo fazia o futuro parecer muito menos assustador.
+
+Ligou o rádio. Estava tocando uma música animada.
+Camila dirigiu para casa cantando.
+Sozinha. E muito bem acompanhada de si mesma.

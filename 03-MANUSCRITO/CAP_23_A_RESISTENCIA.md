@@ -92,7 +92,7 @@ Ele ficou encarando-a, chocado com a audácia.
 Pegou a chave do carro.
 — Você vai se arrepender. Você vai ver como é envelhecer sozinha.
 
-— Prefiro envelhecer sozinha do que morrer em vida do seu lado. Tchau, Ricardo.
+— Prefiro envelhecer sozinha do que morrer em vida ao seu lado. Tchau, Ricardo.
 
 Ele saiu batendo a porta.
 As flores ficaram na mesa de centro. Lírios. Cheiro forte de velório.
