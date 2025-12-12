@@ -1,3 +1,6 @@
+# CAPÍTULO 8
+## Eu Quero Me Separar
+
 O pronto-socorro estava com aquele cheiro específico de éter e desinfetante barato que embrulha o estômago.
 
 Camila estava sentada em uma cadeira de plástico azul, dura, segurando sua bolsa contra o peito. Tremia de febre e de adrenalina.
