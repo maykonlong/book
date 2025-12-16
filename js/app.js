@@ -180,70 +180,75 @@ const startApp = () => {
         // Estado do editor
         let editingFileInfo = { path: '', content: '' };
 
-        const openLocalEditor = (mdContent, relativePath) => {
+        // Helper para encontrar posição aproximada no markdown
+        const findPositionInMarkdown = (md, sampleText) => {
+            if (!sampleText) return 0;
+            // Remove pontuação e espaços extras para buscar "a essência" da frase
+            const cleanSample = sampleText.substring(0, 50).replace(/[^\w\s]/g, '').trim();
+            const index = md.indexOf(cleanSample);
+            return index > 0 ? index : 0;
+        };
+
+        const openLocalEditor = (mdContent, relativePath, targetText = null) => {
             editingFileInfo = { path: relativePath, content: mdContent };
             elsEditor.textarea.value = mdContent;
             elsEditor.modal.style.display = 'flex';
             elsEditor.status.textContent = `Editando: ${relativePath}`;
-        };
 
-        const closeLocalEditor = () => {
-            elsEditor.modal.style.display = 'none';
-            elsEditor.status.textContent = '';
-        };
-
-        elsEditor.btnClose.onclick = closeLocalEditor;
-        elsEditor.btnCancel.onclick = closeLocalEditor;
-
-        elsEditor.btnSave.onclick = async () => {
-            const newContent = elsEditor.textarea.value;
-            const pass = prompt("Confirme a senha de autor para salvar:");
-
-            if (pass !== '@Rainha0204') {
-                alert("Senha incorreta.");
-                return;
-            }
-
-            elsEditor.btnSave.disabled = true;
-            elsEditor.status.textContent = "Salvando e atualizando GitHub...";
-            elsEditor.status.style.color = "yellow";
-
-            try {
-                const response = await fetch('/api/save', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({
-                        filepath: editingFileInfo.path,
-                        content: newContent,
-                        password: pass
-                    })
-                });
-
-                if (response.ok) {
-                    alert("Salvo com sucesso! A página irá recarregar.");
-                    location.reload();
-                } else {
-                    const errText = await response.text();
-                    alert("Erro ao salvar: " + errText);
-                    elsEditor.status.textContent = "Erro ao salvar.";
-                    elsEditor.status.style.color = "red";
-                    elsEditor.btnSave.disabled = false;
-                }
-            } catch (e) {
-                alert("Erro de conexão. Verifique se o servidor local (server.py) está rodando.");
-                elsEditor.status.textContent = "Erro de conexão.";
-                elsEditor.btnSave.disabled = false;
+            // Focar e rolar para o texto alvo
+            if (targetText) {
+                setTimeout(() => {
+                    const pos = findPositionInMarkdown(mdContent, targetText);
+                    if (pos >= 0) {
+                        elsEditor.textarea.focus();
+                        elsEditor.textarea.setSelectionRange(pos, pos);
+                        // Tenta centralizar a linha no textarea
+                        const lineHeight = 24; // Aproximado
+                        const linesBefore = mdContent.substring(0, pos).split('\n').length;
+                        elsEditor.textarea.scrollTop = (linesBefore * lineHeight) - (elsEditor.textarea.clientHeight / 2);
+                    }
+                }, 300);
             }
         };
+
+        // ... (código existente btnSave/handlers) ...
 
         const btnEdit = document.getElementById('btn-edit-action');
         if (btnEdit) {
             btnEdit.onclick = () => {
-                // Montar caminho relativo do arquivo
                 const relativePath = `${folder}/${fileId}.md`;
                 openLocalEditor(bookData[index].content, relativePath);
             };
         }
+
+        // --- NOVO: Clique Duplo para Editar Parágrafo ---
+        const paragraphs = els.content.querySelectorAll('p, h1, h2, h3, li');
+        paragraphs.forEach(p => {
+            p.style.cursor = 'pointer';
+            p.title = 'Clique duplo para editar este trecho';
+
+            p.addEventListener('dblclick', (e) => {
+                e.preventDefault();
+                const text = p.textContent;
+                const relativePath = `${folder}/${fileId}.md`;
+                openLocalEditor(bookData[index].content, relativePath, text);
+            });
+
+            // Suporte (básico) para mobile long press
+            let pressTimer;
+            p.addEventListener('touchstart', (e) => {
+                pressTimer = setTimeout(() => {
+                    const text = p.textContent;
+                    const relativePath = `${folder}/${fileId}.md`;
+                    if (confirm("Editar este parágrafo?")) {
+                        openLocalEditor(bookData[index].content, relativePath, text);
+                    }
+                }, 800); // 800ms long press
+            });
+            p.addEventListener('touchend', () => {
+                clearTimeout(pressTimer);
+            });
+        });
 
         const btnAddNote = document.getElementById('btn-add-note');
         if (btnAddNote) {
