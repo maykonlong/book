@@ -100,15 +100,16 @@
     <script>
         // Load correct book content based on language selection, then load app
         (function () {
+            const version = new Date().getTime(); // Cache buster
             const savedLang = localStorage.getItem('selectedLanguage') || 'pt';
             const contentScript = document.createElement('script');
-            contentScript.src = `js/book-content-${savedLang}.js`;
+            contentScript.src = `js/book-content-${savedLang}.js?v=${version}`;
 
             contentScript.onerror = function () {
                 // Fallback to Portuguese if language file doesn't exist
                 console.warn(`Language file for ${savedLang} not found, using Portuguese`);
                 const fallbackScript = document.createElement('script');
-                fallbackScript.src = 'js/book-content-pt.js';
+                fallbackScript.src = `js/book-content-pt.js?v=${version}`;
                 fallbackScript.onload = function () {
                     loadAppScript();
                 };
@@ -123,7 +124,7 @@
 
             function loadAppScript() {
                 const appScript = document.createElement('script');
-                appScript.src = 'js/app.js';
+                appScript.src = `js/app.js?v=${version}`;
                 document.body.appendChild(appScript);
             }
         })();
