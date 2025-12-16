@@ -1,28 +1,42 @@
 @echo off
-title Servidor do Livro
+title Servidor de Edição do Livro
 cd /d "%~dp0"
 cls
-echo ==========================================
-echo      SERVIDOR DE EDICAO DO LIVRO
-echo ==========================================
-echo.
+
+:: -------------------------------
+:: 1️⃣ Libera a porta 8000 (se houver)
+:: -------------------------------
+for /f "tokens=5" %%a in ('netstat -aon ^| findstr ":8000" ^| findstr "LISTENING"') do (
+    echo [INFO] Encerrando processo que usa a porta 8000 (PID=%%a)...
+    taskkill /F /PID %%a >nul 2>&1
+)
+
+:: -------------------------------
+:: 2️⃣ Mata processos ngrok “presos”
+:: -------------------------------
+echo [INFO] Verificando processos ngrok...
+tasklist /FI "IMAGENAME eq ngrok.exe" | find /I "ngrok.exe" >nul
+if not errorlevel 1 (
+    echo [INFO] Encerrando processos ngrok existentes...
+    taskkill /F /IM ngrok.exe >nul 2>&1
+)
+
+:: -------------------------------
+:: 3️⃣ Inicia o servidor Python
+:: -------------------------------
 echo [INFO] Iniciando servidor local...
-echo [INFO] Acesso: http://localhost:8000
-echo.
-echo DICA: Para compartilhar com outros, use um tunel como ngrok
-echo       Exemplo: ngrok http 8000
-echo.
-echo Pressione CTRL+C para parar o servidor.
-echo.
-
-:: Abre o navegador localmente
 start "" "http://localhost:8000"
-
-:: Inicia o Tunel Ngrok (Acesso Externo)
-echo [INFO] Iniciando Ngrok...
-start "Ngrok Tunnel" cmd /k "ngrok http 8000"
-
-:: Inicia o servidor Python (Servidor Principal)
-echo [INFO] Iniciando Servidor Python...
 python server.py
+if errorlevel 1 (
+    echo [ERRO] Falha ao iniciar o servidor Python. Verifique se o Python está instalado e no PATH.
+    pause
+    exit /b 1
+)
+
+:: -------------------------------
+:: 4️⃣ Inicia o ngrok (se ainda não houver sessão)
+:: -------------------------------
+echo [INFO] Iniciando Ngrok...
+start "" ngrok http 8000
+
 pause
