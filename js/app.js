@@ -211,7 +211,54 @@ const startApp = () => {
             }
         };
 
-        // ... (código existente btnSave/handlers) ...
+        const closeLocalEditor = () => {
+            elsEditor.modal.style.display = 'none';
+            elsEditor.status.textContent = '';
+        };
+
+        elsEditor.btnClose.onclick = closeLocalEditor;
+        elsEditor.btnCancel.onclick = closeLocalEditor;
+
+        elsEditor.btnSave.onclick = async () => {
+            const newContent = elsEditor.textarea.value;
+            const pass = prompt("Confirme a senha de autor para salvar:");
+
+            if (pass !== '@Rainha0204') {
+                alert("Senha incorreta.");
+                return;
+            }
+
+            elsEditor.btnSave.disabled = true;
+            elsEditor.status.textContent = "Salvando e atualizando GitHub...";
+            elsEditor.status.style.color = "yellow";
+
+            try {
+                const response = await fetch('/api/save', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        filepath: editingFileInfo.path,
+                        content: newContent,
+                        password: pass
+                    })
+                });
+
+                if (response.ok) {
+                    alert("Salvo com sucesso! A página irá recarregar.");
+                    location.reload();
+                } else {
+                    const errText = await response.text();
+                    alert("Erro ao salvar: " + errText);
+                    elsEditor.status.textContent = "Erro ao salvar.";
+                    elsEditor.status.style.color = "red";
+                    elsEditor.btnSave.disabled = false;
+                }
+            } catch (e) {
+                alert("Erro de conexão. Verifique se o servidor local (server.py) está rodando.");
+                elsEditor.status.textContent = "Erro de conexão.";
+                elsEditor.btnSave.disabled = false;
+            }
+        };
 
         const btnEdit = document.getElementById('btn-edit-action');
         if (btnEdit) {
