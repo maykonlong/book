@@ -1,5 +1,5 @@
 # CAPÃTULO 1
-## A Rotina InvisÃ­vel
+## A Rotina InvisÃ­vel.
 
 VocÃª jÃ¡ acordou cansada?
 
@@ -370,4 +370,4 @@ ImprescindÃ­vel.
 E completamente sÃ³.
 
 
-[^1]: Chutar a canela: Uma expressão figurativa usada aqui para demonstrar uma irritação contida e infantil, um desejo de causar um incômodo leve mas físico para despertar a outra pessoa da sua passividade.
+[^1]: Chutar a canela: Uma expressï¿½o figurativa usada aqui para demonstrar uma irritaï¿½ï¿½o contida e infantil, um desejo de causar um incï¿½modo leve mas fï¿½sico para despertar a outra pessoa da sua passividade.
