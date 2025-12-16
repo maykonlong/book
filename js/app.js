@@ -435,7 +435,15 @@ const startApp = () => {
         bookData.forEach((cap, i) => {
             const li = document.createElement('li');
             li.className = 'chapter-item';
-            li.textContent = cap.title;
+
+            // Formatar número do capítulo: Cap. 01, Cap. 02...
+            const num = (i + 1).toString().padStart(2, '0');
+
+            li.innerHTML = `
+                <span class="chapter-num">Cap. ${num}</span>
+                <span class="chapter-label">${cap.title}</span>
+            `;
+
             li.onclick = () => {
                 changeChapter(i);
                 els.sidebar.classList.remove('open');

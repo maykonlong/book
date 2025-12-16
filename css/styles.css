@@ -203,15 +203,54 @@ footer {
 }
 
 .chapter-item {
+    display: flex;
+    flex-direction: column;
+    /* Mobile first: empilhado é melhor se o texto for longo, mas podemos usar row */
     padding: 15px 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    /* Separador sutil */
     cursor: pointer;
     font-size: 0.95rem;
+    transition: background 0.2s;
 }
 
-.chapter-item.active {
+/* Layout Desktop/Tablet melhorado */
+@media(min-width: 400px) {
+    .chapter-item {
+        flex-direction: row;
+        align-items: baseline;
+        gap: 12px;
+    }
+}
+
+.chapter-num {
+    font-size: 0.75rem;
+    font-weight: 600;
+    opacity: 0.5;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 50px;
+    /* Alinhamento fixo */
+}
+
+.chapter-label {
+    flex: 1;
+    font-weight: 400;
+    line-height: 1.3;
+}
+
+.chapter-item:hover .chapter-label {
+    opacity: 0.8;
+}
+
+.chapter-item.active .chapter-num {
     color: var(--accent-color);
-    font-weight: bold;
+    opacity: 1;
+}
+
+.chapter-item.active .chapter-label {
+    color: var(--accent-color);
+    font-weight: 700;
 }
 
 .close-sidebar {
