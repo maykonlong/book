@@ -1,5 +1,5 @@
 # CAPÍTULO 1
-## A Rotina Invisível...
+## A Rotina Invisível
 
 Você já acordou cansada?
 
