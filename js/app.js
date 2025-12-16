@@ -13,6 +13,17 @@ const startApp = () => {
         fontFamily: 'sans'
     };
 
+    // --- CONFIGURAÇÃO ---
+    // Substitua pela URL do seu repositório
+    const REPO_URL = 'https://github.com/maykonlong/book';
+
+    const FOLDER_MAP = {
+        'pt': '03-MANUSCRITO',
+        'en': 'manuscrito_ingles',
+        'es': 'manuscrito_espanhol',
+        'fr': 'manuscrito_frances'
+    };
+
     // --- ELEMENTOS ---
     const els = {
         container: document.getElementById('reader-container'),
@@ -72,8 +83,74 @@ const startApp = () => {
         const title = bookData[index].title || `Capítulo ${index + 1}`;
         els.headerTitle.textContent = title;
 
+        // --- Botão de Edição e Footnotes ---
+        const currentLang = localStorage.getItem('selectedLanguage') || 'pt';
+        const folder = FOLDER_MAP[currentLang] || '03-MANUSCRITO';
+        const fileId = bookData[index].id || '';
+
         let md = bookData[index].content;
+
+        // Processar Footnotes (simples)
+        // 1. Extrair definições [^ref]: texto
+        const footnotes = {};
+        md = md.replace(/\[\^(\w+)\]:\s*(.*)/g, (match, ref, text) => {
+            footnotes[ref] = text;
+            return ''; // Remove do corpo principal
+        });
+
+        // 2. Substituir referências [^ref] por links
+        md = md.replace(/\[\^(\w+)\]/g, (match, ref) => {
+            if (footnotes[ref]) {
+                return `<sup><a href="#fn-${ref}" id="ref-${ref}" class="footnote-ref" style="text-decoration:none; color:var(--text-color); opacity:0.7;">[${ref}]</a></sup>`;
+            }
+            return match;
+        });
+
         let html = marked.parse(md);
+
+        // 3. Adicionar seção de footnotes se houver
+        if (Object.keys(footnotes).length > 0) {
+            html += '<div class="footnotes-section" style="margin-top:4rem; border-top:1px solid #ccc; padding-top:1rem; font-size:0.9rem;"><h3>Notas</h3><ol>';
+            for (const [ref, text] of Object.entries(footnotes)) {
+                html += `<li id="fn-${ref}">${text} <a href="#ref-${ref}" style="text-decoration:none;">↩</a></li>`;
+            }
+            html += '</ol></div>';
+        }
+
+        let actionsHtml = '';
+        if (fileId) {
+            const editUrl = `${REPO_URL}/edit/main/${folder}/${fileId}.md`;
+            actionsHtml = `
+                <div style="text-align: right; margin-bottom: 20px; display:flex; gap:10px; justify-content:flex-end;">
+                     <button id="btn-add-note" style="
+                        display: inline-flex; 
+                        align-items: center; 
+                        background:none; border: 1px solid var(--text-color); 
+                        color: var(--text-color); 
+                        opacity: 0.6; 
+                        font-size: 0.8rem; 
+                        padding: 4px 8px; 
+                        cursor: pointer;
+                        border-radius: 4px;">
+                        <span class="material-icons-round" style="font-size: 14px; margin-right: 4px;">post_add</span>
+                        Add Nota
+                    </button>
+                    <button id="btn-edit-action" data-url="${editUrl}" style="
+                        display: inline-flex; 
+                        align-items: center; 
+                        background:none; border: 1px solid var(--text-color); 
+                        color: var(--text-color); 
+                        opacity: 0.6; 
+                        font-size: 0.8rem; 
+                        padding: 4px 8px; 
+                        cursor: pointer;
+                        border-radius: 4px;">
+                        <span class="material-icons-round" style="font-size: 14px; margin-right: 4px;">edit</span>
+                        Editar
+                    </button>
+                </div>
+            `;
+        }
 
         // Nav Buttons
         let navHtml = '<div class="chapter-nav">';
@@ -88,7 +165,35 @@ const startApp = () => {
         }
         navHtml += '</div>';
 
-        els.content.innerHTML = html + navHtml;
+        els.content.innerHTML = html + actionsHtml + navHtml;
+
+        // Listeners dos botões de ação
+        // Função auxiliar de autenticação
+        const authAction = (action) => {
+            const pass = prompt("Senha de autor necessaria:");
+            if (pass === '@Rainha0204') {
+                action();
+            } else if (pass !== null) {
+                alert("Senha incorreta.");
+            }
+        };
+
+        const btnEdit = document.getElementById('btn-edit-action');
+        if (btnEdit) {
+            btnEdit.onclick = () => authAction(() => {
+                window.open(btnEdit.dataset.url, '_blank');
+            });
+        }
+
+        const btnAddNote = document.getElementById('btn-add-note');
+        if (btnAddNote) {
+            btnAddNote.onclick = () => authAction(() => {
+                const wantEdit = confirm("COMO ADICIONAR NOTA:\n\n1. Onde quer a refererência: [^1]\n2. No final do texto:\n[^1]: Sua explicação.\n\nDeseja abrir o editor agora?");
+                if (wantEdit) {
+                    window.open(btnEdit.dataset.url, '_blank');
+                }
+            });
+        }
 
         if (els.statusStats) updateStats(md);
 

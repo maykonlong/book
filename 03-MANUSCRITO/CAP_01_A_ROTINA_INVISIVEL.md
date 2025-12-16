@@ -19,7 +19,7 @@ Ele estava virado de costas, ocupando dois terços da cama king size, com o edre
 
 Como ele conseguia? Como ele conseguia desligar o mundo daquele jeito? Como ele não acordava pensando se tinha pão para o lanche das crianças, se o uniforme do Léo tinha secado a tempo, se a reunião das 10h ia conflitar com a entrega do relatório trimestral?
 
-Camila teve uma vontade súbita, quase infantil, de chutar a canela dele. De sacudi-lo pelos ombros e gritar: *"ACORDA! A vida está acontecendo e eu estou carregando ela sozinha!"*
+Camila teve uma vontade súbita, quase infantil, de chutar a canela dele[^1]. De sacudi-lo pelos ombros e gritar: *"ACORDA! A vida está acontecendo e eu estou carregando ela sozinha!"*
 
 Mas ela não fez isso.
 
@@ -368,3 +368,6 @@ Camila levantou-se, apagou a última luz, e caminhou para o quarto, arrastando o
 Invisível.
 Imprescindível.
 E completamente só.
+
+
+[^1]: Chutar a canela: Uma express�o figurativa usada aqui para demonstrar uma irrita��o contida e infantil, um desejo de causar um inc�modo leve mas f�sico para despertar a outra pessoa da sua passividade.
