@@ -167,32 +167,91 @@ const startApp = () => {
 
         els.content.innerHTML = html + actionsHtml + navHtml;
 
-        // Listeners dos botões de ação
-        // Função auxiliar de autenticação
-        const authAction = (action) => {
-            const pass = prompt("Senha de autor necessaria:");
-            if (pass === '@Rainha0204') {
-                action();
-            } else if (pass !== null) {
+        // Listeners dos botões de ação e Editor Local
+        const elsEditor = {
+            modal: document.getElementById('editor-modal'),
+            textarea: document.getElementById('editor-textarea'),
+            btnClose: document.getElementById('close-editor'),
+            btnCancel: document.getElementById('btn-cancel-edit'),
+            btnSave: document.getElementById('btn-save-edit'),
+            status: document.getElementById('editor-status')
+        };
+
+        // Estado do editor
+        let editingFileInfo = { path: '', content: '' };
+
+        const openLocalEditor = (mdContent, relativePath) => {
+            editingFileInfo = { path: relativePath, content: mdContent };
+            elsEditor.textarea.value = mdContent;
+            elsEditor.modal.style.display = 'flex';
+            elsEditor.status.textContent = `Editando: ${relativePath}`;
+        };
+
+        const closeLocalEditor = () => {
+            elsEditor.modal.style.display = 'none';
+            elsEditor.status.textContent = '';
+        };
+
+        elsEditor.btnClose.onclick = closeLocalEditor;
+        elsEditor.btnCancel.onclick = closeLocalEditor;
+
+        elsEditor.btnSave.onclick = async () => {
+            const newContent = elsEditor.textarea.value;
+            const pass = prompt("Confirme a senha de autor para salvar:");
+
+            if (pass !== '@Rainha0204') {
                 alert("Senha incorreta.");
+                return;
+            }
+
+            elsEditor.btnSave.disabled = true;
+            elsEditor.status.textContent = "Salvando e atualizando GitHub...";
+            elsEditor.status.style.color = "yellow";
+
+            try {
+                const response = await fetch('/api/save', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        filepath: editingFileInfo.path,
+                        content: newContent,
+                        password: pass
+                    })
+                });
+
+                if (response.ok) {
+                    alert("Salvo com sucesso! A página irá recarregar.");
+                    location.reload();
+                } else {
+                    const errText = await response.text();
+                    alert("Erro ao salvar: " + errText);
+                    elsEditor.status.textContent = "Erro ao salvar.";
+                    elsEditor.status.style.color = "red";
+                    elsEditor.btnSave.disabled = false;
+                }
+            } catch (e) {
+                alert("Erro de conexão. Verifique se o servidor local (server.py) está rodando.");
+                elsEditor.status.textContent = "Erro de conexão.";
+                elsEditor.btnSave.disabled = false;
             }
         };
 
         const btnEdit = document.getElementById('btn-edit-action');
         if (btnEdit) {
-            btnEdit.onclick = () => authAction(() => {
-                window.open(btnEdit.dataset.url, '_blank');
-            });
+            btnEdit.onclick = () => {
+                // Montar caminho relativo do arquivo
+                const relativePath = `${folder}/${fileId}.md`;
+                openLocalEditor(bookData[index].content, relativePath);
+            };
         }
 
         const btnAddNote = document.getElementById('btn-add-note');
         if (btnAddNote) {
-            btnAddNote.onclick = () => authAction(() => {
-                const wantEdit = confirm("COMO ADICIONAR NOTA:\n\n1. Onde quer a refererência: [^1]\n2. No final do texto:\n[^1]: Sua explicação.\n\nDeseja abrir o editor agora?");
-                if (wantEdit) {
-                    window.open(btnEdit.dataset.url, '_blank');
-                }
-            });
+            btnAddNote.onclick = () => {
+                const relativePath = `${folder}/${fileId}.md`;
+                alert("Para adicionar nota:\n1. Use [^1] no texto.\n2. Adicione [^1]: Texto no final.\n\nAbrindo editor...");
+                openLocalEditor(bookData[index].content, relativePath);
+            };
         }
 
         if (els.statusStats) updateStats(md);

@@ -95,6 +95,30 @@
         </div>
     </div>
 
+    <!-- Modal Editor -->
+    <div id="editor-modal"
+        style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; z-index:2000; background:rgba(0,0,0,0.9); flex-direction:column; padding:20px; box-sizing:border-box;">
+        <div
+            style="flex:1; display:flex; flex-direction:column; max-width:800px; margin:0 auto; width:100%; background:var(--bg-color); border-radius:8px; overflow:hidden;">
+            <div
+                style="padding:10px; border-bottom:1px solid #ccc; display:flex; justify-content:space-between; align-items:center;">
+                <h3 style="margin:0;">Editar Capítulo</h3>
+                <button id="close-editor"
+                    style="background:none; border:none; font-size:1.5rem; cursor:pointer;">&times;</button>
+            </div>
+            <textarea id="editor-textarea"
+                style="flex:1; width:100%; padding:15px; border:none; resize:none; font-family:monospace; font-size:1rem; line-height:1.5; background:var(--bg-color); color:var(--text-color); box-sizing:border-box;"></textarea>
+            <div style="padding:10px; border-top:1px solid #ccc; display:flex; justify-content:flex-end; gap:10px;">
+                <span id="editor-status" style="align-self:center; font-size:0.8rem; margin-right:auto;"></span>
+                <button id="btn-cancel-edit"
+                    style="padding:8px 16px; border:1px solid #ccc; background:transparent; border-radius:4px; cursor:pointer; color:var(--text-color);">Cancelar</button>
+                <button id="btn-save-edit"
+                    style="padding:8px 16px; border:none; background:var(--accent-color, #007bff); color:white; border-radius:4px; cursor:pointer; font-weight:bold;">Salvar
+                    Alterações</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Scripts -->
     <script src="js/marked.min.js"></script>
     <script>
