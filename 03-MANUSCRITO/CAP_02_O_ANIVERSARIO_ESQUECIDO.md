@@ -53,7 +53,7 @@ Depois que as crianças dormiram e a louça do jantar (que ela fez) estava lavad
 
 Ele não tirou os olhos da tela do celular. O brilho azul iluminava o rosto dele, destacando uma expressão de leve divertimento que sumiu assim que percebeu o tom sério dela.
 
-— Hm? — murmurou, sem pausar o vídeo.
+— Hum? — murmurou, sem pausar o vídeo.
 
 — Precisamos conversar sobre o aniversário do Léo. É daqui a duas semanas.
 
