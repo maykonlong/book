@@ -103,6 +103,8 @@ Ele sentou.
 
 — Eu quero o divórcio, Ricardo.
 
+As palavras saíram com uma firmeza que nem ela reconhecia. Depois de meses ensaiando no chuveiro, no carro, na insônia, elas finalmente ganharam corpo — e, ao contrário do que Camila temia, não a quebraram ao serem ditas. A libertaram.
+
 Ele riu. Uma risada nervosa.
 
 — Divórcio. Corta essa. Você tá com febre. Tá estressada. Tira férias. Mas para com esse drama.

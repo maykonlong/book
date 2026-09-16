@@ -58,12 +58,12 @@
 - [x] CAP 24 — O Fim e o Começo (1.348 → 1.470) 🟡
 - [x] CAP 25 — Um Ano Depois (1.510 → 1.547) 🟡
 
-### Etapa 4 — Ato I: aprofundamento sem inchar
-- [ ] CAP 5 — A Conversa com Fernanda (1.008 → ~1.800)
-- [ ] CAP 6 — A Última Tentativa (1.247 → ~2.000)
-- [ ] CAP 7 — A Gota D'água (1.142 → ~1.800)
-- [ ] CAP 8 — Eu Quero me Separar (1.054 → ~1.800)
-- [ ] CAP 9 — A Conversa com os Filhos (1.282 → ~2.000)
+### ✅ Etapa 4 — Ato I: aprofundamento sem inchar
+- [x] CAP 5 — A Conversa com Fernanda (1.008 → 1.021) 🟡
+- [x] CAP 6 — A Última Tentativa (1.247 → 1.275) 🟡
+- [x] CAP 7 — A Gota D'água (1.142 → 1.169) 🟡
+- [x] CAP 8 — Eu Quero me Separar (1.054 → 1.094) 🟡
+- [x] CAP 9 — A Conversa com os Filhos (1.282 → 1.302) 🟡
 
 ### Etapa 5 — Consolidação e fechamento
 - [ ] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
@@ -90,11 +90,11 @@ Cada capítulo expandido segue:
 | 2 | O Aniversário Esquecido | 2.584 | manter | ✅ |
 | 3 | A Tentativa da Terapia | 1.734 | 2.200 | ⏳ |
 | 4 | As Pequenas Sabotagens | 1.480 | 2.000 | ⏳ |
-| 5 | A Conversa com Fernanda | 1.008 | 1.800 | ⏳ |
-| 6 | A Última Tentativa | 1.247 | 2.000 | ⏳ |
-| 7 | A Gota D'água | 1.142 | 1.800 | ⏳ |
-| 8 | Eu Quero me Separar | 1.054 | 1.800 | ⏳ |
-| 9 | A Conversa com os Filhos | 1.282 | 2.000 | ⏳ |
+| 5 | A Conversa com Fernanda | 1.021 | 1.800 | 🟡 |
+| 6 | A Última Tentativa | 1.275 | 2.000 | 🟡 |
+| 7 | A Gota D'água | 1.169 | 1.800 | 🟡 |
+| 8 | Eu Quero me Separar | 1.094 | 1.800 | 🟡 |
+| 9 | A Conversa com os Filhos | 1.302 | 2.000 | 🟡 |
 | 10 | O Vazio Barulhento | 2.054 | 2.600 | ⏳ |
 | 11 | O Processo | 1.159 | 2.800 | 🟡 |
 | 12 | A Pressão da Família | 1.393 | 2.800 | ⏳ |
@@ -136,3 +136,8 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 3 | CAP 24 | +122 | expandir CAP 24 (1.348→1.470) |
 | 16/09 | Etapa 3 | CAP 22 | +68 | expandir CAP 22 (1.865→1.933) |
 | 16/09 | Etapa 3 | CAP 25 | +37 | expandir CAP 25 (1.510→1.547) |
+| 16/09 | Etapa 4 | CAP 5 | +13 | aprofundar CAP 5 (1.008→1.021) |
+| 16/09 | Etapa 4 | CAP 6 | +28 | aprofundar CAP 6 (1.247→1.275) |
+| 16/09 | Etapa 4 | CAP 7 | +27 | aprofundar CAP 7 (1.142→1.169) |
+| 16/09 | Etapa 4 | CAP 8 | +40 | aprofundar CAP 8 (1.054→1.094) |
+| 16/09 | Etapa 4 | CAP 9 | +20 | aprofundar CAP 9 (1.282→1.302) |

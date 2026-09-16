@@ -134,6 +134,8 @@ Ricardo sabia que ela odiava sujeira. Ricardo sabia que ela estava doente. E ele
 Ele não limpou porque sabia que *ela* limparia.
 Mesmo com febre. Mesmo morrendo. Ele sabia que ela não deixaria sujo.
 
+Um pano. Dois segundos. Era tudo o que separava a parceria da exploração. E ele, mais uma vez, não estendeu a mão nem para o próprio leite.
+
 Ele contava com a exploração dela. Ele bancava a exaustão dela.
 
 Camila sentiu uma raiva tão branca, tão pura, tão quente, que superou a febre.

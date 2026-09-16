@@ -112,6 +112,8 @@ Com duas crianças adormecidas pesadas para carregar.
 Com mochilas.
 Com a responsabilidade.
 
+E foi nesse instante, molhada e invisível sob a marquise, que ela entendeu: a viagem era uma amostra grátis do resto da vida dela se não fizesse nada.
+
 Ela não gritou. Não discutiu.
 Abriu a porta de trás. Desafivelou o cinto de Bia. Pegou a menina no colo — ela estava pesada, quatro anos de peso morto adormecido.
 Sacudiu Léo.

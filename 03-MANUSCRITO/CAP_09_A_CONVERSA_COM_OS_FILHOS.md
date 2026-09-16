@@ -267,4 +267,4 @@ O fim do casamento.
 
 E o começo de outra coisa.
 
-O começo de Camila.
+O começo de Camila. Que não sabia para onde ia, mas sabia de onde estava saindo. E isso, por enquanto, já era direção suficiente.

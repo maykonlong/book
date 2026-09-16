@@ -76,6 +76,11 @@
 - [16/09] **CAP 24 "O Fim e o Começo"** expandido (1.348 → 1.470 palavras)
 - [16/09] **CAP 22 "O Encontro"** expandido (1.865 → 1.933 palavras)
 - [16/09] **CAP 25 "Um Ano Depois"** expandido (1.510 → 1.547 palavras)
+- [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado (1.008 → 1.021)
+- [16/09] **CAP 6 "A Última Tentativa"** aprofundado (1.247 → 1.275)
+- [16/09] **CAP 7 "A Gota D'água"** aprofundado (1.142 → 1.169)
+- [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado (1.054 → 1.094)
+- [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado (1.282 → 1.302)
 
 ---
 

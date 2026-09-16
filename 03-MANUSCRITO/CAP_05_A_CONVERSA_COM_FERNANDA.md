@@ -79,6 +79,8 @@ Era isso. Era exatamente isso. Todo o esforço dela. Todo o cansaço. Toda a ela
 
 Camila fechou os olhos. A imagem de Ricardo no sofá, com o celular na mão, enquanto ela corria com a casa, veio à mente. Ele não era um parceiro. Ele era um hóspede vip.
 
+E ela não era a anfitriã. Era a funcionária que dormia no serviço.
+
 — Eu tenho medo — confessou Camila. — Medo de separar. Das crianças. Do dinheiro. De ficar sozinha.
 
 — O medo é real. — Fernanda segurou a mão dela sobre a mesa fria. — Eu me caguei de medo quando me separei. Mas sabe o que dá mais medo?
