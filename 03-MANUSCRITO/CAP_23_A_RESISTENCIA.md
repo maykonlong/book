@@ -4,10 +4,12 @@
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
 Normalmente ele só vinha de fim de semana.
 
-A campainha tocou às oito. Camila estava de pijama (aquele velho e confortável), lendo no sofá depois que as crianças dormiram.
+A campainha tocou às oito. Camila estava de pijama (aquele velho e confortável), lendo no sofá depois que as crianças dormiram. A casa estava em silêncio, a luz baixa, uma xícara de chá esfriando na mesinha ao lado do livro. O tipo de noite que ela tinha aprendido a amar — e que, um ano atrás, nem sabia que podia existir.
 
 Ela olhou no olho mágico. Ricardo.
 Segurava algo. Flores?
+
+O estômago dela se contraiu antes do cérebro. Onze anos de reflexo: Ricardo na porta com flores sempre vinha antes de uma briga, de um pedido de desculpas que não era desculpa, de um favor que ela não queria fazer.
 
 Camila abriu a porta, mas não tirou a corrente de segurança.
 — Ricardo? Aconteceu alguma coisa com as crianças?
@@ -59,6 +61,8 @@ E não sentiu nada.
 Nem raiva. Nem amor. Nem pena.
 Só... tédio.
 
+Era um tédio quase físico, como assistir a um filme que ela já tinha visto onze vezes e do qual decorara cada fala. Ela sabia exatamente o que viria a seguir: a promessa, a mão estendida, a culpa disfarçada de saudade. Conhecia o roteiro de cor. E descobriu, com um espanto morno, que não tinha mais a menor vontade de assistir ao final.
+
 Ela viu a camisa dele levemente amarrotada (ninguém passava para ele).
 Viu o corte de cabelo meio atrasado.
 Viu a necessidade nos olhos dele.
@@ -108,5 +112,6 @@ Ela tinha passado no teste.
 O passado bateu na porta com flores e promessas.
 E ela não abriu.
 
-Camila sorriu para a página do livro.
+Camila sorriu para a página do livro, retomando a leitura de onde tinha parado. Lá fora, o elevador desceu levando Ricardo embora. E dentro dela, não sobrou nem o eco daquela conversa.
+
 Ela estava, definitivamente, vacinada.

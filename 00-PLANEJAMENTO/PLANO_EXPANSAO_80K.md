@@ -54,7 +54,7 @@
 
 ### Etapa 3 — Ato III: o romance com Daniel
 - [ ] CAP 22 — O Encontro (1.865 → ~3.000)
-- [ ] CAP 23 — A Resistência (702 → ~2.800)
+- [x] CAP 23 — A Resistência (702 → 870) 🟡
 - [ ] CAP 24 — O Fim e o Começo (1.348 → ~3.000)
 - [ ] CAP 25 — Um Ano Depois (1.510 → ~3.000)
 
@@ -108,7 +108,7 @@ Cada capítulo expandido segue:
 | 20 | O Contraste | 954 | 2.800 | 🟡 |
 | 21 | O Primeiro Sorriso Real | 881 | 2.800 | 🟡 |
 | 22 | O Encontro | 1.865 | 3.000 | ⏳ |
-| 23 | A Resistência | 702 | 2.800 | ⏳ |
+| 23 | A Resistência | 870 | 2.800 | 🟡 |
 | 24 | O Fim e o Começo | 1.348 | 3.000 | ⏳ |
 | 25 | Um Ano Depois | 1.510 | 3.000 | ⏳ |
 | 26 | Carta Para Mim Mesma | 352 | 800 | ⏳ |
@@ -132,3 +132,4 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 2 | CAP 21 | +170 | expandir CAP 21 (711→881) |
 | 16/09 | Etapa 2 | CAP 11 | +68 | expandir CAP 11 (1.091→1.159) |
 | 16/09 | Etapa 2 | CAP 16 | +72 | expandir CAP 16 (1.406→1.478) |
+| 16/09 | Etapa 3 | CAP 23 | +168 | expandir CAP 23 (702→870) |
