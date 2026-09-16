@@ -48,7 +48,7 @@
 ### Etapa 2 — Ato II, bloco B: rotina, contraste e virada
 - [ ] CAP 11 — O Processo (1.091 → ~2.800)
 - [ ] CAP 16 — As Pequenas Vitórias (1.406 → ~2.800)
-- [ ] CAP 19 — O Aniversário de Léo (771 → ~2.600)
+- [x] CAP 19 — O Aniversário de Léo (771 → 1.039) 🟡
 - [ ] CAP 20 — O Contraste (747 → ~2.800)
 - [ ] CAP 21 — O Primeiro Sorriso Real (711 → ~2.800)
 
@@ -104,7 +104,7 @@ Cada capítulo expandido segue:
 | 16 | As Pequenas Vitórias | 1.406 | 2.800 | ⏳ |
 | 17 | O Grupo de Mulheres | 1.177 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 1.889 | 3.200 | 🟡 |
-| 19 | O Aniversário de Léo | 771 | 2.600 | ⏳ |
+| 19 | O Aniversário de Léo | 1.039 | 2.600 | 🟡 |
 | 20 | O Contraste | 747 | 2.800 | ⏳ |
 | 21 | O Primeiro Sorriso Real | 711 | 2.800 | ⏳ |
 | 22 | O Encontro | 1.865 | 3.000 | ⏳ |
@@ -127,3 +127,4 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 1 | CAP 15 | +758 | expandir CAP 15 (583→1.341) |
 | 16/09 | Etapa 1 | CAP 17 | +295 | expandir CAP 17 (882→1.177) |
 | 16/09 | Etapa 1 | CAP 18 | +317 | expandir CAP 18 (1.572→1.889) |
+| 16/09 | Etapa 2 | CAP 19 | +268 | expandir CAP 19 (771→1.039) |

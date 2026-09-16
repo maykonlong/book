@@ -8,6 +8,10 @@ Camila queria fazer uma festa. Não tinha dinheiro para buffet (o divórcio esta
 Festa das antigas. Bolo de cenoura com cobertura de chocolate. Brigadeiro enrolado na mão (com ajuda da Bia). Sanduíche de carne louca.
 Convidou três amigos da escola e os primos.
 
+Na véspera, a cozinha virou um campo de batalha doce. Camila ralou cenoura até o braço doer, com a Bia "ajudando" — ou seja, lambendo a espátula e espalhando chocolate pela testa. Ficaram até tarde enrolando brigadeiro, uma bola de cada vez, as mãos engorduradas e as risadas ecoando no apartamento. Não era uma festa de revista. Mas era feita de verdade, com tempo e suor e um amor que o dinheiro não comprava.
+
+Quando a mesa ficou pronta, Camila olhou para aquilo — o bolo torto, os brigadeiros meio disformes, os copos descartáveis coloridos — e sentiu um orgulho esquisito. Era pouco. Mas era dela. Feito com as próprias mãos, no próprio tempo, sem delegar a ninguém.
+
 Ricardo foi convidado, claro.
 — Vou passar lá — disse ele, seco.
 
@@ -49,6 +53,10 @@ A frase foi uma facada.
 Mas o pai que comprou o brinquedo caro.
 
 Ricardo ficou meia hora. Comeu dois brigadeiros, tirou fotos com Léo e o videogame para postar no Instagram (#Paizão #NiverDoLéo), e se despediu.
+
+Camila viu o dedo dele deslizando pela tela, escolhendo o melhor ângulo, caprichando na legenda. Aquilo era o show. O espetáculo do pai presente — para quem? Para os seguidores. Para os amigos. Para a plateia invisível que nunca estava ali de verdade, lavando a louça às onze da noite.
+
+Ela não disse nada. Só observou, com aquele gosto amargo que a foto não capturava.
 — Tenho um compromisso, filho. Mas depois a gente instala isso aí na minha casa, tá? Porque aqui na sua mãe não cabe na TV. (Mentira, cabia. Mas ele queria o trunfo de ter o videogame na casa dele).
 
 — Ah... — Léo murchou. — Vai ficar na sua casa?
@@ -59,6 +67,10 @@ Ricardo saiu. O furacão passou.
 
 A festa acabou. Os amigos foram embora.
 Camila começou a limpar a bagunça. O coração doía. Se sentia pequena. Pobre. A mãe chata que dá sanduíche enquanto o pai dá tecnologia.
+
+Enquanto varria o confete espalhado pelo chão, ela se pegou fazendo contas de novo. O videogame custava quase o triplo do que ela tinha conseguido guardar em meses de moedinhas e renúncias. E doía. Doía não poder dar ao filho o brinquedo que o fez gritar de alegria. Doía ser a "mãe chata" enquanto o pai era o "herói".
+
+Mas ela continuou varrendo. Porque era isso que ela fazia: continuava. Varria, limpava, seguia — mesmo com o coração pequeno e as contas não fechando.
 
 Léo estava no sofá, quieto.
 — Mãe?
