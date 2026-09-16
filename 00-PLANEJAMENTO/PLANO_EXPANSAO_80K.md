@@ -75,6 +75,7 @@ Foco: adicionar cenas/beats novos (não encher linguiça). Cada capítulo aprofu
 - [x] CAP 5 — A Conversa com Fernanda (1.021 → 1.117) 🟡
 - [x] CAP 8 — Eu Quero me Separar (1.094 → 1.173) 🟡
 - [x] CAP 7 — A Gota D'água (1.169 → 1.224) 🟡
+- [x] CAP 17 — O Grupo de Mulheres (1.177 → 1.237) 🟡
 
 ### ✅ Etapa 5 — Consolidação e fechamento
 - [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
@@ -115,7 +116,7 @@ Cada capítulo expandido segue:
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
 | 15 | Voltando a Pintar | 1.341 | 3.000 | 🟡 |
 | 16 | As Pequenas Vitórias | 1.478 | 2.800 | 🟡 |
-| 17 | O Grupo de Mulheres | 1.177 | 3.200 | 🟡 |
+| 17 | O Grupo de Mulheres | 1.237 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 1.889 | 3.200 | 🟡 |
 | 19 | O Aniversário de Léo | 1.167 | 2.600 | 🟡 |
 | 20 | O Contraste | 1.041 | 2.800 | 🟡 |

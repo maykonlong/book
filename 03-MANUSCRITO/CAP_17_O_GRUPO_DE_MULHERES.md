@@ -41,6 +41,9 @@ Clara suspirou.
 
 — Meninas — disse Beatriz, a voz suave. — Eu sei que dá raiva. Meu marido... o falecido... ele era um homem bom, mas eu fazia tudo. Tudo. E quando ele morreu, todo mundo dizia "pobre Alfredo, trabalhava tanto". Ninguém via o meu trabalho. É ingrato.
 
+Ela fez uma pausa, girando a xícara entre os dedos.
+— No velório, uma parente dele me disse: "a senhora foi uma santa, cuidou dele até o fim". E eu só pensava: e quem cuidou de mim? Quarenta anos eu cuidei. Quarenta. E ninguém nunca me perguntou se eu estava cansada. Ninguém nunca cuidou de mim nem por um dia.
+
 — É invisível — corrigiu Paula.
 
 Ficaram em silêncio por um segundo. A chuva batia na janela.
