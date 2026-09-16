@@ -45,20 +45,20 @@
 
 ---
 
-## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª passada de expansão)
+## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
 - **Total de capítulos escritos**: 27/27 (100%)
-- **Total de palavras**: **~40.950** (era ~37.300 antes da expansão)
-- **Palavras/capítulo (média)**: ~1.520
-- **Páginas estimadas**: ~150-170 (formato 14x21 cm)
-- **Status**: Primeiro rascunho completo + **1ª passada de expansão concluída** (Etapas 1-4). Próxima meta: 2ª passada rumo a ~75-80k.
+- **Total de palavras**: **~43.100** (era ~37.300 antes da expansão)
+- **Palavras/capítulo (média)**: ~1.600
+- **Páginas estimadas**: ~160-180 (formato 14x21 cm)
+- **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
 
 ### Distribuição por ato
 | Ato | Capítulos | Palavras (aprox.) | % | Alvo |
 |---|---|---|---|---|
-| I — Estagnação e Ruptura | 1-9 | ~14.800 | 36% | 25% (~20k) |
-| II — Desconstrução e Redescobrimento | 10-21 | ~17.350 | 42% | 50% (~40k) |
-| III — Abertura e Entrega | 22-27 | ~8.800 | 21% | 25% (~20k) |
-| **TOTAL** | 27 | **~40.950** | 100% | ~80k |
+| I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
+| II — Desconstrução e Redescobrimento | 10-21 | ~18.500 | 43% | 50% (~40k) |
+| III — Abertura e Entrega | 22-27 | ~9.400 | 22% | 25% (~20k) |
+| **TOTAL** | 27 | **~43.100** | 100% | ~80k |
 
 ### Nota de coerência (documentada para revisão futura)
 - CAP 22 e CAP 24 contêm dois "primeiros cafés" com Daniel. Decisão (opção 3): **manter como está** e revisar na próxima passada de revisão estrutural.
