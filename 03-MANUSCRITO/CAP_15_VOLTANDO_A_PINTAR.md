@@ -112,6 +112,8 @@ Você se lembra da última vez que fez algo só por você? Sem ser pela casa, pe
 
 Camila olhou para as mãos sujas de tinta. Azul nas cutículas. Vermelho na palma.
 
+Mãos que um dia foram só utilidade: que trocaram fraldas, digitaram relatórios, lavaram louça, carregaram o mundo. Agora, elas tinham cor. Tinham marcas de algo que ela escolheu fazer. E isso, por si só, já era uma revolução silenciosa.
+
 Ela sorriu.
 Um sorriso cansado, mas real.
 
