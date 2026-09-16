@@ -48,14 +48,14 @@ Baseado no volume de caracteres atual (arquivos Markdown), esta é a estimativa 
 | **16** | CAP_16_AS_PEQUENAS_VITORIAS.md | 12 KB | **8** | |
 | **17** | CAP_17_O_GRUPO_DE_MULHERES.md | 4 KB | **3** | |
 | **18** | CAP_18_A_CULPA_DA_MATERNIDADE.md | 13 KB | **9** | Drama escolar |
-| **19** | CAP_19_QUEM_E_CAMILA.md | 4 KB | **3** | *Revisar Título (Aniversário)* |
+| **19** | CAP_19_O_ANIVERSARIO_DE_LEO.md | 4 KB | **3** | Aniversário de Léo |
 | **20** | CAP_20_O_CONTRASTE.md | 3.5 KB | **2-3** | Visita ao Ex |
 | **21** | CAP_21_O_PRIMEIRO_SORRISO_REAL.md | 3 KB | **2** | Venda do quadro |
 | **22** | CAP_22_O_ENCONTRO.md | 12 KB | **8** | Date com Daniel |
 | **23** | CAP_23_A_RESISTENCIA.md | 4 KB | **3** | Rejeição final |
-| **24** | CAP_24_O_PRIMEIRO_CAFE.md | 9 KB | **6** | Assinatura Divórcio |
-| **25** | CAP_25_O_TESTE.md | 9 KB | **6** | Um ano depois |
-| **26** | CAP_26_A_VULNERABILIDADE.md | 2 KB | **1-2** | Carta (Epílogo 1) |
+| **24** | CAP_24_O_FIM_E_O_COMECO.md | 9 KB | **6** | Divórcio + Primeiro Café |
+| **25** | CAP_25_UM_ANO_DEPOIS.md | 9 KB | **6** | Testes com Daniel |
+| **26** | CAP_26_CARTA_PARA_MIM_MESMA.md | 2 KB | **1-2** | Carta (Epílogo 1) |
 | **27** | CAP_27_A_METADE_QUE_ME_FALTAVA... | 2 KB | **1-2** | Final (Epílogo 2) |
 
 **Total Estimado de Páginas:** ~160 a 180 páginas.

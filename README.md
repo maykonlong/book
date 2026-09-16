@@ -9,10 +9,11 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 ## 📂 Estrutura de Pastas
 
 ```
-📁 Book/1/
+📁 book/
 │
 ├── 📄 RESUMO_INICIAL.md          # Conceito original e proposta do livro
 ├── 📄 README.md                   # Este arquivo
+├── 📄 DIRETRIZES_PUBLICACAO.md    # Especificações técnicas para publicação
 │
 ├── 📁 00-PLANEJAMENTO/            # Documentos de planejamento geral
 │   ├── VISAO_GERAL.md            # Visão geral, checklist e cronograma
@@ -28,21 +29,19 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 │   ├── ESTRUTURA_CAPITULOS.md    # 27 capítulos em 3 atos
 │   └── CRONOLOGIA.md             # Linha do tempo de eventos
 │
-├── 📁 03-MANUSCRITO/              # Capítulos escritos
-│   ├── CAP_01.md
-│   ├── CAP_02.md
-│   └── ... (a serem criados)
+├── 📁 03-MANUSCRITO/              # 27 capítulos escritos (primeiro rascunho completo)
+│   ├── CAP_01_A_ROTINA_INVISIVEL.md
+│   ├── CAP_02_O_ANIVERSARIO_ESQUECIDO.md
+│   └── ... (27 capítulos)
 │
 ├── 📁 04-PESQUISA/                # Material de pesquisa
-│   ├── TOPICOS_PESQUISA.md       # Lista de tópicos a pesquisar
-│   ├── NOTAS_JURIDICO.md         # Pesquisa sobre divórcio
-│   ├── NOTAS_PSICOLOGIA.md       # Relacionamentos tóxicos, cura
-│   └── ... (a serem criados)
+│   └── TOPICOS_PESQUISA.md       # Lista de tópicos a pesquisar
 │
-└── 📁 05-REVISOES/                # Versões e revisões
-    ├── VERSAO_1/                 # Primeiro rascunho completo
-    ├── VERSAO_2/                 # Segunda revisão
-    └── FEEDBACK/                 # Anotações de beta readers
+└── 📁 04-MATERIAL_APOIO/          # Rascunhos e roteiros de apoio
+    ├── PROGRESSO.md              # Status do manuscrito
+    ├── CAP_01_RASCUNHO.md        # Rascunho inicial do capítulo 1
+    ├── CAP_12-15_DESCONSTRUCAO_INICIAL.md
+    └── CAP_17-21_23-25_ROTEIROS.md
 ```
 
 ---
@@ -86,16 +85,14 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Definição de temas e mensagens
 - [x] Guia de voz narrativa
 - [x] Lista de tópicos de pesquisa
+- [x] Primeiro rascunho completo (27 capítulos)
 
-### ⏳ Em Andamento
-- [ ] Pesquisa aprofundada (divórcio, psicologia, sobrecarga mental)
-- [ ] Escrita do primeiro capítulo (teste de voz)
-
-### 📅 Próximos Passos
-1. Realizar pesquisas prioritárias (divórcio, relacionamentos tóxicos)
-2. Escrever primeiro capítulo completo
-3. Ajustar voz narrativa com base no primeiro capítulo
-4. Iniciar escrita sequencial dos capítulos
+### ⏳ Próximos Passos
+1. Revisão estrutural (coerência entre capítulos)
+2. Revisão de personagens e diálogos
+3. Beta readers
+4. Revisão ortográfica e gramatical final
+5. Formatação para publicação
 
 ---
 
@@ -155,8 +152,8 @@ Nomes, contexto urbano (São Paulo), dinâmicas familiares autenticamente brasil
 3. Documentar fontes e citações úteis
 
 ### Para Revisão
-1. Salvar versões completas em `05-REVISOES/VERSAO_X/`
-2. Documentar feedback de leitores em `05-REVISOES/FEEDBACK/`
+1. Ler o manuscrito completo em `03-MANUSCRITO/`
+2. Documentar feedback por capítulo
 3. Manter histórico de mudanças significativas
 
 ---
@@ -195,9 +192,9 @@ Como uma amiga contando sua história e dizendo:
 | Fase | Duração | Status |
 |------|---------|--------|
 | Planejamento | 2 semanas | ✅ Concluído |
-| Pesquisa | 1-2 semanas | ⏳ Em andamento |
-| Primeiro rascunho | 8-12 semanas | 📅 Pendente |
-| Revisões | 4-6 semanas | 📅 Pendente |
+| Pesquisa | 1-2 semanas | ✅ Concluído |
+| Primeiro rascunho | 8-12 semanas | ✅ Concluído |
+| Revisões | 4-6 semanas | ⏳ Próximo |
 | Finalização | 2 semanas | 📅 Pendente |
 
 **Total estimado**: 4-6 meses
@@ -290,8 +287,8 @@ Se você está revisitando este projeto após um tempo:
 
 ---
 
-**Última atualização**: [Data a ser preenchida]  
-**Status geral**: 📝 Fase de Planejamento Concluída | Iniciando Pesquisa e Escrita
+**Última atualização**: Setembro 2026  
+**Status geral**: ✅ Primeiro Rascunho Completo | Próxima Fase: Revisão
 
 ---
 

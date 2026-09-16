@@ -215,7 +215,7 @@
 
 ---
 
-### CAPÍTULO 15: "Redescoberta Parte 1"
+### CAPÍTULO 15: "Voltando a Pintar"
 **Objetivo**: Camila retoma hobbies
 
 **Conteúdo**:
@@ -264,16 +264,17 @@
 
 ---
 
-### CAPÍTULO 19: "Quem é Camila?"
-**Objetivo**: Busca por identidade própria
+### CAPÍTULO 19: "O Aniversário de Léo"
+**Objetivo**: Contraste entre presença e dinheiro
 
 **Conteúdo**:
-- Exercício de terapia: "Quem você é sem ser mãe, ex-esposa, profissional?"
-- Camila não sabe responder
-- Começa a explorar: o que eu gosto? O que EU quero?
-- Redescobre amor por escrita (começa diário)
+- Primeiro aniversário de Léo pós-separação (9 anos)
+- Camila faz festa caseira com bolo de cenoura e brigadeiro
+- Ricardo aparece tarde, traz PlayStation 5 (presente caro, sem presença)
+- Léo prefere o presente de Camila: kit de desenho + passeio juntos
+- Contraste: dinheiro vs. conexão real
 
-**Tom**: Introspectivo, contemplativo
+**Tom**: Agridoce, revelador
 
 ---
 
@@ -332,43 +333,44 @@
 
 ---
 
-### CAPÍTULO 24: "O Primeiro Café"
-**Objetivo**: Primeiro encontro real
+### CAPÍTULO 24: "O Fim e o Começo"
+**Objetivo**: Divórcio oficializado + primeiro encontro real com Daniel
 
 **Conteúdo**:
-- Camila aceita café com Daniel
-- Conversa fluida, ele é atento, pergunta sobre ela
-- Camila compara mentalmente com Ricardo
-- Daniel OUVE, não minimiza, não vitimiza
-- Fim do encontro: ela está confusa (sentiu algo)
+- Assinatura do divórcio no cartório (cena anticlimática, realista)
+- Camila celebra sozinha num café - sente paz, não dor
+- Primeiro café com Daniel: conversa fluida, ele é atento
+- Teste do café derramado: Daniel reage com maturidade (contraste com Ricardo)
+- Camila confusa: sentiu algo bom, e isso assusta
 
 ---
 
-### CAPÍTULO 25: "O Teste"
-**Objetivo**: Camila testa Daniel sem querer
+### CAPÍTULO 25: "Um Ano Depois: A Nova Paz"
+**Objetivo**: Mostrar transformação de Camila + testes com Daniel
 
 **Conteúdo**:
-- Camila, sem perceber, projeta Ricardo em Daniel
-- Ela espera sabotagens, críticas, desinteresse
-- Daniel é consistente: gentil, presente, respeitoso
-- Ele percebe resistência dela, mas não força
+- Um ano após a separação: rotina é dela agora
+- Crianças voltam do pai sujas de ketchup - Camila reage com leveza (antes, surtaria)
+- Série de encontros com Daniel onde Camila testa inconscientemente
+- Fernanda e Dr. Lucas confrontam: ela está sabotando algo bom
+- Daniel diz que quer apresentá-la à irmã - Camila decide dar chance real
 
 **Frase marcante**:
 > "Eu estava tão acostumada com migalhas que gentileza parecia armadilha."
 
 ---
 
-### CAPÍTULO 26: "A Vulnerabilidade"
-**Objetivo**: Camila se abre
+### CAPÍTULO 26: "Carta Para Mim Mesma"
+**Objetivo**: Camila escreve carta à sua versão do passado
 
 **Conteúdo**:
-- Camila conta para Daniel sobre divórcio, medos
-- Ele OUVE, não julga, não oferece soluções
-- Apenas diz: "Você é incrível. E eu vou no seu tempo."
-- Camila chora - não de dor, mas de alívio
-- Primeiro beijo (ou primeiro momento de entrega emocional)
+- Camila encontra diário antigo de dois anos atrás
+- Lê entradas de dor e desespero da época do casamento
+- Escreve carta para a Camila do passado, dizendo que vai doer mas vale a pena
+- "A metade que te falta... sou eu"
+- Fechamento emocional: reverência pela mulher que teve coragem de mudar
 
-**Tom**: Emocional, vulnerável, real
+**Tom**: Emocional, poético, catártico
 
 ---
 

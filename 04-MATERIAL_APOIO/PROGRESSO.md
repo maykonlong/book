@@ -15,46 +15,48 @@
 
 ---
 
-## ⏳ ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO (Em Andamento)
+## ✅ ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO (Completo!)
 **Capítulos 10-21**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
 
-### Concluídos:
 - ✅ Cap 10: O Vazio Barulhento
 - ✅ Cap 11: O Processo
 - ✅ Cap 12: A Pressão da Família
 - ✅ Cap 13: A Primeira Sessão
 - ✅ Cap 14: A Nova Rotina
-- ✅ Cap 15: Redescoberta Parte 1
-
-### Próximos (16-21):
-- ⏳ Cap 16: As Pequenas Vitórias
-- ⏳ Cap 17: O Grupo de Mulheres
-- ⏳ Cap 18: A Culpa da Maternidade
-- ⏳ Cap 19: Quem é Camila?
-- ⏳ Cap 20: O Contraste
-- ⏳ Cap 21: O Primeiro Sorriso Real
+- ✅ Cap 15: Voltando a Pintar
+- ✅ Cap 16: As Pequenas Vitórias
+- ✅ Cap 17: O Grupo de Mulheres
+- ✅ Cap 18: A Culpa da Maternidade
+- ✅ Cap 19: O Aniversário de Léo
+- ✅ Cap 20: O Contraste
+- ✅ Cap 21: O Primeiro Sorriso Real
 
 ---
 
-## 📅 ATO III - ABERTURA E ENTREGA (Pendente)
+## ✅ ATO III - ABERTURA E ENTREGA (Completo!)
 **Capítulos 22-27**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
 
-- ⏳ Cap 22: O Encontro
-- ⏳ Cap 23: A Resistência
-- ⏳ Cap 24: O Primeiro Café
-- ⏳ Cap 25: O Teste
-- ⏳ Cap 26: A Vulnerabilidade
-- ⏳ Cap 27: A Metade Que Me Faltava Era Eu (FINAL)
+- ✅ Cap 22: O Encontro
+- ✅ Cap 23: A Resistência
+- ✅ Cap 24: O Fim e o Começo
+- ✅ Cap 25: Um Ano Depois: A Nova Paz
+- ✅ Cap 26: Carta Para Mim Mesma
+- ✅ Cap 27: A Metade Que Me Faltava Era Eu (FINAL)
 
 ---
 
 ## 📊 Estatísticas
--  **Total de palavras até agora**: ~48.000
-- **Páginas estimadas**: ~105
-- **Progresso**: 15/27 capítulos (55%)
-- **Meta final**: 180-250 páginas
+- **Total de capítulos escritos**: 27/27 (100%)
+- **Total de palavras estimado**: ~75.000-80.000
+- **Páginas estimadas**: ~160-180 (formato A5)
+- **Status**: Primeiro rascunho completo
 
 ---
 
-## 🎯 Próximo Passo
-Continuar escrevendo capítulos 16-27 com **mesma qualidade e profundidade dos primeiros 15**, sem acelerar.
+## 🎯 Próximos Passos
+1. Revisão estrutural (coerência entre capítulos)
+2. Revisão de personagens (consistência de voz e comportamento)
+3. Revisão de diálogos (naturalidade)
+4. Beta readers
+5. Revisão ortográfica e gramatical final
+6. Formatação para publicação

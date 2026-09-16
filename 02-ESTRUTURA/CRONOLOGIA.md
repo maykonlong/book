@@ -108,7 +108,7 @@
 
 - **Primeira semana**: Léo pergunta quando o pai volta - culpa materna (Cap. 18)
 - **Segunda semana**: Conversa com terapeuta sobre maternidade
-- **Terceira semana**: Exercício de identidade - "Quem é Camila?" (Cap. 19)
+- **Terceira semana**: Aniversário do Léo (9 anos) — contraste presença vs. dinheiro (Cap. 19)
 - **Quarta semana**: Camila começa a escrever diário
 
 ---
@@ -136,9 +136,9 @@
 ### NOVEMBRO - "Abertura"
 **Duração: Cap. 24-25**
 
-- **Primeira semana**: Primeiro café com Daniel (Cap. 24)
+- **Primeira semana**: Assinatura do divórcio no cartório + Primeiro café com Daniel (Cap. 24)
 - **Segunda semana**: Segundo encontro - jantar
-- **Terceira semana**: Camila testa Daniel sem perceber (Cap. 25)
+- **Terceira semana**: Camila testa Daniel inconscientemente + Série de encontros (Cap. 25)
 - **Quarta semana**: Daniel se mostra consistente e gentil
 
 ---
@@ -146,7 +146,7 @@
 ### DEZEMBRO - "Entrega e Integração"
 **Duração: Cap. 26-27**
 
-- **Primeira semana**: Camila se abre com Daniel (Cap. 26)
+- **Primeira semana**: Camila escreve carta para si mesma (Cap. 26)
 - **Segunda semana**: Primeiro beijo / entrega emocional
 - **Terceira semana**: Divórcio finalmente concluído (processo de 9 meses)
 - **Quarta semana (Natal)**: Camila com filhos, família reunida de forma diferente mas feliz

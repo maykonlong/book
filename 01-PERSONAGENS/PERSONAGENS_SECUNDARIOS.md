@@ -251,7 +251,7 @@ Opções:
 ## 👔 COLEGAS DE TRABALHO
 
 ### Marcos - O Colega Inofensivo
-- Late 30s
+- Quase 40 anos
 - Flerta levemente com Camila (pós-separação)
 - Não é interesse romântico real
 - Função: Mostrar que Camila ainda é desejável

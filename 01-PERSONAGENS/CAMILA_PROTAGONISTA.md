@@ -171,7 +171,7 @@
 - Pequenas aberturas emocionais
 
 ### Fase 6: Entrega e Integração
-**Cap. 25-30**
+**Cap. 25-27**
 - Permite-se ser vulnerável
 - Aceita amor saudável
 - Integra todas as partes de si (mãe, profissional, mulher, artista)

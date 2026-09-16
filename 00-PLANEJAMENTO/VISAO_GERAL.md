@@ -17,18 +17,18 @@
 - [x] Definir conceito geral
 - [x] Criar resumo da história
 - [x] Definir personagens principais
-- [ ] Desenvolver fichas detalhadas de personagens
-- [ ] Criar cronologia de eventos
-- [ ] Definir arcos narrativos
+- [x] Desenvolver fichas detalhadas de personagens
+- [x] Criar cronologia de eventos
+- [x] Definir arcos narrativos
 
-### Fase 2: Estruturação
-- [ ] Dividir em capítulos (20-30)
-- [ ] Criar sinopse de cada capítulo
-- [ ] Estabelecer pontos de virada
-- [ ] Definir conflitos principais por capítulo
+### Fase 2: Estruturação ✅
+- [x] Dividir em capítulos (20-30)
+- [x] Criar sinopse de cada capítulo
+- [x] Estabelecer pontos de virada
+- [x] Definir conflitos principais por capítulo
 
-### Fase 3: Escrita do Manuscrito
-- [ ] Escrever primeiro rascunho
+### Fase 3: Escrita do Manuscrito ✅
+- [x] Escrever primeiro rascunho
 - [x] **ATO I - ESTAGNAÇÃO E RUPTURA** ✅ (Cap 1-9)
   - [x] Capítulo 1 - "A Rotina Invisível" ✅
   - [x] Capítulo 2 - "O Aniversário Esquecido" ✅
@@ -39,11 +39,11 @@
   - [x] Capítulo 7 - "A Gota D'água" ✅
   - [x] Capítulo 8 - "Eu Quero me Separar" ✅
   - [x] Capítulo 9 - "A Conversa com os Filhos" ✅
-- [ ] **ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO** (Cap 10-21)
-- [ ] **ATO III - ABERTURA E ENTREGA** (Cap 22-27)
+- [x] **ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO** ✅ (Cap 10-21)
+- [x] **ATO III - ABERTURA E ENTREGA** ✅ (Cap 22-27)
 - [x] Cena de abertura impactante ✅
-- [ ] Clímax emocional
-- [ ] Desfecho satisfatório
+- [x] Clímax emocional ✅
+- [x] Desfecho satisfatório ✅
 
 ### Fase 4: Revisão
 - [ ] Primeira revisão (estrutura)

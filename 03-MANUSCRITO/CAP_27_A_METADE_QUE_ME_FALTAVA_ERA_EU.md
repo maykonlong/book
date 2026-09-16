@@ -11,11 +11,11 @@ Ela estava chamativa. Ela estava brilhante.
 Seus quadros contavam a história na parede.
 A mulher afundando. A mulher emergindo. A mulher voando.
 
-Maria, a jornalista, perguntou:
+Uma mulher na plateia levantou a mão:
 — Camila, qual a mensagem principal dessa série?
 
 Camila olhou para os quadros. Olhou para o salão.
-Viu sua mãe, de cabelo rosa, rindo com Fernanda.
+Viu sua mãe — Dona Sônia, de cabelo curtinho e mechas cor-de-rosa que ela tinha ousado fazer no mês passado, rindo de algo que Fernanda contava.
 Viu Léo e Bia correndo, saudáveis, amados.
 Viu Daniel, conversando com alguém, mas lançando um olhar de orgulho para ela do outro lado da sala.
 

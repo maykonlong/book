@@ -370,4 +370,4 @@ Imprescindível.
 E completamente só.
 
 
-[^1]: Chutar a canela: Uma express�o figurativa usada aqui para demonstrar uma irrita��o contida e infantil, um desejo de causar um inc�modo leve mas f�sico para despertar a outra pessoa da sua passividade.
+[^1]: Chutar a canela: Uma expressão figurativa usada aqui para demonstrar uma irritação contida e infantil, um desejo de causar um incômodo leve mas físico para despertar a outra pessoa da sua passividade.
