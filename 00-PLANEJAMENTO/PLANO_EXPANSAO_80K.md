@@ -65,11 +65,13 @@
 - [x] CAP 8 — Eu Quero me Separar (1.054 → 1.094) 🟡
 - [x] CAP 9 — A Conversa com os Filhos (1.282 → 1.302) 🟡
 
-### Etapa 5 — Consolidação e fechamento
-- [ ] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
-- [ ] Revisão de coerência (nomes, cronologia, voz)
-- [ ] Recountagem final de palavras e páginas
-- [ ] Atualizar `README.md` / `VISAO_GERAL.md` se necessário
+### ✅ Etapa 5 — Consolidação e fechamento
+- [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
+- [x] Revisão de coerência (nomes, cronologia, voz) — ver nota abaixo
+- [x] Recountagem final de palavras e páginas (~40.950 palavras)
+- [x] Atualizar `README.md` / `VISAO_GERAL.md`
+
+> **⚠️ Ponto de coerência (opção 3 — manter como está e documentar):** CAP 22 e CAP 24 contêm dois "primeiros cafés" com Daniel (um termina em "não vou namorá-lo", outro em esperança). Decidido manter ambos e revisar na 2ª passada de revisão estrutural.
 
 ---
 
@@ -141,3 +143,4 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 4 | CAP 7 | +27 | aprofundar CAP 7 (1.142→1.169) |
 | 16/09 | Etapa 4 | CAP 8 | +40 | aprofundar CAP 8 (1.054→1.094) |
 | 16/09 | Etapa 4 | CAP 9 | +20 | aprofundar CAP 9 (1.282→1.302) |
+| 16/09 | Etapa 5 | — | — | consolidação: manuscrito_completo + recountagem (total ~40.950) |

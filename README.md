@@ -190,10 +190,10 @@ Como uma amiga contando sua história e dizendo:
 ## 📊 Métricas do Projeto
 
 ### Objetivos Quantitativos
-- **Páginas totais**: 180-250
+- **Páginas totais**: ~150-170 (atual) → meta 300-330
 - **Capítulos**: 27
-- **Palavras por capítulo**: ~2.500-3.500
-- **Total estimado**: 67.500-94.500 palavras
+- **Palavras por capítulo**: ~1.520 (atual) → meta 2.500-3.000
+- **Total**: ~40.950 palavras (atual, após 1ª passada de expansão) → meta 75.000-85.000
 
 ### Cronograma Estimado
 | Fase | Duração | Status |
