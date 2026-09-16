@@ -16,6 +16,8 @@ Mas olhavam.
 
 Olhavam de verdade. Inclinavam a cabeça. Aproximavam o rosto. Uma senhora de óculos escuros ficou cinco minutos parada diante de *Afogamento*, sem piscar.
 
+O ateliê estava abafado, cheio de gente e daquele cheiro de tinta misturado a vinho. Camila reconhecia cada quadro seu como quem reconhece um filho na multidão — e expor aquilo era como deixar os filhos sozinhos na rua, à mercê de olhares que podiam amar ou ignorar. Era a coisa mais nua que ela já tinha feito em público. Mais nua do que qualquer casamento, qualquer reunião, qualquer pose para foto.
+
 Camila quis se esconder atrás da mesa de bebidas. Também quis gritar "fui eu que fiz!" para o salão inteiro. Ficou num lugar desconfortável entre as duas vontades, o coração batendo na garganta, fingindo que estava muito interessada nos amendoins.
 
 Camila ficou num canto, perto da mesa de bebidas, tentando ficar invisível.
@@ -42,6 +44,8 @@ Mas não era pelo dinheiro.
 Era pelo valor.
 
 Alguém via valor naquilo que ela criou a partir da sua dor.
+
+Por onze anos, a única coisa que "vendiam" a Camila era a utilidade: o que ela fazia pelos outros, o que ela produzia, o que ela limpava, o que ela organizava. Ninguém nunca tinha pago para olhar para dentro dela. E agora uma estranha, com dinheiro próprio, escolhia *comprar* um pedaço da dor de Camila transformada em cor. Como quem compra um espelho.
 
 Não era elogio vazio. Não era a mãe dizendo "ficou lindo" para qualquer rabisco. Era uma estranha, com dinheiro próprio, escolhendo *comprar* um pedaço da dor de Camila transformada em cor.
 
@@ -75,6 +79,8 @@ Olhou para o comprovante do PIX na conta.
 
 E então, guardou o celular no bolso.
 Sem responder.
+
+Pela primeira vez, a opinião de Ricardo não tinha nem o poder de estragar a noite. A mensagem dele era um fósforo aceso no meio de um oceano — se apagava antes de chegar perto.
 
 Ela saiu para a calçada do ateliê para tomar um ar.
 A noite estava fresca.

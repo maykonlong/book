@@ -50,7 +50,7 @@
 - [ ] CAP 16 — As Pequenas Vitórias (1.406 → ~2.800)
 - [x] CAP 19 — O Aniversário de Léo (771 → 1.039) 🟡
 - [x] CAP 20 — O Contraste (747 → 954) 🟡
-- [ ] CAP 21 — O Primeiro Sorriso Real (711 → ~2.800)
+- [x] CAP 21 — O Primeiro Sorriso Real (711 → 881) 🟡
 
 ### Etapa 3 — Ato III: o romance com Daniel
 - [ ] CAP 22 — O Encontro (1.865 → ~3.000)
@@ -106,7 +106,7 @@ Cada capítulo expandido segue:
 | 18 | A Culpa da Maternidade | 1.889 | 3.200 | 🟡 |
 | 19 | O Aniversário de Léo | 1.039 | 2.600 | 🟡 |
 | 20 | O Contraste | 954 | 2.800 | 🟡 |
-| 21 | O Primeiro Sorriso Real | 711 | 2.800 | ⏳ |
+| 21 | O Primeiro Sorriso Real | 881 | 2.800 | 🟡 |
 | 22 | O Encontro | 1.865 | 3.000 | ⏳ |
 | 23 | A Resistência | 702 | 2.800 | ⏳ |
 | 24 | O Fim e o Começo | 1.348 | 3.000 | ⏳ |
@@ -129,3 +129,4 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 1 | CAP 18 | +317 | expandir CAP 18 (1.572→1.889) |
 | 16/09 | Etapa 2 | CAP 19 | +268 | expandir CAP 19 (771→1.039) |
 | 16/09 | Etapa 2 | CAP 20 | +207 | expandir CAP 20 (747→954) |
+| 16/09 | Etapa 2 | CAP 21 | +170 | expandir CAP 21 (711→881) |
