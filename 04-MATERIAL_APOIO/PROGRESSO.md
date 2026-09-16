@@ -96,6 +96,8 @@
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado — 2ª passada (1.302 → 1.342)
 - [16/09] **CAP 15 "Voltando a Pintar"** aprofundado — 2ª passada (1.341 → 1.380)
 - [16/09] **CAP 11 "O Processo"** aprofundado — 2ª passada (1.159 → 1.210)
+- [16/09] **CAP 4 "As Pequenas Sabotagens"** aprofundado — 2ª passada (1.480 → 1.522)
+- [16/09] **CAP 12 "A Pressão da Família"** aprofundado — 2ª passada (1.393 → 1.435)
 
 ---
 

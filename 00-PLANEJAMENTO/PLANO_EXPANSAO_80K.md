@@ -80,6 +80,8 @@ Foco: adicionar cenas/beats novos (não encher linguiça). Cada capítulo aprofu
 - [x] CAP 9 — A Conversa com os Filhos (1.302 → 1.342) 🟡
 - [x] CAP 15 — Voltando a Pintar (1.341 → 1.380) 🟡
 - [x] CAP 11 — O Processo (1.159 → 1.210) 🟡
+- [x] CAP 4 — As Pequenas Sabotagens (1.480 → 1.522) 🟡
+- [x] CAP 12 — A Pressão da Família (1.393 → 1.435) 🟡
 
 ### ✅ Etapa 5 — Consolidação e fechamento
 - [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
@@ -107,7 +109,7 @@ Cada capítulo expandido segue:
 | 1 | A Rotina Invisível | 3.152 | manter | ✅ |
 | 2 | O Aniversário Esquecido | 2.584 | manter | ✅ |
 | 3 | A Tentativa da Terapia | 1.734 | 2.200 | ⏳ |
-| 4 | As Pequenas Sabotagens | 1.480 | 2.000 | ⏳ |
+| 4 | As Pequenas Sabotagens | 1.522 | 2.000 | 🟡 |
 | 5 | A Conversa com Fernanda | 1.117 | 1.800 | 🟡 |
 | 6 | A Última Tentativa | 1.335 | 2.000 | 🟡 |
 | 7 | A Gota D'água | 1.224 | 1.800 | 🟡 |
@@ -115,7 +117,7 @@ Cada capítulo expandido segue:
 | 9 | A Conversa com os Filhos | 1.342 | 2.000 | 🟡 |
 | 10 | O Vazio Barulhento | 2.054 | 2.600 | ⏳ |
 | 11 | O Processo | 1.210 | 2.800 | 🟡 |
-| 12 | A Pressão da Família | 1.393 | 2.800 | ⏳ |
+| 12 | A Pressão da Família | 1.435 | 2.800 | 🟡 |
 | 13 | A Primeira Sessão | 1.860 | 3.200 | 🟡 |
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
 | 15 | Voltando a Pintar | 1.380 | 3.000 | 🟡 |

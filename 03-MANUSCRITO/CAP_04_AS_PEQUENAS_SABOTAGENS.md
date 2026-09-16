@@ -129,6 +129,8 @@ Camila engoliu o choro com tanta força que sua garganta doeu fisicamente. Forç
 
 Até a criança sabia que era mentira.
 
+E Camila percebeu que, ao mentir para proteger o Léo, ela estava, sem querer, ensinando a ele que mentira é o que se faz quando a verdade dói demais. Estava passando adiante, em silêncio, a mesma lição que um dia recebeu: engole, sorri, finge.
+
 — Vem cá — disse Camila. — Você tá com fome ainda? Cabe um pedacinho de carne chique?
 
 — Cabe!

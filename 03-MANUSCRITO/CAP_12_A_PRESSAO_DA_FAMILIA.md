@@ -157,6 +157,8 @@ Camila arregalou os olhos e soltou uma gargalhada genuína.
 
 — Aprendi faz pouco tempo. É libertador. Foda-se o que eles pensam. A vida é sua.
 
+Camila olhou para a mãe — sessenta e poucos anos, avental de cozinha, e a palavra "foda-se" na boca como quem acaba de sair da prisão. E pensou: se a minha mãe conseguiu se libertar aos sessenta, eu consigo aos trinta e quatro.
+
 Camila saiu da casa da mãe em Santo Amaro pisando leve.
 Não estava mais sozinha. Tinha a mãe. E tinha a si mesma.
 
