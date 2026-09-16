@@ -58,10 +58,23 @@ Isso valia mais que os quinhentos reais. Valia uma vida inteira de "isso não é
 — Pode ser — disse Camila, tentando não tremer.
 
 A mulher tirou o celular. Fez o PIX na hora.
+
+Antes de ir, ela parou na frente de Camila. Havia algo úmido nos olhos dela, atrás dos óculos.
+— Sabe por que eu quis comprar esse quadro? — perguntou. — Eu perdi minha mãe há dois meses. E essa sala vazia com sol... é exatamente como eu imagino que ela está agora. Em paz. Descansando. Você pintou a minha mãe sem conhecer ela.
+Camila ficou sem palavras. Um nó subiu pela garganta.
+— Desculpa — a mulher limpou os olhos. — Não era pra emocionar. Mas você tem um dom, moça. Não deixa ninguém tirar isso de você.
+Ela apertou a mão de Camila, pegou o quadro embrulhado e foi embora, deixando para trás um perfume suave de alfazema e uma Camila parada no meio do salão, entendendo pela primeira vez o que a arte podia fazer: atravessar a distância entre duas estranhas e costurar, com cor, uma dor na outra.
+
 Paula veio colocar uma bolinha vermelha adesiva ao lado do quadro. *Vendido.*
 
 Camila olhou para aquela bolinha vermelha.
 Parecia um diploma. Uma medalha olímpica.
+
+— Eu sabia — disse Paula, aproximando-se, os olhos brilhando de um orgulho que não era dela. — Desde a primeira aula, eu via nos seus traços uma coisa que você não via em si mesma. Você não estava só voltando a pintar, Camila. Você estava voltando a se ver.
+— Eu nem sabia se conseguiria chegar até aqui — confessou Camila, a voz embargada.
+— Conseguiu. E isso é só o começo. Eu quero três quadros seus na próxima exposição do ateliê. No mínimo.
+
+Camila olhou para aquela bolinha vermelha, agora com outros olhos. Não era um ponto final. Era um ponto de partida.
 
 Fernanda chegou atrasada, atropelando gente.
 — AMIGA! VOCÊ VENDEU UM QUADRO! — Gritou ela, fazendo metade do salão olhar.

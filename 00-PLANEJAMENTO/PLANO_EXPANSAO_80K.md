@@ -126,7 +126,7 @@ Cada capítulo expandido segue:
 | 18 | A Culpa da Maternidade | 1.889 | 3.200 | 🟡 |
 | 19 | O Aniversário de Léo | 1.167 | 2.600 | 🟡 |
 | 20 | O Contraste | 1.041 | 2.800 | 🟡 |
-| 21 | O Primeiro Sorriso Real | 1.019 | 2.800 | 🟡 |
+| 21 | O Primeiro Sorriso Real | 1.275 | 2.800 | 🟡 |
 | 22 | O Encontro | 1.933 | 3.000 | 🟡 |
 | 23 | A Resistência | 1.105 | 2.800 | 🟡 |
 | 24 | O Fim e o Começo | 1.470 | 3.000 | 🟡 |
