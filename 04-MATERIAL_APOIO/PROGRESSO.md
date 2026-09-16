@@ -86,6 +86,7 @@
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado (1.282 → 1.302)
 - [16/09] **CAP 23 "A Resistência"** aprofundado — 2ª passada (870 → 1.105)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** aprofundado — 2ª passada (881 → 1.019)
+- [16/09] **CAP 20 "O Contraste"** aprofundado — 2ª passada (954 → 1.041)
 
 ---
 

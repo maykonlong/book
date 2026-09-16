@@ -34,6 +34,8 @@ E ali estava ele, morando sozinho, cercado de pizza velha e tênis espalhados. S
 Camila olhou para a pia da kitchinette. Pilha de louça.
 Olhou para a camisa dele. Amarrotada nas costas.
 
+E, pela porta entreaberta da geladeira, viu o interior: uma caixa de pizza, duas cervejas e um pote de maionese aberto. Nenhuma fruta. Nenhum legume. Nada que lembrasse lar. A geladeira de quem sobrevive, não de quem vive.
+
 E teve uma epifania.
 Clara. Cristalina.
 
@@ -66,6 +68,8 @@ Camila segurou o riso.
 
 Saiu e fechou a porta.
 Desceu o elevador sentindo-se três quilos mais leve.
+
+No saguão, olhou para o próprio reflexo no vidro da portaria. A mulher de costas retas, sem maquiagem, de moletom, que um dia achou que estava perdendo "o homem perfeito". Ela quase riu. O homem perfeito morava numa kitnet que cheirava a pizza velha e não sabia pendurar uma toalha.
 
 O mito do Ricardo Perfeito tinha caído.
 E com ele, a última ponta de admiração que ainda a prendia.

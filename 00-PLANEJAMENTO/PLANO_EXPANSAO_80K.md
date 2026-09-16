@@ -70,6 +70,7 @@ Foco: adicionar cenas/beats novos (não encher linguiça). Cada capítulo aprofu
 
 - [x] CAP 23 — A Resistência (870 → 1.105) 🟡
 - [x] CAP 21 — O Primeiro Sorriso Real (881 → 1.019) 🟡
+- [x] CAP 20 — O Contraste (954 → 1.041) 🟡
 
 ### ✅ Etapa 5 — Consolidação e fechamento
 - [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
@@ -113,7 +114,7 @@ Cada capítulo expandido segue:
 | 17 | O Grupo de Mulheres | 1.177 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 1.889 | 3.200 | 🟡 |
 | 19 | O Aniversário de Léo | 1.039 | 2.600 | 🟡 |
-| 20 | O Contraste | 954 | 2.800 | 🟡 |
+| 20 | O Contraste | 1.041 | 2.800 | 🟡 |
 | 21 | O Primeiro Sorriso Real | 1.019 | 2.800 | 🟡 |
 | 22 | O Encontro | 1.933 | 3.000 | 🟡 |
 | 23 | A Resistência | 1.105 | 2.800 | 🟡 |
