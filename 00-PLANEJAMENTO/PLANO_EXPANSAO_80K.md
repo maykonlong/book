@@ -130,7 +130,7 @@ Cada capítulo expandido segue:
 | 22 | O Encontro | 1.933 | 3.000 | 🟡 |
 | 23 | A Resistência | 1.105 | 2.800 | 🟡 |
 | 24 | O Fim e o Começo | 1.605 | 3.000 | 🟡 |
-| 25 | Um Ano Depois | 1.547 | 3.000 | 🟡 |
+| 25 | Um Ano Depois | 1.673 | 3.000 | 🟡 |
 | 26 | Carta Para Mim Mesma | 352 | 800 | ⏳ |
 | 27 | A Metade Que Me Faltava Era Eu | 2.613 | 3.200 | ⏳ |
 

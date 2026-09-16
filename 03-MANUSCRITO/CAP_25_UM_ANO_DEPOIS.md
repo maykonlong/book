@@ -163,6 +163,12 @@ Camila sentiu culpa imediata:
 
 Três dias depois, assim que melhorou, ele remarcou. Profusamente desculpando-se pelo cancelamento.
 
+No parque, no domingo de sol, Daniel fez uma coisa pequena que quase derrubou Camila. Passaram por um vendedor de algodão-doce, e ela comentou, distraidamente, que adorava o rosa, mas sempre tinha medo de ficar com a boca manchada em público. Ele comprou um. Dividiram. E quando ela percebeu que tinha açúcar na ponta do nariz, ele riu e disse: *"fica. Te deixa com cara de criança feliz"*.
+
+Não era nada. Era só um elogio bobo. Mas Camila sentiu o peito apertar. Fazia tanto tempo que alguém a olhava sem julgar. Sem corrigir. Sem esperar que ela fosse uma versão mais contida de si mesma.
+
+Ela passou o resto da caminhada sorrindo à toa, sentindo-se, pela primeira vez em anos, um pouco boba. E gostando disso.
+
 Ricardo nunca teria explicado. Teria cancelado vagamente e ficado irritado se ela questionasse.
 
 Daniel era diferente.

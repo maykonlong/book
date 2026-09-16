@@ -78,7 +78,7 @@
 - [16/09] **CAP 23 "A Resistência"** expandido (702 → 870 palavras)
 - [16/09] **CAP 24 "O Fim e o Começo"** — 2ª passada: vulnerabilidade do Daniel (1.470 → 1.605)
 - [16/09] **CAP 22 "O Encontro"** expandido (1.865 → 1.933 palavras)
-- [16/09] **CAP 25 "Um Ano Depois"** expandido (1.510 → 1.547 palavras)
+- [16/09] **CAP 25 "Um Ano Depois"** — 2ª passada: cena do algodão-doce no parque (1.547 → 1.673)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado (1.008 → 1.021)
 - [16/09] **CAP 6 "A Última Tentativa"** aprofundado (1.247 → 1.275)
 - [16/09] **CAP 7 "A Gota D'água"** aprofundado (1.142 → 1.169)
