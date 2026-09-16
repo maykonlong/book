@@ -86,7 +86,7 @@
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado (1.282 → 1.302)
 - [16/09] **CAP 23 "A Resistência"** aprofundado — 2ª passada (870 → 1.105)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** — 2ª passada: cena da compradora + Paula (1.019 → 1.275)
-- [16/09] **CAP 20 "O Contraste"** aprofundado — 2ª passada (954 → 1.041)
+- [16/09] **CAP 20 "O Contraste"** — 2ª passada: cena da foto de casamento (1.041 → 1.148)
 - [16/09] **CAP 19 "O Aniversário de Léo"** aprofundado — 2ª passada (1.039 → 1.167)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado — 2ª passada (1.021 → 1.117)
 - [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado — 2ª passada (1.094 → 1.173)

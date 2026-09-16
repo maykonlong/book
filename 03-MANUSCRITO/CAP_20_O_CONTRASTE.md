@@ -36,6 +36,12 @@ Olhou para a camisa dele. Amarrotada nas costas.
 
 E, pela porta entreaberta da geladeira, viu o interior: uma caixa de pizza, duas cervejas e um pote de maionese aberto. Nenhuma fruta. Nenhum legume. Nada que lembrasse lar. A geladeira de quem sobrevive, não de quem vive.
 
+Na prateleira da estante, atrás de um carregador velho, Camila viu a ponta de uma moldura. Puxou. Era a foto do casamento deles — ela de vestido branco, ele de terno, sorrisos ensaiados para a lente. Estava empoeirada, esquecida, virada para a parede.
+
+Ela olhou para aquela foto por um longo momento. Para a noiva radiante que acreditava, de verdade, que o amor era suficiente. Para o noivo que prometia cuidar dela. Nenhum dos dois sabia, naquele dia, o que o cotidiano faria com eles.
+
+Camila recolocou a moldura no lugar. Sem raiva. Sem saudade. Só com uma espécie de reverência triste pela inocência daquelas duas pessoas.
+
 E teve uma epifania.
 Clara. Cristalina.
 
