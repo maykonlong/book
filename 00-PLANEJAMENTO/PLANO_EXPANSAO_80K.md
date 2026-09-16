@@ -121,7 +121,7 @@ Cada capítulo expandido segue:
 | 13 | A Primeira Sessão | 1.860 | 3.200 | 🟡 |
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
 | 15 | Voltando a Pintar | 1.380 | 3.000 | 🟡 |
-| 16 | As Pequenas Vitórias | 1.478 | 2.800 | 🟡 |
+| 16 | As Pequenas Vitórias | 1.573 | 2.800 | 🟡 |
 | 17 | O Grupo de Mulheres | 1.237 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 2.019 | 3.200 | 🟡 |
 | 19 | O Aniversário de Léo | 1.167 | 2.600 | 🟡 |

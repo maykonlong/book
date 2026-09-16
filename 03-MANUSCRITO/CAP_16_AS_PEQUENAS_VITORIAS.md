@@ -304,6 +304,19 @@ Léo assentiu. Não disse mais nada. Mas Camila viu no olhinho dele: entendiment
 
 ---
 
+No sábado, passando pela floricultura da esquina, Camila viu um balde de girassóis. Amarelos, altos, insolentes de tão vivos. Ela entrou sem pensar.
+
+— Quanto custa um girassol? — perguntou.
+Comprou três. Sem motivo. Sem culpa. Sem perguntar para ninguém se podia.
+
+Chegou em casa, cortou os talos, arrumou os girassóis num jarro de vidro na mesa da sala. Recuou. Olhou.
+
+A casa inteira parecia ter ganhado sol.
+
+Léo perguntou: *"é do namorado, mãe?"*. Camila riu: *"é meu. Eu comprei pra mim"*.
+
+E o menino sorriu, como se entendesse — talvez entendesse — o tamanho daquilo.
+
 Domingo à noite, depois de colocar as crianças para dormir, Camila sentou no sofá com caderninho.
 
 Estava fazendo isso recentemente: listar. Não tarefas. Não obrigações.
