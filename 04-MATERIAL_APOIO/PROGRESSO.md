@@ -64,6 +64,7 @@
 
 ## 📝 Log de expansão
 - [16/09] **CAP 13 "A Primeira Sessão"** expandido (888 → 1.860 palavras)
+- [16/09] **CAP 15 "Voltando a Pintar"** expandido (583 → 1.341 palavras)
 
 ---
 

@@ -41,7 +41,7 @@
 
 ### Etapa 1 — Ato II, bloco A: terapia e redescobrimento
 - [x] CAP 13 — A Primeira Sessão (888 → 1.860) 🟡
-- [ ] CAP 15 — Voltando a Pintar (583 → ~3.000)
+- [x] CAP 15 — Voltando a Pintar (583 → 1.341) 🟡
 - [ ] CAP 17 — O Grupo de Mulheres (882 → ~3.200)
 - [ ] CAP 18 — A Culpa da Maternidade (1.572 → ~3.200)
 
@@ -100,7 +100,7 @@ Cada capítulo expandido segue:
 | 12 | A Pressão da Família | 1.393 | 2.800 | ⏳ |
 | 13 | A Primeira Sessão | 1.860 | 3.200 | 🟡 |
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
-| 15 | Voltando a Pintar | 583 | 3.000 | ⏳ |
+| 15 | Voltando a Pintar | 1.341 | 3.000 | 🟡 |
 | 16 | As Pequenas Vitórias | 1.406 | 2.800 | ⏳ |
 | 17 | O Grupo de Mulheres | 882 | 3.200 | ⏳ |
 | 18 | A Culpa da Maternidade | 1.572 | 3.200 | ⏳ |
@@ -124,3 +124,4 @@ Cada capítulo expandido segue:
 |---|---|---|---|---|
 | 16/09 | Etapa 0 | — | — | planejamento + correção de métricas |
 | 16/09 | Etapa 1 | CAP 13 | +972 | expandir CAP 13 (888→1.860) |
+| 16/09 | Etapa 1 | CAP 15 | +758 | expandir CAP 15 (583→1.341) |
