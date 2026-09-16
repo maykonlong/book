@@ -18,6 +18,13 @@ Ricardo foi convidado, claro.
 A festa estava acontecendo. Léo estava feliz, correndo com os amigos pela sala, suado, boca suja de chocolate.
 Camila servia refrigerante, limpava chão, organizava tudo. Exausta, mas contente.
 
+Uma das mães, a do amigo Miguel, se aproximou enquanto Camila recolhia copos descartáveis.
+— Nossa, você fez tudo isso sozinha? Eu terceirizei a festa do Miguel. Buffet, recreador, bolo de confeitaria. Não tive coragem de encarar.
+— É... deu trabalho. — Camila sorriu, sem jeito.
+— Você é uma guerreira. — A mulher apertou o braço dela, num gesto de admiração genuína.
+
+*Guerreira.* Camila guardou a palavra. Não se sentia guerreira. Sentia-se exausta. Mas talvez exaustão e coragem fossem a mesma coisa, vista de fora.
+
 Às sete da noite, a campainha tocou.
 Era Ricardo.
 Ele entrou. Não trouxe bolo. Não trouxe brigadeiro. Trouxe uma caixa enorme debaixo do braço.
@@ -51,6 +58,8 @@ Léo rasgou a caixa do videogame. Estava em êxtase. Abraçou o pai.
 A frase foi uma facada.
 *Melhor pai do mundo.* O pai que não foi na apresentação da escola. O pai que não lavou a jaqueta. O pai que não sabia a data da prova de matemática.
 Mas o pai que comprou o brinquedo caro.
+
+E Camila engoliu a facada. Sorriu para o filho. Porque mãe não tem o direito de estragar o aniversário do menino com a própria dor. Mãe engole facada e continua servindo bolo. É o contrato invisível que ninguém assinou, mas todo mundo cumpre.
 
 Ricardo ficou meia hora. Comeu dois brigadeiros, tirou fotos com Léo e o videogame para postar no Instagram (#Paizão #NiverDoLéo), e se despediu.
 
