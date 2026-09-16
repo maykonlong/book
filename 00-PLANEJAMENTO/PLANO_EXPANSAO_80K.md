@@ -77,6 +77,7 @@ Foco: adicionar cenas/beats novos (não encher linguiça). Cada capítulo aprofu
 - [x] CAP 7 — A Gota D'água (1.169 → 1.224) 🟡
 - [x] CAP 17 — O Grupo de Mulheres (1.177 → 1.237) 🟡
 - [x] CAP 6 — A Última Tentativa (1.275 → 1.335) 🟡
+- [x] CAP 9 — A Conversa com os Filhos (1.302 → 1.342) 🟡
 
 ### ✅ Etapa 5 — Consolidação e fechamento
 - [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
@@ -109,7 +110,7 @@ Cada capítulo expandido segue:
 | 6 | A Última Tentativa | 1.335 | 2.000 | 🟡 |
 | 7 | A Gota D'água | 1.224 | 1.800 | 🟡 |
 | 8 | Eu Quero me Separar | 1.173 | 1.800 | 🟡 |
-| 9 | A Conversa com os Filhos | 1.302 | 2.000 | 🟡 |
+| 9 | A Conversa com os Filhos | 1.342 | 2.000 | 🟡 |
 | 10 | O Vazio Barulhento | 2.054 | 2.600 | ⏳ |
 | 11 | O Processo | 1.159 | 2.800 | 🟡 |
 | 12 | A Pressão da Família | 1.393 | 2.800 | ⏳ |

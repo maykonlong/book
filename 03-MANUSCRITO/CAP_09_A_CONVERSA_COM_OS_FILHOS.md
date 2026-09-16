@@ -243,6 +243,8 @@ Léo saiu do carro devagar.
 
 A pergunta foi uma faca no coração. Porque oito anos. Ele tinha oito anos e estava preocupado com ela.
 
+E Camila sentiu, ali, um medo que não tinha sentido nem diante do Ricardo: o medo de decepcionar aquele menino. De prometer uma felicidade que não sabia se conseguiria cumprir. De falhar com ele do jeito que o pai falhava.
+
 Mas Camila sorriu. Genuíno, pela primeira vez em muito tempo.
 
 — Vou sim. Eu prometo. E você também vai. Todo mundo vai.
