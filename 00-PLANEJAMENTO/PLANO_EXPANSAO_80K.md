@@ -42,7 +42,7 @@
 ### Etapa 1 — Ato II, bloco A: terapia e redescobrimento
 - [x] CAP 13 — A Primeira Sessão (888 → 1.860) 🟡
 - [x] CAP 15 — Voltando a Pintar (583 → 1.341) 🟡
-- [ ] CAP 17 — O Grupo de Mulheres (882 → ~3.200)
+- [x] CAP 17 — O Grupo de Mulheres (882 → 1.177) 🟡
 - [ ] CAP 18 — A Culpa da Maternidade (1.572 → ~3.200)
 
 ### Etapa 2 — Ato II, bloco B: rotina, contraste e virada
@@ -102,7 +102,7 @@ Cada capítulo expandido segue:
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
 | 15 | Voltando a Pintar | 1.341 | 3.000 | 🟡 |
 | 16 | As Pequenas Vitórias | 1.406 | 2.800 | ⏳ |
-| 17 | O Grupo de Mulheres | 882 | 3.200 | ⏳ |
+| 17 | O Grupo de Mulheres | 1.177 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 1.572 | 3.200 | ⏳ |
 | 19 | O Aniversário de Léo | 771 | 2.600 | ⏳ |
 | 20 | O Contraste | 747 | 2.800 | ⏳ |
@@ -125,3 +125,4 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 0 | — | — | planejamento + correção de métricas |
 | 16/09 | Etapa 1 | CAP 13 | +972 | expandir CAP 13 (888→1.860) |
 | 16/09 | Etapa 1 | CAP 15 | +758 | expandir CAP 15 (583→1.341) |
+| 16/09 | Etapa 1 | CAP 17 | +295 | expandir CAP 17 (882→1.177) |
