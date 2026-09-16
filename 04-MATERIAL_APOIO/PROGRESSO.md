@@ -45,15 +45,25 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas (medidas em 16/09/2026)
 - **Total de capítulos escritos**: 27/27 (100%)
-- **Total de palavras estimado**: ~75.000-80.000
-- **Páginas estimadas**: ~160-180 (formato A5)
-- **Status**: Primeiro rascunho completo
+- **Total de palavras REAL**: **~37.300** (corrigido — antes estava inflado em ~75-80k)
+- **Palavras/capítulo (média)**: ~1.380
+- **Páginas estimadas**: ~130-150 (formato 14x21 cm)
+- **Status**: Primeiro rascunho completo — **EM EXPANSÃO para ~80k palavras**
+
+### Distribuição por ato
+| Ato | Capítulos | Palavras | % | Alvo |
+|---|---|---|---|---|
+| I — Estagnação e Ruptura | 1-9 | ~14.700 | 39% | 25% (~20k) |
+| II — Desconstrução e Redescobrimento | 10-21 | ~14.200 | 38% | 50% (~40k) |
+| III — Abertura e Entrega | 22-27 | ~8.400 | 22% | 25% (~20k) |
+| **TOTAL** | 27 | **~37.300** | 100% | ~80k |
 
 ---
 
 ## 🎯 Próximos Passos
+0. **EXPANSÃO (em andamento)** — ver `00-PLANEJAMENTO/PLANO_EXPANSAO_80K.md`
 1. Revisão estrutural (coerência entre capítulos)
 2. Revisão de personagens (consistência de voz e comportamento)
 3. Revisão de diálogos (naturalidade)
