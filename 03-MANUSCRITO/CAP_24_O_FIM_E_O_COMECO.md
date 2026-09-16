@@ -12,6 +12,8 @@ Camila assinou também.
 Sua mão não tremeu.
 Sua assinatura saiu firme: *Camila Ferreira Santos*. (Tinha tirado o sobrenome dele. Um ato burocrático, mas que pesava toneladas a menos na alma).
 
+Ela tinha ensaiado esse momento por meses, nas noites de insônia, imaginando que ia desmoronar. Mas quando a caneta tocou o papel, o que veio não foi choro. Foi uma espécie de clareza serena, como se cada letra do próprio nome estivesse devolvendo a ela um pedaço que o casamento tinha ficado.
+
 — Pronto — disse o tabelião. — Estão divorciados.
 
 Ricardo levantou.
@@ -128,6 +130,8 @@ Daniel?
 Deu risada.
 
 — Ai não! — Pegou guardanapos. Começou a limpar. — Tá tudo bem, moço. Acontece.
+
+Camila ficou olhando. Não era a reação que ela conhecia. O Ricardo teria bufado, revirado os olhos, mandado chamar o gerente, deixado o resto do encontro nublado por aquela irritação que nunca passava. Daniel simplesmente... limpou. E voltou a sorrir para ela, como se a poça de café fosse apenas uma poça de café — não um teste de caráter que ele tinha acabado de passar sem saber que existia.
 
 O garçom, novinho, mortificado:
 

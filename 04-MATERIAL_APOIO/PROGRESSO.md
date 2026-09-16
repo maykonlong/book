@@ -73,6 +73,7 @@
 - [16/09] **CAP 11 "O Processo"** expandido (1.091 → 1.159 palavras)
 - [16/09] **CAP 16 "As Pequenas Vitórias"** expandido (1.406 → 1.478 palavras)
 - [16/09] **CAP 23 "A Resistência"** expandido (702 → 870 palavras)
+- [16/09] **CAP 24 "O Fim e o Começo"** expandido (1.348 → 1.470 palavras)
 
 ---
 
