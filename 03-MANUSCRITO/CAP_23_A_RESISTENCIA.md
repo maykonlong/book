@@ -63,6 +63,8 @@ Só... tédio.
 
 Era um tédio quase físico, como assistir a um filme que ela já tinha visto onze vezes e do qual decorara cada fala. Ela sabia exatamente o que viria a seguir: a promessa, a mão estendida, a culpa disfarçada de saudade. Conhecia o roteiro de cor. E descobriu, com um espanto morno, que não tinha mais a menor vontade de assistir ao final.
 
+Ela se lembrou, sem querer, de uma noite específica. Seis anos atrás, quando o Léo era bebê e pegou uma febre que não baixava. Camila tinha passado a madrugada inteira acordada, alternando compressas frias e choro abafado, enquanto Ricardo dormia. De manhã, quando ela mencionou o cansaço, ele respondeu, sem tirar os olhos do celular: *"mas você podia ter me acordado."* Podia. Mas depois de tantos "não", ela tinha aprendido a não pedir. Aquele tinha sido um dos dias em que ela entendeu, sem palavras, que pedir ajuda dava mais trabalho do que carregar tudo sozinha.
+
 Ela viu a camisa dele levemente amarrotada (ninguém passava para ele).
 Viu o corte de cabelo meio atrasado.
 Viu a necessidade nos olhos dele.
@@ -115,3 +117,17 @@ E ela não abriu.
 Camila sorriu para a página do livro, retomando a leitura de onde tinha parado. Lá fora, o elevador desceu levando Ricardo embora. E dentro dela, não sobrou nem o eco daquela conversa.
 
 Ela estava, definitivamente, vacinada.
+
+Depois, sem conseguir voltar ao livro, Camila pegou o celular e ligou para Fernanda.
+
+— Adivinha quem apareceu aqui com flores — disse ela, sem preâmbulo.
+— Não. Me conta.
+— Ricardo. Lírios. Querendo voltar.
+— E você?
+— Joguei as flores no lixo e disse não.
+Um silêncio. Então, um gritinho abafado e comemorativo do outro lado:
+— CAMILA FERREIRA SANTOS! EU TÔ ORGULHOSA DE VOCÊ!
+Camila riu. Riu de verdade, alto, solto, até doer a barriga.
+— Ele falou que eu vou me arrepender de envelhecer sozinha.
+— Amiga, a única coisa pior do que envelhecer sozinha é envelhecer ao lado de quem te anula. Você escolheu certo.
+— Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu finalmente sei.

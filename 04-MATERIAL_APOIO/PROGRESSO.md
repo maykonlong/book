@@ -84,6 +84,7 @@
 - [16/09] **CAP 7 "A Gota D'água"** aprofundado (1.142 → 1.169)
 - [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado (1.054 → 1.094)
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado (1.282 → 1.302)
+- [16/09] **CAP 23 "A Resistência"** aprofundado — 2ª passada (870 → 1.105)
 
 ---
 

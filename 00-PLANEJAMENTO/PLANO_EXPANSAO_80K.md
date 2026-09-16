@@ -65,6 +65,11 @@
 - [x] CAP 8 — Eu Quero me Separar (1.054 → 1.094) 🟡
 - [x] CAP 9 — A Conversa com os Filhos (1.282 → 1.302) 🟡
 
+### 🔄 2ª PASSADA (em andamento) — aprofundar capítulos 🟡 rumo a 75-85k
+Foco: adicionar cenas/beats novos (não encher linguiça). Cada capítulo aprofundado segue o mesmo ciclo git.
+
+- [x] CAP 23 — A Resistência (870 → 1.105) 🟡
+
 ### ✅ Etapa 5 — Consolidação e fechamento
 - [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
 - [x] Revisão de coerência (nomes, cronologia, voz) — ver nota abaixo
@@ -110,7 +115,7 @@ Cada capítulo expandido segue:
 | 20 | O Contraste | 954 | 2.800 | 🟡 |
 | 21 | O Primeiro Sorriso Real | 881 | 2.800 | 🟡 |
 | 22 | O Encontro | 1.933 | 3.000 | 🟡 |
-| 23 | A Resistência | 870 | 2.800 | 🟡 |
+| 23 | A Resistência | 1.105 | 2.800 | 🟡 |
 | 24 | O Fim e o Começo | 1.470 | 3.000 | 🟡 |
 | 25 | Um Ano Depois | 1.547 | 3.000 | 🟡 |
 | 26 | Carta Para Mim Mesma | 352 | 800 | ⏳ |
