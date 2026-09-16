@@ -66,6 +66,7 @@
 - [16/09] **CAP 13 "A Primeira Sessão"** expandido (888 → 1.860 palavras)
 - [16/09] **CAP 15 "Voltando a Pintar"** expandido (583 → 1.341 palavras)
 - [16/09] **CAP 17 "O Grupo de Mulheres"** expandido (882 → 1.177 palavras)
+- [16/09] **CAP 18 "A Culpa da Maternidade"** expandido (1.572 → 1.889 palavras)
 
 ---
 

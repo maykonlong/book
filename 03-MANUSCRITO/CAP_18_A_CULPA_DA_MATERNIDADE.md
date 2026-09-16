@@ -13,6 +13,16 @@ E Ricardo... Ricardo tinha prometido tentar.
 
 A palavra que significava "provavelmente não, mas não quero brigar agora".
 
+Na noite anterior, Camila e Léo tinham feito a cartolina juntos, sentados na mesa da cozinha. Camila cortou, colou, ajudou a desenhar. Léo caprichou nos bonecos palitinho — a família de mãos dadas, com a casa atrás e um sol amarelo no canto.
+
+— O pai vai vir, né? — ele tinha perguntado, de repente, com os olhos na cola.
+
+Camila tinha hesitado um segundo a mais do que devia.
+
+— Vai tentar, amor.
+
+*Tentar.* Ela odiava essa palavra. Odiava mais ainda usá-la com o próprio filho.
+
 ---
 
 Quinta-feira chegou.
@@ -47,6 +57,8 @@ E Ricardo não chegava.
 
 Camila olhava para a porta a cada minuto. Celular no silencioso mas vibrando ocasionalmente - trabalho, provavelmente. Ela ignorou.
 
+A cada apresentação que passava, o assento vazio ao lado dela parecia crescer. Camila conferia o corredor, a porta, o relógio. Torcia para ver a silhueta do Ricardo entrando de fininho, se desculpando em silêncio, sentando ao lado dela. Torcia como criança torce. Com aquele resto teimoso de esperança que se recusa a morrer.
+
 Quando chamaram Léo, o lugar ao lado dela ainda estava vazio.
 
 --- 
@@ -66,6 +78,8 @@ Léo começou apresentar:
 — Minha família é... diferente agora. — Voz pequena mas firme. — Antes era eu, minha irmã Bia, minha mãe e meu pai. A gente morava todos juntos.
 
 Ele virou a cartolina. Desenho da família. Quatro bonecos palitinho de mãos dadas. Casa atrás. Sol amarelo no canto.
+
+Camila reconheceu o desenho. Tinha sido ela a ajudá-lo a colar aquele sol amarelo, na noite anterior. Tinha sido Léo a insistir que todos os bonecos ficassem de mãos dadas — mesmo os que, na vida real, já não estavam.
 
 — Mas agora meus pais são separados. Então é assim.
 
@@ -227,11 +241,17 @@ Léo process. Então:
 
 — Escolhi.
 
-Lágrimas escorrendo no rostinho dele.
+Lágrimas escorrendo no rostinho dele, molhando o travesseiro.
 
 — Foi por minha culpa? Sua e do pai?
 
 — NÃO. — Camila puxou ele para abraço feroz. — NUNCA foi sua culpa. Nem sua nem da Bia. Foi entre eu e seu pai. Adultos. Nada que você fez ou deixou de fazer.
+
+— Mas o pai não vem por minha causa?
+
+A pergunta atravessou Camila como agulha. Então era isso. O menino de oito anos achava que o pai não aparecia porque ele não era suficiente. Porque não tinha sido "bonzinho" o bastante, "legal" o bastante, digno o bastante de merecer presença.
+
+— Léo, escuta. O seu pai não vem por causa DELE. Por causa das escolhas DELE. Você podia ser o menino mais perfeito do mundo — e você é — e ele ainda teria o mesmo problema. Isso não é sobre você. Nunca foi.
 
 — Mas se a gente fosse mais bonzinhos...
 
@@ -269,7 +289,9 @@ Desconstruindo culpa. Diferenciando responsabilidade dela de responsabilidade de
 
 — Mas as crianças sofrem.
 
-— Sim. E isso dói. Mas eles não sofrem porque você escolheu sair. Eles sofrem porque o pai escolhe não aparecer. Não confunda as duas coisas.
+— Sim. E isso dói. Mas eles não sofrem porque você escolheu sair. Eles sofrem porque o pai escolhe não aparecer. Não confunda as duas coisas. Se você tivesse ficado, Camila, eles sofreriam vendo uma mãe apagada, exausta, infeliz. Crianças aprendem o que é amor olhando para os pais. O que você estaria ensinando se tivesse ficado?
+
+Camila ficou em silêncio, deixando a pergunta assentar.
 
 — Como eu não confundo? Eu comecei isso!
 
