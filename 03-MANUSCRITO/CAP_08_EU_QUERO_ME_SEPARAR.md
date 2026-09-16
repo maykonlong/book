@@ -148,7 +148,9 @@ Camila olhou para a sogra. Olhou para o marido.
 
 — Homem é assim mesmo — defendeu Dona Vera.
 
-— Não o homem que eu quero do meu lado.
+Camila olhou para a sogra. Para aquela mulher de sessenta e poucos anos que tinha passado a vida inteira engolindo, acomodando, perdoando. E entendeu, com uma tristeza nova, que Dona Vera não era má. Era uma sobrevivente de uma geração que ensinava às mulheres que casamento se aguenta, não se vive.
+
+— Não o homem que eu quero do meu lado — repetiu Camila, agora mais suave. — A senhora aguentou. E a senhora merecia mais. Eu não quero que a Bia cresça achando que isso é o normal.
 
 — Você vai se arrepender — Ricardo disse, a voz dura. — Mulher divorciada com dois filhos? Você acha que vai ser fácil? Eu não vou facilitar, Camila. Não vou sair daqui. Não vou dar dinheiro.
 
