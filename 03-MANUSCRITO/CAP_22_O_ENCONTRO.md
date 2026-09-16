@@ -83,6 +83,14 @@ Camila riu também. Facilidade natural.
 
 Conversaram mais alguns minutos. Sobre arte. Sobre literatura. Sobre como a exposição era legal. Superficial mas genuíno.
 
+— Qual é o seu, afinal? — Daniel perguntou, apontando para os quadros. — Quero dizer, o que te atravessou.
+Camila hesitou. Ninguém nunca tinha perguntado assim — não sobre técnica, mas sobre o que a atravessava.
+— Esse — disse ela, indicando o quadro da mulher sob a água. — Porque eu passei muito tempo me sentindo exatamente assim: afundando, mas vendo a luz lá em cima.
+Daniel olhou para o quadro. Depois para ela. E não disse "nossa, que profundo" nem "você devia procurar ajuda". Só assentiu, devagar, como quem recebe uma confidência e promete, em silêncio, guardá-la.
+— Faz sentido — ele disse, simples. — A luz também aparece nos seus olhos quando você fala disso.
+
+Camila desviou o olhar, desconcertada. Não era flerte barato. Era observação. Era alguém que prestava atenção de verdade.
+
 Até Paula chamar atenção de Camila para apresentá-la a alguém.
 
 — Foi muito bom conhecer você, Camila. — Daniel disse. — Parabéns pelos quadros. De verdade.
