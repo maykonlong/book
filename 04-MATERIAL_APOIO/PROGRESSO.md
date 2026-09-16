@@ -68,6 +68,7 @@
 - [16/09] **CAP 17 "O Grupo de Mulheres"** expandido (882 → 1.177 palavras)
 - [16/09] **CAP 18 "A Culpa da Maternidade"** expandido (1.572 → 1.889 palavras)
 - [16/09] **CAP 19 "O Aniversário de Léo"** expandido (771 → 1.039 palavras)
+- [16/09] **CAP 20 "O Contraste"** expandido (747 → 954 palavras)
 
 ---
 

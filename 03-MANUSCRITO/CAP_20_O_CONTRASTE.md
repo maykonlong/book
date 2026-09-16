@@ -8,11 +8,13 @@ Normalmente ele as deixava na portaria. Mas hoje, Léo tinha esquecido a bombinh
 
 Camila subiu. Coração acelerado. Entrar na "casa" dele. Território inimigo.
 
+O elevador era daqueles antigos, com espelho arranhado e cheiro de cigarro velho. Camila olhou o próprio reflexo no metal e se perguntou o que exatamente temia encontrar. O Ricardo que ela conhecia era impecável. O Ricardo que vivia num apart-hotel, sozinho, sem ela para arrumar a cama e lavar as xícaras — esse era um desconhecido.
+
 A porta estava destrancada.
 Ela entrou.
 
 O cheiro bateu primeiro. Uma mistura de roupas guardadas úmidas, pizza de ontem e desinfetante barato do hotel.
-A sala estava um caos. Caixa de pizza no sofá. Tênis jogado no meio do caminho. Copos sujos na mesa de centro.
+A sala estava um caos. Caixa de pizza no sofá, aberta, com uma fatia endurecida. Tênis jogado no meio do caminho. Copos sujos na mesa de centro, um com uma película de café seco no fundo. A toalha dele enrolada na maçaneta da porta, como se ninguém nunca tivesse ensinado onde pendurar.
 
 Ricardo apareceu do quarto, abotoando a camisa. Cabelo molhado.
 — O Léo tá procurando a bombinha no quarto — disse ele, sem graça.
@@ -38,6 +40,8 @@ Clara. Cristalina.
 Ricardo não era organizado. Ricardo não era exigente.
 Ricardo era *cuidado*.
 Por ela.
+
+A frase não chegou com raiva. Chegou com uma clareza que a deixou tonta. Durante onze anos, ela acreditou que ele era o parceiro meticuloso e ela a desleixada que nunca alcançava o padrão. Mas a verdade era outra: o padrão não era dele. Era dela. Ele só cobrava — e ela, exausta, atendia. Ele nunca construiu uma casa organizada; ele morou numa, às custas dela.
 
 Durante onze anos, ela foi a gerente da vida dele. A que garantia que a camisa estava passada, que a casa cheirava a lavanda, que a comida estava na mesa.
 Ela era o andaime que sustentava a fachada de "homem de sucesso organizado".
@@ -84,9 +88,11 @@ Mas estava rindo. Com Léo no colo.
 Parecia cansada? Sim.
 Mas parecia *viva*.
 
-A Camila da foto antiga era uma boneca de porcelana. Perfeita e frágil.
-A Camila de agora era feita de carne, osso e cicatriz.
+A Camila da foto antiga era uma boneca de porcelana. Perfeita e frágil. Bonita do jeito que os outros queriam que ela fosse, apertada num molde que não era o dela.
+A Camila de agora era feita de carne, osso e cicatriz. Despenteada, sem maquiagem, com olheiras e um sorriso que ia até os olhos.
 E era muito, muito mais bonita.
+
+Porque a beleza da primeira era de vitrine. A da segunda era de verdade. De quem parou de se espremer para caber.
 
 Ela guardou a caixa.
 Não com saudade.
