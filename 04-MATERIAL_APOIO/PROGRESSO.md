@@ -69,7 +69,7 @@
 - [16/09] **CAP 13 "A Primeira Sessão"** expandido (888 → 1.860 palavras)
 - [16/09] **CAP 15 "Voltando a Pintar"** expandido (583 → 1.341 palavras)
 - [16/09] **CAP 17 "O Grupo de Mulheres"** expandido (882 → 1.177 palavras)
-- [16/09] **CAP 18 "A Culpa da Maternidade"** expandido (1.572 → 1.889 palavras)
+- [16/09] **CAP 18 "A Culpa da Maternidade"** — 2ª passada: reflexão sobre a cartolina (1.889 → 2.019)
 - [16/09] **CAP 19 "O Aniversário de Léo"** expandido (771 → 1.039 palavras)
 - [16/09] **CAP 20 "O Contraste"** expandido (747 → 954 palavras)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** expandido (711 → 881 palavras)

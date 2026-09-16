@@ -215,6 +215,16 @@ Porque ela que tinha feito isso. Ela que tinha separado. Ela que tinha "quebrado
 
 E agora Léo sofria consequências.
 
+Ela foi até a mochila do Léo, jogada no canto da sala. Tirou a cartolina amassada. Desdobrou.
+
+Os quatro bonecos palitinho de mãos dadas, desenhados com a letra de quem ainda acredita que a família cabe num papel. A casa atrás. O sol amarelo no canto. E, no segundo desenho, a nova configuração: ele e Bia no centro, ela de um lado, Ricardo do outro.
+
+Camila passou o dedo sobre o bonequinho do Léo. Tão pequeno no papel. Tão grande no coração dela.
+
+E, pela primeira vez desde o divórcio, ela se perguntou: será que eu realmente estraguei tudo? Ou será que eu salvei os três — eles e a mim — de uma vida inteira de mentira?
+
+A resposta não veio. Mas a pergunta, sim. E era uma pergunta honesta.
+
 ---
 
 Naquela noite, hora de dormir, Léo chamou ela no quarto:
