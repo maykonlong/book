@@ -52,11 +52,11 @@
 - [x] CAP 20 — O Contraste (747 → 954) 🟡
 - [x] CAP 21 — O Primeiro Sorriso Real (711 → 881) 🟡
 
-### Etapa 3 — Ato III: o romance com Daniel
-- [ ] CAP 22 — O Encontro (1.865 → ~3.000)
+### ✅ Etapa 3 — Ato III: o romance com Daniel
+- [x] CAP 22 — O Encontro (1.865 → 1.933) 🟡
 - [x] CAP 23 — A Resistência (702 → 870) 🟡
 - [x] CAP 24 — O Fim e o Começo (1.348 → 1.470) 🟡
-- [ ] CAP 25 — Um Ano Depois (1.510 → ~3.000)
+- [x] CAP 25 — Um Ano Depois (1.510 → 1.547) 🟡
 
 ### Etapa 4 — Ato I: aprofundamento sem inchar
 - [ ] CAP 5 — A Conversa com Fernanda (1.008 → ~1.800)
@@ -107,10 +107,10 @@ Cada capítulo expandido segue:
 | 19 | O Aniversário de Léo | 1.039 | 2.600 | 🟡 |
 | 20 | O Contraste | 954 | 2.800 | 🟡 |
 | 21 | O Primeiro Sorriso Real | 881 | 2.800 | 🟡 |
-| 22 | O Encontro | 1.865 | 3.000 | ⏳ |
+| 22 | O Encontro | 1.933 | 3.000 | 🟡 |
 | 23 | A Resistência | 870 | 2.800 | 🟡 |
 | 24 | O Fim e o Começo | 1.470 | 3.000 | 🟡 |
-| 25 | Um Ano Depois | 1.510 | 3.000 | ⏳ |
+| 25 | Um Ano Depois | 1.547 | 3.000 | 🟡 |
 | 26 | Carta Para Mim Mesma | 352 | 800 | ⏳ |
 | 27 | A Metade Que Me Faltava Era Eu | 2.613 | 3.200 | ⏳ |
 
@@ -134,3 +134,5 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 2 | CAP 16 | +72 | expandir CAP 16 (1.406→1.478) |
 | 16/09 | Etapa 3 | CAP 23 | +168 | expandir CAP 23 (702→870) |
 | 16/09 | Etapa 3 | CAP 24 | +122 | expandir CAP 24 (1.348→1.470) |
+| 16/09 | Etapa 3 | CAP 22 | +68 | expandir CAP 22 (1.865→1.933) |
+| 16/09 | Etapa 3 | CAP 25 | +37 | expandir CAP 25 (1.510→1.547) |

@@ -9,7 +9,7 @@ Seus. Dela. Camila Ferreira Santos, 34 anos, mãe de dois, divorciando, sobreviv
 
 Artista.
 
-A palavra ainda era estranha. Mas estava ali. Em três aquarelas penduradas na parede branca da pequena galeria em Pinheiros.
+A palavra ainda era estranha na boca, como um sapato de festa que ela não tinha certeza se merecia calçar. "Artista" era coisa para quem tinha talento, vocação, permissão. Ela era só uma mulher que tinha pegado um pincel de volta depois de onze anos — e descoberto, no fundo de uma caixa, uma parte de si que julgara morta. Mas estava ali. Em três aquarelas penduradas na parede branca da pequena galeria em Pinheiros. E se aquilo não era arte, ela não sabia mais o que era.
 
 — Esse é muito bonito.
 

@@ -74,6 +74,8 @@
 - [16/09] **CAP 16 "As Pequenas Vitórias"** expandido (1.406 → 1.478 palavras)
 - [16/09] **CAP 23 "A Resistência"** expandido (702 → 870 palavras)
 - [16/09] **CAP 24 "O Fim e o Começo"** expandido (1.348 → 1.470 palavras)
+- [16/09] **CAP 22 "O Encontro"** expandido (1.865 → 1.933 palavras)
+- [16/09] **CAP 25 "Um Ano Depois"** expandido (1.510 → 1.547 palavras)
 
 ---
 

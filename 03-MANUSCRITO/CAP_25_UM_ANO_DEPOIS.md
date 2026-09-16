@@ -235,7 +235,7 @@ Dr. Lucas continuou:
 
 — Como paro de projetar?
 
-— Conscientemente escolhe confiar até ser dado motivo para não confiar. Ao invés de assumir o pior, assume neutro até provar o contrário.
+— Conscientemente escolhe confiar até ser dado motivo para não confiar. Ao invés de assumir o pior, assume neutro até provar o contrário. Confiança, Camila, não é o prêmio que você dá quando o outro prova ser perfeito. É a ponte que você constrói — aos poucos, com os olhos abertos — quando decide que merece chegar a algum lugar.
 
 Fazia sentido.
 
