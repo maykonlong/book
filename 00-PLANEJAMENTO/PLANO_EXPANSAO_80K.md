@@ -40,7 +40,7 @@
 - [ ] Commit + push no GitHub
 
 ### Etapa 1 — Ato II, bloco A: terapia e redescobrimento
-- [ ] CAP 13 — A Primeira Sessão (888 → ~3.200)
+- [x] CAP 13 — A Primeira Sessão (888 → 1.860) 🟡
 - [ ] CAP 15 — Voltando a Pintar (583 → ~3.000)
 - [ ] CAP 17 — O Grupo de Mulheres (882 → ~3.200)
 - [ ] CAP 18 — A Culpa da Maternidade (1.572 → ~3.200)
@@ -98,7 +98,7 @@ Cada capítulo expandido segue:
 | 10 | O Vazio Barulhento | 2.054 | 2.600 | ⏳ |
 | 11 | O Processo | 1.091 | 2.800 | ⏳ |
 | 12 | A Pressão da Família | 1.393 | 2.800 | ⏳ |
-| 13 | A Primeira Sessão | 888 | 3.200 | ⏳ |
+| 13 | A Primeira Sessão | 1.860 | 3.200 | 🟡 |
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
 | 15 | Voltando a Pintar | 583 | 3.000 | ⏳ |
 | 16 | As Pequenas Vitórias | 1.406 | 2.800 | ⏳ |
@@ -123,4 +123,4 @@ Cada capítulo expandido segue:
 | Data | Etapa | Capítulos | Palavras adicionadas | Commit |
 |---|---|---|---|---|
 | 16/09 | Etapa 0 | — | — | planejamento + correção de métricas |
-| 16/09 | Etapa 1 | CAP 13 | ~2.300 | expandir CAP 13 |
+| 16/09 | Etapa 1 | CAP 13 | +972 | expandir CAP 13 (888→1.860) |

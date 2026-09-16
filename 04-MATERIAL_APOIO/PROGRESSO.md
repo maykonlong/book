@@ -62,6 +62,11 @@
 
 ---
 
+## 📝 Log de expansão
+- [16/09] **CAP 13 "A Primeira Sessão"** expandido (888 → 1.860 palavras)
+
+---
+
 ## 🎯 Próximos Passos
 0. **EXPANSÃO (em andamento)** — ver `00-PLANEJAMENTO/PLANO_EXPANSAO_80K.md`
 1. Revisão estrutural (coerência entre capítulos)
