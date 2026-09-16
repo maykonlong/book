@@ -1,0 +1,25 @@
+# ===== Arquivos do sistema operacional =====
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ===== Editores / IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Arquivos temporários e de backup =====
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+
+# ===== Artefatos gerados (podem ser regenerados a partir dos .md) =====
+# Gerados via GUIA_CONVERSAO_EBOOK.md (Pandoc/Calibre/Kindle Create)
+*.pdf
+*.epub
+*.mobi
+*.kpf
+*.docx
