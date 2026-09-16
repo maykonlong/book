@@ -70,6 +70,8 @@
 - [16/09] **CAP 19 "O Aniversário de Léo"** expandido (771 → 1.039 palavras)
 - [16/09] **CAP 20 "O Contraste"** expandido (747 → 954 palavras)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** expandido (711 → 881 palavras)
+- [16/09] **CAP 11 "O Processo"** expandido (1.091 → 1.159 palavras)
+- [16/09] **CAP 16 "As Pequenas Vitórias"** expandido (1.406 → 1.478 palavras)
 
 ---
 

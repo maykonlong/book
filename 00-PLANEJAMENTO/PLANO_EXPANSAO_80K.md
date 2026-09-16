@@ -45,9 +45,9 @@
 - [x] CAP 17 — O Grupo de Mulheres (882 → 1.177) 🟡
 - [x] CAP 18 — A Culpa da Maternidade (1.572 → 1.889) 🟡
 
-### Etapa 2 — Ato II, bloco B: rotina, contraste e virada
-- [ ] CAP 11 — O Processo (1.091 → ~2.800)
-- [ ] CAP 16 — As Pequenas Vitórias (1.406 → ~2.800)
+### ✅ Etapa 2 — Ato II, bloco B: rotina, contraste e virada
+- [x] CAP 11 — O Processo (1.091 → 1.159) 🟡
+- [x] CAP 16 — As Pequenas Vitórias (1.406 → 1.478) 🟡
 - [x] CAP 19 — O Aniversário de Léo (771 → 1.039) 🟡
 - [x] CAP 20 — O Contraste (747 → 954) 🟡
 - [x] CAP 21 — O Primeiro Sorriso Real (711 → 881) 🟡
@@ -96,12 +96,12 @@ Cada capítulo expandido segue:
 | 8 | Eu Quero me Separar | 1.054 | 1.800 | ⏳ |
 | 9 | A Conversa com os Filhos | 1.282 | 2.000 | ⏳ |
 | 10 | O Vazio Barulhento | 2.054 | 2.600 | ⏳ |
-| 11 | O Processo | 1.091 | 2.800 | ⏳ |
+| 11 | O Processo | 1.159 | 2.800 | 🟡 |
 | 12 | A Pressão da Família | 1.393 | 2.800 | ⏳ |
 | 13 | A Primeira Sessão | 1.860 | 3.200 | 🟡 |
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
 | 15 | Voltando a Pintar | 1.341 | 3.000 | 🟡 |
-| 16 | As Pequenas Vitórias | 1.406 | 2.800 | ⏳ |
+| 16 | As Pequenas Vitórias | 1.478 | 2.800 | 🟡 |
 | 17 | O Grupo de Mulheres | 1.177 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 1.889 | 3.200 | 🟡 |
 | 19 | O Aniversário de Léo | 1.039 | 2.600 | 🟡 |
@@ -130,3 +130,5 @@ Cada capítulo expandido segue:
 | 16/09 | Etapa 2 | CAP 19 | +268 | expandir CAP 19 (771→1.039) |
 | 16/09 | Etapa 2 | CAP 20 | +207 | expandir CAP 20 (747→954) |
 | 16/09 | Etapa 2 | CAP 21 | +170 | expandir CAP 21 (711→881) |
+| 16/09 | Etapa 2 | CAP 11 | +68 | expandir CAP 11 (1.091→1.159) |
+| 16/09 | Etapa 2 | CAP 16 | +72 | expandir CAP 16 (1.406→1.478) |

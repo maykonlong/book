@@ -90,6 +90,8 @@ Pegou o celular para ver o saldo da conta.
 R$ 420,00.
 O mês estava no dia 12.
 
+Quatrocentos e vinte reais. Menos do que uma compra de mês inteiro no tempo em que a geladeira se enchia sem ela fazer as contas duas vezes. Aquele número na tela era um soco — não pelo valor em si, mas pelo que ele significava: ela estava sozinha agora. Realmente sozinha, sem rede, sem a ilusão do "nós" que sempre fez o fim do mês parecer menos assustador.
+
 Como ela ia pagar advogado?
 Como ia pagar condomínio sozinha?
 Como ia pagar a escola se Ricardo atrasasse a pensão?
