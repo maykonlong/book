@@ -88,6 +88,7 @@
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** aprofundado — 2ª passada (881 → 1.019)
 - [16/09] **CAP 20 "O Contraste"** aprofundado — 2ª passada (954 → 1.041)
 - [16/09] **CAP 19 "O Aniversário de Léo"** aprofundado — 2ª passada (1.039 → 1.167)
+- [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado — 2ª passada (1.021 → 1.117)
 
 ---
 

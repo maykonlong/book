@@ -72,6 +72,7 @@ Foco: adicionar cenas/beats novos (não encher linguiça). Cada capítulo aprofu
 - [x] CAP 21 — O Primeiro Sorriso Real (881 → 1.019) 🟡
 - [x] CAP 20 — O Contraste (954 → 1.041) 🟡
 - [x] CAP 19 — O Aniversário de Léo (1.039 → 1.167) 🟡
+- [x] CAP 5 — A Conversa com Fernanda (1.021 → 1.117) 🟡
 
 ### ✅ Etapa 5 — Consolidação e fechamento
 - [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
@@ -100,7 +101,7 @@ Cada capítulo expandido segue:
 | 2 | O Aniversário Esquecido | 2.584 | manter | ✅ |
 | 3 | A Tentativa da Terapia | 1.734 | 2.200 | ⏳ |
 | 4 | As Pequenas Sabotagens | 1.480 | 2.000 | ⏳ |
-| 5 | A Conversa com Fernanda | 1.021 | 1.800 | 🟡 |
+| 5 | A Conversa com Fernanda | 1.117 | 1.800 | 🟡 |
 | 6 | A Última Tentativa | 1.275 | 2.000 | 🟡 |
 | 7 | A Gota D'água | 1.169 | 1.800 | 🟡 |
 | 8 | Eu Quero me Separar | 1.094 | 1.800 | 🟡 |
