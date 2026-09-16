@@ -138,6 +138,8 @@ Um pano. Dois segundos. Era tudo o que separava a parceria da exploração. E el
 
 Ele contava com a exploração dela. Ele bancava a exaustão dela.
 
+Era impressionante como uma coisa tão pequena podia carregar tanto. Aquele leite não era só leite. Era a reunião da escola que ele não foi. Era o aniversário esquecido. Era a jaqueta não lavada. Era cada "vou tentar" que nunca virou "fiz". O leite era só o último pingar de uma torneira que vazava há onze anos.
+
 Camila sentiu uma raiva tão branca, tão pura, tão quente, que superou a febre.
 A tontura passou.
 A dor no corpo foi anestesiada pela adrenalina do ódio.
