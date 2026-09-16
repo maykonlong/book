@@ -95,6 +95,7 @@
 - [16/09] **CAP 6 "A Última Tentativa"** aprofundado — 2ª passada (1.275 → 1.335)
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado — 2ª passada (1.302 → 1.342)
 - [16/09] **CAP 15 "Voltando a Pintar"** aprofundado — 2ª passada (1.341 → 1.380)
+- [16/09] **CAP 11 "O Processo"** aprofundado — 2ª passada (1.159 → 1.210)
 
 ---
 
