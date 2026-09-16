@@ -76,6 +76,7 @@ Foco: adicionar cenas/beats novos (não encher linguiça). Cada capítulo aprofu
 - [x] CAP 8 — Eu Quero me Separar (1.094 → 1.173) 🟡
 - [x] CAP 7 — A Gota D'água (1.169 → 1.224) 🟡
 - [x] CAP 17 — O Grupo de Mulheres (1.177 → 1.237) 🟡
+- [x] CAP 6 — A Última Tentativa (1.275 → 1.335) 🟡
 
 ### ✅ Etapa 5 — Consolidação e fechamento
 - [x] Atualizar `manuscrito_completo.md` (concatenar capítulos atualizados)
@@ -105,7 +106,7 @@ Cada capítulo expandido segue:
 | 3 | A Tentativa da Terapia | 1.734 | 2.200 | ⏳ |
 | 4 | As Pequenas Sabotagens | 1.480 | 2.000 | ⏳ |
 | 5 | A Conversa com Fernanda | 1.117 | 1.800 | 🟡 |
-| 6 | A Última Tentativa | 1.275 | 2.000 | 🟡 |
+| 6 | A Última Tentativa | 1.335 | 2.000 | 🟡 |
 | 7 | A Gota D'água | 1.224 | 1.800 | 🟡 |
 | 8 | Eu Quero me Separar | 1.173 | 1.800 | 🟡 |
 | 9 | A Conversa com os Filhos | 1.302 | 2.000 | 🟡 |

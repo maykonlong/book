@@ -70,6 +70,9 @@ O limpador de para-brisa fazia um barulho rítmico. *Vraaa. Vraaa.*
 
 Ela olhou para o perfil do marido. A mandíbula travada, a testa franzida.
 Ela tentou imaginar um momento feliz. Tentou lembrar da lua de mel. Das primeiras viagens.
+
+Houve uma vez — na lua de mel, em Fernando de Noronha — em que ele tinha segurado a mão dela no avião durante toda a decolagem, porque ela tinha medo. E tinha sussurrado, rindo: *"a gente vai ser feliz pra sempre, Cá"*. Ela acreditou. Era tão fácil acreditar naquela época, quando o amor ainda não tinha sido testado pelo cotidiano.
+
 Mas só conseguia sentir o cheiro de cigarro que vinha da roupa dele (ele tinha voltado a fumar "socialmente", escondido, mas o cheiro impregnava o estofado).
 
 Chegaram ao hotel às onze da noite.

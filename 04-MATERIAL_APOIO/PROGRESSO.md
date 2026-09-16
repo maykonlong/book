@@ -92,6 +92,7 @@
 - [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado — 2ª passada (1.094 → 1.173)
 - [16/09] **CAP 7 "A Gota D'água"** aprofundado — 2ª passada (1.169 → 1.224)
 - [16/09] **CAP 17 "O Grupo de Mulheres"** aprofundado — 2ª passada (1.177 → 1.237)
+- [16/09] **CAP 6 "A Última Tentativa"** aprofundado — 2ª passada (1.275 → 1.335)
 
 ---
 
