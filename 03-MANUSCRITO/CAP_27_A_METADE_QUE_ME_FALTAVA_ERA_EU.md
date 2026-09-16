@@ -5,13 +5,13 @@ A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida 
 
 Era perfeito.
 
-O professor Antônio tinha organizado tudo. Uma exposição coletiva dos alunos do semestre, com três quadros de cada um. Mas Camila não sabia — porque ninguém a avisou — que a série dela tinha sido escolhida como a principal da mostra. Quando chegou mais cedo para ajudar na montagem e viu seus três quadros ocupando a parede central, a maior, a mais iluminada, sentiu as pernas fraquejarem.
+A professora Paula tinha organizado tudo. Uma exposição coletiva dos alunos do semestre, com três quadros de cada um. Mas Camila não sabia — porque ninguém a avisou — que a série dela tinha sido escolhida como a principal da mostra. Quando chegou mais cedo para ajudar na montagem e viu seus três quadros ocupando a parede central, a maior, a mais iluminada, sentiu as pernas fraquejarem.
 
-— Antônio, eu não posso ficar na parede central. Eu comecei a pintar faz menos de um ano.
+— Paula, eu não posso ficar na parede central. Eu comecei a pintar faz menos de um ano.
 
-O professor a olhou por cima dos óculos redondos.
+A professora a olhou por cima dos óculos redondos.
 
-— Camila, arte não se mede em tempo. Se mede em verdade. E seus quadros são os mais verdadeiros que eu vi nesta turma. — Ele ajeitou a moldura do quadro do meio. — Agora pare de discutir e vá se arrumar. As pessoas chegam às sete.
+— Camila, arte não se mede em tempo. Se mede em verdade. E seus quadros são os mais verdadeiros que eu vi nesta turma. — Ela ajeitou a moldura do quadro do meio. — Agora pare de discutir e vá se arrumar. As pessoas chegam às sete.
 
 Camila foi ao banheiro da galeria. Trancou a porta. Olhou-se no espelho.
 
@@ -55,7 +55,7 @@ Depois vieram Júlia e Beatriz, do grupo de arte. Beatriz, que tinha começado a
 
 — Cá, seus quadros são os melhores da exposição — disse Beatriz, apertando a mão dela. — Os meus parecem que foram feitos por uma criança.
 
-— Seus quadros são lindos, Bia. Para com isso.
+— Seus quadros são lindos, Beatriz. Para com isso.
 
 — Mas os seus são *doloridos*. Eles contam uma história. Os meus só contam que eu não sei misturar verde.
 
@@ -121,7 +121,7 @@ Camila o abraçou tão forte que ele reclamou que estava apertando.
 
 ---
 
-Mais tarde, durante a abertura formal, o professor Antônio fez um discurso curto sobre a turma e depois convidou os artistas a falarem sobre seus trabalhos. Quando chegou a vez de Camila, ela se posicionou em frente aos três quadros, com as mãos ligeiramente trêmulas segurando uma taça de água — tinha recusado o vinho, queria estar presente de verdade.
+Mais tarde, durante a abertura formal, a professora Paula fez um discurso curto sobre a turma e depois convidou os artistas a falarem sobre seus trabalhos. Quando chegou a vez de Camila, ela se posicionou em frente aos três quadros, com as mãos ligeiramente trêmulas segurando uma taça de água — tinha recusado o vinho, queria estar presente de verdade.
 
 Uma mulher na plateia levantou a mão. Era mais ou menos da idade de Camila, cabelo preso, olhos que pareciam carregar histórias próprias.
 
@@ -221,7 +221,7 @@ E sabia.
 
 Daniel foi embora num Uber, depois de um beijo na testa e um "até amanhã" sussurrado que era mais promessa do que despedida.
 
-Camila voltou à galeria. O professor Antônio tinha deixado a porta encostada para ela poder pegar a bolsa que esqueceu.
+Camila voltou à galeria. A professora Paula tinha deixado a porta encostada para ela poder pegar a bolsa que esqueceu.
 
 Mas quando entrou, não foi à bolsa que ela foi.
 

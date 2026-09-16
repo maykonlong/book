@@ -51,13 +51,13 @@ Bia começou a choramingar imediatamente.
 
 — Eu briguei. E a mamãe está muito, muito triste por vocês terem visto isso. Não era para ter sido assim.
 
-Léo,mais velho, mais percebente, fez a pergunta que Camila sabia que viria:
+Léo, mais velho, mais perceptivo, fez a pergunta que Camila sabia que viria:
 
 — Mamãe, vocês vão parar de viver juntos?
 
-— Sim, vamos nos separar.Não tinha como mentir. Não para eles.
+— Sim, vamos nos separar.
 
-— Sim.
+Não tinha como mentir. Não para eles.
 
 Bia soluçou. Léo ficou pálido.
 

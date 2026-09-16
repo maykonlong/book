@@ -111,7 +111,7 @@ Ele riu. Uma risada nervosa.
 
 — Acabou o amor? Tem outro?
 
-— O amor morreu de fome. E não tem outro. Tem eu. Eu cansei de ter um terceiro filho de 35 anos.
+— O amor morreu de fome. E não tem outro. Tem eu. Eu cansei de ter um terceiro filho de 36 anos.
 
 Ricardo ficou vermelho.
 

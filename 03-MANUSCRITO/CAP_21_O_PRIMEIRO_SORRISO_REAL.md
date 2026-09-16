@@ -14,6 +14,10 @@ Seus três quadros estavam lá.
 As pessoas circulavam. Bebiam vinho barato em copos de plástico. Comiam amendoim.
 Mas olhavam.
 
+Olhavam de verdade. Inclinavam a cabeça. Aproximavam o rosto. Uma senhora de óculos escuros ficou cinco minutos parada diante de *Afogamento*, sem piscar.
+
+Camila quis se esconder atrás da mesa de bebidas. Também quis gritar "fui eu que fiz!" para o salão inteiro. Ficou num lugar desconfortável entre as duas vontades, o coração batendo na garganta, fingindo que estava muito interessada nos amendoins.
+
 Camila ficou num canto, perto da mesa de bebidas, tentando ficar invisível.
 
 Uma mulher elegante, de uns cinquenta anos, parou na frente de *Silêncio*.
@@ -38,6 +42,14 @@ Mas não era pelo dinheiro.
 Era pelo valor.
 
 Alguém via valor naquilo que ela criou a partir da sua dor.
+
+Não era elogio vazio. Não era a mãe dizendo "ficou lindo" para qualquer rabisco. Era uma estranha, com dinheiro próprio, escolhendo *comprar* um pedaço da dor de Camila transformada em cor.
+
+Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só uma aquarela. Era o retrato de uma manhã qualquer em que Camila finalmente tinha conseguido respirar. E uma desconhecida tinha olhado para aquilo e sentido paz.
+
+A arte dela tinha atravessado a distância entre duas mulheres que nunca se conheceram. E tinha dito: *eu também.*
+
+Isso valia mais que os quinhentos reais. Valia uma vida inteira de "isso não é hobby, é perda de tempo".
 
 — Pode ser — disse Camila, tentando não tremer.
 
@@ -74,6 +86,8 @@ Para ela mesma.
 
 Foi um sorriso que veio do útero, subiu pelo estômago, aqueceu o peito e explodiu no rosto.
 Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito bem, obrigada.
+
+Você já sentiu isso? Aquele sorriso que ninguém vê, que vem de dentro e não pede plateia. O sorriso de quem se salvou. Guarde o seu. É o mais precioso que existe.
 
 Ela estava divorciada.
 Estava com a conta bancária apertada.

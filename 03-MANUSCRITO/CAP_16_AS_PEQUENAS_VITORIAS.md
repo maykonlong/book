@@ -4,6 +4,8 @@
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
 Não eram vitórias de filme, com música triunfante e fogos de artifício. Eram vitórias silenciosas, invisíveis para o mundo, mas monumentais para ela.
 
+Talvez você tenha as suas. Não as vitórias que dão manchete — as que ninguém aplaude. Acordar sem o peito apertado. Comprar algo para si sem culpa. Dizer não. Você já contou as suas hoje?
+
 ---
 
 A primeira pequena vitória foi uma manhã de terça.
@@ -18,9 +20,9 @@ Só... paz.
 
 Ela ficou deitada alguns minutos. Apenas existindo. Sem urgência. Sem lista mental começando a rodar automaticamente.
 
-Ouviu pássaros pela janela. Sentiu o sol entrando pela fresta da cortina
+Ouviu pássaros pela janela. Sentiu o sol entrando pela fresta da cortina.
 
-. Esticou os braços.
+Esticou os braços.
 
 E sorriu.
 
@@ -28,7 +30,7 @@ Pequeno sorriso. Tranquilo.
 
 Porque ela podia. Porque era terça. Crianças com o pai. Dia livre pela frente.
 
-Levantou no próprio ritmo. Fez café - forte, do jeito que ela gostava. Sentou perto da janela com a xícara e um livro.
+Levantou no próprio ritmo. Fez café — forte, do jeito que ela gostava. Sentou perto da janela com a xícara e um livro.
 
 E leu.
 
@@ -50,7 +52,7 @@ Coisas que pareciam bobagem. Mas que há seis meses eram impossíveis.
 
 A segunda pequena vitória foi no mercado.
 
-Sábado. Dia de compras. Crianças  com ela.
+Sábado. Dia de compras. Crianças com ela.
 
 Camila fazia compras com lista. Sempre. Porque divagar no mercado com dois filhos pequenos era receita para desastre e estouro de orçamento.
 
@@ -66,7 +68,7 @@ R$ 35.
 
 Antes, ela teria colocado de volta. Porque "não precisa". Porque "é desperdício". Porque "tem coisa mais importante".
 
-Masessa vez, ela olhou para a revista. Pensou nas quintas no ateliê. Na alegria que pintura estava trazendo de volta.
+Mas essa vez, ela olhou para a revista. Pensou nas quintas no ateliê. Na alegria que pintura estava trazendo de volta.
 
 E colocou no carrinho.
 
@@ -158,7 +160,7 @@ E Camila respondeu sem pensar:
 
 Dr. Lucas levantou as sobrancelhas.
 
-—Leve?
+— Leve?
 
 — É. Eu sei que ainda tem mil coisas. O divórcio ainda não acabou. Tem processo. Tem dinheiro apertado. Tem criança às vezes chorosa. Mas... eu me sinto leve. Como se um peso gigante tivesse saído.
 
@@ -186,7 +188,7 @@ E era.
 
 ---
 
-A quinta pequena vitória - a mais significativa - aconteceu numa quinta à noite.
+A quinta pequena vitória — a mais significativa — aconteceu numa quinta à noite.
 
 Aula de aquarela. Quarta semana.
 
@@ -222,7 +224,7 @@ Mas os raios de sol chegando. Iluminando. Mostrando caminho para superfície.
 
 Quando terminou, afastou o papel. Olhou.
 
-Não era tecnicamente perfeito. As proporções estavam meio estranhas. A perspective não era realista.
+Não era tecnicamente perfeito. As proporções estavam meio estranhas. A perspectiva não era realista.
 
 Mas era... verdadeira.
 
@@ -284,9 +286,9 @@ Quando Léo viu no dia seguinte, perguntou:
 
 — Ainda estou aprendendo. Mas obrigada.
 
-— Parece que alguém  tá debaixo d'água mas tá vendo a luz.
+— Parece que alguém tá debaixo d'água mas tá vendo a luz.
 
-Camila olhou para o filho. Sempre percebente.
+Camila olhou para o filho. Sempre perceptivo.
 
 — É exatamente isso.
 
@@ -309,9 +311,7 @@ Pequenas vitórias da semana.
 Ela escreveu:
 
 **VITÓRIAS DA SEMANA:**
-- Ac
-
-ordei sem peso (terça)
+- Acordei sem peso (terça)
 - Comprei revista para mim sem culpa excessiva (sábado)
 - Disse não para Ricardo (domingo)
 - Admiti na terapia que estou me perdoando (quarta)
@@ -324,7 +324,7 @@ Seis momentos onde ela foi mais ela mesma. Mais inteira. Mais livre.
 
 Há seis meses, lista como essa era inimaginável.
 
-Ha seis meses, ela estava afogada. Invisível. Exhausta.
+Há seis meses, ela estava afogada. Invisível. Exausta.
 
 Agora...
 
@@ -334,7 +334,7 @@ Devagar. Incerto. Assustador.
 
 Mas surgindo.
 
-E essas pequenas vitórias - frágeis, delicadas, preciosas - eram evidência.
+E essas pequenas vitórias — frágeis, delicadas, preciosas — eram evidência.
 
 De que era possível.
 
@@ -358,6 +358,6 @@ Mas por ter tido coragem.
 
 Coragem de sair. De escolher. De tentar.
 
-E por cada small victory que provava:
+E por cada pequena vitória que provava:
 
 Ela tinha feito certo.

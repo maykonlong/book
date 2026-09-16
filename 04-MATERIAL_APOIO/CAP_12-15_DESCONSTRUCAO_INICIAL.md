@@ -22,7 +22,7 @@ Não era convite. Era convocação.
 
 A casa da mãe era pequena, mas impecável. Cheiro de comida caseira. Mesa posta para duas.
 
-Dona Sônia serviu comida, pux conversa superficial. E depois foi ao ponto:
+Dona Sônia serviu comida, puxou conversa superficial. E depois foi ao ponto:
 
 — E o Ricardo?
 
@@ -30,9 +30,7 @@ Dona Sônia serviu comida, pux conversa superficial. E depois foi ao ponto:
 
 — Filha... — O tom era aquele. — Você não acha que está exagerando?
 
-Camill
-
-a colocou o garfo.
+Camila colocou o garfo.
 
 — Não, mãe. Não acho.
 
@@ -52,7 +50,7 @@ Dona Sônia suspirou.
 
 O silêncio foi pesado.
 
-Depois, Dona Sôña surpreendeu:
+Depois, Dona Sônia surpreendeu:
 
 — Eu sei.
 
@@ -60,11 +58,9 @@ Camila olhou.
 
 — Sabe?
 
-— Sei. Por que você acha que eu te apoiei naquele dia? — A mãe pegou a mão dela. — Eu fiquei quarenta anos calada. Não quero isso para para você.
+— Sei. Por que você acha que eu te apoiei naquele dia? — A mãe pegou a mão dela. — Eu fiquei quarenta anos calada. Não quero isso para você.
 
-E ali, Camila cr
-
-horou.
+E ali, Camila chorou.
 
 E a mãe abraçou.
 
@@ -79,7 +75,7 @@ Camila marcou terapeuta.
 
 Não era terapia de casal. Era só dela.
 
-Dr. Lucas tinha consultório calmo. Sofá confortável. presença gentil.
+Dr. Lucas tinha consultório calmo. Sofá confortável. Presença gentil.
 
  — Me conta o que te traz aqui.
 
@@ -91,7 +87,7 @@ Dr. Lucas ouviu. Todo o tempo. Sem interromper.
 
 No final, perguntou:
 
-— você está se priorizando?
+— Você está se priorizando?
 
 Camila parou.
 
@@ -103,7 +99,7 @@ Camila parou.
 
 — Por quê?
 
-— Porque... porque boas mães não deixam os filhos sofrerem. Boas lheres não desistem do casamento.
+— Porque... porque boas mães não deixam os filhos sofrerem. Boas mulheres não desistem do casamento.
 
 — Segundo quem?
 
@@ -129,7 +125,7 @@ Ela ia precisar repetir isso muito.
 Um mês depois da separação, Camila começou a pegar o ritmo.
 
 Segunda, quarta e domingo: crianças com ela.
-Terça, qui, sábado: crianças com Ricardo.
+Terça, quinta, sábado: crianças com Ricardo.
 Sexta alternado.
 
 No início era caótico. Ricardo atrasava. Esquecia coisas. Camila tinha que compensar.
@@ -142,7 +138,7 @@ Nos dias sem as crianças, ela não sabia o que fazer consigo mesma.
 
 Fernanda percebeu.
 
-—anCá, você precisa de um hobby.
+— Cá, você precisa de um hobby.
 
 — Hobby? Mal tenho tempo de respirar.
 
@@ -157,12 +153,12 @@ Fernanda percebeu.
 # CAPÍTULO 15
 ## Redescoberta Parte 1
 
-Camila pesquisou no Google: *"aulas para adultos são paulo"*.
+Camila pesquisou no Google: *"aulas para adultos São Paulo"*.
 
 Rolou os resultados:
 
 - Yoga
-- Pin Pilates
+- Pilates
 - Cerâmica
 - Pintura
 - Dança
@@ -184,7 +180,7 @@ Caro. Mas...
 
 Primeiro dia foi estranho.
 
-Sala com dez pessoas. Professore velho, gentil, calmo.
+Sala com dez pessoas. A professora Paula, gentil, calma.
 
 Camila segurou o pincel pela primeira vez em mais de década.
 
@@ -200,7 +196,7 @@ Só... sentiu.
 
 Cores. Água. Papel.
 
-No final da aula, Antonio professor) olhou:
+No final da aula, Paula, a professora, olhou:
 
 — Você já pintou antes.
 

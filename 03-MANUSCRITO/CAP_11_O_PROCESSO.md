@@ -3,6 +3,8 @@
 
 Se a dor emocional do divórcio é um tsunami, a dor burocrática é areia movediça. Lenta, pegajosa, sufocante.
 
+Você já tentou transformar o fim de um amor em papelada? Documentar o que era só sentimento. Assinar o que era só dor. Talvez você conheça esse frio na espinha.
+
 Camila descobriu isso na segunda-feira seguinte, no escritório da Dra. Patrícia Alves.
 
 O escritório ficava em um prédio comercial antigo no centro. Carpete cinza, cheiro de café passado há muito tempo, e pilhas de processos encadernados em capa parda que pareciam lápides de casamentos mortos.
@@ -43,7 +45,7 @@ Dra. Patrícia virou a página.
 
 — Ele já saiu. Está num hotel.
 
-— Ótimo. Isso configura abandono do lar se ficar muito tempo, mas no caso de acordo, facilita. Você quer ficar no apartamento?
+— Ótimo. Ele ter saído de casa voluntariamente pesa a nosso favor. No caso de acordo, facilita. Você quer ficar no apartamento?
 
 — Quero. É perto da escola das crianças. É a casa delas.
 
@@ -58,6 +60,16 @@ Vender a casa.
 Tirar Léo e Bia do único lar que conheciam. Mais uma ruptura.
 
 Camila sentiu o peso do dinheiro — ou da falta dele — esmagando seus ombros.
+
+Ela pensou no apartamento. Não no imóvel, no investimento, na "parte que teria que comprar". Pensou na casa.
+
+Na parede da cozinha onde marcava, a lápis, a altura de Léo a cada aniversário — os tracinhos subindo como uma escadinha de crescimento gravada no azulejo. No desenho da Bia pregado na porta da geladeira: um sol amarelo com olhos, uma casa torta, quatro bonequinhos de mãos dadas.
+
+Pensou no cheiro daquele lugar. Cheiro de bolo assando nas tardes de domingo. Cheiro de choro no meio da madrugada, de febre e de colo. Cheiro de vida.
+
+Vender a casa não era vender tijolos. Era vender a arqueologia inteira de uma família. E ela não tinha dinheiro para impedir.
+
+Camila fechou os olhos por um segundo. O escritório, com suas pilhas de processos de capa parda, pareceu subitamente um cemitério de sonhos de outras mulheres — mulheres que também tinham entrado ali achando que o amor bastava, e saído descobrindo que amor não paga condomínio.
 
 — E se... e se eu abrir mão da pensão para mim? E ficar com a casa como compensação? — sugeriu Camila.
 
@@ -86,6 +98,18 @@ O medo da pobreza pós-divórcio é um fantasma frio que assombra toda mulher qu
 *Será que eu vou conseguir?*
 *Será que vou ter que tirar as crianças da escola particular?*
 *Será que vou ter que voltar a morar com a minha mãe?*
+
+*Será que a Bia vai entender por que não dá mais para comprar o tênis da moda?*
+
+*Será que o Léo vai ter vergonha de mim na porta da escola, com o carro velho fazendo barulho?*
+
+*Será que eu vou virar aquela mãe que conta moedas no caixa do supermercado com o coração disparado?*
+
+Ela nunca tinha sido rica. Mas tinha sido *protegida*. Ricardo ganhava bem e o dinheiro, mesmo que nunca sobrasse, sempre aparecia no fim do mês. Agora ela estava prestes a descobrir o que era viver no fio da navalha. Sozinha. Sem rede.
+
+E a vergonha veio antes do medo. Vergonha de ser uma mulher de 34 anos que não sabia o que era investir porque sempre deixou o marido cuidar das "coisas de dinheiro". Vergonha de ter sido ingênua. De ter confiado.
+
+*Erro clássico número um*, ecoou a voz da advogada na cabeça dela.
 
 A "mulher empoderada" que saiu de casa decidida dias atrás agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
 

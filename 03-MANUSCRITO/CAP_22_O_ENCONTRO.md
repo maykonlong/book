@@ -1,7 +1,7 @@
 # CAPÍTULO 22
 ## O Encontro
 
-Quatro meses depois de Ricardo sair de casa.
+Quase um ano depois de Ricardo sair de casa.
 
 Camila estava na exposição do ateliê, nervosa, suando frio mesmo com ar-condicionado ligado, tentando parecer casual enquanto observava pessoas olhando seus quadros.
 
@@ -207,7 +207,7 @@ Parte dela gritava SIM. Parte dela gritava CORRE.
 
 Pensou em Ricardo. Nos anos dolorosos. Nas quebras de parceria uma após a outra.
 
-Pensou em red flags para procurar. Em guardas para manter levantadas.
+Pensou em sinais de alerta para procurar. Em guardas para manter levantadas.
 
 Mas também pensou no sorriso gentil de Daniel. Em como ele conversou com ela como igual. No bilhete deixado sem expectativa, apenas possibilidade.
 

@@ -38,7 +38,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
 *Mas o principal:*
 *Você ri.*
-*Não aquele sorriso educado para a visitas. Mas risada de doer a barriga.*
+*Não aquele sorriso educado para as visitas. Mas risada de doer a barriga.*
 *Você gosta da sua própria companhia.*
 
 *Não tenha medo da solidão. A solidão foi o útero onde a gente renasceu.*

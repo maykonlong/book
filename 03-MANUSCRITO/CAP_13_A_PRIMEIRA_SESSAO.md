@@ -51,11 +51,13 @@ No final, quando faltavam cinco minutos, ele colocou o bloco de lado.
 
 Camila piscou.
 — Como assim?
-— Se você não pudesse usar as palavras "mãe", "esposa" (ou ex-esposa) e "analista financeira"... quem é você?
+— Se você não pudesse usar as palavras "mãe", "esposa" (ou ex-esposa) e "analista de marketing"... quem é você?
 
 Camila abriu a boca para responder. Fechou.
 *Quem sou eu?*
 Sem os filhos? Sem o Ricardo? Sem o crachá da empresa?
+
+Você já tentou se descrever sem os papéis que te definem? Mãe. Esposa. Funcionária. Tira os rótulos e, para muita mulher, sobra um silêncio assustador.
 
 — Eu... eu não sei — sussurrou ela. O pânico voltou. — Eu não sei. Eu sou a mãe do Léo e da Bia. Eu organizo a casa. Eu cuido das coisas.
 

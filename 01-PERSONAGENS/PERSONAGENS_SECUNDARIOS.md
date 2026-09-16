@@ -10,7 +10,7 @@
 | **Nome Completo** | Fernanda Costa Oliveira |
 | **Idade** | 38 anos |
 | **Estado Civil** | Divorciada há 5 anos |
-| **Profissão** | Gerente de RH |
+| **Profissão** | Redatora sênior |
 | **Personalidade** | Pragmática, divertida, direta, sem rodeios |
 
 ### História
@@ -274,13 +274,13 @@ Personagens menores que aparecem ocasionalmente:
 - História inspiradora
 - Parte do grupo de apoio informal
 
-### Beatriz (50)
-- Divorciada recentemente
+### Beatriz (55)
+- Viúva recentemente
 - Mais insegura que Camila
 - Camila vira mentora dela (círculo completo)
 
-### Professor Antônio (60)
-- Professor da aula
+### Professora Paula
+- Professora da aula
 - Gentil, incentivador
 - Vê talento em Camila
 - Encoraja ela a expor trabalhos

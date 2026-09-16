@@ -80,6 +80,8 @@ Ela começou a rir. Uma risada histérica, sozinha na cozinha molhada.
 — Eu consertei — disse ela. — Eu consertei essa merda.
 
 Não era sobre a torneira. Nunca é sobre a torneira.
+
+Você já consertou algo que te dava medo? Não falo de encanamento. Falo daquele medo de descobrir que você dá conta — porque, se der, o mundo inteiro que te dizia "você precisa de um homem" desaba.
 Era sobre saber que ela podia sobreviver ao caos. Que ela podia se molhar, errar, fazer bagunça, e depois limpar e consertar. Sozinha.
 
 Ela limpou a cozinha. Secou o chão. Tomou um banho quente.
@@ -361,7 +363,7 @@ Inteira. Presente. Ali.
 
 ---
 
-Numa noite de domingo- última noite antes das crianças irem para o pai - Camila colocou Bia e Léo para dormir.
+Numa noite de domingo — última noite antes das crianças irem para o pai — Camila colocou Bia e Léo para dormir.
 
 Histórias. Abraços. Beijos de boa noite.
 
@@ -407,7 +409,7 @@ Não foi fácil. Não foi indolor.
 
 Mas foi certo.
 
-E aos poucos, todos eles - ela, Léo, Bia - estavam aprendendo a viver nessa nova configuração.
+E aos poucos, todos eles — ela, Léo, Bia — estavam aprendendo a viver nessa nova configuração.
 
 Uma família diferente.
 

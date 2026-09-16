@@ -66,6 +66,8 @@ Dona Sônia, na cabeceira, continuava comendo devagar.
 
 — Mas Camila — insistiu Bete, a voz mansa de quem explica o óbvio para uma criança. — Homem é assim mesmo. Eles não têm esse jeito pra coisa doméstica. Cabe à mulher orientar. Com jeitinho. Você sempre foi meio... estourada.
 
+Você já ouviu isso? "Homem é assim mesmo." Como se o descuido fosse cromossomo. Como se cuidar da própria casa fosse dom — que eles não têm e a gente, por obrigação, tem.
+
 — Estourada? — Camila sentiu as lágrimas virem. — Eu aguentei onze anos, tia! Onze anos pedindo ajuda. Onze anos me sentindo sozinha acompanhada. Isso é ser estourada?
 
 — Ah, mas ele não bebia, não batia... — começou Vilma.

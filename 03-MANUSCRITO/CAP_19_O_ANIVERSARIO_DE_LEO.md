@@ -100,6 +100,8 @@ Olhou para o papel de presente rasgado no chão.
 O dinheiro compra coisas. Compra barulho. Compra euforia momentânea.
 Mas não compra conexão.
 
+Você já sentiu isso? O presente simples que vale mais que o caro — porque vem com presença. Criança sabe a diferença. No fundo, a gente também.
+
 Ricardo podia ter ganhado a noite com o cheque.
 Mas Camila tinha ganhado o filho com a presença.
 E, no fim das contas, era isso que ficava quando a festa acabava.

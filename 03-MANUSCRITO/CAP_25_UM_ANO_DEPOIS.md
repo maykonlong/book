@@ -23,7 +23,7 @@ Camila olhou para Ricardo, parado na porta. Ele parecia cansado. A roupa levemen
 
 Ele saiu. A porta fechou.
 
-Camila olhou para os filhos. Sujos de catchup. Agitados de açúcar e tela.
+Camila olhou para os filhos. Sujos de ketchup. Agitados de açúcar e tela.
 
 A Camila de um ano atrás teria surtado. Teria gritado com Ricardo. Teria passado horas angustiada sobre como eles estavam sendo "estragados".
 
@@ -97,7 +97,7 @@ Ele aceitou sem argumentar. Dividiram a conta.
 
 Depois, dirigindo para casa, Camila processou: ele tinha aceitado o limite sem ficar ofendido. Ricardo teria feito birra.
 
-Green flag. Mas ela ainda duvidava.
+Sinal positivo. Mas ela ainda duvidava.
 
 ---
 
@@ -183,7 +183,7 @@ Encontro delas para café. Terça à tarde.
 
 Camila sabia que era verdade. Mas:
 
-— E se só porque não vi red flag AINDA não significa que não existe?
+— E se só porque não vi sinal de alerta AINDA não significa que não existe?
 
 — E se simplesmente ele FOR quem parece ser? Um cara legal que gosta de você?
 
@@ -197,7 +197,7 @@ Pausa pesada.
 
 — Cá, escuta. Você pode se proteger sem sabotar tudo de bom. Dá uma chance. Para de projetar.
 
-— Como distinguir entre red flag real e projeção de trauma?
+— Como distinguir entre sinal de alerta real e projeção de trauma?
 
 — Observa o padrão. Uma vez pode ser qualquer coisa. Múltiplas vezes é padrão. E até agora, Daniel só mostrou padrão de: respeito, gentileza, paciência.
 

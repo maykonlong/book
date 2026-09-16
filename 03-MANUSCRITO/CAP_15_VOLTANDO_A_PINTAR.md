@@ -65,6 +65,8 @@ Não eram obras-primas. Eram borrões coloridos.
 Mas eram dela.
 Eram pedaços da alma dela que ela tinha conseguido colocar para fora sem precisar explicar com palavras.
 
+Você se lembra da última vez que fez algo só por você? Sem ser pela casa, pelos filhos, pelo trabalho. Só seu. Se não lembra, talvez esteja na hora de lembrar.
+
 Camila olhou para as mãos sujas de tinta. Azul nas cutículas. Vermelho na palma.
 
 Ela sorriu.

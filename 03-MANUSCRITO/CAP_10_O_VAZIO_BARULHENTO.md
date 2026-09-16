@@ -85,6 +85,8 @@ Camila esticou as pernas. Ocupou o centro da cama. Abriu os braços, fazendo um 
 O vazio era barulhento, sim. Gritava solidão.
 Mas, pela primeira vez em anos, o barulho era *dela*.
 
+Você já sentiu isso? Aquele vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também pode ser seu. E ele, aos poucos, vira paz.
+
 E ela podia lidar com o próprio barulho. O que ela não aguentava mais era o barulho dele silenciando a música dela.
 
 Adormeceu atravessada na cama, ocupando todo o espaço que, por direito, sempre deveria ter sido seu.
@@ -97,7 +99,7 @@ Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitan
 
 Friamente. Praticamente. Civilizadamente.
 
-(era mentira,mas eles fingiam bem)
+(era mentira, mas eles fingiam bem)
 
 — Eu vou para um apart-hotel — Ricardo disse. — Até a gente definir tudo.
 
@@ -345,7 +347,7 @@ Camila ficou parada. Olhando para o filho de oito anos que tinha tentado assumir
 
 E começou a chorar.
 
-Não de tristeza. Mas de amor. De orgulho. De perceção de que eles iam passar por isso juntos.
+Não de tristeza. Mas de amor. De orgulho. De percepção de que eles iam passar por isso juntos.
 
 — Ei, mãe, tá tudo bem — Léo veio abraçar. — A gente ainda dá tempo de chegar na escola.
 

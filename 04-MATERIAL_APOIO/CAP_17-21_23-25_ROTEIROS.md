@@ -11,8 +11,8 @@
 **Desenvolvimento**:
 - Camila ansiosa mas animada
 - Júlia (32, mãe solteira) comenta: "A gente devia ir tomar café depois, né?"
-- Beatriz (50, recém-divorciada) hesita
-- Clara (45, viúva) aceita na hora
+- Beatriz (55, recém-viúva) hesita
+- Clara (40, mãe solo de gêmeos) aceita na hora
 - Camila surpreendida mas diz sim
 
 **Emoção**: Abertura para conexão. Camila percebendo que pode fazer amigas novas.
@@ -22,9 +22,9 @@
 
 **Diálogos-chave**:
 - Júlia: "Eu sou mãe solteira. Por escolha. Fiz inseminação. Melhor decisão da vida."
-- Beatriz vulnerável: "Eu tô me divorciando. 25 anos de casamento. Tô apavorada."
+- Beatriz vulnerável: "Meu marido... o falecido... eu fazia tudo e ninguém nunca viu."
 - Camila: "Eu também. Separando. Dois filhos."
-- Clara: "Eu perdi meu marido faz dois anos. Ainda tô aprendendo quem eu sou sem ele."
+- Clara: "Eu crio os gêmeos sozinha. O pai deles é o clássico Pai Disney."
 
 **Momento**: Percepção de identificação. Todas carregam dores diferentes.
 
@@ -58,7 +58,7 @@
 **Desenvolvimento**:
 - Camila confirma: vai
 - Ricardo promete: vai tentar
-- Red flag interno de Camila: "vai tentar" não é "vou"
+- Sinal de alerta interno de Camila: "vai tentar" não é "vou"
 
 ## CENA 2 - Escola, 14h
 **Ambiente**: Auditório lotado de pais.
@@ -88,7 +88,7 @@
 - Léo: "O pai não veio."
 - Não é pergunta. É constatação.
 - "Ele disse que tentaria, Léo."
-- "Ele sempre tentar. Nunca tenta de verdade."
+- "Ele sempre tenta. Nunca tenta de verdade."
 
 **Faca no coração de Camila**.
 
@@ -259,7 +259,7 @@ Olha pra selfie: "Agora você tá parecendo você de novo."
 
 Mãe vendo: "Você emagreceu?"
 
-"Não, mãe. Mesma peso."
+"Não, mãe. Mesmo peso."
 
 "Mas você tá diferente. Mais... leve."
 
@@ -308,7 +308,7 @@ Paula: "Você tem três quadros lindos. Vai expor sim."
 - Léo: "Eu quero ir ver seu quadro, mãe!"
 
 ## CENA 3 - Noite da exposição
-**Ateliê** transformado em galeria small.
+**Ateliê** transformado em galeria pequena.
 
 **Camila chegando**: Nervos à flor da pele.
 
@@ -328,7 +328,7 @@ Paula: "Você tem três quadros lindos. Vai expor sim."
 ## CENA 5 - Léo orgulhoso
 **Momento ápice**:
 
-Léo puxa someone: "Minha MÃE que fez. Ela é artista."
+Léo puxa alguém: "Minha MÃE que fez. Ela é artista."
 
 **Camila ouve. Coração explode.**
 
@@ -362,7 +362,7 @@ Certeza alta que vai dar certo.
 ## CENA 7 - FECHAMENTO
 **Final da noite**:
 
-Everyone indo. Camila fica help desmontando.
+Todos indo. Camila fica ajudando a desmontar.
 
 Paula: "Você foi destaque, sabia?"
 
@@ -372,7 +372,7 @@ Paula: "Você foi destaque, sabia?"
 
 ---
 
-**Camila driving home. Música alta. Sorriso no rosto.**
+**Camila dirigindo para casa. Música alta. Sorriso no rosto.**
 
 Pensa: "Pela primeira vez, acredito que vou ficar bem. De verdade."
 

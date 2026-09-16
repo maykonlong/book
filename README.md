@@ -37,11 +37,18 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 ├── 📁 04-PESQUISA/                # Material de pesquisa
 │   └── TOPICOS_PESQUISA.md       # Lista de tópicos a pesquisar
 │
-└── 📁 04-MATERIAL_APOIO/          # Rascunhos e roteiros de apoio
+├── 📁 04-MATERIAL_APOIO/          # Rascunhos e roteiros de apoio
     ├── PROGRESSO.md              # Status do manuscrito
     ├── CAP_01_RASCUNHO.md        # Rascunho inicial do capítulo 1
     ├── CAP_12-15_DESCONSTRUCAO_INICIAL.md
     └── CAP_17-21_23-25_ROTEIROS.md
+│
+└── 📁 05-PUBLICACAO/              # Materiais para publicação
+    ├── SINOPSE_COMERCIAL.md      # Sinopse e palavras-chave
+    ├── GUIA_BETA_READERS.md      # Questionário para leitoras-teste
+    ├── GUIA_CONVERSAO_EBOOK.md   # Markdown → ePub/MOBI/PDF
+    ├── BRIEFING_CAPA.md          # Briefing do design de capa
+    └── GUIA_ISBN_DIRETOS_AUTORAIS.md # Registro da obra
 ```
 
 ---
@@ -88,11 +95,11 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Primeiro rascunho completo (27 capítulos)
 
 ### ⏳ Próximos Passos
-1. Revisão estrutural (coerência entre capítulos)
-2. Revisão de personagens e diálogos
-3. Beta readers
-4. Revisão ortográfica e gramatical final
-5. Formatação para publicação
+1. ✅ Revisão estrutural, ortográfica e de continuidade (concluída)
+2. ✅ Nivelamento de profundidade + voz da autora (concluído)
+3. ⏳ Beta readers (guia pronto em `05-PUBLICACAO/GUIA_BETA_READERS.md`)
+4. ⏳ Diagramação e conversão (guia em `05-PUBLICACAO/GUIA_CONVERSAO_EBOOK.md`)
+5. ⏳ Capa, sinopse e ISBN (materiais em `05-PUBLICACAO/`)
 
 ---
 

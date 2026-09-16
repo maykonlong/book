@@ -3,7 +3,7 @@
 
 Léo tinha apresentação na escola.
 
-"Minha Família" - trabalho de História sobre estruturas familiares ao longo do tempo. Cada criança apresentaria a própria família. Quinta-feira, duas da tarde.
+"Minha Família" — trabalho de História sobre estruturas familiares ao longo do tempo. Cada criança apresentaria a própria família. Quinta-feira, duas da tarde.
 
 Camila tinha pedido para sair mais cedo do trabalho. Confirmado duas semanas antes.
 
@@ -37,11 +37,9 @@ Camila respirou fundo. Controlou a irritação. Pelo menos estava vindo.
 
 Apresentações começaram.
 
-Uma menina falou sobre a família grande
+Uma menina falou sobre a família grande — seis irmãos, todos morando na mesma casa com avós.
 
- - seis irmãos, todos morando na mesma casa com avós.
-
-Um menino sobre pais divorciados que se davam bem - custódia compartilhada harmônica.
+Um menino sobre pais divorciados que se davam bem — custódia compartilhada harmônica.
 
 Uma menina sobre duas mães.
 
@@ -59,7 +57,7 @@ Camila viu o momento exato em que ele procurou o pai na plateia.
 
 Olhos vasculhando filas. Procurando. Esperançoso.
 
-Depois... aceitação. Resignação silenciosa de criança que já esperava deceção.
+Depois... aceitação. Resignação silenciosa de criança que já esperava decepção.
 
 E Camila sentiu o coração partir.
 
@@ -82,6 +80,8 @@ A frase caiu pesada.
 *Vem quando pode.*
 
 Tradução de criança de oito anos para: não vem.
+
+Você já traduziu assim o silêncio de quem ama? Já ouviu um "vou tentar" e soube, no fundo, que era "não"? Crianças aprendem cedo essa língua. E isso parte o coração.
 
 Camila segurou lágrimas. Sala lotada. Não podia desmoronar.
 
@@ -125,9 +125,9 @@ Camila ajoelhou na frente dele:
 
 — Você não merece ser segunda opção, tá? Você merece pai que aparece. Sempre.
 
-Léo abraçou ela.  Apertado. Escondendo rosto no ombro dela.
+Léo abraçou ela. Apertado. Escondendo rosto no ombro dela.
 
-E Camila percebeu horrified: ele estava protegendo ELA. Não deixando ela ver que estava magoado para não mago
+E Camila percebeu horrorizada: ele estava protegendo ELA. Não deixando ela ver que estava magoado para não mago
 
 ar ela também.
 
@@ -245,7 +245,7 @@ Porque não tinha resposta certa. Não tinha jeito de fazer não doer.
 
 Só tinha amor. E verdade. E presença.
 
-Quando ele finalmente dormiu, exausto, Camila saiu do quarto e ligou para Dra. Patrícia - não, errado. Para Dr. Lucas.
+Quando ele finalmente dormiu, exausto, Camila saiu do quarto e ligou para Dr. Lucas.
 
 Atendeu segundo toque:
 
@@ -313,7 +313,7 @@ Naquela noite, Camila escreveu no diário:
 
 *E eu sou essa.*
 
-*Não perfect. Mas presente.*
+*Não perfeita. Mas presente.*
 
 *E talvez seja suficiente."*
 
@@ -327,8 +327,6 @@ Significava fazer mesmo doendo.
 
 E isso, descobrimento lento e doloroso, era maternidade real.
 
-Imperfeita. Honesta. Presente
-
-.
+Imperfeita. Honesta. Presente.
 
 E era suficiente.

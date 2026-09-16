@@ -33,7 +33,7 @@ Ricardo sentou no sofá sem ser convidado. Olhou para a sala.
 — São meus. Eu pintei.
 — Ah, é. A fase artista. Ficaram bons.
 
-*Fase artista.* condescendência sutil.
+*Fase artista.* Condescendência sutil.
 
 — Ricardo, fala logo.
 
@@ -44,7 +44,7 @@ Ele suspirou. Olhou para ela com olhos de cachorro pidão.
 
 Camila sentiu o estômago revirar. Não de amor. De alerta.
 
-— Ricardo, a gente tá separado há cinco meses. O divórcio sai mês que vem.
+— Ricardo, a gente tá separado há onze meses. O divórcio sai mês que vem.
 — Eu sei. Mas... eu andei pensando. Será que a gente não precipitou? Onze anos, Camila. É muita história pra jogar fora.
 
 Ele levantou e chegou perto dela.

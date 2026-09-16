@@ -41,6 +41,16 @@ Clara suspirou.
 
 Ficaram em silêncio por um segundo. A chuva batia na janela.
 
+Camila olhou para o próprio café esfriando. Alguém tinha acabado de colocar em palavras o que ela sentia há onze anos sem conseguir nomear.
+
+*Invisível.*
+
+Não era drama. Não era frescura. Não era "exagero de mulher cansada". Era uma condição real, compartilhada, reconhecida por outras quatro mulheres que também carregavam casas, filhos, trabalho e culpa nas costas — e que ainda assim estavam ali, numa quinta-feira de chuva, pintando aquarelas e rindo.
+
+Pela primeira vez em muito tempo, Camila não se sentiu louca.
+
+Sentiu-se *vista*.
+
 — Sabe o que eu acho? — disse Júlia, quebrando o clima. — Que a gente devia montar um sindicato. Sindicato das Mulheres Exaustas que Pintam para Não Matar Ninguém.
 
 Todas riram.
@@ -52,6 +62,8 @@ Todas riram.
 Camila olhou para aquelas mulheres.
 Tão diferentes. Unidas por nada além de uma aula de pintura e pela experiência universal de ser mulher num mundo que exige demais.
 
+Você já encontrou as suas? Aquelas mulheres que te olham e, sem dizer nada, entendem. Que te fazem rir da própria desgraça. Se ainda não, procure. Elas existem. E salvam.
+
 Ela sentiu uma onda de calor no peito.
 Dra. Lucas tinha dito para ela encontrar "sua tribo".
 Ela achava que tribo era algo místico, difícil de achar.
@@ -59,6 +71,12 @@ Ela achava que tribo era algo místico, difícil de achar.
 Mas tribo era isso.
 Eram mulheres comendo pão de queijo, reclamando dos ex-maridos e rindo das próprias desgraças.
 Eram pessoas que validavam a sua dor sem tentar consertá-la.
+
+Era isso que faltava. Não conselho. Não "ah, mas você devia ter feito assim". Não julgamento.
+
+Só presença.
+
+Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulheres que ouviam "meu marido nunca notou meu trabalho" e assentiam, porque também eram invisíveis em casa. Mulheres que não tentavam colocar band-aid na dor de ninguém — só seguravam a mão e diziam, sem palavras: *eu também. Eu também sei como é.*
 
 — Um brinde ao Sindicato — disse Camila, levantando seu café.
 

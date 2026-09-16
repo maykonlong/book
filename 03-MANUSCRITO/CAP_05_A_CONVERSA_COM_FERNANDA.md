@@ -11,7 +11,7 @@ A copa era pequena, com cheiro permanente de pó de café queimado e desinfetant
 
 Fernanda já estava lá.
 
-Fernanda era redatora sênior. Trinta e oito anos, divorciada, mãe de gêmeos, e dona de uma energia que Camila invejava secretamente. Fernanda parecia *inteira*. Mesmo cansada, ela parecia dona de si.
+Fernanda era redatora sênior. Trinta e oito anos, divorciada, e dona de uma energia que Camila invejava secretamente. Fernanda parecia *inteira*. Mesmo cansada, ela parecia dona de si.
 
 — Bom dia... ixi. — Fernanda parou a xícara no meio do caminho ao ver o rosto de Camila. — Anota a placa.
 

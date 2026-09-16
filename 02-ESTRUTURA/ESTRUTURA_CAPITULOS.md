@@ -244,7 +244,7 @@
 
 **Conteúdo**:
 - Na aula de arte, conhece outras mulheres
-- Júlia (mãe solteira), Beatriz (recém-divorciada)
+- Júlia (mãe solteira), Beatriz (recém-viúva)
 - Conversas honestas sobre vida, dor, recomeço
 - Camila percebe: muitas mulheres vivem isso
 

@@ -111,7 +111,7 @@ Camila ria. De verdade. Não forçado.
 
 Ele tinha um bom timing cômico. Autodepreciativo sem ser patético.
 
-Mas parte dela estava esperando. Aguardando pela red flag. Pelo momento onde ele mostraria as verdadeiras cores.
+Mas parte dela estava esperando. Aguardando pelo sinal de alerta. Pelo momento onde ele mostraria as verdadeiras cores.
 
 Então aconteceu.
 
@@ -189,7 +189,7 @@ Mãe solo. Heroica.
 
 Não "complicada". Não "bagagem".
 
-Green flag.
+Sinal positivo.
 
 Continuaram conversando.
 
@@ -197,7 +197,7 @@ Eventualmente, inevitavelmente, o tópico do ex surgiu.
 
 — Você é divorciada recentemente, né?
 
-— Seis meses oficial. Um ano separada.
+— Recém-divorciada. Um ano separada.
 
 — Deve ter sido difícil.
 
@@ -259,7 +259,7 @@ Abraçaram-se para despedida. Breve mas gostoso.
 
 E Camila caminhou até o carro pensando:
 
-*Huh. Isso foi... realmente bom.*
+*Hmm. Isso foi... realmente bom.*
 
 Não aterrorizante. Não desastre.
 
