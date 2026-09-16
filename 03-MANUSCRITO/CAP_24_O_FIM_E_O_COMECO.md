@@ -155,6 +155,12 @@ Ela contou sobre pintura. Ele se interessou de verdade. Fez perguntas inteligent
 
 Ele contou sobre literatura. Ela adorou ouvir o entusiasmo dele sobre livros.
 
+E, num momento de silêncio confortável, Daniel disse algo que Camila não esperava:
+— Posso te confessar uma coisa? Eu também saí de um relacionamento difícil. Há três anos. Terminei um noivado. — Ele girou a xícara entre os dedos. — Não vou fingir que sei o que você passou. Cada dor é uma dor. Mas eu entendo o medo de confiar de novo. Eu tive esse medo.
+Camila ficou quieta, processando. Ele não estava competindo. Não estava comparando dores. Estava só... se abrindo. Mostrando que também tinha cicatrizes.
+— E como você superou? — perguntou ela, baixinho.
+— Ainda estou superando. A gente não "supera" de verdade, eu acho. A gente aprende a carregar de um jeito que não pesa tanto. — Ele sorriu, sem amargura. — E aprende a reconhecer o que não aceita mais.
+
 Descobriram gosto similar em filmes (ambos amavam dramas europeus lentos).
 
 Risadas compartilhadas sobre séries ruins que tinham assistido.
