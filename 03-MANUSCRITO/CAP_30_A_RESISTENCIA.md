@@ -136,7 +136,7 @@ Um silêncio. Então, um gritinho abafado e comemorativo do outro lado:
 Camila riu. Riu de verdade, alto, solto, até doer a barriga.
 — Ele falou que eu vou me arrepender de envelhecer sozinha.
 — Amiga, a única coisa pior do que envelhecer sozinha é envelhecer ao lado de quem te anula. Você escolheu certo.
-— Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu finalmente sei.
+— Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu por fim sei.
 
 Na manhã seguinte, Camila acordou antes do despertador. Não por ansiedade, como nos velhos tempos. Por... leveza.
 

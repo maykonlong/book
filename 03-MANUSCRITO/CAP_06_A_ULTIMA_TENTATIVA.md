@@ -30,7 +30,7 @@ O dia estava abafado, aquele calor pré-chuva que deixa todos irritados. Ricardo
 
 Ele tomou banho. Demorou vinte minutos. Camila esperava na porta, suando, segurando Bia no colo que choramingava de sono.
 
-Finalmente saíram.
+Por fim saíram.
 
 A viagem deveria durar uma hora e meia. Durou quatro.
 

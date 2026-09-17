@@ -41,7 +41,7 @@ Mas ela era o porto seguro.
 Ela era quem curava a gripe, quem ajudava na matemática, quem ensinava a comer brócolis e a ter empatia.
 
 E as crianças, na sabedoria infinita delas, sabiam.
-Sabiam que podiam se divertir lá, mas que era *aqui* que a vida acontecia de verdade.
+Sabiam que podiam se divertir lá, mas que era *aqui* que a vida acontecia de fato.
 
 Léo saiu do banho cheirando a sabonete de lavanda. Deitou no colo dela no sofá.
 — Mãe?
@@ -353,11 +353,11 @@ No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 
 Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, agora, ela não teve medo de entrar.
 
-No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem finalmente parou de ensaiar e começou a viver.
+No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem por fim parou de ensaiar e começou a viver.
 
 Camila olhou para o perfil dele, iluminado de relance pelos postes. E se perguntou, com um espanto doce, como tinha passado tantos anos sem saber que existiam homens assim. Homens que ligavam no dia seguinte. Que perguntavam "como foi seu dia?" e esperavam a resposta. Que dividiam a conta sem fazer drama, que respeitavam o "não", que não confundiam amor com posse.
 
-Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha que merece. Naquela noite, segurando a mão de Daniel, Camila entendeu: ela finalmente achava que merecia o amor bom.
+Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha que merece. Naquela noite, segurando a mão de Daniel, Camila entendeu: ela por fim achava que merecia o amor bom.
 
 E essa era, talvez, a maior vitória de todas.
 

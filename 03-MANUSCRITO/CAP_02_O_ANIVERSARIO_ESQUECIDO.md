@@ -61,7 +61,7 @@ Ele não tirou os olhos da tela do celular. O brilho azul iluminava o rosto dele
 
 — Pois é. E a gente não planejou nada.
 
-Ricardo finalmente bloqueou a tela do celular, mas não o largou. Manteve-o na mão, como uma arma de escape rápido.
+Ricardo por fim bloqueou a tela do celular, mas não o largou. Manteve-o na mão, como uma arma de escape rápido.
 
 — E aí? O que você pensou?
 

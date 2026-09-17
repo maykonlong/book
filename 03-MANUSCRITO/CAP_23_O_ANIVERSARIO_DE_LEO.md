@@ -77,7 +77,7 @@ Ricardo saiu. O furacão passou.
 A festa acabou. Os amigos foram embora.
 Camila começou a limpar a bagunça. O coração doía. Se sentia pequena. Pobre. A mãe chata que dá sanduíche enquanto o pai dá tecnologia.
 
-Enquanto varria o confete espalhado pelo chão, ela se pegou fazendo contas de novo. O videogame custava quase o triplo do que ela tinha conseguido guardar em meses de moedinhas e renúncias. E doía. Doía não poder dar ao filho o brinquedo que o fez gritar de alegria. Doía ser a "mãe chata" enquanto o pai era o "herói".
+Enquanto varria o confete espalhado pelo chão, ela se pegou fazendo contas outra vez. O videogame custava quase o triplo do que ela tinha conseguido guardar em meses de moedinhas e renúncias. E doía. Doía não poder dar ao filho o brinquedo que o fez gritar de alegria. Doía ser a "mãe chata" enquanto o pai era o "herói".
 
 Mas ela continuou varrendo. Porque era isso que ela fazia: continuava. Varria, limpava, seguia — mesmo com o coração pequeno e as contas não fechando.
 

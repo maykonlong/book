@@ -57,7 +57,7 @@ Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldit
 
 *1. Lancheira do Léo (ele disse que enjoou de maçã, tentar colocar pera picada).*
 *2. Uniforme da Bia (verificar se a mancha de tinta saiu).*
-*3. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza de novo e Ricardo vai reclamar do gasto).*
+*3. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza outra vez e Ricardo vai reclamar do gasto).*
 *4. Pagar a conta de luz (vence hoje, colocar lembrete).*
 *5. Responder o e-mail do cliente chato sobre a campanha de Natal.*
 *6. Marcar o dentista das crianças.*
@@ -309,7 +309,7 @@ E começou tudo de novo.
 
 Cortar. Refogar. Mexer. Servir. Limpar. Dar banho. Secar cabelo. Ler história. Beijo de boa noite. Apagar a luz.
 
-Quando Camila finalmente se sentou no sofá, eram dez e meia da noite.
+Quando Camila por fim se sentou no sofá, eram dez e meia da noite.
 
 A casa estava em ordem. As crianças dormiam. O jantar de Ricardo (que ela tinha deixado pronto, caso ele chegasse com fome do futebol) estava no micro-ondas.
 

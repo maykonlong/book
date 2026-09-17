@@ -49,7 +49,7 @@ Por onze anos, a única coisa que "vendiam" a Camila era a utilidade: o que ela 
 
 Não era elogio vazio. Não era a mãe dizendo "ficou lindo" para qualquer rabisco. Era uma estranha, com dinheiro próprio, escolhendo *comprar* um pedaço da dor de Camila transformada em cor.
 
-Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só uma aquarela. Era o retrato de uma manhã qualquer em que Camila finalmente tinha conseguido respirar. E uma desconhecida tinha olhado para aquilo e sentido paz.
+Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só uma aquarela. Era o retrato de uma manhã qualquer em que Camila por fim tinha conseguido respirar. E uma desconhecida tinha olhado para aquilo e sentido paz.
 
 A arte dela tinha atravessado a distância entre duas mulheres que nunca se conheceram. E tinha dito: *eu também.*
 

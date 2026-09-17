@@ -66,7 +66,7 @@ Levantou. Tirou a roupa molhada pesada. O pijama grudava na pele como uma segund
 Secou-se. Vestiu uma camiseta velha.
 
 Voltou para o quarto.
-Deitou na cama de novo.
+Deitou na cama outra vez.
 
 E então, aconteceu.
 
@@ -95,7 +95,7 @@ Ricardo saiu de casa numa quinta-feira.
 
 Não foi dramático. Não teve briga, choro, cena. Só... aconteceu.
 
-Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles finalmente sentaram e conversaram sobre logística.
+Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram e conversaram sobre logística.
 
 Friamente. Praticamente. Civilizadamente.
 
@@ -303,7 +303,7 @@ Camila repetiu mentalmente. Podia fazer isso. Um dia de cada vez.
 
 Ela desligou a luz. Deitou. Fechou os olhos.
 
-E finalmente.
+Até que enfim.
 
 Em semanas.
 

@@ -182,7 +182,7 @@ Deixou em cima da poça de leite seco no balcão.
 
 *Eu vou embora.*
 
-Três palavras que custaram onze anos para sair. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, finalmente entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
+Três palavras que custaram onze anos para sair. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, por fim entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
 
 Mas a opinião dele não importava. O que importava era que, depois de onze anos, ela estava indo embora sem pedir desculpa.
 
@@ -200,7 +200,7 @@ Entrou no Uber.
 Encostou a cabeça no vidro frio.
 Fechou os olhos.
 
-A febre queimava. Mas por dentro, onde importava, o incêndio tinha finalmente parado.
+A febre queimava. Mas por dentro, onde importava, o incêndio tinha por fim parado.
 
 Ela tinha se salvado.
 Sozinha.

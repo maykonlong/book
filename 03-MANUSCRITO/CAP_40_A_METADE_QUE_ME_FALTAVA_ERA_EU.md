@@ -271,7 +271,7 @@ Sempre esteve aqui.
 
 Dentro dela.
 
-Esperando, com paciência infinita, que Camila finalmente se encontrasse.
+Esperando, com paciência infinita, que Camila por fim se encontrasse.
 
 E agora que se encontrou, esse fogo — esse fogo silencioso e imenso e indestrutível — nunca mais, nunca mais se apagaria.
 

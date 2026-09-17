@@ -67,4 +67,4 @@ Camila olhou para ele. E, enfim, entendeu de verdade.
 
 Amor que a gente tem que conquistar não é amor. É dívida.
 
-E ela estava, finalmente, aprendendo a diferença.
+E ela estava, por fim, aprendendo a diferença.

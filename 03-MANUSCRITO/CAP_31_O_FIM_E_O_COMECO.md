@@ -153,7 +153,7 @@ Genuinamente diferente.
 
 Conversaram mais.
 
-Ela contou sobre pintura. Ele se interessou de verdade. Fez perguntas inteligentes.
+Ela contou sobre pintura. Ele se interessou de fato. Fez perguntas inteligentes.
 
 Ele contou sobre literatura. Ela adorou ouvir o entusiasmo dele sobre livros.
 

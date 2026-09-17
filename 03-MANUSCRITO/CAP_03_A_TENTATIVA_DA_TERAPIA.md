@@ -5,7 +5,7 @@ Três dias depois do aniversário de Léo, o gosto amargo da decepção ainda n�
 
 Quarta-feira à noite.
 
-A casa estava finalmente quieta. As crianças dormiam. A máquina de lavar louça zumbia monotonamente na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
+A casa estava por fim quieta. As crianças dormiam. A máquina de lavar louça zumbia monotonamente na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
 
 Ela estava no banheiro, encarando seu reflexo no espelho iluminado pela luz branca e impiedosa.
 

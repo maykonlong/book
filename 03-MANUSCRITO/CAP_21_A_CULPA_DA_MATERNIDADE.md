@@ -83,7 +83,7 @@ Camila reconheceu o desenho. Tinha sido ela a ajudá-lo a colar aquele sol amare
 
 — Mas agora meus pais são separados. Então é assim.
 
-Virou de novo. Novo desenho. Ele e Bia no centro. Camila de um lado. Ricardo do outro - mais longe, em canto separado.
+Virou outra vez. Novo desenho. Ele e Bia no centro. Camila de um lado. Ricardo do outro - mais longe, em canto separado.
 
 A professora sorriu encorajadora. A sala estava em silêncio respeitoso.
 
@@ -267,7 +267,7 @@ A pergunta atravessou Camila como agulha. Então era isso. O menino de oito anos
 
 — Léo, olha para mim. — Ela segurou rostinho dele. — Você e sua irmã são PERFEITOS. A separação foi porque eu e seu pai não sabíamos mais ser felizes juntos. Não porque vocês fizeram algo errado. Nunca.
 
-Ele chorou. Finalmente. Choro guardado. Choro de meses.
+Ele chorou. Enfim. Choro guardado. Choro de meses.
 
 E Camila chorou junto.
 
@@ -275,7 +275,7 @@ Porque não tinha resposta certa. Não tinha jeito de fazer não doer.
 
 Só tinha amor. E verdade. E presença.
 
-Quando ele finalmente dormiu, exausto, Camila saiu do quarto e ligou para Dr. Lucas.
+Quando ele por fim dormiu, exausto, Camila saiu do quarto e ligou para Dr. Lucas.
 
 Atendeu segundo toque:
 

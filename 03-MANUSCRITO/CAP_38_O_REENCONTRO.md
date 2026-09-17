@@ -29,7 +29,7 @@ Ela se lembrou, de repente, da última vez que tinha visto o Ricardo — no dia 
 
 E agora, ali, no corredor de congelados, o estômago estava quieto.
 
-Onze anos de tempestade. E o mar, finalmente, tinha virado um lago.
+Onze anos de tempestade. E o mar, por fim, tinha virado um lago.
 
 ---
 
@@ -65,7 +65,7 @@ Ricardo deu um passo para sair, depois parou. Olhou para ela de novo, como se qu
 
 — Pode falar.
 
-— Eu acho que... eu finalmente entendi algumas coisas. Sobre como eu era. — Ele passou a mão no cabelo. — Foi mal.
+— Eu acho que... eu por fim entendi algumas coisas. Sobre como eu era. — Ele passou a mão no cabelo. — Foi mal.
 
 Foi mal.
 
@@ -105,7 +105,7 @@ E era verdade. Tudo estava bem. Porque o reencontro que ela temia há meses tinh
 
 Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilha.
 
-E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, finalmente, tinha passado.
+E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, por fim, tinha passado.
 
 
 

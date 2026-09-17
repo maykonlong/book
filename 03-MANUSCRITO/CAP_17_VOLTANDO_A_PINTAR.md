@@ -9,7 +9,7 @@ Entrar na papelaria especializada foi como entrar em uma igreja. Um silêncio re
 
 Ela caminhou pelos corredores devagar, como quem revisita um lugar sagrado que jurou que nunca mais pisaria. Os tubos de tinta alinhados como um arco-íris. Os pincéis em potes de vidro, redondos e chatos, macios e duros. Os blocos de papel de algodão empilhados, grossos, prometendo absorver água e cor com generosidade.
 
-Camila tocou num bloco de papel e sentiu a textura áspera sob os dedos. Fechou os olhos por um segundo e, por um instante, foi a menina de vinte anos de novo, no chão do quartinho alugado, com o mundo inteiro cabendo numa folha molhada.
+Camila tocou num bloco de papel e sentiu a textura áspera sob os dedos. Fechou os olhos por um segundo e, por um instante, foi a menina de vinte anos outra vez, no chão do quartinho alugado, com o mundo inteiro cabendo numa folha molhada.
 
 Uma vendedora jovem se aproximou.
 — Posso ajudar?

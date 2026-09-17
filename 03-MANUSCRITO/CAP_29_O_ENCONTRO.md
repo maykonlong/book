@@ -304,7 +304,7 @@ Ele elogiou a blusa dela. *Quer me objetificar.*
 
 A mente de Camila era um tribunal militar julgando um civil inocente.
 
-Finalmente, Daniel colocou a xícara na mesa. Suspirou.
+Por fim, Daniel colocou a xícara na mesa. Suspirou.
 Olhou para ela com olhos calmos, mas cansados.
 
 — Camila.

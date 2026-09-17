@@ -11,7 +11,7 @@ Você já fez essa conta sozinha? A conta que não fecha, no silêncio da cozinh
 
 Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. O mês estava no dia 8.
 
-Ela fechou o aplicativo. Abriu de novo, como se esperasse que o número tivesse mudado. Não tinha.
+Ela fechou o aplicativo. Abriu outra vez, como se esperasse que o número tivesse mudado. Não tinha.
 
 *Respira*, disse a si mesma. *Uma coisa de cada vez.*
 
@@ -87,7 +87,7 @@ Você já sentiu isso? A dignidade de ganhar o próprio sustento, mesmo que aos 
 
 ---
 
-Na última quinta-feira do mês, Camila sentou de novo com a planilha aberta. O saldo agora era outro. Ainda pequeno. Mas as contas estavam pagas. A natação do Léo ainda não tinha voltado. O celular ainda era pré-pago. Mas havia uma diferença crucial:
+Na última quinta-feira do mês, Camila sentou outra vez com a planilha aberta. O saldo agora era outro. Ainda pequeno. Mas as contas estavam pagas. A natação do Léo ainda não tinha voltado. O celular ainda era pré-pago. Mas havia uma diferença crucial:
 
 Ela não estava mais com medo do dia 8.
 

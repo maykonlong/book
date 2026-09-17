@@ -7,7 +7,7 @@ Não são os grandes vazios. São as pequenas manutenções.
 
 Uma semana depois da mudança de Ricardo, a torneira da pia da cozinha começou a pingar. *Plic. Plic. Plic.* O som do inferno.
 
-Em outra vida (a vida de casada), Camila teria dito: "Ricardo, a pia tá pingando". Ele teria resmungado, enrolado três dias, e finalmente consertado (ou chamado alguém). Mas era problema "dele" resolver.
+Em outra vida (a vida de casada), Camila teria dito: "Ricardo, a pia tá pingando". Ele teria resmungado, enrolado três dias, e por fim consertado (ou chamado alguém). Mas era problema "dele" resolver.
 
 Agora, era dela.
 
@@ -55,13 +55,13 @@ E, com uma raiva fria, largou o celular no balcão.
 — Nem fodendo — sussurrou.
 
 Levantou. Secou o rosto na manga molhada.
-Abriu o vídeo de novo. Assistiu com atenção. Onde ela tinha errado? Ah. Apertou demais a rosca, espanou a vedação. Tinha que ser com jeito, não com força.
+Abriu o vídeo outra vez. Assistiu com atenção. Onde ela tinha errado? Ah. Apertou demais a rosca, espanou a vedação. Tinha que ser com jeito, não com força.
 
-Abriu a caixa de ferramentas de novo. Pegou outra borrachinha (tinha comprado duas, por garantia).
+Abriu a caixa de ferramentas outra vez. Pegou outra borrachinha (tinha comprado duas, por garantia).
 
 Respirou fundo.
 Mãos trêmulas.
-Fez tudo de novo. Devagar. Com cuidado. Sem força bruta.
+Fez tudo outra vez. Devagar. Com cuidado. Sem força bruta.
 
 Enroscou. Ligou o registro. Com medo.
 
@@ -93,7 +93,7 @@ Ela só precisava dela mesma, de um vídeo no Youtube e de teimosia.
 Muita teimosia.
 E isso, Camila tinha de sobra.
 
-Dois meses após Ricardo sair de casa, Camila finalmente pegou o ritmo.
+Dois meses após Ricardo sair de casa, Camila por fim pegou o ritmo.
 
 Não foi fácil. Não foi rápido. Mas aconteceu.
 
@@ -423,5 +423,5 @@ Mas era movimento.
 
 E movimento era vida.
 
-E ela estava finalmente vivendo de novo.
+E ela estava por fim vivendo de novo.
 

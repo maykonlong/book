@@ -191,7 +191,7 @@ Camila olhou para ele. Tristeza misturada com decepção.
 
 Ela foi para o quarto. Deitou.
 
-E finalmente, depois de tudo, sentiu algo que não sentia há muito tempo:
+E por fim, depois de tudo, sentiu algo que não sentia há muito tempo:
 
 Paz.
 
@@ -199,9 +199,9 @@ Não era felicidade. Ainda não.
 
 Mas era paz.
 
-A paz de quem finalmente parou de nadar contra a correnteza.
+A paz de quem por fim parou de nadar contra a correnteza.
 
-De quem finalmente se permitiu soltar.
+De quem por fim se permitiu soltar.
 
 E se afundar.
 

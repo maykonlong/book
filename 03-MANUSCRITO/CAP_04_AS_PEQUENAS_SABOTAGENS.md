@@ -54,7 +54,7 @@ O molho estava engrossando demais. Ela desligou o fogo. Acendeu as velas para te
 O celular vibrou. Mas era o grupo das mães da escola discutindo piolho. Camila ignorou.
 
 21h00.
-O celular vibrou de novo. Ricardo chamando.
+O celular vibrou outra vez. Ricardo chamando.
 
 Camila atendeu no primeiro toque, aliviada.
 — Oi, amor! Onde você está? O jantar tá quase...

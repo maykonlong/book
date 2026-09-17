@@ -35,7 +35,7 @@ Ana era casada, quarenta e poucos, mãe de dois, e tinha aquele jeito calmo de q
 
 — Você ouviu? — Camila perguntou, sentindo o rosto esquentar.
 
-— Todo mundo ouviu, Cá. Mas o que importa é o que VOCÊ acha da sua vida. E, pelo que eu vejo, você tá mais leve. — Ana olhou para ela, finalmente. — Isso assusta quem ficou.
+— Todo mundo ouviu, Cá. Mas o que importa é o que VOCÊ acha da sua vida. E, pelo que eu vejo, você tá mais leve. — Ana olhou para ela, por fim. — Isso assusta quem ficou.
 
 Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para ela de verdade, como pessoa, e não como a "coordenadora" ou a "mãe divorciada".
 
@@ -43,7 +43,7 @@ Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para 
 
 ---
 
-Na sexta-feira, o Marcos tentou de novo. Dessa vez, esperou Camila na saída do elevador.
+Na sexta-feira, o Marcos tentou outra vez. Dessa vez, esperou Camila na saída do elevador.
 
 — Então... — ele começou, com aquele sorriso. — Eu ia perguntar se você quer almoçar qualquer dia. Só almoço. Sem pressão.
 

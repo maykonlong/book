@@ -72,7 +72,13 @@ Varredura de frases recorrentes + correção aplicada:
 
 **O que foi feito:** 49 ocorrências repetitivas de "pela primeira vez" foram substituídas por variações contextuais ("enfim", "agora", "desta vez", "depois de onze anos", "em meses", "como há anos não" etc.), preservando apenas os dois momentos de clímax emocional — o *"Pela primeira vez, tudo."* (reencontro com Ricardo) e o *"pela primeira vez na vida"* (encerramento).
 
-**Demais repetições ainda presentes (aceitáveis):** "como se" (~58), "de novo" (~41), "de verdade" (~35), "finalmente" (~31) — são conectores comuns; podem ser suavizados numa leitura final, se desejar.
+**Redução adicional aplicada (2ª passada, 17/09):**
+- "finalmente" → **0** (substituído por "por fim"; mantidos 2 pontos de ênfase como "Enfim"/"Até que enfim")
+- "de novo" → ~25 (trocados 12 por "outra vez" em posições verbais — diálogos e expressões idiomáticas mantidos)
+- "de verdade" → ~26 (trocados 3 por "de fato" em usos não-emfáticos)
+- "como se" (~58) → **mantido** (é idiomático; trocar prejudicaria o texto)
+
+**Restantes (aceitáveis):** "como se", "de novo" (diálogos/idiomáticas) e "de verdade" (ênfase "real vs. falso").
 
 ---
 
