@@ -97,7 +97,7 @@
 - [16/09] **CAP 5 "A Conversa com Fernanda"** — 2ª passada: invisibilidade é o sintoma (1.117 → 1.229)
 - [16/09] **CAP 8 "Eu Quero me Separar"** — 2ª passada: "com quem quero passar a vida" (1.173 → 1.244)
 - [16/09] **CAP 7 "A Gota D'água"** — 2ª passada: o bilhete "eu vou embora" (1.224 → 1.292)
-- [16/09] **CAP 17 "O Grupo de Mulheres"** — 2ª passada: histórias de Clara e Júlia (1.237 → 1.453)
+- [16/09] **CAP 18 "O Grupo de Mulheres"** — a corrente da Clara (1.453 → 1.597)
 - [16/09] **CAP 6 "A Última Tentativa"** aprofundado — 2ª passada (1.275 → 1.335)
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado — 2ª passada (1.302 → 1.342)
 - [16/09] **CAP 16 "Voltando a Pintar"** — manhã seguinte + matrícula (1.380 → 1.523)

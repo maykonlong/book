@@ -99,6 +99,17 @@ Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só ass
 
 E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um posto de reabastecimento. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
 
+E, quando a conta chegou, houve um gesto pequeno que valeu mais do que qualquer conselho. Clara, a mãe solo dos gêmeos, anotou o próprio número num guardanapo e empurrou para Camila.
+
+— Se você precisar de alguém para buscar o Léo na escola num dia de aperto, ou para ficar com ele enquanto você resolve o divórcio... me liga. Eu moro perto do seu trabalho.
+Camila piscou, surpresa. Ela mal conhecia aquela mulher.
+— Clara, eu não posso...
+— Pode sim. E um dia, quando você estiver melhor, você faz o mesmo por outra. É assim que a corrente funciona.
+
+Camila guardou o guardanapo com o coração apertado. Não de tristeza. De espanto. Porque, pela primeira vez em muito tempo, alguém estava oferecendo ajuda sem que ela tivesse que implorar, explicar, se justificar.
+
+Alguém tinha visto o peso. E tinha estendido a mão.
+
 Naquela noite, voltando para casa, Camila criou um grupo no WhatsApp.
 *"As Aquarelistas (e o Sindicato)"*
 Adicionou as quatro.
