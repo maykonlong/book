@@ -120,6 +120,12 @@ Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito be
 
 Você já sentiu isso? Aquele sorriso que ninguém vê, que vem de dentro e não pede plateia. O sorriso de quem se salvou. Guarde o seu. É o mais precioso que existe.
 
+E Camila percebeu a diferença entre aquele sorriso e o que ela usava há onze anos. O sorriso de antes era de vitrine: medido, ensaiado, calculado para agradar. Era o sorriso da esposa que ria da piada sem graça, da funcionária que concordava sem concordar, da mulher que sorria para não chorar.
+
+Aquele sorriso de agora não tinha plateia. Não tinha ensaio. Era só dela, e por isso era tão raro, e por isso era tão verdadeiro.
+
+Ela entendeu, ali, que a gente pode passar a vida inteira sorrindo para os outros — e morrer de sede de um sorriso que seja só nosso. Aquele, o primeiro sorriso real, era o fim de uma longa seca.
+
 Enquanto voltava para casa, Camila decidiu o que fazer com os quinhentos reais. Nada de boletos. Nada de supermercado. Aqueles quinhentos reais eram a prova de que a dor dela valia alguma coisa — e mereciam virar algo que a fizesse feliz. Uma moldura nova para o próximo quadro. Um jantar com Fernanda. Talvez, um dia, uma viagem.
 
 Ela estava divorciada.
