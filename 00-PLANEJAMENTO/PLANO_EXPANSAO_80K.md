@@ -128,7 +128,7 @@ Cada capítulo expandido segue:
 | 20 | O Contraste | 1.148 | 2.800 | 🟡 |
 | 21 | O Primeiro Sorriso Real | 1.275 | 2.800 | 🟡 |
 | 22 | O Encontro | 2.069 | 3.000 | 🟡 |
-| 23 | A Resistência | 1.105 | 2.800 | 🟡 |
+| 23 | A Resistência | 1.198 | 2.800 | 🟡 |
 | 24 | O Fim e o Começo | 1.605 | 3.000 | 🟡 |
 | 25 | Um Ano Depois | 1.903 | 3.000 | 🟡 |
 | 26 | Carta Para Mim Mesma | 352 | 800 | ⏳ |

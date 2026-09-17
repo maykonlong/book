@@ -98,6 +98,12 @@ Ele ficou encarando-a, chocado com a audácia.
 Pegou a chave do carro.
 — Você vai se arrepender. Você vai ver como é envelhecer sozinha.
 
+— E as crianças? — ele disparou, mudando de tática. — Você já pensou neles? No que vão pensar quando descobrirem que a mãe recusou uma reconciliação? Que a mãe preferiu ficar sozinha?
+
+Camila olhou para ele. A cartada mais baixa de todas: usar os filhos como arma.
+
+— Eu penso neles todos os dias, Ricardo. — A voz dela não tremeu. — E é exatamente por eles que eu recuso. Porque eles merecem ver a mãe inteira, não uma mulher que aceitou metade de um amor só para dizer que tinha um.
+
 — Prefiro envelhecer sozinha do que morrer em vida ao seu lado. Tchau, Ricardo.
 
 Ele saiu batendo a porta.
