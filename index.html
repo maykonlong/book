@@ -42,73 +42,98 @@
   --line: #e8e0d2;
 }
 * { box-sizing: border-box; }
-body { margin: 0; background: var(--bg); color: var(--fg); font-family: Georgia, 'Times New Roman', serif; line-height: 1.7; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: Georgia, 'Times New Roman', serif; line-height: 1.7; -webkit-font-smoothing: antialiased; }
 .wrap { max-width: 46rem; margin: 0 auto; padding: 0 20px; }
-.hero { display: flex; gap: 40px; align-items: center; padding: 56px 0 40px; flex-wrap: wrap; justify-content: center; text-align: center; }
+
+/* ===== Hero (mobile-first: coluna centralizada) ===== */
+.hero { display: flex; flex-direction: column; gap: 28px; align-items: center; text-align: center; padding: 36px 0 32px; }
 .cover {
-  width: 220px; height: 340px; border-radius: 4px; box-shadow: 0 20px 40px rgba(0,0,0,.25);
+  width: 170px; height: 265px; border-radius: 4px; box-shadow: 0 20px 40px rgba(0,0,0,.25);
   background: linear-gradient(160deg, #0f1e2e 0%, #1c3a52 55%, #2c5a77 100%);
   display: flex; flex-direction: column; align-items: center; justify-content: space-between;
-  padding: 28px 22px; color: #fff; text-align: center; position: relative; overflow: hidden; flex-shrink: 0;
+  padding: 20px 16px; color: #fff; text-align: center; position: relative; overflow: hidden; flex-shrink: 0;
 }
-.cover::before {
-  content: ''; position: absolute; top: -30%; left: 50%; transform: translateX(-50%);
-  width: 160%; height: 50%; background: radial-gradient(circle, rgba(201,162,39,.5), transparent 70%);
-}
-.cover .c-title { font-size: 1.45rem; line-height: 1.25; position: relative; }
-.cover .c-sub { font-size: .68rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(255,255,255,.7); position: relative; }
-.cover .c-author { font-size: .78rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); position: relative; }
+.cover::before { content: ''; position: absolute; top: -30%; left: 50%; transform: translateX(-50%); width: 160%; height: 50%; background: radial-gradient(circle, rgba(201,162,39,.5), transparent 70%); }
+.cover .c-title { font-size: 1.15rem; line-height: 1.25; position: relative; }
+.cover .c-sub { font-size: .62rem; letter-spacing: .15em; text-transform: uppercase; color: rgba(255,255,255,.7); position: relative; }
+.cover .c-author { font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); position: relative; }
 .info { max-width: 30rem; }
-.author { letter-spacing: .18em; text-transform: uppercase; font-size: .8rem; color: var(--accent); margin: 0 0 8px; }
-h1 { font-size: 2.3rem; line-height: 1.2; margin: 0 0 8px; }
-.subtitle { font-size: 1.15rem; color: var(--muted); margin: 0 0 16px; }
-.tagline { font-style: italic; font-size: 1.05rem; margin: 0 0 28px; }
-.btns { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
-.btn { display: inline-block; padding: 14px 26px; border-radius: 8px; text-decoration: none; font-family: inherit; font-size: 1rem; font-weight: bold; transition: transform .15s, box-shadow .15s; }
+.author { letter-spacing: .18em; text-transform: uppercase; font-size: .75rem; color: var(--accent); margin: 0 0 8px; }
+h1 { font-size: clamp(1.7rem, 6vw, 2.3rem); line-height: 1.2; margin: 0 0 10px; }
+.subtitle { font-size: 1.05rem; color: var(--muted); margin: 0 0 14px; }
+.tagline { font-style: italic; font-size: 1rem; margin: 0 0 24px; }
+.btns { display: flex; flex-direction: column; gap: 10px; }
+.btn { display: inline-block; padding: 14px 26px; border-radius: 8px; text-decoration: none; font-family: inherit; font-size: 1rem; font-weight: bold; transition: transform .15s, box-shadow .15s; text-align: center; }
 .btn:hover { transform: translateY(-2px); }
 .btn.primary { background: var(--accent); color: #fff; box-shadow: 0 6px 18px rgba(176,67,46,.35); }
 .btn.ghost { background: none; border: 1px solid var(--line); color: var(--fg); }
 .btn.ghost small { font-weight: normal; color: var(--muted); }
-section { padding: 40px 0; border-top: 1px solid var(--line); }
-h2 { font-size: 1.3rem; margin: 0 0 16px; }
+
+/* ===== Seções ===== */
+section { padding: 36px 0; border-top: 1px solid var(--line); }
+section[id] { scroll-margin-top: 64px; }
+h2 { font-size: 1.25rem; margin: 0 0 16px; }
 .synopsis p { margin: 0 0 14px; text-align: justify; }
 .about { font-size: .98rem; color: var(--muted); }
-.faq details { border: 1px solid var(--line); border-radius: 8px; margin: 0 0 12px; padding: 0 16px; }
-.faq summary { cursor: pointer; font-weight: bold; padding: 14px 0; }
+.faq details { border: 1px solid var(--line); border-radius: 8px; margin: 0 0 12px; padding: 0 16px; background: #fff; }
+.faq summary { cursor: pointer; font-weight: bold; padding: 16px 0; }
 .faq details p { color: var(--muted); margin: 0 0 14px; }
-.quotes blockquote { font-style: italic; font-size: 1.05rem; border-left: 3px solid var(--accent); padding-left: 16px; margin: 0 0 18px; }
+.quotes blockquote { font-style: italic; font-size: 1rem; border-left: 3px solid var(--accent); padding-left: 16px; margin: 0 0 18px; }
 html { scroll-behavior: smooth; }
-/* Navegação */
-.topnav { position: sticky; top: 0; z-index: 100; background: rgba(251,246,238,.95); border-bottom: 1px solid var(--line); backdrop-filter: blur(6px); }
-.nav-inner { display: flex; align-items: center; gap: 20px; padding: 12px 0; }
+
+/* ===== Navegação (mobile-first) ===== */
+.topnav { position: sticky; top: 0; z-index: 100; background: rgba(251,246,238,.95); border-bottom: 1px solid var(--line); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); }
+.nav-inner { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 12px 0; }
 .brand { font-weight: bold; color: var(--accent); text-decoration: none; font-size: 1.05rem; }
-.nav-links { display: flex; gap: 18px; flex: 1; }
-.nav-links a { color: var(--fg); text-decoration: none; font-size: .95rem; }
-.nav-links a:hover { color: var(--accent); }
-.nav-cta { background: var(--accent); color: #fff; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-weight: bold; font-size: .9rem; }
-.nav-cta:hover { opacity: .9; }
-/* Temas */
+.nav-toggle { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.nav-burger { margin-left: auto; width: 26px; height: 20px; position: relative; cursor: pointer; display: block; }
+.nav-burger span, .nav-burger span::before, .nav-burger span::after { content: ''; position: absolute; left: 0; width: 100%; height: 2px; background: var(--fg); border-radius: 2px; transition: .25s; }
+.nav-burger span { top: 9px; }
+.nav-burger span::before { top: -7px; }
+.nav-burger span::after { top: 7px; }
+.nav-toggle:focus-visible ~ .nav-burger { outline: 2px solid var(--accent); outline-offset: 3px; }
+.nav-toggle:checked ~ .nav-burger span { background: transparent; }
+.nav-toggle:checked ~ .nav-burger span::before { top: 0; transform: rotate(45deg); }
+.nav-toggle:checked ~ .nav-burger span::after { top: 0; transform: rotate(-45deg); }
+.nav-menu { display: none; flex-direction: column; width: 100%; padding: 4px 0 12px; }
+.nav-toggle:checked ~ .nav-menu { display: flex; }
+.nav-menu a { color: var(--fg); text-decoration: none; font-size: 1rem; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.nav-menu a:not(.nav-cta):hover { color: var(--accent); }
+.nav-menu a.nav-cta { background: var(--accent); color: #fff; font-weight: bold; font-size: .95rem; padding: 12px 18px; border-bottom: none; margin-top: 12px; text-align: center; border-radius: 8px; }
+.nav-menu a.nav-cta:hover { opacity: .9; }
+
+/* ===== Temas ===== */
 .chips { display: flex; flex-wrap: wrap; gap: 10px; }
 .chips span { background: var(--line); color: var(--fg); padding: 8px 16px; border-radius: 999px; font-size: .9rem; }
-/* Chamada final */
-.cta { text-align: center; background: linear-gradient(160deg, #16283a, #1c3a52); color: #fff; border-radius: 12px; padding: 48px 24px; }
+
+/* ===== Chamada final ===== */
+.cta { text-align: center; background: linear-gradient(160deg, #16283a, #1c3a52); color: #fff; border-radius: 12px; padding: 40px 20px; }
 .cta h2 { color: #fff; }
 .cta p { color: rgba(255,255,255,.8); margin: 0 0 24px; }
-/* Rodapé */
-footer { text-align: left; display: flex; flex-wrap: wrap; gap: 24px; justify-content: space-between; padding: 40px 0 30px; }
-.foot-col { max-width: 220px; }
+
+/* ===== Rodapé ===== */
+footer { padding: 40px 0 30px; border-top: 1px solid var(--line); }
+.foot-grid { display: flex; flex-direction: column; gap: 24px; }
 .foot-col h3 { font-size: .95rem; margin: 0 0 8px; }
-.foot-col a { display: block; color: var(--muted); text-decoration: none; margin: 4px 0; font-size: .88rem; }
+.foot-col a { display: block; color: var(--muted); text-decoration: none; margin: 6px 0; font-size: .9rem; }
 .foot-col a:hover { color: var(--accent); }
-.foot-bottom { flex-basis: 100%; text-align: center; border-top: 1px solid var(--line); padding-top: 16px; }
-@media (max-width: 640px) { .nav-links { display: none; } }
-footer { padding: 40px 0 56px; text-align: center; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); }
-footer .socials a { color: var(--muted); margin: 0 6px; text-decoration: none; }
-footer .socials a:hover { color: var(--accent); }
-@media (max-width: 600px) {
-  .hero { flex-direction: column; text-align: center; }
-  .cover { width: 170px; height: 265px; }
-  h1 { font-size: 1.8rem; }
+.foot-bottom { text-align: center; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); margin-top: 24px; padding-top: 16px; }
+.foot-bottom p { margin: 0; }
+
+/* ===== Desktop (>= 640px) ===== */
+@media (min-width: 640px) {
+  .nav-burger { display: none; }
+  .nav-menu { display: flex; flex-direction: row; align-items: center; gap: 18px; width: auto; padding: 0; margin-left: auto; }
+  .nav-menu a { padding: 0; border-bottom: none; font-size: .95rem; }
+  .nav-menu a.nav-cta { padding: 9px 16px; margin-top: 0; }
+  .hero { flex-direction: row; gap: 48px; text-align: left; padding: 56px 0 40px; }
+  .cover { width: 220px; height: 340px; padding: 28px 22px; }
+  .cover .c-title { font-size: 1.45rem; }
+  .cover .c-sub { font-size: .68rem; }
+  .cover .c-author { font-size: .78rem; }
+  .btns { flex-direction: row; gap: 12px; }
+  .foot-grid { flex-direction: row; justify-content: space-between; }
+  .foot-col { max-width: 220px; }
 }
 </style>
 
@@ -189,14 +214,16 @@ footer .socials a:hover { color: var(--accent); }
 <nav class="topnav">
   <div class="wrap nav-inner">
     <a href="#inicio" class="brand">📖 A Metade</a>
-    <div class="nav-links">
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Alternar menu">
+    <label for="nav-toggle" class="nav-burger" aria-hidden="true"><span></span></label>
+    <div class="nav-menu">
       <a href="#sobre">Sobre</a>
       <a href="#temas">Temas</a>
       <a href="#trechos">Trechos</a>
       <a href="#autora">Autora</a>
       <a href="#faq">FAQ</a>
+      <a href="ler.html" class="nav-cta">Ler grátis</a>
     </div>
-    <a href="ler.html" class="nav-cta">Ler grátis</a>
   </div>
 </nav>
 <div class="wrap">
@@ -311,20 +338,22 @@ footer .socials a:hover { color: var(--accent); }
   </section>
 
   <footer>
-    <div class="foot-col">
-      <h3>A Metade Que Me Faltava Era Eu</h3>
-      <a href="#sobre">Sobre o livro</a>
-      <a href="ler.html">Ler online</a>
-    </div>
-    <div class="foot-col">
-      <h3>Autora</h3>
-      <a href="#autora">Mariana Duarte</a>
-      <a href="#faq">Perguntas frequentes</a>
-    </div>
-    <div class="foot-col">
-      <h3>Siga</h3>
-      <a href="#" title="Instagram (em breve)">Instagram</a>
-      <a href="#" title="TikTok (em breve)">TikTok</a>
+    <div class="foot-grid">
+      <div class="foot-col">
+        <h3>A Metade Que Me Faltava Era Eu</h3>
+        <a href="#sobre">Sobre o livro</a>
+        <a href="ler.html">Ler online</a>
+      </div>
+      <div class="foot-col">
+        <h3>Autora</h3>
+        <a href="#autora">Mariana Duarte</a>
+        <a href="#faq">Perguntas frequentes</a>
+      </div>
+      <div class="foot-col">
+        <h3>Siga</h3>
+        <a href="#" title="Instagram (em breve)">Instagram</a>
+        <a href="#" title="TikTok (em breve)">TikTok</a>
+      </div>
     </div>
     <div class="foot-bottom">
       <p>© 2026 Mariana Duarte · Todos os direitos reservados</p>
@@ -332,5 +361,14 @@ footer .socials a:hover { color: var(--accent); }
   </footer>
 
 </div>
+<script>
+  (function () {
+    var toggle = document.getElementById('nav-toggle');
+    if (!toggle) return;
+    document.querySelectorAll('.nav-menu a').forEach(function (a) {
+      a.addEventListener('click', function () { toggle.checked = false; });
+    });
+  })();
+</script>
 </body>
 </html>
