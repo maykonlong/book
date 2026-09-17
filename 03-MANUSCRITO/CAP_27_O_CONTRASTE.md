@@ -124,7 +124,7 @@ Depois, mandou para Fernanda, com uma legenda:
 Fernanda respondeu em segundos:
 *"Descansa em paz. E viva a nova."*
 
-Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
+Camila riu. E, agora, olhar para o próprio passado não doeu.
 
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 

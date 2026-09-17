@@ -1,4 +1,4 @@
-# CAPÍTULO 1
+﻿# CAPÍTULO 1
 ## A Rotina Invisível
 
 Você já acordou cansada?
@@ -146,7 +146,7 @@ Camila, que estava limpando uma gota de leite que Bia derramou na mesa, sentiu o
 
 — Bom dia para você também, Ricardo.
 
-Ele piscou, parecendo notá-la pela primeira vez.
+Ele piscou, parecendo notá-la de verdade.
 
 — Ah. Bom dia. — Ele olhou para as crianças. — E aí, monstros? Prontos pra escola?
 

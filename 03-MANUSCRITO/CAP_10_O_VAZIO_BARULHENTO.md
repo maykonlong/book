@@ -1,4 +1,4 @@
-# CAPÍTULO 10
+﻿# CAPÍTULO 10
 ## O Vazio Barulhento
 
 A primeira noite sem Ricardo em casa não foi silenciosa.
@@ -83,7 +83,7 @@ Havia apenas ela.
 Camila esticou as pernas. Ocupou o centro da cama. Abriu os braços, fazendo um anjo de neve imaginário no lençol.
 
 O vazio era barulhento, sim. Gritava solidão.
-Mas, pela primeira vez em anos, o barulho era *dela*.
+Mas, enfim, o barulho era *dela*.
 
 Você já sentiu isso? Aquele vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também pode ser seu. E ele, aos poucos, vira paz.
 
@@ -305,7 +305,7 @@ Ela desligou a luz. Deitou. Fechou os olhos.
 
 E finalmente.
 
-Pela primeira vez em semanas.
+Em semanas.
 
 Dormiu.
 
@@ -421,7 +421,7 @@ Vazia.
 
 Sua.
 
-E pela primeira vez em muito tempo, pensou:
+E, enfim, pensou:
 
 *E agora, o que EU quero?*
 

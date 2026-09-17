@@ -1,11 +1,11 @@
-# CAPÍTULO 12
+﻿# CAPÍTULO 12
 ## O Recomeço Financeiro
 
 O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando ele, como se o papel pudesse, de alguma forma, se tornar menos assustador se ela o encarasse por tempo suficiente.
 
 Não se tornou.
 
-Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, pela primeira vez em onze anos, não havia ninguém para dividir a conta — literal e metaforicamente.
+Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — literal e metaforicamente.
 
 Você já fez essa conta sozinha? A conta que não fecha, no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. É a conta mais solitária que existe.
 
@@ -71,7 +71,7 @@ Camila voltou para o apartamento sentindo o rosto quente. Mas, desta vez, não d
 
 De orgulho.
 
-Porque, pela primeira vez em muito tempo, alguém tinha reconhecido nela um talento que não era "ser a esposa do Ricardo" nem "ser a mãe do Léo e da Bia". Era só dela. Do fogão. Das mãos.
+Porque, enfim, alguém tinha reconhecido nela um talento que não era "ser a esposa do Ricardo" nem "ser a mãe do Léo e da Bia". Era só dela. Do fogão. Das mãos.
 
 E, no fundo, era disso que ela mais precisava naquele mês: não só do dinheiro, mas da prova de que ela existia fora daqueles papéis de esposa e mãe.
 

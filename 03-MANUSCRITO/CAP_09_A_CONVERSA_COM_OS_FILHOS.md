@@ -1,4 +1,4 @@
-# CAPÍTULO 9
+﻿# CAPÍTULO 9
 ## A Conversa com os Filhos
 
 A parte mais difícil não foi enfrentar Ricardo.
@@ -129,7 +129,7 @@ Ele parou ao vê-la.
 
 — Contei. Eles mereciam saber direto da gente.
 
-Ricardo passou a mão no rosto. Pareceu, pela primeira vez, genuinamente afetado.
+Ricardo passou a mão no rosto. Pareceu genuinamente afetado.
 
 — Eles ficaram mal?
 
@@ -245,7 +245,7 @@ A pergunta foi uma faca no coração. Porque oito anos. Ele tinha oito anos e es
 
 E Camila sentiu, ali, um medo que não tinha sentido nem diante do Ricardo: o medo de decepcionar aquele menino. De prometer uma felicidade que não sabia se conseguiria cumprir. De falhar com ele do jeito que o pai falhava.
 
-Mas Camila sorriu. Genuíno, pela primeira vez em muito tempo.
+Mas Camila sorriu. Genuíno, como há muito não era.
 
 — Vou sim. Eu prometo. E você também vai. Todo mundo vai.
 

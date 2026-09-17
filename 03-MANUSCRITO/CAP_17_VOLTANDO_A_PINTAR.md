@@ -34,7 +34,7 @@ A culpa buzinou alto.
 Mas ela passou o cartão mesmo assim.
 *É remédio*, disse a si mesma, com uma firmeza que não sentia totalmente. *Dr. Lucas disse que é saúde mental. Remédio é caro mesmo.*
 
-E, pela primeira vez em muito tempo, Camila não devolveu a sacola no balcão.
+E, enfim, Camila não devolveu a sacola no balcão.
 
 Chegou em casa. As crianças estavam no pai. A noite era dela.
 
@@ -100,7 +100,7 @@ Ali, com o pincel na mão, ela estava *agindo*. Criando. Trazendo algo novo ao m
 Reagir era sobreviver. Agir era viver. Camila não sabia mais a diferença entre as duas coisas — até agora.
 
 Ficou ali por três horas.
-Esqueceu de jantar. Esqueceu de checar o celular, que vibrou duas vezes na bolsa e foi ignorado sem culpa, pela primeira vez.
+Esqueceu de jantar. Esqueceu de checar o celular, que vibrou duas vezes na bolsa e foi ignorado sem culpa alguma.
 
 Quando parou, as costas doíam, a água do pote estava cor de lama, e havia cinco folhas pintadas espalhadas pela mesa secando.
 

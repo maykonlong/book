@@ -29,7 +29,7 @@ Camila quase riu. Artista. Como se fosse título legítimo dela.
 
 — É poderoso. — Ele olhou de volta para o quadro. — Parece alguém afundando. Mas tem esperança também. Na luz.
 
-Camila olhou para o homem pela primeira vez de verdade.
+Camila olhou para o homem, enfim, de verdade.
 
 Talvez trinta e cinco anos. Altura média. Cabelo castanho levemente bagunçado. Óculos de armação fina. Suéter casual. Sorriso gentil.
 

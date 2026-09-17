@@ -1,4 +1,4 @@
-# CAPÍTULO 4
+﻿# CAPÍTULO 4
 ## As Pequenas Sabotagens
 
 Há um tipo específico de loucura que acomete mulheres casadas e exaustas: a crença teimosa de que *mais esforço* gerará *mais amor*.

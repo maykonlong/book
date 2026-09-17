@@ -1,4 +1,4 @@
-# CAPÍTULO 2
+﻿# CAPÍTULO 2
 ## O Aniversário Esquecido
 
 Quinze dias.
@@ -293,7 +293,7 @@ Olhou para os balões que ela encheu sozinha.
 Olhou para o bolo que ela escolheu sozinha.
 Olhou para a festa que ela pagou com a alma.
 
-E pela primeira vez em oito anos, Camila não sentiu tristeza.
+E, em oito anos, Camila não sentiu tristeza.
 Ela sentiu nojo.
 
 ---

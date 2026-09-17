@@ -1,4 +1,4 @@
-# CAPÍTULO 8
+﻿# CAPÍTULO 8
 ## Eu Quero Me Separar
 
 O pronto-socorro estava com aquele cheiro específico de éter e desinfetante barato que embrulha o estômago.
@@ -79,7 +79,7 @@ Destino: Sua casa.
 
 Quando ela entrou no apartamento, eram duas da tarde. O silêncio era absoluto. As crianças deviam estar na escola.
 
-Ricardo estava na sala. Sentado no sofá, sem o celular na mão pela primeira vez na história recente.
+Ricardo estava na sala. Sentado no sofá, sem o celular na mão, algo raro.
 
 Ele levantou num pulo quando a viu.
 
@@ -183,4 +183,4 @@ Encostou-se na madeira fria. As pernas tremeram. O coração disparou.
 Mas ela estava de pé.
 Tinha falado. Tinha enfrentado.
 
-E, pela primeira vez em anos, o ar que entrava em seus pulmões parecia puramente seu.
+E, enfim, o ar que entrava em seus pulmões parecia puramente seu.

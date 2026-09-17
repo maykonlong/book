@@ -41,7 +41,7 @@ Léo ergueu os olhos por um segundo, quase contra a vontade.
 
 — Demais. Se você joga na linha, já é melhor do que eu.
 
-E, pela primeira vez na noite, o canto da boca de Léo se mexeu.
+E, enfim, na noite, o canto da boca de Léo se mexeu.
 
 Depois da pizza, Daniel montou o jogo na mesa. Camila ficou na cozinha, lavando a louça devagar, deixando os três sozinhos. Precisava ver aquilo de longe.
 
@@ -111,7 +111,7 @@ Camila entendeu, ali, que as crianças tinham encontrado um jeito próprio de ac
 
 Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
 
-E, pela primeira vez, ela não teve medo de sonhar grande de novo.
+E, agora, ela não teve medo de sonhar grande de novo.
 
 
 

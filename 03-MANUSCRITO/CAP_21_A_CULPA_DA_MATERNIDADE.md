@@ -221,7 +221,7 @@ Os quatro bonecos palitinho de mãos dadas, desenhados com a letra de quem ainda
 
 Camila passou o dedo sobre o bonequinho do Léo. Tão pequeno no papel. Tão grande no coração dela.
 
-E, pela primeira vez desde o divórcio, ela se perguntou: será que eu realmente estraguei tudo? Ou será que eu salvei os três — eles e a mim — de uma vida inteira de mentira?
+E, desde o divórcio, ela se perguntou: será que eu realmente estraguei tudo? Ou será que eu salvei os três — eles e a mim — de uma vida inteira de mentira?
 
 A resposta não veio. Mas a pergunta, sim. E era uma pergunta honesta.
 
@@ -375,7 +375,7 @@ O menino que ela temia ter destruído tinha acabado de escrever, com a própria 
 
 Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da exposição.
 
-E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou, pela primeira vez, em silêncio.
+E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou em silêncio.
 
 
 

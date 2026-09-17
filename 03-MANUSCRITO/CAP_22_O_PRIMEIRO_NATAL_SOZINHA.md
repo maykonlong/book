@@ -37,7 +37,7 @@ Ela olhou pelo retrovisor, para os dois filhos no banco de trás.
 
 A noite caiu. Camila cozinhou o peru (que ficou meio seco, mas ninguém reclamou). Montou a mesa com a toalha boa. Acendeu o pisca-pisca.
 
-E, pela primeira vez naquele dezembro, a casa não pareceu vazia. Pareceu... deles.
+E, enfim, naquele dezembro, a casa não pareceu vazia. Pareceu... deles.
 
 Comeram. Riram do peru seco. Bia derrubou o suco de uva na toalha boa, e Camila, em vez de surtar, riu e disse "faz parte". Léo ajudou a lavar a louça, sem ela pedir.
 
@@ -53,15 +53,15 @@ Quando foi deitar, já era quase meia-noite. Camila ficou um momento na sala, ol
 
 E, no silêncio daquela noite de Natal, ela não se sentiu sozinha.
 
-Sentiu-se, pela primeira vez em muito tempo, em paz.
+Sentiu-se, enfim, em paz.
 
 E então, como acontece nos fins de ano, ela fez a pergunta que todo mundo faz e que quase ninguém responde de verdade: o que eu quero para o ano que vem?
 
-Pela primeira vez em onze anos, a resposta não envolvia o Ricardo. Não envolvia "manter a família", nem "fazer dar certo", nem "aguentar mais um pouco".
+Em onze anos, a resposta não envolvia o Ricardo. Não envolvia "manter a família", nem "fazer dar certo", nem "aguentar mais um pouco".
 
 A resposta, simples e assustadora, era: eu quero ser feliz.
 
-E Camila foi dormir sabendo que, pela primeira vez, aquilo não era um sonho distante.
+E Camila foi dormir sabendo que aquilo, enfim, não era um sonho distante.
 
 Era um plano.
 

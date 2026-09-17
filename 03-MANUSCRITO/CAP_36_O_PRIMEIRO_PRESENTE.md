@@ -1,4 +1,4 @@
-# CAPÍTULO 36
+﻿# CAPÍTULO 36
 ## O Primeiro Presente
 
 Camila não esperava presentes.
@@ -51,7 +51,7 @@ Ela riu, enterrando o rosto no ombro dele.
 
 ---
 
-Naquela noite, Camila foi para o ateliê e usou o pincel novo pela primeira vez.
+Naquela noite, Camila foi para o ateliê e estreou o pincel novo.
 
 Era diferente. Não só porque o pincel era bom — porque era. Mas porque cada pincelada carregava uma memória nova: a de que alguém a tinha ouvido. A de que ela importava o suficiente para alguém anotar os seus sonhos.
 
@@ -65,6 +65,6 @@ Ela também estava.
 
 O presente do Daniel não foi o pincel. Foi a lembrança de que ser vista, ser lembrada, ser amada nos detalhes — isso não era luxo. Era o mínimo.
 
-E, pela primeira vez, Camila entendeu que merecia o mínimo.
+E, enfim, Camila entendeu que merecia o mínimo.
 
 Merecia o mínimo todos os dias.

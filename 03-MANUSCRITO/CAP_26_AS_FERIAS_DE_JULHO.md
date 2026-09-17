@@ -1,11 +1,11 @@
-# CAPÍTULO 26
+﻿# CAPÍTULO 26
 ## As Férias de Julho
 
 Quando as férias de julho chegaram, Camila teve um momento de pânico.
 
 Onze anos de férias com o Ricardo tinham ensinado a ela que "férias em família" era uma expressão elegante para "mais trabalho, só que em outra cidade". Era ela quem planejava tudo, arrumava as malas das crianças, separava os remédios, dirigia, organizava as refeições — enquanto o Ricardo tirava fotos e reclamava do calor.
 
-Mas agora não havia Ricardo. E, pela primeira vez, Camila percebeu que férias podiam ser... dela.
+Mas agora não havia Ricardo. E, enfim, Camila percebeu que férias podiam ser... dela.
 
 — Pra onde a gente vai, mãe? — perguntou Léo, animado, espalhando mapas pela mesa.
 

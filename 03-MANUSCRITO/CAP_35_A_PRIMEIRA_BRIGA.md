@@ -73,7 +73,7 @@ Camila respondeu:
 
 *"Ok. Vou deixar o jantar quente."*
 
-E sentiu, pela primeira vez em muito tempo, que esperar alguém podia ser uma coisa boa.
+E sentiu, enfim, que esperar alguém podia ser uma coisa boa.
 
 ---
 

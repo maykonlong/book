@@ -1,4 +1,4 @@
-# CAPÍTULO 16
+﻿# CAPÍTULO 16
 ## Um Sábado Só Minha
 
 Foi a primeira vez em nove anos que Camila acordou num sábado sem ninguém para cuidar.
@@ -9,7 +9,7 @@ Camila ficou deitada, olhando para o teto, sem saber o que fazer com as mãos.
 
 Eram oito da manhã. Não havia lancheira para montar. Não havia desenho para pendurar. Não havia ninguém pedindo "mãe, cadê meu tênis?". Não havia nada.
 
-E, pela primeira vez em muito tempo, ela percebeu o quanto a ausência de tarefas podia doer.
+E, enfim, ela percebeu o quanto a ausência de tarefas podia doer.
 
 *E agora?* — pensou. *O que eu faço com um dia inteiro só meu?*
 

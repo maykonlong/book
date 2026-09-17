@@ -56,7 +56,7 @@ Não era drama. Não era frescura. Não era "exagero de mulher cansada". Era uma
 
 Camila percebeu que tinha passado a vida inteira achando que o problema era ela. Que se fosse mais organizada, mais paciente, mais forte, mais silenciosa, o peso sumiria. Mas o peso não era só dela. O peso era a regra de um jogo que todas elas, naquela mesa, conheciam de cor — cada uma carregando o seu em silêncio, achando que era a única.
 
-Pela primeira vez em muito tempo, Camila não se sentiu louca.
+Enfim, Camila não se sentiu louca.
 
 Sentiu-se *vista*.
 
@@ -106,7 +106,7 @@ Camila piscou, surpresa. Ela mal conhecia aquela mulher.
 — Clara, eu não posso...
 — Pode sim. E um dia, quando você estiver melhor, você faz o mesmo por outra. É assim que a corrente funciona.
 
-Camila guardou o guardanapo com o coração apertado. Não de tristeza. De espanto. Porque, pela primeira vez em muito tempo, alguém estava oferecendo ajuda sem que ela tivesse que implorar, explicar, se justificar.
+Camila guardou o guardanapo com o coração apertado. Não de tristeza. De espanto. Porque, enfim, alguém estava oferecendo ajuda sem que ela tivesse que implorar, explicar, se justificar.
 
 Alguém tinha visto o peso. E tinha estendido a mão.
 
@@ -126,7 +126,7 @@ E a Camila de agora estava começando a gostar muito, mas muito mesmo, dessa nov
 Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
-Depois apagou a luz e dormiu sem peso no peito, pela primeira vez em meses.
+Depois apagou a luz e dormiu sem peso no peito, em meses.
 
 
 

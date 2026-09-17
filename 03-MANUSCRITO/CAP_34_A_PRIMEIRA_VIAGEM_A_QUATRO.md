@@ -43,7 +43,7 @@ Bia pensou por um segundo.
 
 — Os dois. E o de vocês também.
 
-E, pela primeira vez no dia, os quatro riram juntos.
+E, enfim, no dia, os quatro riram juntos.
 
 Foi um riso curto, meio tímido, de gente que ainda estava se conhecendo. Mas era um riso verdadeiro. E Camila guardou aquele som no peito como quem guarda uma fotografia.
 
@@ -65,7 +65,7 @@ Daniel largou as malas e a puxou para um abraço, ali mesmo, na frente de todo m
 
 Camila não respondeu. Só apertou o abraço.
 
-Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem sentir: família não é só o sangue que a gente recebe. É também o que a gente escolhe. E ela, pela primeira vez, tinha escolhido.
+Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem sentir: família não é só o sangue que a gente recebe. É também o que a gente escolhe. E ela, enfim, tinha escolhido.
 
 ---
 

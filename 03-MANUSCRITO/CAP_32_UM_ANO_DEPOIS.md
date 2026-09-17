@@ -167,7 +167,7 @@ No parque, no domingo de sol, Daniel fez uma coisa pequena que quase derrubou Ca
 
 Não era nada. Era só um elogio bobo. Mas Camila sentiu o peito apertar. Fazia tanto tempo que alguém a olhava sem julgar. Sem corrigir. Sem esperar que ela fosse uma versão mais contida de si mesma.
 
-Ela passou o resto da caminhada sorrindo à toa, sentindo-se, pela primeira vez em anos, um pouco boba. E gostando disso.
+Ela passou o resto da caminhada sorrindo à toa, sentindo-se, como há anos não, um pouco boba. E gostando disso.
 
 Ricardo nunca teria explicado. Teria cancelado vagamente e ficado irritado se ela questionasse.
 
@@ -351,7 +351,7 @@ Camila riu até doer a barriga. E percebeu, no meio da risada, que não estava m
 No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 — Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
 
-Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, pela primeira vez, ela não teve medo de entrar.
+Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, agora, ela não teve medo de entrar.
 
 No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem finalmente parou de ensaiar e começou a viver.
 

@@ -1,4 +1,4 @@
-# CAPÍTULO 37
+﻿# CAPÍTULO 37
 ## O Encontro com a Mãe do Daniel
 
 Camila estava mais nervosa do que no dia do divórcio.
@@ -63,7 +63,7 @@ Na volta, Camila ficou quieta, olhando a estrada.
 
 — Você não precisa fazer nada para merecer, Cá. É isso que eu venho tentando te mostrar.
 
-Camila olhou para ele. E, pela primeira vez, entendeu de verdade.
+Camila olhou para ele. E, enfim, entendeu de verdade.
 
 Amor que a gente tem que conquistar não é amor. É dívida.
 

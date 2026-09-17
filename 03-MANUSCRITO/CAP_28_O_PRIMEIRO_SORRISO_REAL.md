@@ -63,7 +63,7 @@ Antes de ir, ela parou na frente de Camila. Havia algo úmido nos olhos dela, at
 — Sabe por que eu quis comprar esse quadro? — perguntou. — Eu perdi minha mãe há dois meses. E essa sala vazia com sol... é exatamente como eu imagino que ela está agora. Em paz. Descansando. Você pintou a minha mãe sem conhecer ela.
 Camila ficou sem palavras. Um nó subiu pela garganta.
 — Desculpa — a mulher limpou os olhos. — Não era pra emocionar. Mas você tem um dom, moça. Não deixa ninguém tirar isso de você.
-Ela apertou a mão de Camila, pegou o quadro embrulhado e foi embora, deixando para trás um perfume suave de alfazema e uma Camila parada no meio do salão, entendendo pela primeira vez o que a arte podia fazer: atravessar a distância entre duas estranhas e costurar, com cor, uma dor na outra.
+Ela apertou a mão de Camila, pegou o quadro embrulhado e foi embora, deixando para trás um perfume suave de alfazema e uma Camila parada no meio do salão, entendendo, enfim, o que a arte podia fazer: atravessar a distância entre duas estranhas e costurar, com cor, uma dor na outra.
 
 Paula veio colocar uma bolinha vermelha adesiva ao lado do quadro. *Vendido.*
 
@@ -80,7 +80,7 @@ Fernanda chegou atrasada, atropelando gente.
 — AMIGA! VOCÊ VENDEU UM QUADRO! — Gritou ela, fazendo metade do salão olhar.
 Camila riu e a abraçou.
 
-Depois, num momento de calmaria entre um gole e outro, ela se afastou e olhou para os três quadros pendurados lado a lado. *Afogamento*, *Caos*, *Silêncio*. E percebeu, pela primeira vez, que tinha exposto ali, sem querer, a história inteira da sua travessia: a mulher que afundava, a que se debatia em meio ao caos, e a que, enfim, encontrou uma sala vazia com sol entrando. Três retratos. Um antes, um durante, um depois. E ela tinha sobrevivido aos três.
+Depois, num momento de calmaria entre um gole e outro, ela se afastou e olhou para os três quadros pendurados lado a lado. *Afogamento*, *Caos*, *Silêncio*. E percebeu que tinha exposto ali, sem querer, a história inteira da sua travessia: a mulher que afundava, a que se debatia em meio ao caos, e a que, enfim, encontrou uma sala vazia com sol entrando. Três retratos. Um antes, um durante, um depois. E ela tinha sobrevivido aos três.
 
 Mais tarde, Ricardo mandou mensagem (ele soube pelas redes sociais, claro, ele stalkeava).
 *"Vi que você tá 'artista' agora. Parabéns. Espero que isso não atrapalhe a rotina das crianças."*
@@ -95,7 +95,7 @@ Olhou para o comprovante do PIX na conta.
 E então, guardou o celular no bolso.
 Sem responder.
 
-Pela primeira vez, a opinião de Ricardo não tinha nem o poder de estragar a noite. A mensagem dele era um fósforo aceso no meio de um oceano — se apagava antes de chegar perto.
+Desta vez, a opinião de Ricardo não tinha nem o poder de estragar a noite. A mensagem dele era um fósforo aceso no meio de um oceano — se apagava antes de chegar perto.
 
 Ela saiu para a calçada do ateliê para tomar um ar.
 A noite estava fresca.
@@ -133,7 +133,7 @@ Estava com a conta bancária apertada.
 Estava cansada.
 Mas, puta merda, ela estava *livre*.
 
-E pela primeira vez em anos, o futuro não parecia um túnel escuro.
+E, enfim, o futuro não parecia um túnel escuro.
 Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 

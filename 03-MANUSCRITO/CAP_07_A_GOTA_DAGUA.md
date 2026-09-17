@@ -1,4 +1,4 @@
-# CAPÍTULO 7
+﻿# CAPÍTULO 7
 ## A Gota D'água
 
 Camila não sabia, mas seu corpo estava contando os dias. O estresse crônico corrói o sistema imunológico silenciosamente, até que uma brecha mínima aparece.
@@ -184,7 +184,7 @@ Deixou em cima da poça de leite seco no balcão.
 
 Três palavras que custaram onze anos para sair. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, finalmente entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
 
-Mas, pela primeira vez, a opinião dele não importava. O que importava era que, pela primeira vez em onze anos, ela estava indo embora sem pedir desculpa.
+Mas a opinião dele não importava. O que importava era que, depois de onze anos, ela estava indo embora sem pedir desculpa.
 
 Saiu.
 Bateu a porta.
@@ -194,7 +194,7 @@ O porteiro perguntou:
 — Dona Camila? A senhora tá bem? Tá pálida.
 
 Ela olhou para ele. Sorriu. Um sorriso fraco, de doente, mas genuíno.
-— Tô não, Seu José. Mas vou ficar. Pela primeira vez em muito tempo, eu vou ficar.
+— Tô não, Seu José. Mas vou ficar. Desta vez, eu vou ficar.
 
 Entrou no Uber.
 Encostou a cabeça no vidro frio.

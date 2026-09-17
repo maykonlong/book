@@ -1,4 +1,4 @@
-# CAPÍTULO 3
+﻿# CAPÍTULO 3
 ## A Tentativa da Terapia
 
 Três dias depois do aniversário de Léo, o gosto amargo da decepção ainda não tinha saído da boca de Camila. Era como se ela tivesse mordido uma fruta podre e o sabor persistisse, contaminando tudo o que ela comia, bebia ou falava.

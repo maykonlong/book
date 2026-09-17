@@ -101,7 +101,7 @@ Ninguém falou nada.
 — A Camila tem razão — concluiu Dona Sônia, voltando a pegar o garfo. — Não ter apanhado é o mínimo, não é mérito. Se ela estava infeliz, ela fez certo em sair. Antes que ficasse igual a mim: viúva de um marido que nunca conheceu ela de verdade.
 
 Camila olhou para a mãe através da mesa.
-Viu, pela primeira vez, não a "Dona Sônia", a mãe perfeita e controlada. Viu Sônia. A mulher. A mulher que também tinha sido Camila um dia.
+Viu, enfim, não a "Dona Sônia", a mãe perfeita e controlada. Viu Sônia. A mulher. A mulher que também tinha sido Camila um dia.
 
 — Obrigada, mãe — sussurrou Camila.
 

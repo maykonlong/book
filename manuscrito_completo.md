@@ -185,7 +185,7 @@ Camila, que estava limpando uma gota de leite que Bia derramou na mesa, sentiu o
 
 — Bom dia para você também, Ricardo.
 
-Ele piscou, parecendo notá-la pela primeira vez.
+Ele piscou, parecendo notá-la de verdade.
 
 — Ah. Bom dia. — Ele olhou para as crianças. — E aí, monstros? Prontos pra escola?
 
@@ -707,7 +707,7 @@ Olhou para os balões que ela encheu sozinha.
 Olhou para o bolo que ela escolheu sozinha.
 Olhou para a festa que ela pagou com a alma.
 
-E pela primeira vez em oito anos, Camila não sentiu tristeza.
+E, em oito anos, Camila não sentiu tristeza.
 Ela sentiu nojo.
 
 ---
@@ -1673,7 +1673,7 @@ Deixou em cima da poça de leite seco no balcão.
 
 Três palavras que custaram onze anos para sair. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, finalmente entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
 
-Mas, pela primeira vez, a opinião dele não importava. O que importava era que, pela primeira vez em onze anos, ela estava indo embora sem pedir desculpa.
+Mas a opinião dele não importava. O que importava era que, depois de onze anos, ela estava indo embora sem pedir desculpa.
 
 Saiu.
 Bateu a porta.
@@ -1683,7 +1683,7 @@ O porteiro perguntou:
 — Dona Camila? A senhora tá bem? Tá pálida.
 
 Ela olhou para ele. Sorriu. Um sorriso fraco, de doente, mas genuíno.
-— Tô não, Seu José. Mas vou ficar. Pela primeira vez em muito tempo, eu vou ficar.
+— Tô não, Seu José. Mas vou ficar. Desta vez, eu vou ficar.
 
 Entrou no Uber.
 Encostou a cabeça no vidro frio.
@@ -1778,7 +1778,7 @@ Destino: Sua casa.
 
 Quando ela entrou no apartamento, eram duas da tarde. O silêncio era absoluto. As crianças deviam estar na escola.
 
-Ricardo estava na sala. Sentado no sofá, sem o celular na mão pela primeira vez na história recente.
+Ricardo estava na sala. Sentado no sofá, sem o celular na mão, algo raro.
 
 Ele levantou num pulo quando a viu.
 
@@ -1882,7 +1882,7 @@ Encostou-se na madeira fria. As pernas tremeram. O coração disparou.
 Mas ela estava de pé.
 Tinha falado. Tinha enfrentado.
 
-E, pela primeira vez em anos, o ar que entrava em seus pulmões parecia puramente seu.
+E, enfim, o ar que entrava em seus pulmões parecia puramente seu.
 
 
 # CAPÍTULO 9
@@ -2016,7 +2016,7 @@ Ele parou ao vê-la.
 
 — Contei. Eles mereciam saber direto da gente.
 
-Ricardo passou a mão no rosto. Pareceu, pela primeira vez, genuinamente afetado.
+Ricardo passou a mão no rosto. Pareceu genuinamente afetado.
 
 — Eles ficaram mal?
 
@@ -2132,7 +2132,7 @@ A pergunta foi uma faca no coração. Porque oito anos. Ele tinha oito anos e es
 
 E Camila sentiu, ali, um medo que não tinha sentido nem diante do Ricardo: o medo de decepcionar aquele menino. De prometer uma felicidade que não sabia se conseguiria cumprir. De falhar com ele do jeito que o pai falhava.
 
-Mas Camila sorriu. Genuíno, pela primeira vez em muito tempo.
+Mas Camila sorriu. Genuíno, como há muito não era.
 
 — Vou sim. Eu prometo. E você também vai. Todo mundo vai.
 
@@ -2244,7 +2244,7 @@ Havia apenas ela.
 Camila esticou as pernas. Ocupou o centro da cama. Abriu os braços, fazendo um anjo de neve imaginário no lençol.
 
 O vazio era barulhento, sim. Gritava solidão.
-Mas, pela primeira vez em anos, o barulho era *dela*.
+Mas, enfim, o barulho era *dela*.
 
 Você já sentiu isso? Aquele vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também pode ser seu. E ele, aos poucos, vira paz.
 
@@ -2466,7 +2466,7 @@ Ela desligou a luz. Deitou. Fechou os olhos.
 
 E finalmente.
 
-Pela primeira vez em semanas.
+Em semanas.
 
 Dormiu.
 
@@ -2582,7 +2582,7 @@ Vazia.
 
 Sua.
 
-E pela primeira vez em muito tempo, pensou:
+E, enfim, pensou:
 
 *E agora, o que EU quero?*
 
@@ -2763,7 +2763,7 @@ O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando
 
 Não se tornou.
 
-Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, pela primeira vez em onze anos, não havia ninguém para dividir a conta — literal e metaforicamente.
+Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — literal e metaforicamente.
 
 Você já fez essa conta sozinha? A conta que não fecha, no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. É a conta mais solitária que existe.
 
@@ -2829,7 +2829,7 @@ Camila voltou para o apartamento sentindo o rosto quente. Mas, desta vez, não d
 
 De orgulho.
 
-Porque, pela primeira vez em muito tempo, alguém tinha reconhecido nela um talento que não era "ser a esposa do Ricardo" nem "ser a mãe do Léo e da Bia". Era só dela. Do fogão. Das mãos.
+Porque, enfim, alguém tinha reconhecido nela um talento que não era "ser a esposa do Ricardo" nem "ser a mãe do Léo e da Bia". Era só dela. Do fogão. Das mãos.
 
 E, no fundo, era disso que ela mais precisava naquele mês: não só do dinheiro, mas da prova de que ela existia fora daqueles papéis de esposa e mãe.
 
@@ -2967,7 +2967,7 @@ Ninguém falou nada.
 — A Camila tem razão — concluiu Dona Sônia, voltando a pegar o garfo. — Não ter apanhado é o mínimo, não é mérito. Se ela estava infeliz, ela fez certo em sair. Antes que ficasse igual a mim: viúva de um marido que nunca conheceu ela de verdade.
 
 Camila olhou para a mãe através da mesa.
-Viu, pela primeira vez, não a "Dona Sônia", a mãe perfeita e controlada. Viu Sônia. A mulher. A mulher que também tinha sido Camila um dia.
+Viu, enfim, não a "Dona Sônia", a mãe perfeita e controlada. Viu Sônia. A mulher. A mulher que também tinha sido Camila um dia.
 
 — Obrigada, mãe — sussurrou Camila.
 
@@ -3532,7 +3532,7 @@ Camila sorriu. Genuinamente.
 
 E quando saiu do salão, parou na vitrine de uma loja. Se olhou.
 
-E pela primeira vez em muito tempo, gostou de quem estava olhando de volta.
+E, enfim, gostou de quem estava olhando de volta.
 
 ---
 
@@ -3644,7 +3644,7 @@ Camila ficou deitada, olhando para o teto, sem saber o que fazer com as mãos.
 
 Eram oito da manhã. Não havia lancheira para montar. Não havia desenho para pendurar. Não havia ninguém pedindo "mãe, cadê meu tênis?". Não havia nada.
 
-E, pela primeira vez em muito tempo, ela percebeu o quanto a ausência de tarefas podia doer.
+E, enfim, ela percebeu o quanto a ausência de tarefas podia doer.
 
 *E agora?* — pensou. *O que eu faço com um dia inteiro só meu?*
 
@@ -3767,7 +3767,7 @@ A culpa buzinou alto.
 Mas ela passou o cartão mesmo assim.
 *É remédio*, disse a si mesma, com uma firmeza que não sentia totalmente. *Dr. Lucas disse que é saúde mental. Remédio é caro mesmo.*
 
-E, pela primeira vez em muito tempo, Camila não devolveu a sacola no balcão.
+E, enfim, Camila não devolveu a sacola no balcão.
 
 Chegou em casa. As crianças estavam no pai. A noite era dela.
 
@@ -3833,7 +3833,7 @@ Ali, com o pincel na mão, ela estava *agindo*. Criando. Trazendo algo novo ao m
 Reagir era sobreviver. Agir era viver. Camila não sabia mais a diferença entre as duas coisas — até agora.
 
 Ficou ali por três horas.
-Esqueceu de jantar. Esqueceu de checar o celular, que vibrou duas vezes na bolsa e foi ignorado sem culpa, pela primeira vez.
+Esqueceu de jantar. Esqueceu de checar o celular, que vibrou duas vezes na bolsa e foi ignorado sem culpa alguma.
 
 Quando parou, as costas doíam, a água do pote estava cor de lama, e havia cinco folhas pintadas espalhadas pela mesa secando.
 
@@ -4336,7 +4336,7 @@ O sorriso do Marcos se abriu, genuíno.
 
 — Segunda, então.
 
-Camila entrou no elevador sentindo uma coisa estranha, nova: leveza. Não porque o Marcos fosse especial — ele não era. Mas porque, pela primeira vez em muito tempo, ela tinha se permitido ser *vista* como uma mulher desejável, e não como a esposa cansada, a mãe sobrecarregada, a ex.
+Camila entrou no elevador sentindo uma coisa estranha, nova: leveza. Não porque o Marcos fosse especial — ele não era. Mas porque, enfim, ela tinha se permitido ser *vista* como uma mulher desejável, e não como a esposa cansada, a mãe sobrecarregada, a ex.
 
 E descobriu, com um espanto doce, que gostava.
 
@@ -4364,7 +4364,7 @@ Você já se sentiu desejada de novo, depois de muito tempo? Não precisa virar 
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
 
-E, pela primeira vez em anos, ela gostou do que viu.
+E, enfim, ela gostou do que viu.
 
 
 # CAPÍTULO 20
@@ -4425,7 +4425,7 @@ Não era drama. Não era frescura. Não era "exagero de mulher cansada". Era uma
 
 Camila percebeu que tinha passado a vida inteira achando que o problema era ela. Que se fosse mais organizada, mais paciente, mais forte, mais silenciosa, o peso sumiria. Mas o peso não era só dela. O peso era a regra de um jogo que todas elas, naquela mesa, conheciam de cor — cada uma carregando o seu em silêncio, achando que era a única.
 
-Pela primeira vez em muito tempo, Camila não se sentiu louca.
+Enfim, Camila não se sentiu louca.
 
 Sentiu-se *vista*.
 
@@ -4475,7 +4475,7 @@ Camila piscou, surpresa. Ela mal conhecia aquela mulher.
 — Clara, eu não posso...
 — Pode sim. E um dia, quando você estiver melhor, você faz o mesmo por outra. É assim que a corrente funciona.
 
-Camila guardou o guardanapo com o coração apertado. Não de tristeza. De espanto. Porque, pela primeira vez em muito tempo, alguém estava oferecendo ajuda sem que ela tivesse que implorar, explicar, se justificar.
+Camila guardou o guardanapo com o coração apertado. Não de tristeza. De espanto. Porque, enfim, alguém estava oferecendo ajuda sem que ela tivesse que implorar, explicar, se justificar.
 
 Alguém tinha visto o peso. E tinha estendido a mão.
 
@@ -4495,7 +4495,7 @@ E a Camila de agora estava começando a gostar muito, mas muito mesmo, dessa nov
 Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
-Depois apagou a luz e dormiu sem peso no peito, pela primeira vez em meses.
+Depois apagou a luz e dormiu sem peso no peito, em meses.
 
 
 # CAPÍTULO 21
@@ -4721,7 +4721,7 @@ Os quatro bonecos palitinho de mãos dadas, desenhados com a letra de quem ainda
 
 Camila passou o dedo sobre o bonequinho do Léo. Tão pequeno no papel. Tão grande no coração dela.
 
-E, pela primeira vez desde o divórcio, ela se perguntou: será que eu realmente estraguei tudo? Ou será que eu salvei os três — eles e a mim — de uma vida inteira de mentira?
+E, desde o divórcio, ela se perguntou: será que eu realmente estraguei tudo? Ou será que eu salvei os três — eles e a mim — de uma vida inteira de mentira?
 
 A resposta não veio. Mas a pergunta, sim. E era uma pergunta honesta.
 
@@ -4875,7 +4875,7 @@ O menino que ela temia ter destruído tinha acabado de escrever, com a própria 
 
 Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da exposição.
 
-E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou, pela primeira vez, em silêncio.
+E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou em silêncio.
 
 
 # CAPÍTULO 22
@@ -4917,7 +4917,7 @@ Ela olhou pelo retrovisor, para os dois filhos no banco de trás.
 
 A noite caiu. Camila cozinhou o peru (que ficou meio seco, mas ninguém reclamou). Montou a mesa com a toalha boa. Acendeu o pisca-pisca.
 
-E, pela primeira vez naquele dezembro, a casa não pareceu vazia. Pareceu... deles.
+E, enfim, naquele dezembro, a casa não pareceu vazia. Pareceu... deles.
 
 Comeram. Riram do peru seco. Bia derrubou o suco de uva na toalha boa, e Camila, em vez de surtar, riu e disse "faz parte". Léo ajudou a lavar a louça, sem ela pedir.
 
@@ -4933,15 +4933,15 @@ Quando foi deitar, já era quase meia-noite. Camila ficou um momento na sala, ol
 
 E, no silêncio daquela noite de Natal, ela não se sentiu sozinha.
 
-Sentiu-se, pela primeira vez em muito tempo, em paz.
+Sentiu-se, enfim, em paz.
 
 E então, como acontece nos fins de ano, ela fez a pergunta que todo mundo faz e que quase ninguém responde de verdade: o que eu quero para o ano que vem?
 
-Pela primeira vez em onze anos, a resposta não envolvia o Ricardo. Não envolvia "manter a família", nem "fazer dar certo", nem "aguentar mais um pouco".
+Em onze anos, a resposta não envolvia o Ricardo. Não envolvia "manter a família", nem "fazer dar certo", nem "aguentar mais um pouco".
 
 A resposta, simples e assustadora, era: eu quero ser feliz.
 
-E Camila foi dormir sabendo que, pela primeira vez, aquilo não era um sonho distante.
+E Camila foi dormir sabendo que aquilo, enfim, não era um sonho distante.
 
 Era um plano.
 
@@ -5277,7 +5277,7 @@ Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses e
 
 E pensou: *hoje eu me celebro. Porque eu também fui mãe de mim mesma este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
 
-E, pela primeira vez, o Dia das Mães fez sentido.
+E, enfim, o Dia das Mães fez sentido.
 
 
 # CAPÍTULO 26
@@ -5287,7 +5287,7 @@ Quando as férias de julho chegaram, Camila teve um momento de pânico.
 
 Onze anos de férias com o Ricardo tinham ensinado a ela que "férias em família" era uma expressão elegante para "mais trabalho, só que em outra cidade". Era ela quem planejava tudo, arrumava as malas das crianças, separava os remédios, dirigia, organizava as refeições — enquanto o Ricardo tirava fotos e reclamava do calor.
 
-Mas agora não havia Ricardo. E, pela primeira vez, Camila percebeu que férias podiam ser... dela.
+Mas agora não havia Ricardo. E, enfim, Camila percebeu que férias podiam ser... dela.
 
 — Pra onde a gente vai, mãe? — perguntou Léo, animado, espalhando mapas pela mesa.
 
@@ -5472,7 +5472,7 @@ Depois, mandou para Fernanda, com uma legenda:
 Fernanda respondeu em segundos:
 *"Descansa em paz. E viva a nova."*
 
-Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
+Camila riu. E, agora, olhar para o próprio passado não doeu.
 
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
@@ -5542,7 +5542,7 @@ Antes de ir, ela parou na frente de Camila. Havia algo úmido nos olhos dela, at
 — Sabe por que eu quis comprar esse quadro? — perguntou. — Eu perdi minha mãe há dois meses. E essa sala vazia com sol... é exatamente como eu imagino que ela está agora. Em paz. Descansando. Você pintou a minha mãe sem conhecer ela.
 Camila ficou sem palavras. Um nó subiu pela garganta.
 — Desculpa — a mulher limpou os olhos. — Não era pra emocionar. Mas você tem um dom, moça. Não deixa ninguém tirar isso de você.
-Ela apertou a mão de Camila, pegou o quadro embrulhado e foi embora, deixando para trás um perfume suave de alfazema e uma Camila parada no meio do salão, entendendo pela primeira vez o que a arte podia fazer: atravessar a distância entre duas estranhas e costurar, com cor, uma dor na outra.
+Ela apertou a mão de Camila, pegou o quadro embrulhado e foi embora, deixando para trás um perfume suave de alfazema e uma Camila parada no meio do salão, entendendo, enfim, o que a arte podia fazer: atravessar a distância entre duas estranhas e costurar, com cor, uma dor na outra.
 
 Paula veio colocar uma bolinha vermelha adesiva ao lado do quadro. *Vendido.*
 
@@ -5559,7 +5559,7 @@ Fernanda chegou atrasada, atropelando gente.
 — AMIGA! VOCÊ VENDEU UM QUADRO! — Gritou ela, fazendo metade do salão olhar.
 Camila riu e a abraçou.
 
-Depois, num momento de calmaria entre um gole e outro, ela se afastou e olhou para os três quadros pendurados lado a lado. *Afogamento*, *Caos*, *Silêncio*. E percebeu, pela primeira vez, que tinha exposto ali, sem querer, a história inteira da sua travessia: a mulher que afundava, a que se debatia em meio ao caos, e a que, enfim, encontrou uma sala vazia com sol entrando. Três retratos. Um antes, um durante, um depois. E ela tinha sobrevivido aos três.
+Depois, num momento de calmaria entre um gole e outro, ela se afastou e olhou para os três quadros pendurados lado a lado. *Afogamento*, *Caos*, *Silêncio*. E percebeu que tinha exposto ali, sem querer, a história inteira da sua travessia: a mulher que afundava, a que se debatia em meio ao caos, e a que, enfim, encontrou uma sala vazia com sol entrando. Três retratos. Um antes, um durante, um depois. E ela tinha sobrevivido aos três.
 
 Mais tarde, Ricardo mandou mensagem (ele soube pelas redes sociais, claro, ele stalkeava).
 *"Vi que você tá 'artista' agora. Parabéns. Espero que isso não atrapalhe a rotina das crianças."*
@@ -5574,7 +5574,7 @@ Olhou para o comprovante do PIX na conta.
 E então, guardou o celular no bolso.
 Sem responder.
 
-Pela primeira vez, a opinião de Ricardo não tinha nem o poder de estragar a noite. A mensagem dele era um fósforo aceso no meio de um oceano — se apagava antes de chegar perto.
+Desta vez, a opinião de Ricardo não tinha nem o poder de estragar a noite. A mensagem dele era um fósforo aceso no meio de um oceano — se apagava antes de chegar perto.
 
 Ela saiu para a calçada do ateliê para tomar um ar.
 A noite estava fresca.
@@ -5612,7 +5612,7 @@ Estava com a conta bancária apertada.
 Estava cansada.
 Mas, puta merda, ela estava *livre*.
 
-E pela primeira vez em anos, o futuro não parecia um túnel escuro.
+E, enfim, o futuro não parecia um túnel escuro.
 Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 
@@ -5648,7 +5648,7 @@ Camila quase riu. Artista. Como se fosse título legítimo dela.
 
 — É poderoso. — Ele olhou de volta para o quadro. — Parece alguém afundando. Mas tem esperança também. Na luz.
 
-Camila olhou para o homem pela primeira vez de verdade.
+Camila olhou para o homem, enfim, de verdade.
 
 Talvez trinta e cinco anos. Altura média. Cabelo castanho levemente bagunçado. Óculos de armação fina. Suéter casual. Sorriso gentil.
 
@@ -6211,7 +6211,7 @@ Ela estava sozinha.
 Divorciada.
 Com dois filhos para criar, uma carreira para alavancar, contas para pagar.
 
-E, pela primeira vez em toda a sua vida adulta, ela não estava com medo.
+E, em toda a sua vida adulta, ela não estava com medo.
 Ela estava em paz.
 
 Ela pegou o celular. Abriu a câmera.
@@ -6680,7 +6680,7 @@ No parque, no domingo de sol, Daniel fez uma coisa pequena que quase derrubou Ca
 
 Não era nada. Era só um elogio bobo. Mas Camila sentiu o peito apertar. Fazia tanto tempo que alguém a olhava sem julgar. Sem corrigir. Sem esperar que ela fosse uma versão mais contida de si mesma.
 
-Ela passou o resto da caminhada sorrindo à toa, sentindo-se, pela primeira vez em anos, um pouco boba. E gostando disso.
+Ela passou o resto da caminhada sorrindo à toa, sentindo-se, como há anos não, um pouco boba. E gostando disso.
 
 Ricardo nunca teria explicado. Teria cancelado vagamente e ficado irritado se ela questionasse.
 
@@ -6864,7 +6864,7 @@ Camila riu até doer a barriga. E percebeu, no meio da risada, que não estava m
 No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 — Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
 
-Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, pela primeira vez, ela não teve medo de entrar.
+Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, agora, ela não teve medo de entrar.
 
 No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem finalmente parou de ensaiar e começou a viver.
 
@@ -6918,7 +6918,7 @@ Léo ergueu os olhos por um segundo, quase contra a vontade.
 
 — Demais. Se você joga na linha, já é melhor do que eu.
 
-E, pela primeira vez na noite, o canto da boca de Léo se mexeu.
+E, enfim, na noite, o canto da boca de Léo se mexeu.
 
 Depois da pizza, Daniel montou o jogo na mesa. Camila ficou na cozinha, lavando a louça devagar, deixando os três sozinhos. Precisava ver aquilo de longe.
 
@@ -6988,7 +6988,7 @@ Camila entendeu, ali, que as crianças tinham encontrado um jeito próprio de ac
 
 Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
 
-E, pela primeira vez, ela não teve medo de sonhar grande de novo.
+E, agora, ela não teve medo de sonhar grande de novo.
 
 
 # CAPÍTULO 34
@@ -7036,7 +7036,7 @@ Bia pensou por um segundo.
 
 — Os dois. E o de vocês também.
 
-E, pela primeira vez no dia, os quatro riram juntos.
+E, enfim, no dia, os quatro riram juntos.
 
 Foi um riso curto, meio tímido, de gente que ainda estava se conhecendo. Mas era um riso verdadeiro. E Camila guardou aquele som no peito como quem guarda uma fotografia.
 
@@ -7058,7 +7058,7 @@ Daniel largou as malas e a puxou para um abraço, ali mesmo, na frente de todo m
 
 Camila não respondeu. Só apertou o abraço.
 
-Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem sentir: família não é só o sangue que a gente recebe. É também o que a gente escolhe. E ela, pela primeira vez, tinha escolhido.
+Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem sentir: família não é só o sangue que a gente recebe. É também o que a gente escolhe. E ela, enfim, tinha escolhido.
 
 ---
 
@@ -7172,7 +7172,7 @@ Camila respondeu:
 
 *"Ok. Vou deixar o jantar quente."*
 
-E sentiu, pela primeira vez em muito tempo, que esperar alguém podia ser uma coisa boa.
+E sentiu, enfim, que esperar alguém podia ser uma coisa boa.
 
 ---
 
@@ -7238,7 +7238,7 @@ Ela riu, enterrando o rosto no ombro dele.
 
 ---
 
-Naquela noite, Camila foi para o ateliê e usou o pincel novo pela primeira vez.
+Naquela noite, Camila foi para o ateliê e estreou o pincel novo.
 
 Era diferente. Não só porque o pincel era bom — porque era. Mas porque cada pincelada carregava uma memória nova: a de que alguém a tinha ouvido. A de que ela importava o suficiente para alguém anotar os seus sonhos.
 
@@ -7252,7 +7252,7 @@ Ela também estava.
 
 O presente do Daniel não foi o pincel. Foi a lembrança de que ser vista, ser lembrada, ser amada nos detalhes — isso não era luxo. Era o mínimo.
 
-E, pela primeira vez, Camila entendeu que merecia o mínimo.
+E, enfim, Camila entendeu que merecia o mínimo.
 
 Merecia o mínimo todos os dias.
 
@@ -7322,7 +7322,7 @@ Na volta, Camila ficou quieta, olhando a estrada.
 
 — Você não precisa fazer nada para merecer, Cá. É isso que eu venho tentando te mostrar.
 
-Camila olhou para ele. E, pela primeira vez, entendeu de verdade.
+Camila olhou para ele. E, enfim, entendeu de verdade.
 
 Amor que a gente tem que conquistar não é amor. É dívida.
 

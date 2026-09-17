@@ -1,4 +1,4 @@
-# CAPÍTULO 25
+﻿# CAPÍTULO 25
 ## O Dia das Mães
 
 Camila sempre tinha achado o Dia das Mães a data mais injusta do ano. Porque, na casa dela, "Dia das Mães" significava mais trabalho, não menos: era ela quem organizava o almoço para as duas avós, quem comprava os presentes (inclusive o "dela", que o Ricardo entregava com um "tá aí, escolhe você mesma"), quem arrumava a mesa, quem sorria nas fotos e quem lavava a louça depois.
@@ -81,4 +81,4 @@ Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses e
 
 E pensou: *hoje eu me celebro. Porque eu também fui mãe de mim mesma este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
 
-E, pela primeira vez, o Dia das Mães fez sentido.
+E, enfim, o Dia das Mães fez sentido.

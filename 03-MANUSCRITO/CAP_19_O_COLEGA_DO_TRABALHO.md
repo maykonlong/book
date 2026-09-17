@@ -61,7 +61,7 @@ O sorriso do Marcos se abriu, genuíno.
 
 — Segunda, então.
 
-Camila entrou no elevador sentindo uma coisa estranha, nova: leveza. Não porque o Marcos fosse especial — ele não era. Mas porque, pela primeira vez em muito tempo, ela tinha se permitido ser *vista* como uma mulher desejável, e não como a esposa cansada, a mãe sobrecarregada, a ex.
+Camila entrou no elevador sentindo uma coisa estranha, nova: leveza. Não porque o Marcos fosse especial — ele não era. Mas porque, enfim, ela tinha se permitido ser *vista* como uma mulher desejável, e não como a esposa cansada, a mãe sobrecarregada, a ex.
 
 E descobriu, com um espanto doce, que gostava.
 
@@ -89,4 +89,4 @@ Você já se sentiu desejada de novo, depois de muito tempo? Não precisa virar 
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
 
-E, pela primeira vez em anos, ela gostou do que viu.
+E, enfim, ela gostou do que viu.

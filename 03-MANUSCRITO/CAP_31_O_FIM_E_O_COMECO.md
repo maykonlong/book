@@ -54,7 +54,7 @@ Ela estava sozinha.
 Divorciada.
 Com dois filhos para criar, uma carreira para alavancar, contas para pagar.
 
-E, pela primeira vez em toda a sua vida adulta, ela não estava com medo.
+E, em toda a sua vida adulta, ela não estava com medo.
 Ela estava em paz.
 
 Ela pegou o celular. Abriu a câmera.

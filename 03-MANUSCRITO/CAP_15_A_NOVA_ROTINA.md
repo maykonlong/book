@@ -325,7 +325,7 @@ Camila sorriu. Genuinamente.
 
 E quando saiu do salão, parou na vitrine de uma loja. Se olhou.
 
-E pela primeira vez em muito tempo, gostou de quem estava olhando de volta.
+E, enfim, gostou de quem estava olhando de volta.
 
 ---
 
