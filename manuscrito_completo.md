@@ -4042,6 +4042,19 @@ E, na sexta, uma vitória que ela não tinha planejado: foi ao cinema sozinha. C
 
 Você já foi ao cinema sozinha? Se não, tenta. É um rito de passagem da mulher que está aprendendo a gostar da própria companhia.
 
+E houve uma vitória ainda mais difícil, que ela quase não reconheceu como vitória: pedir ajuda.
+
+Foi numa terça, quando o carro não quis pegar de manhã e ela tinha uma reunião importante às nove. O velho instinto disse: *dá teu jeito, se vira, não enche o saco de ninguém*. Mas o novo instinto — aquele que ela estava cultivando aos poucos, como quem rega uma planta frágil — disse outra coisa.
+
+Ela pegou o celular e ligou para a Clara, do grupo de aquarela.
+
+— Clara, eu tô sem carro e preciso levar o Léo na escola. Você pode...?
+— Mando o endereço, te busco em vinte minutos.
+
+Sem perguntar por quê. Sem cobrar favor depois. Só... ajudou.
+
+E Camila descobriu, naquele banco de carona, uma verdade que a sobrecarga tinha escondido dela: pedir ajuda não é fraqueza. É a forma mais corajosa de dizer "eu não vou carregar isso sozinha de novo".
+
 Domingo à noite, depois de colocar as crianças para dormir, Camila sentou no sofá com caderninho.
 
 Estava fazendo isso recentemente: listar. Não tarefas. Não obrigações.
@@ -4205,6 +4218,17 @@ Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho 
 Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só assentiram. Só passaram o pão de queijo e encheram o café.
 
 E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um posto de reabastecimento. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
+
+E, quando a conta chegou, houve um gesto pequeno que valeu mais do que qualquer conselho. Clara, a mãe solo dos gêmeos, anotou o próprio número num guardanapo e empurrou para Camila.
+
+— Se você precisar de alguém para buscar o Léo na escola num dia de aperto, ou para ficar com ele enquanto você resolve o divórcio... me liga. Eu moro perto do seu trabalho.
+Camila piscou, surpresa. Ela mal conhecia aquela mulher.
+— Clara, eu não posso...
+— Pode sim. E um dia, quando você estiver melhor, você faz o mesmo por outra. É assim que a corrente funciona.
+
+Camila guardou o guardanapo com o coração apertado. Não de tristeza. De espanto. Porque, pela primeira vez em muito tempo, alguém estava oferecendo ajuda sem que ela tivesse que implorar, explicar, se justificar.
+
+Alguém tinha visto o peso. E tinha estendido a mão.
 
 Naquela noite, voltando para casa, Camila criou um grupo no WhatsApp.
 *"As Aquarelistas (e o Sindicato)"*
@@ -4790,6 +4814,18 @@ Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na
 
 Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.
 
+Na manhã seguinte, Camila acordou com um barulho estranho vindo da sala. Foi ver. Léo estava sentado no sofá, de pijama, com o kit de desenho aberto no colo, copiando com uma concentração de adulto a capa de um gibi.
+
+Ela ficou parada na porta, sem querer interromper. O filho dela, que podia estar hipnotizado pelo videogame caro, tinha escolhido os lápis. Os lápis de quinze reais. Os lápis que vieram junto com a promessa de um sábado de metrô e pastel.
+
+— Mãe, olha — ele disse, mostrando o desenho. Era um boneco de capa e espada, meio torto, meio lindo.
+
+— Tá incrível, filho. — Camila se sentou ao lado dele. — Quer que a gente vá na exposição dos heróis sábado? Levar o caderno, desenhar lá?
+
+O sorriso que abriu no rosto do Léo valia mais do que qualquer PlayStation.
+
+E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha comprado o presente mais barato, mas porque tinha comprado o presente que precisava dela para existir. O presente era só a desculpa. O verdadeiro presente era o sábado juntos.
+
 
 # CAPÍTULO 22
 ## O Contraste
@@ -4908,6 +4944,18 @@ Não com saudade.
 Mas como quem guarda um documento histórico de uma civilização extinta.
 Aquela Camila não existia mais.
 E a nova Camila não trocaria de lugar com ela por nada nesse mundo.
+
+Antes de fechar a caixa, Camila pegou o celular e tirou uma foto daquela Camila antiga — a da boneca de porcelana. Não para guardar. Para lembrar de onde tinha vindo.
+
+Depois, mandou para Fernanda, com uma legenda:
+*"Essa aí eu enterrei hoje."*
+
+Fernanda respondeu em segundos:
+*"Descansa em paz. E viva a nova."*
+
+Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
+
+Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
 
 # CAPÍTULO 23
@@ -5031,6 +5079,12 @@ Foi um sorriso que veio do útero, subiu pelo estômago, aqueceu o peito e explo
 Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito bem, obrigada.
 
 Você já sentiu isso? Aquele sorriso que ninguém vê, que vem de dentro e não pede plateia. O sorriso de quem se salvou. Guarde o seu. É o mais precioso que existe.
+
+E Camila percebeu a diferença entre aquele sorriso e o que ela usava há onze anos. O sorriso de antes era de vitrine: medido, ensaiado, calculado para agradar. Era o sorriso da esposa que ria da piada sem graça, da funcionária que concordava sem concordar, da mulher que sorria para não chorar.
+
+Aquele sorriso de agora não tinha plateia. Não tinha ensaio. Era só dela, e por isso era tão raro, e por isso era tão verdadeiro.
+
+Ela entendeu, ali, que a gente pode passar a vida inteira sorrindo para os outros — e morrer de sede de um sorriso que seja só nosso. Aquele, o primeiro sorriso real, era o fim de uma longa seca.
 
 Enquanto voltava para casa, Camila decidiu o que fazer com os quinhentos reais. Nada de boletos. Nada de supermercado. Aqueles quinhentos reais eram a prova de que a dor dela valia alguma coisa — e mereciam virar algo que a fizesse feliz. Uma moldura nova para o próximo quadro. Um jantar com Fernanda. Talvez, um dia, uma viagem.
 
@@ -5562,6 +5616,16 @@ Camila riu. Riu de verdade, alto, solto, até doer a barriga.
 — Ele falou que eu vou me arrepender de envelhecer sozinha.
 — Amiga, a única coisa pior do que envelhecer sozinha é envelhecer ao lado de quem te anula. Você escolheu certo.
 — Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu finalmente sei.
+
+Na manhã seguinte, Camila acordou antes do despertador. Não por ansiedade, como nos velhos tempos. Por... leveza.
+
+Ela ficou deitada, ouvindo a casa. Nenhum Ricardo resmungando. Nenhuma tensão de "será que ele está bravo?". Nenhum peso de ter que sustentar uma conversa que não ia a lugar nenhum.
+
+Só o silêncio. E o silêncio, ela descobriu, também era uma forma de liberdade.
+
+Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou no que tinha dito na noite anterior. Pensou nos lírios no lixo. Pensou no "não" que tinha saído da boca dela sem tremer.
+
+E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
 
 
 # CAPÍTULO 26

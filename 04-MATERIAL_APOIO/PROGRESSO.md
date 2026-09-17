@@ -50,7 +50,7 @@
 
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
 - **Total de capítulos escritos**: 30/30 (100%)
-- **Total de palavras**: **~47.000** (era ~37.300 antes da expansão)
+- **Total de palavras**: **~47.800** (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.620
 - **Páginas estimadas**: ~175-195 (formato 14x21 cm)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
@@ -61,7 +61,7 @@
 | I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
 | II — Desconstrução e Redescobrimento | 10-23 | ~20.750 | 44% | 50% (~40k) |
 | III — Abertura e Entrega | 24-30 | ~10.850 | 23% | 25% (~20k) |
-| **TOTAL** | 30 | **~47.000** | 100% | ~80k |
+| **TOTAL** | 30 | **~47.800** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.
