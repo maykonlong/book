@@ -363,3 +363,17 @@ Imperfeita. Honesta. Presente.
 
 E era suficiente.
 
+Na manhã seguinte, Camila acordou com um bilhete na porta da geladeira. A letra torta do Léo:
+
+*"mamãe vc é a melhor mãe do mundo e eu te amo"*
+
+Ele tinha escrito antes de ir para a escola. Sem ninguém pedir. Sem motivo especial.
+
+Camila ficou olhando para aquela frase por um longo tempo, o café esfriando na mão.
+
+O menino que ela temia ter destruído tinha acabado de escrever, com a própria letra, a prova de que ela não tinha destruído nada. Tinha, na verdade, construído — um lar onde ele se sentia seguro o bastante para dizer que a amava, num bilhete colado na geladeira.
+
+Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da exposição.
+
+E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou, pela primeira vez, em silêncio.
+

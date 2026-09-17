@@ -75,7 +75,7 @@
 - [16/09] **CAP 13 "A Primeira Sessão"** — 2ª passada: voz da mãe na terapia (1.857 → 2.014)
 - [16/09] **CAP 15 "Voltando a Pintar"** expandido (583 → 1.341 palavras)
 - [16/09] **CAP 17 "O Grupo de Mulheres"** expandido (882 → 1.177 palavras)
-- [16/09] **CAP 18 "A Culpa da Maternidade"** — 2ª passada: reflexão sobre a cartolina (1.889 → 2.019)
+- [16/09] **CAP 19 "A Culpa da Maternidade"** — o bilhete do Léo (2.019 → 2.164)
 - [16/09] **CAP 19 "O Aniversário de Léo"** expandido (771 → 1.039 palavras)
 - [16/09] **CAP 20 "O Contraste"** expandido (747 → 954 palavras)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** expandido (711 → 881 palavras)
