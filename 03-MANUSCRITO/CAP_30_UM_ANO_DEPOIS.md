@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 29
+﻿# CAPÍTULO 30
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -360,6 +360,7 @@ Camila olhou para o perfil dele, iluminado de relance pelos postes. E se pergunt
 Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha que merece. Naquela noite, segurando a mão de Daniel, Camila entendeu: ela finalmente achava que merecia o amor bom.
 
 E essa era, talvez, a maior vitória de todas.
+
 
 
 

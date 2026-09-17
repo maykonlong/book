@@ -3595,6 +3595,104 @@ E ela estava finalmente vivendo de novo.
 
 
 # CAPÍTULO 16
+## Um Sábado Só Minha
+
+Foi a primeira vez em nove anos que Camila acordou num sábado sem ninguém para cuidar.
+
+As crianças tinham ido passar o fim de semana com o Ricardo — a primeira visita oficial desde a separação — e o apartamento, que sempre fora barulhento, agora estava mergulhado num silêncio tão absoluto que dava para ouvir a geladeira zumbindo.
+
+Camila ficou deitada, olhando para o teto, sem saber o que fazer com as mãos.
+
+Eram oito da manhã. Não havia lancheira para montar. Não havia desenho para pendurar. Não havia ninguém pedindo "mãe, cadê meu tênis?". Não havia nada.
+
+E, pela primeira vez em muito tempo, ela percebeu o quanto a ausência de tarefas podia doer.
+
+*E agora?* — pensou. *O que eu faço com um dia inteiro só meu?*
+
+Era uma pergunta que ela não sabia responder. Porque, durante nove anos, ela tinha sido mãe antes de ser qualquer coisa. E, sem os filhos por perto, não sabia mais quem era.
+
+---
+
+Você já se sentiu assim? De repente sem a agenda cheia, sem o papel que te define, sem ninguém precisando de você — e, no lugar, um vazio que assusta. A gente passa tanto tempo vivendo para os outros que, quando fica sozinha, não sabe mais viver para si.
+
+Camila levantou, mais por inércia do que por vontade. Fez um café. Tomou olhando pela janela. E foi aí que percebeu: fazia anos que não tomava café sentada. Café, para ela, era uma coisa que se bebia de pé, apressada, entre uma tarefa e outra.
+
+Naquele sábado, ela bebeu devagar. Sentiu o gosto. Olhou a rua lá embaixo, as pessoas andando sem pressa, um cachorro farejando a calçada.
+
+*É assim que as pessoas normais vivem?* — perguntou-se.
+
+---
+
+O pânico veio depois do café.
+
+Era um pânico silencioso, sem choro nem grito. Um aperto no peito que dizia: *você está sozinha, e se acostumar com isso é aceitar que vai ficar sozinha para sempre.*
+
+Camila pegou o celular. Teve vontade de mandar mensagem para todo mundo — para a mãe, para a Fernanda, até para o Ricardo, só para ter alguém confirmando que ela existia.
+
+Mas, no meio do movimento, parou.
+
+*Não*, pensou. *Eu não vou fugir de mim.*
+
+Ela desligou o celular. Colocou na gaveta. E ficou.
+
+Ficar consigo mesma, descobriu Camila, era mais difícil do que qualquer tarefa doméstica. Porque a mente, acostumada ao caos, não sabia o que fazer com o silêncio. Ela revirou o passado, a culpa, o medo. Reviu cada briga, cada lágrima, cada "será que eu devia ter ficado?".
+
+Foi quase uma hora de pensamento circular, até que o cansaço a venceu.
+
+E, então, algo mudou.
+
+---
+
+Ela foi até o quarto e pegou as tintas.
+
+Não as tintas boas, que ela usava para os quadros. As tintas velhas, de uma caixa empoeirada que tinha ficado no fundo do armário por anos. Abriu a janela, montou o cavalete na sala, e começou a pintar.
+
+Não um quadro para vender. Não um quadro para agradar. Um quadro só dela. Sobre o que ela quisesse.
+
+Pintou o silêncio. Pintou a rua. Pintou a solidão — e, no processo, descobriu que a solidão, quando encarada, não era um monstro.
+
+Era uma companhia.
+
+Você já pintou, escreveu, cozinhou ou dançou só por você? Sem plateia, sem objetivo, sem ninguém para aprovar. É um ato revolucionário, num mundo que nos ensina a só fazer o que rende, o que agrada, o que produz. Fazer algo só porque te dá prazer é uma forma de dizer: eu importo. A minha alegria importa.
+
+---
+
+Às duas da tarde, Camila percebeu que estava com fome. Foi à cozinha e fez uma omelete — só para ela, sem ter que cortar em pedacinhos, sem ter que disputar o último pedaço.
+
+Comeu na sala, em frente ao quadro. O quadro não estava pronto. Não estava bonito. Mas era dela.
+
+Depois, fez algo que não fazia desde antes do casamento: tomou um banho demorado. Sem pressa. Sem ninguém batendo na porta. Deixou a água quente escorrer pelos ombros e ficou ali, simplesmente existindo.
+
+E, naquele banho, uma lágrima caiu. Mas não era de tristeza.
+
+Era de alívio.
+
+Porque ela tinha acabado de descobrir uma coisa que ninguém tinha ensinado a ela: que estar sozinha não era o mesmo que estar abandonada. Que a sua própria companhia podia ser boa. Que, depois de anos se doando inteira, ela tinha sobrado — e a sobra era ela mesma, inteira, esperando.
+
+---
+
+Quando as crianças voltaram, no domingo à noite, Camila as recebeu com um abraço apertado e um cheiro de tinta no avental.
+
+— Mãe, o que você fez esse fim de semana? — perguntou Léo, curioso.
+
+— Eu me encontrei — respondeu ela, sorrindo.
+
+Léo fez uma careta.
+
+— Que estranho, mãe. Você tava perdida?
+
+Camila riu, um riso solto, novo.
+
+— Tava, filho. Tava perdida fazia muito tempo. Mas achei o caminho.
+
+E, enquanto colocava as crianças para dormir, ela pensou no sábado que tinha passado sozinha. Na omelete. No banho demorado. No quadro inacabado.
+
+*Preciso fazer isso mais vezes*, pensou.
+
+Não porque não amasse os filhos. Mas porque, para amá-los inteira, ela precisava se lembrar — todo dia, se possível — de quem ela era quando ninguém estava olhando.
+
+
+# CAPÍTULO 17
 ## Voltando a Pintar
 
 A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer algo só por você.*
@@ -3737,7 +3835,7 @@ E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mu
 Ela pegou o celular e, antes de qualquer outra coisa, ligou para a aula de aquarela e se matriculou para o semestre inteiro.
 
 
-# CAPÍTULO 17
+# CAPÍTULO 18
 ## As Pequenas Vitórias
 
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
@@ -4136,7 +4234,7 @@ E por cada pequena vitória que provava:
 Ela tinha feito certo.
 
 
-# CAPÍTULO 18
+# CAPÍTULO 19
 ## O Colega do Trabalho
 
 Voltar ao escritório depois do divórcio foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
@@ -4230,7 +4328,7 @@ Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sa
 E, pela primeira vez em anos, ela gostou do que viu.
 
 
-# CAPÍTULO 19
+# CAPÍTULO 20
 ## O Grupo de Mulheres
 
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
@@ -4361,7 +4459,7 @@ Antes de dormir, ela puxou o caderno e anotou uma única linha:
 Depois apagou a luz e dormiu sem peso no peito, pela primeira vez em meses.
 
 
-# CAPÍTULO 20
+# CAPÍTULO 21
 ## A Culpa da Maternidade
 
 Léo tinha apresentação na escola.
@@ -4741,7 +4839,7 @@ Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da expos
 E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou, pela primeira vez, em silêncio.
 
 
-# CAPÍTULO 21
+# CAPÍTULO 22
 ## O Primeiro Natal Sozinha
 
 Dezembro chegou sem pedir licença, e Camila descobriu que o Natal tinha um peso que as outras datas não tinham.
@@ -4809,7 +4907,7 @@ E Camila foi dormir sabendo que, pela primeira vez, aquilo não era um sonho dis
 Era um plano.
 
 
-# CAPÍTULO 22
+# CAPÍTULO 23
 ## O Aniversário de Léo
 
 Nove anos.
@@ -4961,7 +5059,7 @@ O sorriso que abriu no rosto do Léo valia mais do que qualquer PlayStation.
 E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha comprado o presente mais barato, mas porque tinha comprado o presente que precisava dela para existir. O presente era só a desculpa. O verdadeiro presente era o sábado juntos.
 
 
-# CAPÍTULO 23
+# CAPÍTULO 24
 ## O Dia em Que Léo Perguntou Sobre o Pai
 
 Foi numa terça-feira à noite, quando Camila estava arrumando a cozinha e Léo apareceu na porta, com aquele jeito de quem ensaiava a pergunta fazia tempo.
@@ -5057,7 +5155,7 @@ Naquela noite, Camila não tinha todas as respostas. Mas tinha os braços. E, à
 Lá fora, a noite seguia. Mas dentro daquela cozinha, uma ferida pequena começava, devagar, a cicatrizar.
 
 
-# CAPÍTULO 24
+# CAPÍTULO 25
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -5188,7 +5286,7 @@ Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
 
-# CAPÍTULO 25
+# CAPÍTULO 26
 ## O Primeiro Sorriso Real
 
 A exposição no ateliê.
@@ -5328,7 +5426,7 @@ Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 
 
-# CAPÍTULO 26
+# CAPÍTULO 27
 ## O Encontro
 
 Quase um ano depois de Ricardo sair de casa.
@@ -5715,7 +5813,7 @@ Camila dirigiu para casa cantando.
 Sozinha. E muito bem acompanhada de si mesma.
 
 
-# CAPÍTULO 27
+# CAPÍTULO 28
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -5866,7 +5964,7 @@ Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou 
 E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
 
 
-# CAPÍTULO 28
+# CAPÍTULO 29
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
@@ -6222,7 +6320,7 @@ Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio 
 Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
 
 
-# CAPÍTULO 29
+# CAPÍTULO 30
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -6586,7 +6684,7 @@ Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha 
 E essa era, talvez, a maior vitória de todas.
 
 
-# CAPÍTULO 30
+# CAPÍTULO 31
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -6702,7 +6800,7 @@ Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era m
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.
 
 
-# CAPÍTULO 31
+# CAPÍTULO 32
 ## A Primeira Viagem a Três
 
 O carro estava quieto demais.
@@ -6808,7 +6906,7 @@ E Camila, olhando para aquela mesa torta, pensou:
 *É isso. É disso que era feita a felicidade o tempo todo.*
 
 
-# CAPÍTULO 32
+# CAPÍTULO 33
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.
@@ -6896,7 +6994,7 @@ E ela aprendeu, aos poucos, que conflito não é abandono. Que brigar não é o 
 O Ricardo nunca tinha ensinado isso. O Daniel, sim.
 
 
-# CAPÍTULO 33
+# CAPÍTULO 34
 ## O Reencontro
 
 Aconteceu num sábado de manhã, no corredor de congelados do mercado do bairro. Camila estava escolhendo entre duas marcas de ervilha — a mais barata ou a que as crianças realmente comiam — quando ouviu a voz.
@@ -7006,7 +7104,7 @@ Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilh
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, finalmente, tinha passado.
 
 
-# CAPÍTULO 34
+# CAPÍTULO 35
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -7090,7 +7188,7 @@ Pela mulher que ela teve que matar para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
 
-# CAPÍTULO 35
+# CAPÍTULO 36
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.

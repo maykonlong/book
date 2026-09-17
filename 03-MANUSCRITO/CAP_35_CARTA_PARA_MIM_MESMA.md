@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 34
+﻿# CAPÍTULO 35
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -80,6 +80,7 @@ Uma lágrima caiu na capa. Não de tristeza.
 De reverência.
 Pela mulher que ela teve que matar para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
+
 
 
 

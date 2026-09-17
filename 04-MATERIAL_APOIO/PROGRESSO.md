@@ -16,7 +16,7 @@
 ---
 
 ## ✅ ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO (Completo!)
-**Capítulos 10-25**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
+**Capítulos 10-26**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
 
 - ✅ Cap 10: O Vazio Barulhento
 - ✅ Cap 11: O Processo
@@ -24,38 +24,39 @@
 - ✅ Cap 13: A Pressão da Família
 - ✅ Cap 14: A Primeira Sessão
 - ✅ Cap 15: A Nova Rotina
-- ✅ Cap 16: Voltando a Pintar
-- ✅ Cap 17: As Pequenas Vitórias
-- ✅ Cap 18: O Colega do Trabalho (NOVO)
-- ✅ Cap 19: O Grupo de Mulheres
-- ✅ Cap 20: A Culpa da Maternidade
-- ✅ Cap 21: O Primeiro Natal Sozinha (NOVO)
-- ✅ Cap 22: O Aniversário de Léo
-- ✅ Cap 23: O Dia em Que Léo Perguntou Sobre o Pai (NOVO)
-- ✅ Cap 24: O Contraste
-- ✅ Cap 25: O Primeiro Sorriso Real
+- ✅ Cap 16: Um Sábado Só Minha (NOVO)
+- ✅ Cap 17: Voltando a Pintar
+- ✅ Cap 18: As Pequenas Vitórias
+- ✅ Cap 19: O Colega do Trabalho (NOVO)
+- ✅ Cap 20: O Grupo de Mulheres
+- ✅ Cap 21: A Culpa da Maternidade
+- ✅ Cap 22: O Primeiro Natal Sozinha (NOVO)
+- ✅ Cap 23: O Aniversário de Léo
+- ✅ Cap 24: O Dia em Que Léo Perguntou Sobre o Pai (NOVO)
+- ✅ Cap 25: O Contraste
+- ✅ Cap 26: O Primeiro Sorriso Real
 
 ---
 
 ## ✅ ATO III - ABERTURA E ENTREGA (Completo!)
-**Capítulos 26-35**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
+**Capítulos 27-36**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
 
-- ✅ Cap 26: O Encontro
-- ✅ Cap 27: A Resistência
-- ✅ Cap 28: O Fim e o Começo
-- ✅ Cap 29: Um Ano Depois: A Nova Paz
-- ✅ Cap 30: As Crianças Conhecem Daniel
-- ✅ Cap 31: A Primeira Viagem a Três (NOVO)
-- ✅ Cap 32: A Primeira Briga (NOVO)
-- ✅ Cap 33: O Reencontro (NOVO)
-- ✅ Cap 34: Carta Para Mim Mesma
-- ✅ Cap 35: A Metade Que Me Faltava Era Eu (FINAL)
+- ✅ Cap 27: O Encontro
+- ✅ Cap 28: A Resistência
+- ✅ Cap 29: O Fim e o Começo
+- ✅ Cap 30: Um Ano Depois: A Nova Paz
+- ✅ Cap 31: As Crianças Conhecem Daniel
+- ✅ Cap 32: A Primeira Viagem a Três (NOVO)
+- ✅ Cap 33: A Primeira Briga (NOVO)
+- ✅ Cap 34: O Reencontro (NOVO)
+- ✅ Cap 35: Carta Para Mim Mesma
+- ✅ Cap 36: A Metade Que Me Faltava Era Eu (FINAL)
 
 ---
 
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
-- **Total de capítulos escritos**: 35/35 (100%)
-- **Total de palavras**: **~53.200** (era ~37.300 antes da expansão)
+- **Total de capítulos escritos**: 36/36 (100%)
+- **Total de palavras**: **~54.100** (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.620
 - **Páginas estimadas**: ~175-195 (formato 14x21 cm)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
@@ -64,9 +65,9 @@
 | Ato | Capítulos | Palavras (aprox.) | % | Alvo |
 |---|---|---|---|---|
 | I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
-| II — Desconstrução e Redescobrimento | 10-25 | ~23.550 | 46% | 50% (~40k) |
-| III — Abertura e Entrega | 26-35 | ~14.350 | 28% | 25% (~20k) |
-| **TOTAL** | 35 | **~53.200** | 100% | ~80k |
+| II — Desconstrução e Redescobrimento | 10-26 | ~25.100 | 46% | 50% (~40k) |
+| III — Abertura e Entrega | 27-36 | ~14.350 | 27% | 25% (~20k) |
+| **TOTAL** | 36 | **~54.100** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.

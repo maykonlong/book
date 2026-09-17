@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 24
+﻿# CAPÍTULO 25
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -127,6 +127,7 @@ Fernanda respondeu em segundos:
 Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
 
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
+
 
 
 

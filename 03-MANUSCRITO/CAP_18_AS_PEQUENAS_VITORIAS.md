@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 17
+﻿# CAPÍTULO 18
 ## As Pequenas Vitórias
 
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
@@ -395,4 +395,5 @@ Coragem de sair. De escolher. De tentar.
 E por cada pequena vitória que provava:
 
 Ela tinha feito certo.
+
 

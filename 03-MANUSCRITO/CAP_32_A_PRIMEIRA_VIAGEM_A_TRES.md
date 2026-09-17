@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 31
+﻿# CAPÍTULO 32
 ## A Primeira Viagem a Três
 
 O carro estava quieto demais.
@@ -102,3 +102,4 @@ Naquela noite, os quatro fizeram um jantar improvisado, sentados no chão da sal
 E Camila, olhando para aquela mesa torta, pensou:
 
 *É isso. É disso que era feita a felicidade o tempo todo.*
+

@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 16
+﻿# CAPÍTULO 17
 ## Voltando a Pintar
 
 A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer algo só por você.*
@@ -139,4 +139,5 @@ Não eram obras-primas. Eram borrões, manchas, alvéolos de tinta. Mas eram a p
 E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mudaria tudo: não era sobre o quadro. Nunca foi sobre o quadro. Era sobre descobrir que ela ainda existia embaixo de todos aqueles papéis — mãe, esposa, funcionária — esperando para voltar a ser.
 
 Ela pegou o celular e, antes de qualquer outra coisa, ligou para a aula de aquarela e se matriculou para o semestre inteiro.
+
 
