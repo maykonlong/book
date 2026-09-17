@@ -58,6 +58,10 @@ Aquelas palavras bateram fundo.
 
 *Com quem eu quero passar o resto da vida?*
 
+A resposta veio rápido demais, e isso assustou ainda mais do que a pergunta. Com ela. Ela queria passar o resto da vida consigo mesma — inteira, de pé, dona do próprio nome. Fazia tanto tempo que não se lembrava de si como alguém com quem valia a pena conviver.
+
+E se a resposta era essa, então não havia mais nada a discutir. Não era sobre o Ricardo. Era sobre ela.
+
 Camila saiu do consultório com a receita de antibiótico e uma clareza assustadora. Passou na farmácia, tomou o remédio ali mesmo com uma garrafa de água.
 
 Sentou no banco do pronto-socorro e pensou.

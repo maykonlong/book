@@ -92,7 +92,7 @@
 - [16/09] **CAP 20 "O Contraste"** — 2ª passada: demolição do molde (1.148 → 1.248)
 - [16/09] **CAP 19 "O Aniversário de Léo"** — 2ª passada: desenho "eu e a minha mãe na espozição" (1.167 → 1.357)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** — 2ª passada: invisibilidade é o sintoma (1.117 → 1.229)
-- [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado — 2ª passada (1.094 → 1.173)
+- [16/09] **CAP 8 "Eu Quero me Separar"** — 2ª passada: "com quem quero passar a vida" (1.173 → 1.244)
 - [16/09] **CAP 7 "A Gota D'água"** — 2ª passada: o bilhete "eu vou embora" (1.224 → 1.292)
 - [16/09] **CAP 17 "O Grupo de Mulheres"** — 2ª passada: histórias de Clara e Júlia (1.237 → 1.453)
 - [16/09] **CAP 6 "A Última Tentativa"** aprofundado — 2ª passada (1.275 → 1.335)
