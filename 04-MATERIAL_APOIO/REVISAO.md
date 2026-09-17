@@ -34,12 +34,30 @@
 
 ---
 
-## 📋 Pendências para a 2ª passada
+## 📋 Pendências
 
-1. [ ] **Revisão ortográfica e gramatical** (recomendado: leitura em voz alta ou corretor profissional)
-2. [ ] **Beta readers** (mulheres 28–45, casadas/separadas, mães)
+1. [x] **Revisão ortográfica/gramatical (1ª varredura automática)** — ver "Correções ortográficas" abaixo (recomenda-se ainda uma leitura humana em voz alta)
+2. [ ] **Beta readers** (mulheres 28–45, casadas/separadas, mães) — ver `05-PUBLICACAO/BETA_READERS.md`
 3. [ ] Decidir se **expande para 75–85k** (aprofundando capítulos médios — média atual ~1.415 p/cap)
 4. [ ] Preencher **nome/bio da autora** no pacote editorial
 5. [ ] Formatação final + capa
+
+---
+
+## 🔧 Correções ortográficas aplicadas (varredura automática)
+
+| Arquivo | Erro | Correção |
+|---|---|---|
+| CAP_15 (A Nova Rotina) | "Camilafez" (falta de espaço) | "Camila fez" |
+| CAP_15 (A Nova Rotina) | "impas" | "limpas" |
+
+**Verificações feitas (sem erros encontrados):**
+- Palavras repetidas seguidas: **0**
+- Espaços duplos: **0**
+- Concordância de gênero ("obrigado/obrigada", "sozinho/sozinha"): **todos corretos** (inclusive "a obrigado" no CAP 40, que é particípio com "ter", invariável)
+- "vc" no bilhete do Léo (CAP 21): **mantido** — escrita autêntica de criança de 9 anos
+
+> ⚠️ A varredura automática encontra erros óbvios, mas **não substitui** uma leitura humana em voz alta, que capta repetições de estilo, ritmo e nuances que o script não detecta.
+
 
 ---

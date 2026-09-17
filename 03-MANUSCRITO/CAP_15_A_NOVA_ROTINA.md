@@ -149,7 +149,7 @@ E desligou.
 
 Ele chegou vinte minutos depois. Léo e Bia já estavam cansados de esperar.
 
-Na próxima vez que atrasou, Camilafez diferente.
+Na próxima vez que atrasou, Camila fez diferente.
 
 Ele ligou dizendo que ia atrás quinze minutos. Ela disse:
 
@@ -215,7 +215,7 @@ Terça, quinta, sábado. Camila acordava sozinha. Casa vazia. Silenciosa.
 
 No começo, foi apavorante.
 
-Ela não sabia o que fazer consigo mesma. Andava pela casa sem propósito. Limpava coisas que já estavam impas. Abria a geladeira sem fome. Ligava a TV sem assistir.
+Ela não sabia o que fazer consigo mesma. Andava pela casa sem propósito. Limpava coisas que já estavam limpas. Abria a geladeira sem fome. Ligava a TV sem assistir.
 
 O vazio era ensurdecedor.
 
