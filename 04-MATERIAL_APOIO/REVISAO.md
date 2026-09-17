@@ -1,4 +1,4 @@
-# 🔍 RELATÓRIO DE REVISÃO (1ª passada — coesão e continuidade)
+﻿# 🔍 RELATÓRIO DE REVISÃO (1ª passada — coesão e continuidade)
 
 > Data: 17/09/2026 · Escopo: revisão estrutural e de personagens do manuscrito (40 capítulos).
 
@@ -28,7 +28,7 @@
 **Erro crítico de nome:** a filha de Camila foi chamada de **"Sofia"** em dois capítulos, enquanto o nome canônico (ficha de personagens e todos os demais capítulos) é **"Bia"**.
 
 - ✅ `CAP_24_O_DIA_EM_QUE_LEO_PERGUNTOU_SOBRE_O_PAI.md` — "Sofia" → "Bia" (8 ocorrências) + "Sofia, seis" → "Bia, cinco"
-- ✅ `CAP_34_A_PRIMEIRA_VIAGEM_A_TRES.md` — "Sofia" → "Bia" (7 ocorrências)
+- ✅ `CAP_34_A_PRIMEIRA_VIAGEM_A_QUATRO.md` — "Sofia" → "Bia" (7 ocorrências)
 
 **Observação:** as ocorrências de "Sofia" que restam são legítimas — no CAP 2 ("a festa da Sofia", uma coleguinha de escola) e no CAP 14 ("filosofia", falso positivo de busca).
 

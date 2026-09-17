@@ -48,7 +48,7 @@
 - ✅ Cap 31: O Fim e o Começo
 - ✅ Cap 32: Um Ano Depois: A Nova Paz
 - ✅ Cap 33: As Crianças Conhecem Daniel
-- ✅ Cap 34: A Primeira Viagem a Três (NOVO)
+- ✅ Cap 34: A Primeira Viagem a Quatro (NOVO)
 - ✅ Cap 35: A Primeira Briga (NOVO)
 - ✅ Cap 36: O Primeiro Presente (NOVO)
 - ✅ Cap 37: O Encontro com a Mãe do Daniel (NOVO)

@@ -432,7 +432,7 @@ Os 13 capítulos abaixo foram criados durante a expansão (37k → 56,6k palavra
 - CAP 26 — As Férias de Julho (primeira viagem a três)
 
 **Ato III (Abertura e Entrega):**
-- CAP 34 — A Primeira Viagem a Três (integração da família com Daniel)
+- CAP 34 — A Primeira Viagem a Quatro (integração da família com Daniel)
 - CAP 35 — A Primeira Briga (conflito saudável)
 - CAP 36 — O Primeiro Presente (romance/detalhe)
 - CAP 37 — O Encontro com a Mãe do Daniel (família dele)
