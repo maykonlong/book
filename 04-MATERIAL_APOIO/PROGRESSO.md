@@ -77,7 +77,7 @@
 - [16/09] **CAP 20 "O Contraste"** expandido (747 → 954 palavras)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** expandido (711 → 881 palavras)
 - [16/09] **CAP 11 "O Processo"** expandido (1.091 → 1.159 palavras)
-- [16/09] **CAP 16 "As Pequenas Vitórias"** — 2ª passada: cena dos girassóis (1.478 → 1.573)
+- [16/09] **CAP 16 "As Pequenas Vitórias"** — 2ª passada: girassóis + cinema sozinha (1.478 → 1.672)
 - [16/09] **CAP 23 "A Resistência"** expandido (702 → 870 palavras)
 - [16/09] **CAP 24 "O Fim e o Começo"** — 2ª passada: vulnerabilidade do Daniel (1.470 → 1.605)
 - [16/09] **CAP 22 "O Encontro"** — 2ª passada: troca profunda na exposição (1.933 → 2.069)

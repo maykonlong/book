@@ -317,6 +317,10 @@ Léo perguntou: *"é do namorado, mãe?"*. Camila riu: *"é meu. Eu comprei pra 
 
 E o menino sorriu, como se entendesse — talvez entendesse — o tamanho daquilo.
 
+E, na sexta, uma vitória que ela não tinha planejado: foi ao cinema sozinha. Comprou o ingresso, escolheu a poltrona do meio, comeu pipoca sem dividir. No início, sentiu os olhares — ou imaginou que sentia. *Uma mulher sozinha no cinema. Coitada. Deve ter sido largada.* Mas, na metade do filme, ela tinha esquecido do mundo. E, ao sair, percebeu que não tinha se sentido sozinha nem por um segundo. Tinha se sentido... em paz.
+
+Você já foi ao cinema sozinha? Se não, tenta. É um rito de passagem da mulher que está aprendendo a gostar da própria companhia.
+
 Domingo à noite, depois de colocar as crianças para dormir, Camila sentou no sofá com caderninho.
 
 Estava fazendo isso recentemente: listar. Não tarefas. Não obrigações.
