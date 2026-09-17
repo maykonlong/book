@@ -137,4 +137,16 @@ Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na
 
 Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.
 
+Na manhã seguinte, Camila acordou com um barulho estranho vindo da sala. Foi ver. Léo estava sentado no sofá, de pijama, com o kit de desenho aberto no colo, copiando com uma concentração de adulto a capa de um gibi.
+
+Ela ficou parada na porta, sem querer interromper. O filho dela, que podia estar hipnotizado pelo videogame caro, tinha escolhido os lápis. Os lápis de quinze reais. Os lápis que vieram junto com a promessa de um sábado de metrô e pastel.
+
+— Mãe, olha — ele disse, mostrando o desenho. Era um boneco de capa e espada, meio torto, meio lindo.
+
+— Tá incrível, filho. — Camila se sentou ao lado dele. — Quer que a gente vá na exposição dos heróis sábado? Levar o caderno, desenhar lá?
+
+O sorriso que abriu no rosto do Léo valia mais do que qualquer PlayStation.
+
+E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha comprado o presente mais barato, mas porque tinha comprado o presente que precisava dela para existir. O presente era só a desculpa. O verdadeiro presente era o sábado juntos.
+
 

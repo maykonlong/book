@@ -93,7 +93,7 @@
 - [16/09] **CAP 25 "A Resistência"** — manhã seguinte, a leveza (1.244 → 1.326)
 - [16/09] **CAP 23 "O Primeiro Sorriso Real"** — o fim da longa seca (1.416 → 1.532)
 - [16/09] **CAP 22 "O Contraste"** — "essa aí eu enterrei hoje" (1.248 → 1.336)
-- [16/09] **CAP 19 "O Aniversário de Léo"** — 2ª passada: desenho "eu e a minha mãe na espozição" (1.167 → 1.357)
+- [16/09] **CAP 21 "O Aniversário de Léo"** — o sábado juntos (1.357 → 1.542)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** — 2ª passada: invisibilidade é o sintoma (1.117 → 1.229)
 - [16/09] **CAP 8 "Eu Quero me Separar"** — 2ª passada: "com quem quero passar a vida" (1.173 → 1.244)
 - [16/09] **CAP 7 "A Gota D'água"** — 2ª passada: o bilhete "eu vou embora" (1.224 → 1.292)
