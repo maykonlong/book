@@ -321,6 +321,19 @@ E, na sexta, uma vitória que ela não tinha planejado: foi ao cinema sozinha. C
 
 Você já foi ao cinema sozinha? Se não, tenta. É um rito de passagem da mulher que está aprendendo a gostar da própria companhia.
 
+E houve uma vitória ainda mais difícil, que ela quase não reconheceu como vitória: pedir ajuda.
+
+Foi numa terça, quando o carro não quis pegar de manhã e ela tinha uma reunião importante às nove. O velho instinto disse: *dá teu jeito, se vira, não enche o saco de ninguém*. Mas o novo instinto — aquele que ela estava cultivando aos poucos, como quem rega uma planta frágil — disse outra coisa.
+
+Ela pegou o celular e ligou para a Clara, do grupo de aquarela.
+
+— Clara, eu tô sem carro e preciso levar o Léo na escola. Você pode...?
+— Mando o endereço, te busco em vinte minutos.
+
+Sem perguntar por quê. Sem cobrar favor depois. Só... ajudou.
+
+E Camila descobriu, naquele banco de carona, uma verdade que a sobrecarga tinha escondido dela: pedir ajuda não é fraqueza. É a forma mais corajosa de dizer "eu não vou carregar isso sozinha de novo".
+
 Domingo à noite, depois de colocar as crianças para dormir, Camila sentou no sofá com caderninho.
 
 Estava fazendo isso recentemente: listar. Não tarefas. Não obrigações.
