@@ -83,7 +83,7 @@
 - [16/09] **CAP 17 "As Pequenas Vitórias"** — pedir ajuda (1.672 → 1.826)
 - [16/09] **CAP 23 "A Resistência"** expandido (702 → 870 palavras)
 - [16/09] **CAP 26 "O Fim e o Começo"** — borboletas no estômago (1.605 → 1.782)
-- [16/09] **CAP 22 "O Encontro"** — 2ª passada: troca profunda na exposição (1.933 → 2.069)
+- [16/09] **CAP 24 "O Encontro"** — o bilhete sem pressão (2.069 → 2.188)
 - [16/09] **CAP 27 "Um Ano Depois"** — a maior vitória de todas (1.903 → 2.051)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado (1.008 → 1.021)
 - [16/09] **CAP 6 "A Última Tentativa"** aprofundado (1.247 → 1.275)

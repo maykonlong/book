@@ -129,6 +129,14 @@ Fazia quanto tempo que ela se permitia ser interessante?
 
 Guardou o bilhete na bolsa. Tentou não pensar mais nisso.
 
+Não conseguiu.
+
+Pelo resto da noite, enquanto ajudava a desmontar a exposição, o bilhete pareceu queimar no fundo da bolsa. Cada vez que Camila mexia para pegar algo, seus dedos roçavam o papel dobrado, e o coração dava um salto — pequeno, involuntário, irritante.
+
+Ela se pegou pensando no que havia de tão desconcertante naquele gesto. Não era a cantada. Era a ausência de pressão. *"Sem pressão. Só se você quiser."* Onze anos de casamento a tinham ensinado que todo gesto de homem vinha com cobrança embutida. E aquele bilhete — aquele bilhete simples, educado, que pedia nada — tinha desmontado uma crença que ela nem sabia que carregava.
+
+Talvez existissem homens que davam sem esperar em troca. Talvez.
+
 Mas quando chegou em casa, sozinha (crianças com Ricardo), pegou o celular.
 
 Salvou o número.
