@@ -74,6 +74,22 @@ Varredura de frases recorrentes + correção aplicada:
 
 **Demais repetições ainda presentes (aceitáveis):** "como se" (~58), "de novo" (~41), "de verdade" (~35), "finalmente" (~31) — são conectores comuns; podem ser suavizados numa leitura final, se desejar.
 
+---
+
+## 🔎 Varredura preventiva de "restos de substituição" (17/09)
+
+Após o bug **"Quatroês"** (substituição parcial `Três → Quatro` que deixou o "ês" sobrando), foi feita uma varredura por padrões semelhantes em todo o projeto:
+
+| Padrão procurado | Resultado |
+|---|---|
+| "Quatro" + acento (ex.: "Quatroês") | ✅ 0 |
+| "oês" (resto de "três") | ✅ 0 |
+| "Bia" + acento (resto de "Sofia") | ✅ 0 |
+| "filoBia" ("filosofia" corrompida) | ✅ 0 |
+| "Sofia" (filha) restante | ✅ 0 — só usos legítimos (coleguinha no CAP 2 e "filosofia") |
+
+**Conclusão:** nenhum outro resíduo de substituição encontrado. O manuscrito está íntegro.
+
 
 
 ---
