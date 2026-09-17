@@ -30,6 +30,8 @@ Camila não é uma mulher de verdade — mas poderia ser. Ela é o retrato de mi
 
 Se você se reconhecer nestas páginas, saiba: este livro foi escrito para você. E o final dele também pode ser o seu começo.
 
+Porque, no fundo, esta é a história de como o fim de um casamento pode ensinar uma mulher a amar a si mesma — a jornada de quem cansou de ser a única a tentar.
+
 Com carinho,
 
 **[NOME DA AUTORA]**
