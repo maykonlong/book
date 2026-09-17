@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 30
+﻿# CAPÍTULO 31
 ## O Reencontro
 
 Aconteceu num sábado de manhã, no corredor de congelados do mercado do bairro. Camila estava escolhendo entre duas marcas de ervilha — a mais barata ou a que as crianças realmente comiam — quando ouviu a voz.
@@ -100,3 +100,4 @@ E era verdade. Tudo estava bem. Porque o reencontro que ela temia há meses tinh
 Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilha.
 
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, finalmente, tinha passado.
+
