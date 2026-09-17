@@ -90,7 +90,7 @@
 - [16/09] **CAP 7 "A Gota D'água"** aprofundado (1.142 → 1.169)
 - [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado (1.054 → 1.094)
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado (1.282 → 1.302)
-- [16/09] **CAP 23 "A Resistência"** — 2ª passada: chantagem dos filhos (1.105 → 1.198)
+- [16/09] **CAP 25 "A Resistência"** — manhã seguinte, a leveza (1.244 → 1.326)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** — 2ª passada: "eu voltei" no reflexo (1.275 → 1.416)
 - [16/09] **CAP 20 "O Contraste"** — 2ª passada: demolição do molde (1.148 → 1.248)
 - [16/09] **CAP 19 "O Aniversário de Léo"** — 2ª passada: desenho "eu e a minha mãe na espozição" (1.167 → 1.357)

@@ -138,4 +138,14 @@ Camila riu. Riu de verdade, alto, solto, até doer a barriga.
 — Amiga, a única coisa pior do que envelhecer sozinha é envelhecer ao lado de quem te anula. Você escolheu certo.
 — Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu finalmente sei.
 
+Na manhã seguinte, Camila acordou antes do despertador. Não por ansiedade, como nos velhos tempos. Por... leveza.
+
+Ela ficou deitada, ouvindo a casa. Nenhum Ricardo resmungando. Nenhuma tensão de "será que ele está bravo?". Nenhum peso de ter que sustentar uma conversa que não ia a lugar nenhum.
+
+Só o silêncio. E o silêncio, ela descobriu, também era uma forma de liberdade.
+
+Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou no que tinha dito na noite anterior. Pensou nos lírios no lixo. Pensou no "não" que tinha saído da boca dela sem tremer.
+
+E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
+
 
