@@ -7,7 +7,7 @@ Foi numa terça-feira à noite, quando Camila estava arrumando a cozinha e Léo 
 
 Camila fechou a torneira devagar, como se o tempo a ajudasse a achar as palavras certas.
 
-Léo tinha nove anos. Sofia, seis. Eles tinham ouvido "a gente não se ama mais", "não foi culpa de vocês", "o pai vai continuar amando vocês". Mas, como toda criança, ele tinha guardado a pergunta que doía mais: *por quê?*
+Léo tinha nove anos. Bia, cinco. Eles tinham ouvido "a gente não se ama mais", "não foi culpa de vocês", "o pai vai continuar amando vocês". Mas, como toda criança, ele tinha guardado a pergunta que doía mais: *por quê?*
 
 E, naquela noite, ela saiu.
 
@@ -25,7 +25,7 @@ O coração de Camila apertou.
 
 *Claro.* Ela devia ter imaginado. Criança sempre acha que é por causa dela.
 
-— Léo — disse ela, segurando a mão do filho —, escuta o que eu vou te dizer, e escuta com atenção. O seu pai não foi embora por causa de você. Nem da Sofia. Ele foi embora porque... a gente deixou de saber ficar junto. Isso é coisa de adulto. Nunca foi, e nunca vai ser, culpa de vocês.
+— Léo — disse ela, segurando a mão do filho —, escuta o que eu vou te dizer, e escuta com atenção. O seu pai não foi embora por causa de você. Nem da Bia. Ele foi embora porque... a gente deixou de saber ficar junto. Isso é coisa de adulto. Nunca foi, e nunca vai ser, culpa de vocês.
 
 — Mas ele não sente falta? — A voz de Léo falhou.
 
@@ -51,7 +51,7 @@ Ela o puxou para um abraço, e os dois ficaram ali, sem pressa, no meio da cozin
 
 ---
 
-Na manhã seguinte, Camila encontrou Sofia sentada na mesa, comendo cereal devagar.
+Na manhã seguinte, Camila encontrou Bia sentada na mesa, comendo cereal devagar.
 
 — Mãe — disse a menina, sem levantar os olhos do prato. — Eu não vou embora, né? Com o papai?
 
@@ -59,15 +59,15 @@ Camila parou, com a caneca na mão.
 
 — Não, meu amor. Você fica com a mamãe. E com o papai também, alguns dias. Mas a sua casa é aqui.
 
-Sofia assentiu, mastigando devagar, como se digerisse algo maior do que cereal.
+Bia assentiu, mastigando devagar, como se digerisse algo maior do que cereal.
 
 — É que a Lívia, da minha sala, foi morar com o pai depois que os pais dela separaram. Eu fiquei com medo.
 
 Camila sentou ao lado da filha e passou a mão no cabelo dela.
 
-— A gente não vai fazer isso, Sofia. Você e o Léo são a minha casa. Eu não vou a lugar nenhum sem vocês. Entendeu?
+— A gente não vai fazer isso, Bia. Você e o Léo são a minha casa. Eu não vou a lugar nenhum sem vocês. Entendeu?
 
-Sofia olhou para ela, e os olhos se encheram d'água.
+Bia olhou para ela, e os olhos se encheram d'água.
 
 — Mesmo se você casar com o Daniel?
 
@@ -75,7 +75,7 @@ A pergunta pegou Camila de surpresa. Tão pequena, tão direta.
 
 — Mesmo assim — disse ela, com a voz firme. — Ninguém entra no lugar de vocês. O Daniel entra para somar, não para tirar ninguém.
 
-Sofia soltou um suspiro longo, daqueles que só criança sabe dar, e voltou a comer.
+Bia soltou um suspiro longo, daqueles que só criança sabe dar, e voltou a comer.
 
 — Então tá — disse ela, simples.
 

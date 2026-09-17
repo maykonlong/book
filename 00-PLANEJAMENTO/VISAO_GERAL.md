@@ -46,16 +46,16 @@
 - [x] Desfecho satisfatório ✅
 
 ### Fase 4: Revisão
-- [ ] Primeira revisão (estrutura)
-- [ ] Segunda revisão (personagens)
+- [x] Primeira revisão (estrutura) — ver `04-MATERIAL_APOIO/REVISAO.md`
+- [x] Segunda revisão (personagens) — correção de nome (Sofia → Bia)
 - [ ] Terceira revisão (diálogos)
-- [ ] Revisão de coesão
+- [x] Revisão de coesão — nomes, idades e cronologia verificados
 - [ ] Beta readers
 
 ### Fase 5: Finalização
 - [ ] Revisão ortográfica e gramatical
 - [ ] Formatação final
-- [ ] Criação de sinopse para contracapa
+- [x] Criação de sinopse para contracapa — ver `05-PUBLICACAO/PACOTE_EDITORIAL.md`
 - [ ] Preparação para publicação
 
 ---

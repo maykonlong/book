@@ -3,13 +3,13 @@
 
 O carro estava quieto demais.
 
-Era o tipo de silêncio que acontece quando todo mundo está com medo de dizer a coisa errada: Camila dirigindo com as duas mãos no volante, Léo no banco de trás com o fone no pescoço, Sofia grudada na janela, e Daniel no banco do carona, com o mapa do celular na mão como se fosse a coisa mais importante do mundo.
+Era o tipo de silêncio que acontece quando todo mundo está com medo de dizer a coisa errada: Camila dirigindo com as duas mãos no volante, Léo no banco de trás com o fone no pescoço, Bia grudada na janela, e Daniel no banco do carona, com o mapa do celular na mão como se fosse a coisa mais importante do mundo.
 
 — Vocês querem que eu aumente o rádio? — Camila perguntou, só para quebrar o gelo.
 
 — Tanto faz — disse Léo, sem tirar os olhos do fone.
 
-— Tanto faz — repetiu Sofia, por inércia.
+— Tanto faz — repetiu Bia, por inércia.
 
 *Ótimo*, pensou Camila. *A primeira viagem juntos e já estamos em silêncio de velório.*
 
@@ -23,7 +23,7 @@ Léo levantou os olhos do fone, desconfiado, mas curioso.
 
 E, em dois minutos, os dois estavam discutindo qual caminho era melhor, qual tinha posto de gasolina, qual tinha a parada com os melhores pães de queijo.
 
-Camila trocou um olhar com Sofia pelo retrovisor. Sofia deu de ombros, mas tinha um sorriso escondido no canto da boca.
+Camila trocou um olhar com Bia pelo retrovisor. Bia deu de ombros, mas tinha um sorriso escondido no canto da boca.
 
 *Talvez não seja um velório, afinal.*
 
@@ -35,11 +35,11 @@ A primeira parada foi num posto com uma lanchonete de beira de estrada. Camila f
 
 — Óbvio nada — rebatia Daniel. — Pudim com furinhos é imbatível.
 
-— Vocês dois parecem duas crianças — disse Sofia, chegando por trás, mas já rindo.
+— Vocês dois parecem duas crianças — disse Bia, chegando por trás, mas já rindo.
 
 — E você, qual escolhe? — Daniel perguntou, sem perder o ritmo.
 
-Sofia pensou por um segundo.
+Bia pensou por um segundo.
 
 — Os dois. E o de vocês também.
 
@@ -51,7 +51,7 @@ Foi um riso curto, meio tímido, de gente que ainda estava se conhecendo. Mas er
 
 À tarde, chegaram ao sítio que Daniel tinha alugado para o fim de semana: uma casa simples, com rede na varanda, um lago perto e um silêncio que só o interior tem.
 
-Léo correu para a rede. Sofia foi atrás do gato da vizinha. Daniel começou a descarregar as malas.
+Léo correu para a rede. Bia foi atrás do gato da vizinha. Daniel começou a descarregar as malas.
 
 Camila ficou parada na varanda, olhando aquela cena. Os filhos espalhados, o homem que ela amava carregando as coisas dela, o sol caindo devagar atrás das árvores.
 

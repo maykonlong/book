@@ -1,0 +1,45 @@
+# 🔍 RELATÓRIO DE REVISÃO (1ª passada — coesão e continuidade)
+
+> Data: 17/09/2026 · Escopo: revisão estrutural e de personagens do manuscrito (40 capítulos).
+
+---
+
+## ✅ O que foi verificado e está OK
+
+| Item | Resultado |
+|---|---|
+| Sequência de capítulos | 1–40, sem falhas nem duplicatas (validado por script) |
+| Cabeçalhos (`# CAPÍTULO N`) | Batem com o nome do arquivo em todos os 40 (validado) |
+| Nome da filha | **Bia** (corrigido — ver abaixo) |
+| Terapeuta | **Dr. Lucas** (homem) — consistente nos caps 14, 15, 18, 31, 32… |
+| Médica do PS | **Dra. Helena** (CAP 8) — papel distinto da terapeuta, sem conflito |
+| Mães/avós | Dona Sônia (mãe de Camila), Dona Vera (mãe de Ricardo), Dona Lúcia (mãe de Daniel) — três personagens distintas |
+| "Dois primeiros cafés" | Resolvido: CAP 31 explicita *"era o segundo café deles. O primeiro… tinha sido um desastre silencioso"* |
+| Cronologia das exposições | CAP 29 (exposição do ateliê, onde conhece Daniel) ≠ CAP 40 (exposição maior, final) — ~1 ano de distância |
+| Idade de Léo | 8 (Ato I) → 9 (Atos II/III) — coerente |
+| Idade de Bia | 4 (Ato I) → 5 (Atos II/III) — coerente |
+| Daniel | Professor universitário de literatura (CAP 29) — coerente com a ficha |
+| Sobrenome de Camila | "Camila Ferreira Santos" (tirou o sobrenome do ex no divórcio) — coerente |
+
+---
+
+## 🔧 Correção aplicada
+
+**Erro crítico de nome:** a filha de Camila foi chamada de **"Sofia"** em dois capítulos, enquanto o nome canônico (ficha de personagens e todos os demais capítulos) é **"Bia"**.
+
+- ✅ `CAP_24_O_DIA_EM_QUE_LEO_PERGUNTOU_SOBRE_O_PAI.md` — "Sofia" → "Bia" (8 ocorrências) + "Sofia, seis" → "Bia, cinco"
+- ✅ `CAP_34_A_PRIMEIRA_VIAGEM_A_TRES.md` — "Sofia" → "Bia" (7 ocorrências)
+
+**Observação:** as ocorrências de "Sofia" que restam são legítimas — no CAP 2 ("a festa da Sofia", uma coleguinha de escola) e no CAP 14 ("filosofia", falso positivo de busca).
+
+---
+
+## 📋 Pendências para a 2ª passada
+
+1. [ ] **Revisão ortográfica e gramatical** (recomendado: leitura em voz alta ou corretor profissional)
+2. [ ] **Beta readers** (mulheres 28–45, casadas/separadas, mães)
+3. [ ] Decidir se **expande para 75–85k** (aprofundando capítulos médios — média atual ~1.415 p/cap)
+4. [ ] Preencher **nome/bio da autora** no pacote editorial
+5. [ ] Formatação final + capa
+
+---
