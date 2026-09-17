@@ -104,6 +104,12 @@ E era muito, muito mais bonita.
 
 Porque a beleza da primeira era de vitrine. A da segunda era de verdade. De quem parou de se espremer para caber.
 
+Ela ficou muito tempo olhando as duas fotos lado a lado, como quem compara dois capítulos de vidas diferentes. A mulher da primeira foto precisava de aprovação. A da segunda, só de um banho quente e de silêncio. A primeira media o próprio valor pelo olhar do outro. A segunda media pela própria paz.
+
+E, naquele contraste, Camila entendeu uma coisa que nenhuma terapia, nenhum livro, nenhum conselho de amiga tinha conseguido cravar: o divórcio não tinha sido o fim da mulher bonita. Tinha sido a demolição do molde.
+
+O que sobrou não era perfeito. Mas era dela. Era inteiro.
+
 Ela guardou a caixa.
 Não com saudade.
 Mas como quem guarda um documento histórico de uma civilização extinta.
