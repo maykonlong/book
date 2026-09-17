@@ -61,6 +61,10 @@ Tirar Léo e Bia do único lar que conheciam. Mais uma ruptura.
 
 Camila sentiu o peso do dinheiro — ou da falta dele — esmagando seus ombros.
 
+Lembrou do dia em que eles assinaram a compra daquele apartamento. Ricardo segurando a chave, girando no dedo como um troféu. Camila grávida do Léo, os pés inchados, imaginando o berço no quarto azul. "Nosso cantinho", ela tinha dito, e ele tinha rido. Na época, aquilo parecia o começo de tudo.
+
+Agora, sentada no carro quente, ela entendia que a casa tinha virado uma âncora — e que soltá-la, se fosse preciso, seria só mais um luto na longa lista de lutos daquele ano.
+
 Ela pensou no apartamento. Não no imóvel, no investimento, na "parte que teria que comprar". Pensou na casa.
 
 Na parede da cozinha onde marcava, a lápis, a altura de Léo a cada aniversário — os tracinhos subindo como uma escadinha de crescimento gravada no azulejo. No desenho da Bia pregado na porta da geladeira: um sol amarelo com olhos, uma casa torta, quatro bonequinhos de mãos dadas.

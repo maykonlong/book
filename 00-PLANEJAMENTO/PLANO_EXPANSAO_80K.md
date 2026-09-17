@@ -116,7 +116,7 @@ Cada capítulo expandido segue:
 | 8 | Eu Quero me Separar | 1.244 | 1.800 | 🟡 |
 | 9 | A Conversa com os Filhos | 1.342 | 2.000 | 🟡 |
 | 10 | O Vazio Barulhento | 2.054 | 2.600 | ⏳ |
-| 11 | O Processo | 1.210 | 2.800 | 🟡 |
+| 11 | O Processo | 1.295 | 2.800 | 🟡 |
 | 12 | A Pressão da Família | 1.435 | 2.800 | 🟡 |
 | 13 | A Primeira Sessão | 2.014 | 3.200 | 🟡 |
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
