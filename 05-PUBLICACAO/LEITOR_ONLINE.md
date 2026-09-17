@@ -1,10 +1,15 @@
-# 📖 LEITOR ONLINE (index.html)
+# 📖 SITE + LEITOR ONLINE (index.html + ler.html)
 
-> Um "reader" web que lê os capítulos `.md` **direto do repositório** e os exibe como um livro, **salvando no navegador onde a leitora parou** — sem alterar o manuscrito.
+> Um site do livro com página de apresentação e um "reader" web que lê os capítulos `.md` **direto do repositório**, exibindo como livro e **salvando no navegador onde a leitora parou** — sem alterar o manuscrito.
 
-## O que é
+## Estrutura
 
-O `index.html` (na raiz do projeto) é um leitor de livro:
+- **`index.html`** → página de apresentação do livro (capa, sinopse, tagline, botão "Ler online", futuros links de venda/redes sociais).
+- **`ler.html`** → o leitor de livro.
+
+## O que é o leitor (`ler.html`)
+
+O `ler.html` (na raiz do projeto) é um leitor de livro:
 - Carrega cada capítulo `.md` via `fetch()` (lê de lá direto, sem duplicar o texto).
 - Renderiza o markdown (títulos, itálico, negrito, epígrafe, `---` de cena) como HTML.
 - Salva o progresso (capítulo + posição de rolagem) no **localStorage** do navegador.
@@ -35,6 +40,6 @@ npx serve .
 
 ## Observações importantes
 
-- ⚠️ **Não funciona** abrindo o `index.html` com duplo clique (`file://`) — o navegador bloqueia `fetch()` de arquivos locais (CORS). Precisa de **HTTP** (GitHub Pages ou servidor local).
+- ⚠️ **O leitor não funciona** abrindo com duplo clique (`file://`) — o navegador bloqueia `fetch()` de arquivos locais (CORS). Precisa de **HTTP** (GitHub Pages ou servidor local).
 - O manuscrito (`.md`) **não é alterado** — o reader só lê os arquivos.
-- Se adicionar/renomear capítulos, atualize a lista `CHAPTERS` no início do `index.html`.
+- Se adicionar/renomear capítulos, atualize a lista `CHAPTERS` no início do `ler.html`.
