@@ -82,7 +82,7 @@
 - [16/09] **CAP 11 "O Processo"** expandido (1.091 → 1.159 palavras)
 - [16/09] **CAP 17 "As Pequenas Vitórias"** — pedir ajuda (1.672 → 1.826)
 - [16/09] **CAP 23 "A Resistência"** expandido (702 → 870 palavras)
-- [16/09] **CAP 24 "O Fim e o Começo"** — 2ª passada: vulnerabilidade do Daniel (1.470 → 1.605)
+- [16/09] **CAP 26 "O Fim e o Começo"** — borboletas no estômago (1.605 → 1.782)
 - [16/09] **CAP 22 "O Encontro"** — 2ª passada: troca profunda na exposição (1.933 → 2.069)
 - [16/09] **CAP 25 "Um Ano Depois"** — 2ª passada: conhecer a irmã do Daniel (1.673 → 1.903)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado (1.008 → 1.021)

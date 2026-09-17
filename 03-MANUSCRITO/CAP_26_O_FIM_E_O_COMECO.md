@@ -343,4 +343,14 @@ Mas esperança mesmo assim.
 
 E isso era um começo.
 
+Naquela noite, Camila não conseguiu dormir. Não de insônia — de um tipo de agitação que ela quase não reconhecia mais.
+
+Ela ficou deitada no escuro, repassando a noite: o café derramado, a risada de Daniel, a mão dele acenando na calçada quando se despediram. E sentiu, no peito, uma coisa que não sentia desde a juventude.
+
+Ansiedade boa. Borboletas. Aquele frio na barriga de quem está prestes a começar algo que pode dar certo.
+
+Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio recém-assinado — e ali estava ela, com borboletas no estômago, como uma adolescente.
+
+Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
+
 
