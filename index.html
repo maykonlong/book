@@ -77,6 +77,31 @@ h2 { font-size: 1.3rem; margin: 0 0 16px; }
 .faq summary { cursor: pointer; font-weight: bold; padding: 14px 0; }
 .faq details p { color: var(--muted); margin: 0 0 14px; }
 .quotes blockquote { font-style: italic; font-size: 1.05rem; border-left: 3px solid var(--accent); padding-left: 16px; margin: 0 0 18px; }
+html { scroll-behavior: smooth; }
+/* Navegação */
+.topnav { position: sticky; top: 0; z-index: 100; background: rgba(251,246,238,.95); border-bottom: 1px solid var(--line); backdrop-filter: blur(6px); }
+.nav-inner { display: flex; align-items: center; gap: 20px; padding: 12px 0; }
+.brand { font-weight: bold; color: var(--accent); text-decoration: none; font-size: 1.05rem; }
+.nav-links { display: flex; gap: 18px; flex: 1; }
+.nav-links a { color: var(--fg); text-decoration: none; font-size: .95rem; }
+.nav-links a:hover { color: var(--accent); }
+.nav-cta { background: var(--accent); color: #fff; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-weight: bold; font-size: .9rem; }
+.nav-cta:hover { opacity: .9; }
+/* Temas */
+.chips { display: flex; flex-wrap: wrap; gap: 10px; }
+.chips span { background: var(--line); color: var(--fg); padding: 8px 16px; border-radius: 999px; font-size: .9rem; }
+/* Chamada final */
+.cta { text-align: center; background: linear-gradient(160deg, #16283a, #1c3a52); color: #fff; border-radius: 12px; padding: 48px 24px; }
+.cta h2 { color: #fff; }
+.cta p { color: rgba(255,255,255,.8); margin: 0 0 24px; }
+/* Rodapé */
+footer { text-align: left; display: flex; flex-wrap: wrap; gap: 24px; justify-content: space-between; padding: 40px 0 30px; }
+.foot-col { max-width: 220px; }
+.foot-col h3 { font-size: .95rem; margin: 0 0 8px; }
+.foot-col a { display: block; color: var(--muted); text-decoration: none; margin: 4px 0; font-size: .88rem; }
+.foot-col a:hover { color: var(--accent); }
+.foot-bottom { flex-basis: 100%; text-align: center; border-top: 1px solid var(--line); padding-top: 16px; }
+@media (max-width: 640px) { .nav-links { display: none; } }
 footer { padding: 40px 0 56px; text-align: center; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); }
 footer .socials a { color: var(--muted); margin: 0 6px; text-decoration: none; }
 footer .socials a:hover { color: var(--accent); }
@@ -161,9 +186,22 @@ footer .socials a:hover { color: var(--accent); }
 </script>
 </head>
 <body>
+<nav class="topnav">
+  <div class="wrap nav-inner">
+    <a href="#inicio" class="brand">📖 A Metade</a>
+    <div class="nav-links">
+      <a href="#sobre">Sobre</a>
+      <a href="#temas">Temas</a>
+      <a href="#trechos">Trechos</a>
+      <a href="#autora">Autora</a>
+      <a href="#faq">FAQ</a>
+    </div>
+    <a href="ler.html" class="nav-cta">Ler grátis</a>
+  </div>
+</nav>
 <div class="wrap">
 
-  <section class="hero">
+  <section class="hero" id="inicio">
     <div class="cover">
       <span class="c-sub">Um romance</span>
       <span class="c-title">A Metade Que Me Faltava Era Eu</span>
@@ -181,7 +219,7 @@ footer .socials a:hover { color: var(--accent); }
     </div>
   </section>
 
-  <section class="synopsis">
+  <section class="synopsis" id="sobre">
     <h2>Sobre o livro</h2>
     <p>Camila faz tudo. A lista mental, a casa, os filhos, o trabalho, o calendário de todo mundo. Ricardo "ajuda" — daquele jeito que a gente "ajuda" quando não quer responsabilidade nenhuma.</p>
     <p>Onze anos de casamento. Dois filhos. E uma solidão tão grande que ela já não distingue onde termina o cansaço e começa o vazio.</p>
@@ -190,12 +228,31 @@ footer .socials a:hover { color: var(--accent); }
     <p>Mas como confiar de novo quando o coração aprendeu a se proteger de tudo?</p>
   </section>
 
-  <section class="about">
+  <section class="temas" id="temas">
+    <h2>O que você vai encontrar</h2>
+    <div class="chips">
+      <span>Carga mental</span>
+      <span>Divórcio</span>
+      <span>Amor-próprio</span>
+      <span>Recomeço</span>
+      <span>Maternidade</span>
+      <span>Empoderamento feminino</span>
+    </div>
+  </section>
+
+  <section class="quotes" id="trechos">
+    <h2>Trechos do livro</h2>
+    <blockquote>"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim."</blockquote>
+    <blockquote>"Ela não ia mais regar cadáveres."</blockquote>
+    <blockquote>"Amor que a gente tem que conquistar não é amor. É dívida."</blockquote>
+  </section>
+
+  <section class="about" id="autora">
     <h2>Sobre a autora</h2>
     <p><strong>Mariana Duarte</strong> escreve sobre mulheres que se recusam a desaparecer dentro da própria vida. "A Metade Que Me Faltava Era Eu" é seu romance de estreia, escrito para toda mulher que já carregou o mundo sozinha — e que, um dia, decidiu se salvar.</p>
   </section>
 
-  <section class="faq">
+  <section class="faq" id="faq">
     <h2>Perguntas frequentes</h2>
     <details>
       <summary>Sobre o que é o livro?</summary>
@@ -247,20 +304,31 @@ footer .socials a:hover { color: var(--accent); }
     </details>
   </section>
 
-  <section class="quotes">
-    <h2>Trechos do livro</h2>
-    <blockquote>"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim."</blockquote>
-    <blockquote>"Ela não ia mais regar cadáveres."</blockquote>
-    <blockquote>"Amor que a gente tem que conquistar não é amor. É dívida."</blockquote>
+  <section class="cta">
+    <h2>Comece a ler agora</h2>
+    <p>Gratuito, online e do jeito que toda mulher merece: sem pressa, sem cobrança.</p>
+    <a class="btn primary" href="ler.html">📖 Ler o livro completo</a>
   </section>
 
   <footer>
-    <p>© 2026 Mariana Duarte · A Metade Que Me Faltava Era Eu</p>
-    <p class="socials">
-      <a href="#" title="Instagram (em breve)">Instagram</a> ·
-      <a href="#" title="TikTok (em breve)">TikTok</a> ·
-      <a href="#" title="Newsletter (em breve)">Newsletter</a>
-    </p>
+    <div class="foot-col">
+      <h3>A Metade Que Me Faltava Era Eu</h3>
+      <a href="#sobre">Sobre o livro</a>
+      <a href="ler.html">Ler online</a>
+    </div>
+    <div class="foot-col">
+      <h3>Autora</h3>
+      <a href="#autora">Mariana Duarte</a>
+      <a href="#faq">Perguntas frequentes</a>
+    </div>
+    <div class="foot-col">
+      <h3>Siga</h3>
+      <a href="#" title="Instagram (em breve)">Instagram</a>
+      <a href="#" title="TikTok (em breve)">TikTok</a>
+    </div>
+    <div class="foot-bottom">
+      <p>© 2026 Mariana Duarte · Todos os direitos reservados</p>
+    </div>
   </footer>
 
 </div>
