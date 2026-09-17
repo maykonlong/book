@@ -85,7 +85,7 @@ No final, quando faltavam cinco minutos, ele colocou o bloco de lado.
 
 Camila piscou.
 — Como assim?
-— Se você não pudesse usar as palavras "mãe", "esposa" (ou ex-esposa) e "analista de marketing"... quem é você?
+— Se você não pudesse usar as palavras "mãe", "esposa" (ou ex-esposa) e "coordenadora de marketing"... quem é você?
 
 Camila abriu a boca para responder. Fechou.
 

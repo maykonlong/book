@@ -37,7 +37,7 @@ Sempre as crianças. Como se fosse a única catástrofe possível. O casamento d
 
 — Não. É com a gente.
 
-Ele suspirou. Não foi um suspiro alto, teatral. Foi sutil. Uma exalação curta pelo nariz e um leve revirar de olhos imperceptível para leigos, mas gritante para uma esposa de oito anos. *Lá vem ela.*
+Ele suspirou. Não foi um suspiro alto, teatral. Foi sutil. Uma exalação curta pelo nariz e um leve revirar de olhos imperceptível para leigos, mas gritante para uma esposa de onze anos. *Lá vem ela.*
 
 — Tá. Pode falar.
 

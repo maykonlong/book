@@ -72,8 +72,8 @@
 - Trabalhava em agência de publicidade (adorava!)
 
 ### Casamento e Maternidade (23-34 anos)
-- Casou aos 23 anos (grávida de Léo)
-- Gravidez não planejada, mas bem-vinda
+- Casou aos 23 anos
+- Léo nasceu 3 anos depois (gravidez não planejada, mas bem-vinda)
 - Mudou de emprego para algo mais "estável" e com horário fixo
 - Bia nasceu 4 anos depois
 - Foi gradualmente assumindo todas as responsabilidades da casa

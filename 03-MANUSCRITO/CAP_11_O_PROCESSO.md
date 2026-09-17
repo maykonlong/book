@@ -31,7 +31,7 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — E você?
 
-— Seis mil. Sou analista sênior.
+— Seis mil. Sou coordenadora de marketing.
 
 — Ótimo. Ele ganha o dobro. Vamos pedir pensão alimentícia de 30% do líquido dele para as duas crianças, mais plano de saúde e escola.
 

@@ -75,6 +75,8 @@ E ela estava faminta.
 
 Sábado. Três da tarde.
 
+Era o segundo café deles. O primeiro — semanas atrás, ainda antes do divórcio — tinha sido um desastre silencioso, com ela fechada como um muro e ele perguntando, com uma paciência que a desconcertou, se estava incomodando. Desde então, Camila tinha pensado muito naquela pergunta. E tinha prometido a si mesma que, se houvesse outra chance, não ia se esconder de novo.
+
 Camila chegou na Cafeteria Grão dez minutos atrasada.
 
 Não por causa do trânsito. Mas porque tinha dado três voltas no quarteirão antes de estacionar. Quase desistiu duas vezes. Precisou de Fernanda mandando mensagem motivacional de última hora:
@@ -307,7 +309,7 @@ Camila sorriu.
 
 Abriu o diário. Escreveu:
 
-*"Primeiro café com Daniel.*
+*"Segundo café com Daniel.*
 
 *Esperava desastre. Tive... algo bom.*
 
