@@ -6,6 +6,24 @@
 
 ---
 
+## SOBRE O LIVRO
+
+Camila faz tudo. A lista mental, a casa, os filhos, o trabalho, o calendário de todo mundo. Ricardo "ajuda" — daquele jeito que a gente "ajuda" quando não quer responsabilidade nenhuma.
+
+Onze anos de casamento. Dois filhos. E uma solidão tão grande que ela já não distingue onde termina o cansaço e começa o vazio.
+
+O fim não veio com uma traição de novela. Veio com uma poça de leite derramado, numa manhã em que Camila estava com febre e percebeu que, mesmo doente, ninguém ia limpar aquilo por ela. Ninguém nunca limpava.
+
+Então ela pediu o divórcio. Não para encontrar outra pessoa — para se encontrar de novo.
+
+Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta, que respeita, que não precisa ser ensinado a ser parceiro.
+
+Mas como confiar de novo quando o coração aprendeu a se proteger de tudo?
+
+*"A Metade Que Me Faltava Era Eu" é para toda mulher que carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
+
+---
+
 ## DEDICATÓRIA
 
 *Para toda mulher que já carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
