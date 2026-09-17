@@ -115,6 +115,15 @@ Dr. Lucas estendeu uma caixa de lenços. Ela pegou um, assoou o nariz sem elegâ
 
 — Vai. Ela tá aí. Tá soterrada debaixo de muita "obrigação" e "dever", mas tá aí.
 
+— De onde veio a ideia de que ser artista era perda de tempo? — perguntou Dr. Lucas, inclinando-se.
+Camila piscou. Ninguém nunca tinha perguntado isso.
+— Da minha mãe — respondeu, sem pensar. — Ela dizia que arte era "hobby sem futuro". Que eu precisava de uma carreira "de verdade".
+— E você acreditou.
+— Acreditei. — A voz de Camila ficou pequena. — Troquei a agência de publicidade — que eu amava — por um emprego "estável". Guardei os pincéis. Virei prática.
+— E agora?
+— Agora... — Camila olhou para as próprias mãos, como se procurasse nelas a resposta. — Agora eu não sei quem sou sem essa voz me dizendo o que fazer. É como se a minha mãe ainda morasse na minha cabeça, decidindo por mim.
+— Essa voz — disse Dr. Lucas, gentil — não é a sua mãe. É a sua leitura dela. E leituras podem ser relidas. E reescritas.
+
 Ele olhou no relógio.
 
 — Nossa sessão acabou. Mas vou te deixar uma tarefa de casa.

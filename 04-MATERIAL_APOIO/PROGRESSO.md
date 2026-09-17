@@ -66,7 +66,7 @@
 ---
 
 ## 📝 Log de expansão
-- [16/09] **CAP 13 "A Primeira Sessão"** expandido (888 → 1.860 palavras)
+- [16/09] **CAP 13 "A Primeira Sessão"** — 2ª passada: voz da mãe na terapia (1.857 → 2.014)
 - [16/09] **CAP 15 "Voltando a Pintar"** expandido (583 → 1.341 palavras)
 - [16/09] **CAP 17 "O Grupo de Mulheres"** expandido (882 → 1.177 palavras)
 - [16/09] **CAP 18 "A Culpa da Maternidade"** — 2ª passada: reflexão sobre a cartolina (1.889 → 2.019)
