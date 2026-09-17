@@ -1,5 +1,5 @@
 ﻿# CAPÍTULO 34
-## A Primeira Viagem a Quatroês
+## A Primeira Viagem a Quatro
 
 O carro estava quieto demais.
 

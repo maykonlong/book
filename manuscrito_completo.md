@@ -6992,7 +6992,7 @@ E, agora, ela não teve medo de sonhar grande de novo.
 
 
 # CAPÍTULO 34
-## A Primeira Viagem a Quatroês
+## A Primeira Viagem a Quatro
 
 O carro estava quieto demais.
 
