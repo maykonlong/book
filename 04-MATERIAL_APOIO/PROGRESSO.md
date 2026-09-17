@@ -16,7 +16,7 @@
 ---
 
 ## ✅ ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO (Completo!)
-**Capítulos 10-22**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
+**Capítulos 10-23**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
 
 - ✅ Cap 10: O Vazio Barulhento
 - ✅ Cap 11: O Processo
@@ -28,28 +28,29 @@
 - ✅ Cap 17: As Pequenas Vitórias
 - ✅ Cap 18: O Grupo de Mulheres
 - ✅ Cap 19: A Culpa da Maternidade
-- ✅ Cap 20: O Aniversário de Léo
-- ✅ Cap 21: O Contraste
-- ✅ Cap 22: O Primeiro Sorriso Real
+- ✅ Cap 20: O Primeiro Natal Sozinha (NOVO)
+- ✅ Cap 21: O Aniversário de Léo
+- ✅ Cap 22: O Contraste
+- ✅ Cap 23: O Primeiro Sorriso Real
 
 ---
 
 ## ✅ ATO III - ABERTURA E ENTREGA (Completo!)
-**Capítulos 23-29**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
+**Capítulos 24-30**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
 
-- ✅ Cap 23: O Encontro
-- ✅ Cap 24: A Resistência
-- ✅ Cap 25: O Fim e o Começo
-- ✅ Cap 26: Um Ano Depois: A Nova Paz
-- ✅ Cap 27: As Crianças Conhecem Daniel
-- ✅ Cap 28: Carta Para Mim Mesma
-- ✅ Cap 29: A Metade Que Me Faltava Era Eu (FINAL)
+- ✅ Cap 24: O Encontro
+- ✅ Cap 25: A Resistência
+- ✅ Cap 26: O Fim e o Começo
+- ✅ Cap 27: Um Ano Depois: A Nova Paz
+- ✅ Cap 28: As Crianças Conhecem Daniel
+- ✅ Cap 29: Carta Para Mim Mesma
+- ✅ Cap 30: A Metade Que Me Faltava Era Eu (FINAL)
 
 ---
 
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
-- **Total de capítulos escritos**: 29/29 (100%)
-- **Total de palavras**: **~46.250** (era ~37.300 antes da expansão)
+- **Total de capítulos escritos**: 30/30 (100%)
+- **Total de palavras**: **~46.850** (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.620
 - **Páginas estimadas**: ~175-195 (formato 14x21 cm)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
@@ -58,9 +59,9 @@
 | Ato | Capítulos | Palavras (aprox.) | % | Alvo |
 |---|---|---|---|---|
 | I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
-| II — Desconstrução e Redescobrimento | 10-22 | ~19.700 | 43% | 50% (~40k) |
-| III — Abertura e Entrega | 23-29 | ~10.850 | 23% | 25% (~20k) |
-| **TOTAL** | 29 | **~46.250** | 100% | ~80k |
+| II — Desconstrução e Redescobrimento | 10-23 | ~20.750 | 44% | 50% (~40k) |
+| III — Abertura e Entrega | 24-30 | ~10.850 | 23% | 25% (~20k) |
+| **TOTAL** | 30 | **~46.850** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.

@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 25
+﻿# CAPÍTULO 26
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
@@ -342,4 +342,5 @@ Esperança aterrorizante, vulnerável.
 Mas esperança mesmo assim.
 
 E isso era um começo.
+
 
