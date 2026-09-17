@@ -55,6 +55,28 @@ Daniel a olhou com uma ternura que ela não esperava.
 
 ---
 
+Na manhã seguinte, Camila acordou com o celular vibrando.
+
+Era o Daniel. Sete e meia da manhã.
+
+*"Vou chegar às sete hoje. Reunião até as seis. Te aviso se mudar."*
+
+Camila ficou olhando para a mensagem por um longo tempo. Não era uma declaração de amor. Não era um poema. Era só um aviso banal, de rotina, de quem se comprometeu com algo pequeno e cumpriu.
+
+E, ainda assim, ela chorou.
+
+Porque o Ricardo tinha passado onze anos sem nunca entender que eram exatamente essas mensagens — as pequenas, as do dia a dia, as que diziam "eu me importo com o seu sossego" — que construíam a confiança.
+
+E o Daniel tinha entendido em uma noite.
+
+Camila respondeu:
+
+*"Ok. Vou deixar o jantar quente."*
+
+E sentiu, pela primeira vez em muito tempo, que esperar alguém podia ser uma coisa boa.
+
+---
+
 Você já percebeu que a gente não briga com quem está na nossa frente? A gente briga com todos que vieram antes. A primeira briga de um amor novo é, na verdade, a última briga de um amor velho, pedindo para ser ouvida.
 
 Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve. Mas ele ficou.

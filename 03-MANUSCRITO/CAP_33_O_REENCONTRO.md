@@ -25,6 +25,12 @@ Sentiu... nada.
 
 Era como olhar para um colega de trabalho distante, de uma empresa onde ela não trabalhava mais.
 
+Ela se lembrou, de repente, da última vez que tinha visto o Ricardo — no dia em que ele saiu de casa, com as malas na calçada, gritando que ela tinha estragado tudo. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
+
+E agora, ali, no corredor de congelados, o estômago estava quieto.
+
+Onze anos de tempestade. E o mar, finalmente, tinha virado um lago.
+
 ---
 
 — Oi, Ricardo — disse ela, com a voz calma. — Tudo bem?

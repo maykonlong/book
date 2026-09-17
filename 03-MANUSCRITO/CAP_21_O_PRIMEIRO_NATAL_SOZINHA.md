@@ -25,6 +25,14 @@ Levou as crianças ao mercado. Deixou Léo escolher a sobremesa e Bia escolher o
 
 Bia aceitou. Léo ficou quieto, olhando pela janela.
 
+Camila se lembrou do Natal do ano anterior.
+
+Naquele Natal, o Ricardo tinha passado a ceia inteira no celular, respondendo mensagens do trabalho, e só levantou os olhos para reclamar que o peru estava seco. Camila tinha sorrido para as visitas, fingindo que não doía. Tinha servido todo mundo, recolhido os pratos, lavado a louça sozinha — e, quando a última visita foi embora, foi para o quarto chorar baixinho, com medo de acordar as crianças.
+
+Ela olhou pelo retrovisor, para os dois filhos no banco de trás.
+
+*Este Natal vai ser diferente*, pensou. *Não vai ser perfeito. Mas vai ser nosso.*
+
 ---
 
 A noite caiu. Camila cozinhou o peru (que ficou meio seco, mas ninguém reclamou). Montou a mesa com a toalha boa. Acendeu o pisca-pisca.

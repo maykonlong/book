@@ -81,6 +81,34 @@ Camila beijou a testa do filho.
 
 — Ele faz, filho. Ele faz.
 
+---
+
+Naquela semana, Camila observou os filhos de um jeito novo.
+
+Bia perguntava todo dia se "o amigo da mãe" ia voltar. Léo, mais discreto, fazia perguntas indiretas: "o Daniel gosta de videogame?", "ele torce pra que time?", "ele cozinha?".
+
+Camila respondia tudo, com paciência. Porque sabia que, por trás de cada pergunta, havia uma pergunta maior: *esse homem vai ser bom pra minha mãe? Vai ser bom pra gente? Vai ficar?*
+
+E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Lembrou do dia da prova do Léo. Mandou mensagem de boa sorte na apresentação de dança da Bia. Apareceu, sem ser chamado, para ajudar a montar a estante nova.
+
+Uma tarde, Camila flagrou o Léo no quarto, desenhando. Ele desenhava sempre — mas desta vez o desenho era diferente: quatro figuras de mãos dadas, de tamanhos diferentes, embaixo de um sol grande e torto.
+
+— Quem são? — perguntou ela, sentando na cama.
+
+Léo não levantou os olhos do papel.
+
+— Nós. Eu, a Bia, você... e o Daniel.
+
+Camila sentiu a garganta fechar.
+
+— E o papai? — arriscou, com cuidado.
+
+— O papai vai ficar num desenho separado — disse Léo, simples. — Ele não mora mais com a gente.
+
+E continuou colorindo o sol.
+
+Camila entendeu, ali, que as crianças tinham encontrado um jeito próprio de acomodar a nova vida. Não era rejeição do pai. Era aceitação de que a família tinha mudado de forma. E que cabia todo mundo — só que agora, em desenhos diferentes.
+
 Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
 
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.

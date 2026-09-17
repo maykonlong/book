@@ -51,6 +51,38 @@ Ela o puxou para um abraço, e os dois ficaram ali, sem pressa, no meio da cozin
 
 ---
 
+Na manhã seguinte, Camila encontrou Sofia sentada na mesa, comendo cereal devagar.
+
+— Mãe — disse a menina, sem levantar os olhos do prato. — Eu não vou embora, né? Com o papai?
+
+Camila parou, com a caneca na mão.
+
+— Não, meu amor. Você fica com a mamãe. E com o papai também, alguns dias. Mas a sua casa é aqui.
+
+Sofia assentiu, mastigando devagar, como se digerisse algo maior do que cereal.
+
+— É que a Lívia, da minha sala, foi morar com o pai depois que os pais dela separaram. Eu fiquei com medo.
+
+Camila sentou ao lado da filha e passou a mão no cabelo dela.
+
+— A gente não vai fazer isso, Sofia. Você e o Léo são a minha casa. Eu não vou a lugar nenhum sem vocês. Entendeu?
+
+Sofia olhou para ela, e os olhos se encheram d'água.
+
+— Mesmo se você casar com o Daniel?
+
+A pergunta pegou Camila de surpresa. Tão pequena, tão direta.
+
+— Mesmo assim — disse ela, com a voz firme. — Ninguém entra no lugar de vocês. O Daniel entra para somar, não para tirar ninguém.
+
+Sofia soltou um suspiro longo, daqueles que só criança sabe dar, e voltou a comer.
+
+— Então tá — disse ela, simples.
+
+E Camila entendeu que aquela conversa, por mais curta que fosse, tinha sido um tijolo a mais na parede da segurança dos filhos. Tijolo por tijolo, dia após dia. Era assim que se reconstruía uma família.
+
+---
+
 Você já precisou explicar para um filho uma dor que nem você entende direito? É o trabalho mais difícil do mundo. Porque a gente quer proteger, mas não pode mentir. Quer consolar, mas não tem resposta.
 
 Naquela noite, Camila não tinha todas as respostas. Mas tinha os braços. E, às vezes, é disso que uma criança precisa — de braços que não soltam, mesmo quando o mundo inteiro parece soltar.

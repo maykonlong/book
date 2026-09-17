@@ -67,6 +67,24 @@ E descobriu, com um espanto doce, que gostava.
 
 ---
 
+Na segunda-feira, o almoço aconteceu. E, para surpresa de Camila, foi... normal.
+
+Marcos escolheu um restaurante simples, de self-service, perto do trabalho. Ele falou sobre os filhos (tinha dois, como ela), sobre a ex-mulher (sem veneno, o que Camila achou um bom sinal), sobre o futebol de quinta.
+
+Camila, no começo, ficou tensa, esperando a cantada, o olhar insistente, a mão que avança. Onze anos de Ricardo a tinham ensinado que todo almoço com homem vinha com uma cobrança escondida no final.
+
+Não veio.
+
+— Obrigado por ter vindo — disse Marcos, na volta, parando na porta do escritório. — Eu só queria almoçar com alguém que entende o que é recomeçar. A gente fica tão no automático que esquece como é ter uma conversa de verdade.
+
+Ele sorriu, acenou, e seguiu para a mesa dele.
+
+Camila ficou parada, sentindo uma coisa que não sentia fazia tempo: alívio. Não porque o almoço tivesse sido um flerte — porque não foi. Mas porque ela tinha descoberto que podia estar com um homem, sozinha, e não precisar ser nada além de si mesma.
+
+Sem medo. Sem dívida. Sem o coração disparado de quem espera o ataque.
+
+---
+
 Você já se sentiu desejada de novo, depois de muito tempo? Não precisa virar nada. Às vezes é só um café na mesa, um "quer almoçar?", um olhar que demora meio segundo a mais. É o lembrete de que você ainda existe como mulher — além de mãe, além de profissional, além de ex.
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.

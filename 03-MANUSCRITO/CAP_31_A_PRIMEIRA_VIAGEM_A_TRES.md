@@ -69,6 +69,32 @@ Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem 
 
 ---
 
+Naquela noite, depois do jantar, os quatro sentaram na varanda para olhar as estrelas.
+
+A cidade não tinha estrelas. O sítio tinha milhares, espalhadas como açúcar num pano preto. Léo deitou no chão de cimento, de olhos para o céu. Bia subiu no colo da mãe. Daniel ficou ao lado, calado, respeitando o momento.
+
+— Quantas estrelas você acha que tem, mãe? — perguntou Léo.
+
+— Mais do que a gente consegue contar — respondeu Camila.
+
+— E todas têm nome?
+
+— As mais importantes têm.
+
+— Então essa aqui — Léo apontou para uma, bem no centro — é a estrela da nossa família.
+
+Camila olhou para o céu, depois para o filho, depois para o homem ao seu lado.
+
+— É, filho — disse ela, com a voz embargada. — Essa aí é a nossa.
+
+E ficaram ali, os quatro, em silêncio, olhando para cima. Sem pressa. Sem medo. Como quem acabou de encontrar, no meio da noite, um pedaço de céu que ninguém podia tirar.
+
+Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
+
+E Camila, dirigindo, percebeu que aquele era o som que ela tinha procurado a vida inteira.
+
+---
+
 Você já teve medo de "misturar" as pessoas que ama? De achar que o novo não combina com o que você já tem? Eu sei que eu tive. Mas aprendi que o amor não divide — ele multiplica. E que o coração, quando a gente deixa, abre espaço para todo mundo que a gente escolhe.
 
 Naquela noite, os quatro fizeram um jantar improvisado, sentados no chão da sala, rindo de nada e de tudo.

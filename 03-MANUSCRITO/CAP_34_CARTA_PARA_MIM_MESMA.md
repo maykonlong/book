@@ -11,6 +11,24 @@ Leu as entradas antigas.
 
 A dor daquela Camila saltava das páginas. Uma dor crua, desesperada, de um animal preso na armadilha.
 
+Ela continuou lendo, sem conseguir parar. Era como revisitar um acidente em câmera lenta.
+
+*"Hoje ele esqueceu o aniversário do Léo. Eu fiz a festa sozinha, enchi os balões sozinha, cantei parabéns sozinha. E depois disse para todo mundo que foi ótimo."*
+
+*"Ele disse que eu 'vivo no mundo da lua'. Que eu 'invento problema'. Talvez ele esteja certo. Talvez eu seja mesmo a louca."*
+
+*"Pesquisei 'como saber se meu casamento acabou' no Google, escondida, e apaguei o histórico com o coração acelerado."*
+
+Camila sentiu o rosto arder. Não de vergonha daquela mulher — de compaixão. Aquela mulher não estava louca. Estava tentando sobreviver dentro de uma casa que a silenciava, e a loucura era a única explicação que a deixavam ter.
+
+Ela leu a última entrada, escrita uma semana antes de pedir a separação. Uma linha só, tremida:
+
+*"Não sei quem eu sou sem ele."*
+
+Camila passou o dedo por cima da frase, como se pudesse acariciar a mulher que a escreveu.
+
+— Você vai descobrir — sussurrou. — Prometo que você vai descobrir.
+
 Camila pegou uma caneta nova.
 Foi para a última página em branco.
 E escreveu uma resposta. Uma carta para aquela mulher do passado.
@@ -50,6 +68,10 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
 *Com amor,*
 *Sua Camila inteira.*
+
+*PS: Guarde o vestido amarelo. Você vai usá-lo na exposição. E vai chorar de felicidade, não de dor.*
+
+*PS2: A primeira vez que você dormir a noite inteira sem acordar com o coração disparado, saiba: é isso que a paz parece.*
 
 ---
 

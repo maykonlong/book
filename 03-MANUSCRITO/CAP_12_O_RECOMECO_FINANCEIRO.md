@@ -59,6 +59,24 @@ Quando voltou, havia sete pedidos.
 
 ---
 
+A primeira entrega foi a pior.
+
+Camila desceu no elevador com três potes numa sacola de mercado, o coração batendo forte, com medo de cruzar com alguém conhecido no hall. E se a Dona Lourdes do 302 visse? E se o porteiro perguntasse?
+
+O porteiro não perguntou. A Dona Lourdes não viu. E a vizinha do 501, que tinha pedido dois potes, abriu a porta de pijama e disse:
+
+— Camila! Que delícia que você tá fazendo isso. Meu marido é viciado no seu bolo de cenoura desde o aniversário do Léo.
+
+Camila voltou para o apartamento sentindo o rosto quente. Mas, desta vez, não de vergonha.
+
+De orgulho.
+
+Porque, pela primeira vez em muito tempo, alguém tinha reconhecido nela um talento que não era "ser a esposa do Ricardo" nem "ser a mãe do Léo e da Bia". Era só dela. Do fogão. Das mãos.
+
+E, no fundo, era disso que ela mais precisava naquele mês: não só do dinheiro, mas da prova de que ela existia fora daqueles papéis de esposa e mãe.
+
+---
+
 Sete viraram quinze. Quinze viraram uma clientela fixa. Camila descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
 
 Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, sem depender de ninguém, sem esperar o Ricardo cumprir a promessa de pensão que, até agora, não tinha cumprido.

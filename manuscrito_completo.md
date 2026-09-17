@@ -2778,6 +2778,24 @@ Quando voltou, havia sete pedidos.
 
 ---
 
+A primeira entrega foi a pior.
+
+Camila desceu no elevador com três potes numa sacola de mercado, o coração batendo forte, com medo de cruzar com alguém conhecido no hall. E se a Dona Lourdes do 302 visse? E se o porteiro perguntasse?
+
+O porteiro não perguntou. A Dona Lourdes não viu. E a vizinha do 501, que tinha pedido dois potes, abriu a porta de pijama e disse:
+
+— Camila! Que delícia que você tá fazendo isso. Meu marido é viciado no seu bolo de cenoura desde o aniversário do Léo.
+
+Camila voltou para o apartamento sentindo o rosto quente. Mas, desta vez, não de vergonha.
+
+De orgulho.
+
+Porque, pela primeira vez em muito tempo, alguém tinha reconhecido nela um talento que não era "ser a esposa do Ricardo" nem "ser a mãe do Léo e da Bia". Era só dela. Do fogão. Das mãos.
+
+E, no fundo, era disso que ela mais precisava naquele mês: não só do dinheiro, mas da prova de que ela existia fora daqueles papéis de esposa e mãe.
+
+---
+
 Sete viraram quinze. Quinze viraram uma clientela fixa. Camila descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
 
 Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, sem depender de ninguém, sem esperar o Ricardo cumprir a promessa de pensão que, até agora, não tinha cumprido.
@@ -4187,6 +4205,24 @@ E descobriu, com um espanto doce, que gostava.
 
 ---
 
+Na segunda-feira, o almoço aconteceu. E, para surpresa de Camila, foi... normal.
+
+Marcos escolheu um restaurante simples, de self-service, perto do trabalho. Ele falou sobre os filhos (tinha dois, como ela), sobre a ex-mulher (sem veneno, o que Camila achou um bom sinal), sobre o futebol de quinta.
+
+Camila, no começo, ficou tensa, esperando a cantada, o olhar insistente, a mão que avança. Onze anos de Ricardo a tinham ensinado que todo almoço com homem vinha com uma cobrança escondida no final.
+
+Não veio.
+
+— Obrigado por ter vindo — disse Marcos, na volta, parando na porta do escritório. — Eu só queria almoçar com alguém que entende o que é recomeçar. A gente fica tão no automático que esquece como é ter uma conversa de verdade.
+
+Ele sorriu, acenou, e seguiu para a mesa dele.
+
+Camila ficou parada, sentindo uma coisa que não sentia fazia tempo: alívio. Não porque o almoço tivesse sido um flerte — porque não foi. Mas porque ela tinha descoberto que podia estar com um homem, sozinha, e não precisar ser nada além de si mesma.
+
+Sem medo. Sem dívida. Sem o coração disparado de quem espera o ataque.
+
+---
+
 Você já se sentiu desejada de novo, depois de muito tempo? Não precisa virar nada. Às vezes é só um café na mesa, um "quer almoçar?", um olhar que demora meio segundo a mais. É o lembrete de que você ainda existe como mulher — além de mãe, além de profissional, além de ex.
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
@@ -4732,6 +4768,14 @@ Levou as crianças ao mercado. Deixou Léo escolher a sobremesa e Bia escolher o
 
 Bia aceitou. Léo ficou quieto, olhando pela janela.
 
+Camila se lembrou do Natal do ano anterior.
+
+Naquele Natal, o Ricardo tinha passado a ceia inteira no celular, respondendo mensagens do trabalho, e só levantou os olhos para reclamar que o peru estava seco. Camila tinha sorrido para as visitas, fingindo que não doía. Tinha servido todo mundo, recolhido os pratos, lavado a louça sozinha — e, quando a última visita foi embora, foi para o quarto chorar baixinho, com medo de acordar as crianças.
+
+Ela olhou pelo retrovisor, para os dois filhos no banco de trás.
+
+*Este Natal vai ser diferente*, pensou. *Não vai ser perfeito. Mas vai ser nosso.*
+
 ---
 
 A noite caiu. Camila cozinhou o peru (que ficou meio seco, mas ninguém reclamou). Montou a mesa com a toalha boa. Acendeu o pisca-pisca.
@@ -4967,6 +5011,38 @@ Camila sentiu os olhos arderem.
 Léo baixou a cabeça, e Camila viu duas lágrimas caírem no tampo da mesa.
 
 Ela o puxou para um abraço, e os dois ficaram ali, sem pressa, no meio da cozinha.
+
+---
+
+Na manhã seguinte, Camila encontrou Sofia sentada na mesa, comendo cereal devagar.
+
+— Mãe — disse a menina, sem levantar os olhos do prato. — Eu não vou embora, né? Com o papai?
+
+Camila parou, com a caneca na mão.
+
+— Não, meu amor. Você fica com a mamãe. E com o papai também, alguns dias. Mas a sua casa é aqui.
+
+Sofia assentiu, mastigando devagar, como se digerisse algo maior do que cereal.
+
+— É que a Lívia, da minha sala, foi morar com o pai depois que os pais dela separaram. Eu fiquei com medo.
+
+Camila sentou ao lado da filha e passou a mão no cabelo dela.
+
+— A gente não vai fazer isso, Sofia. Você e o Léo são a minha casa. Eu não vou a lugar nenhum sem vocês. Entendeu?
+
+Sofia olhou para ela, e os olhos se encheram d'água.
+
+— Mesmo se você casar com o Daniel?
+
+A pergunta pegou Camila de surpresa. Tão pequena, tão direta.
+
+— Mesmo assim — disse ela, com a voz firme. — Ninguém entra no lugar de vocês. O Daniel entra para somar, não para tirar ninguém.
+
+Sofia soltou um suspiro longo, daqueles que só criança sabe dar, e voltou a comer.
+
+— Então tá — disse ela, simples.
+
+E Camila entendeu que aquela conversa, por mais curta que fosse, tinha sido um tijolo a mais na parede da segurança dos filhos. Tijolo por tijolo, dia após dia. Era assim que se reconstruía uma família.
 
 ---
 
@@ -6593,6 +6669,34 @@ Camila beijou a testa do filho.
 
 — Ele faz, filho. Ele faz.
 
+---
+
+Naquela semana, Camila observou os filhos de um jeito novo.
+
+Bia perguntava todo dia se "o amigo da mãe" ia voltar. Léo, mais discreto, fazia perguntas indiretas: "o Daniel gosta de videogame?", "ele torce pra que time?", "ele cozinha?".
+
+Camila respondia tudo, com paciência. Porque sabia que, por trás de cada pergunta, havia uma pergunta maior: *esse homem vai ser bom pra minha mãe? Vai ser bom pra gente? Vai ficar?*
+
+E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Lembrou do dia da prova do Léo. Mandou mensagem de boa sorte na apresentação de dança da Bia. Apareceu, sem ser chamado, para ajudar a montar a estante nova.
+
+Uma tarde, Camila flagrou o Léo no quarto, desenhando. Ele desenhava sempre — mas desta vez o desenho era diferente: quatro figuras de mãos dadas, de tamanhos diferentes, embaixo de um sol grande e torto.
+
+— Quem são? — perguntou ela, sentando na cama.
+
+Léo não levantou os olhos do papel.
+
+— Nós. Eu, a Bia, você... e o Daniel.
+
+Camila sentiu a garganta fechar.
+
+— E o papai? — arriscou, com cuidado.
+
+— O papai vai ficar num desenho separado — disse Léo, simples. — Ele não mora mais com a gente.
+
+E continuou colorindo o sol.
+
+Camila entendeu, ali, que as crianças tinham encontrado um jeito próprio de acomodar a nova vida. Não era rejeição do pai. Era aceitação de que a família tinha mudado de forma. E que cabia todo mundo — só que agora, em desenhos diferentes.
+
 Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
 
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.
@@ -6669,6 +6773,32 @@ Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem 
 
 ---
 
+Naquela noite, depois do jantar, os quatro sentaram na varanda para olhar as estrelas.
+
+A cidade não tinha estrelas. O sítio tinha milhares, espalhadas como açúcar num pano preto. Léo deitou no chão de cimento, de olhos para o céu. Bia subiu no colo da mãe. Daniel ficou ao lado, calado, respeitando o momento.
+
+— Quantas estrelas você acha que tem, mãe? — perguntou Léo.
+
+— Mais do que a gente consegue contar — respondeu Camila.
+
+— E todas têm nome?
+
+— As mais importantes têm.
+
+— Então essa aqui — Léo apontou para uma, bem no centro — é a estrela da nossa família.
+
+Camila olhou para o céu, depois para o filho, depois para o homem ao seu lado.
+
+— É, filho — disse ela, com a voz embargada. — Essa aí é a nossa.
+
+E ficaram ali, os quatro, em silêncio, olhando para cima. Sem pressa. Sem medo. Como quem acabou de encontrar, no meio da noite, um pedaço de céu que ninguém podia tirar.
+
+Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
+
+E Camila, dirigindo, percebeu que aquele era o som que ela tinha procurado a vida inteira.
+
+---
+
 Você já teve medo de "misturar" as pessoas que ama? De achar que o novo não combina com o que você já tem? Eu sei que eu tive. Mas aprendi que o amor não divide — ele multiplica. E que o coração, quando a gente deixa, abre espaço para todo mundo que a gente escolhe.
 
 Naquela noite, os quatro fizeram um jantar improvisado, sentados no chão da sala, rindo de nada e de tudo.
@@ -6735,6 +6865,28 @@ Daniel a olhou com uma ternura que ela não esperava.
 
 ---
 
+Na manhã seguinte, Camila acordou com o celular vibrando.
+
+Era o Daniel. Sete e meia da manhã.
+
+*"Vou chegar às sete hoje. Reunião até as seis. Te aviso se mudar."*
+
+Camila ficou olhando para a mensagem por um longo tempo. Não era uma declaração de amor. Não era um poema. Era só um aviso banal, de rotina, de quem se comprometeu com algo pequeno e cumpriu.
+
+E, ainda assim, ela chorou.
+
+Porque o Ricardo tinha passado onze anos sem nunca entender que eram exatamente essas mensagens — as pequenas, as do dia a dia, as que diziam "eu me importo com o seu sossego" — que construíam a confiança.
+
+E o Daniel tinha entendido em uma noite.
+
+Camila respondeu:
+
+*"Ok. Vou deixar o jantar quente."*
+
+E sentiu, pela primeira vez em muito tempo, que esperar alguém podia ser uma coisa boa.
+
+---
+
 Você já percebeu que a gente não briga com quem está na nossa frente? A gente briga com todos que vieram antes. A primeira briga de um amor novo é, na verdade, a última briga de um amor velho, pedindo para ser ouvida.
 
 Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve. Mas ele ficou.
@@ -6770,6 +6922,12 @@ E não sentiu raiva. Não sentiu saudade. Não sentiu nem aquele ódio antigo qu
 Sentiu... nada.
 
 Era como olhar para um colega de trabalho distante, de uma empresa onde ela não trabalhava mais.
+
+Ela se lembrou, de repente, da última vez que tinha visto o Ricardo — no dia em que ele saiu de casa, com as malas na calçada, gritando que ela tinha estragado tudo. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
+
+E agora, ali, no corredor de congelados, o estômago estava quieto.
+
+Onze anos de tempestade. E o mar, finalmente, tinha virado um lago.
 
 ---
 
@@ -6861,6 +7019,24 @@ Leu as entradas antigas.
 
 A dor daquela Camila saltava das páginas. Uma dor crua, desesperada, de um animal preso na armadilha.
 
+Ela continuou lendo, sem conseguir parar. Era como revisitar um acidente em câmera lenta.
+
+*"Hoje ele esqueceu o aniversário do Léo. Eu fiz a festa sozinha, enchi os balões sozinha, cantei parabéns sozinha. E depois disse para todo mundo que foi ótimo."*
+
+*"Ele disse que eu 'vivo no mundo da lua'. Que eu 'invento problema'. Talvez ele esteja certo. Talvez eu seja mesmo a louca."*
+
+*"Pesquisei 'como saber se meu casamento acabou' no Google, escondida, e apaguei o histórico com o coração acelerado."*
+
+Camila sentiu o rosto arder. Não de vergonha daquela mulher — de compaixão. Aquela mulher não estava louca. Estava tentando sobreviver dentro de uma casa que a silenciava, e a loucura era a única explicação que a deixavam ter.
+
+Ela leu a última entrada, escrita uma semana antes de pedir a separação. Uma linha só, tremida:
+
+*"Não sei quem eu sou sem ele."*
+
+Camila passou o dedo por cima da frase, como se pudesse acariciar a mulher que a escreveu.
+
+— Você vai descobrir — sussurrou. — Prometo que você vai descobrir.
+
 Camila pegou uma caneta nova.
 Foi para a última página em branco.
 E escreveu uma resposta. Uma carta para aquela mulher do passado.
@@ -6900,6 +7076,10 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
 *Com amor,*
 *Sua Camila inteira.*
+
+*PS: Guarde o vestido amarelo. Você vai usá-lo na exposição. E vai chorar de felicidade, não de dor.*
+
+*PS2: A primeira vez que você dormir a noite inteira sem acordar com o coração disparado, saiba: é isso que a paz parece.*
 
 ---
 
