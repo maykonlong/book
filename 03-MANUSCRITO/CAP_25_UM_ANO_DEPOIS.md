@@ -334,3 +334,21 @@ Chance real.
 Porque ele merecia. Ela merecia. Eles mereciam.
 
 E talvez fosse ali que a verdadeira cura começava.
+
+---
+
+Uma semana depois, num sábado à noite, Camila estava na porta de um restaurante italiano em Moema, alisando o vestido pela centésima vez.
+
+— Para de se arrumar, você já tá linda — sussurrou Daniel, segurando a mão dela.
+— Eu tô nervosa. E se a sua irmã não gostar de mim?
+— Impossível. A Mariana adora todo mundo. E vai adorar você mais ainda. Confia.
+
+A irmã de Daniel, Mariana, era três anos mais velha que ele, psicóloga, com uma risada alta e um abraço que esmagava. Em dez minutos, já tinha tirado da bolsa uma foto do Daniel adolescente, de aparelho nos dentes, e estava contando, entre gargalhadas, como ele chorou no primeiro fora que levou.
+
+— Mari, pelo amor de Deus — Daniel gemeu, vermelho.
+Camila riu até doer a barriga. E percebeu, no meio da risada, que não estava mais tensa. Estava... confortável. Como se aquele círculo — Daniel, Mariana, e agora ela — fizesse sentido.
+
+No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
+— Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
+
+Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, pela primeira vez, ela não teve medo de entrar.
