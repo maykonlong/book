@@ -110,7 +110,7 @@ Cada capítulo expandido segue:
 | 2 | O Aniversário Esquecido | 2.584 | manter | ✅ |
 | 3 | A Tentativa da Terapia | 1.734 | 2.200 | ⏳ |
 | 4 | As Pequenas Sabotagens | 1.522 | 2.000 | 🟡 |
-| 5 | A Conversa com Fernanda | 1.117 | 1.800 | 🟡 |
+| 5 | A Conversa com Fernanda | 1.229 | 1.800 | 🟡 |
 | 6 | A Última Tentativa | 1.335 | 2.000 | 🟡 |
 | 7 | A Gota D'água | 1.224 | 1.800 | 🟡 |
 | 8 | Eu Quero me Separar | 1.173 | 1.800 | 🟡 |

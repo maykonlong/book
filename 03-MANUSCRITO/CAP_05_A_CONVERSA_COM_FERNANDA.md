@@ -96,6 +96,10 @@ Fernanda apertou a mão dela.
 Fernanda baixou a voz, como quem conta um segredo que ainda dói um pouco.
 — Eu demorei três anos pra sair, sabia? Três anos sabendo que tinha acabado, e ficando. Sabe o que finalmente me fez ir embora? Não foi uma briga. Foi uma terça-feira comum. Cheguei do trabalho exausta, e ele nem levantou os olhos do celular pra me cumprimentar. E eu pensei: "se eu sumir agora, ele não percebe". E era verdade. Testei. Fiquei uma semana inteira fingindo que era invisível. Ele não percebeu. Aí eu entendi que já estava sozinha. Só faltava assumir.
 
+Camila ouviu e sentiu um arrepio de reconhecimento. Ela já tinha feito aquele mesmo teste, sem saber que era um teste. Nas últimas semanas, tinha começado a reparar em quanto tempo Ricardo levava para notar que ela tinha cortado o cabelo, que tinha trocado o perfume, que tinha chorado no banheiro antes de dormir. A resposta, quase sempre, era: nunca.
+
+— E o pior — continuou Fernanda — é que a gente se acostuma. A gente acha que sumir aos poucos é normal. Que ser invisível é o preço de ter uma família. Não é. — Ela olhou firme para Camila. — Invisibilidade não é o preço de nada. É o sintoma.
+
 Camila olhou para a suculenta morta.
 
 Ali, na copa, com cheiro de café velho, algo mudou. A esperança teimosa — aquela que a fazia tentar jantares e terapias — começou a dar lugar a outra coisa.
