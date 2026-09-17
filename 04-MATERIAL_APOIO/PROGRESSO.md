@@ -16,39 +16,40 @@
 ---
 
 ## ✅ ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO (Completo!)
-**Capítulos 10-21**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
+**Capítulos 10-22**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
 
 - ✅ Cap 10: O Vazio Barulhento
 - ✅ Cap 11: O Processo
-- ✅ Cap 12: A Pressão da Família
-- ✅ Cap 13: A Primeira Sessão
-- ✅ Cap 14: A Nova Rotina
-- ✅ Cap 15: Voltando a Pintar
-- ✅ Cap 16: As Pequenas Vitórias
-- ✅ Cap 17: O Grupo de Mulheres
-- ✅ Cap 18: A Culpa da Maternidade
-- ✅ Cap 19: O Aniversário de Léo
-- ✅ Cap 20: O Contraste
-- ✅ Cap 21: O Primeiro Sorriso Real
+- ✅ Cap 12: O Recomeço Financeiro (NOVO)
+- ✅ Cap 13: A Pressão da Família
+- ✅ Cap 14: A Primeira Sessão
+- ✅ Cap 15: A Nova Rotina
+- ✅ Cap 16: Voltando a Pintar
+- ✅ Cap 17: As Pequenas Vitórias
+- ✅ Cap 18: O Grupo de Mulheres
+- ✅ Cap 19: A Culpa da Maternidade
+- ✅ Cap 20: O Aniversário de Léo
+- ✅ Cap 21: O Contraste
+- ✅ Cap 22: O Primeiro Sorriso Real
 
 ---
 
 ## ✅ ATO III - ABERTURA E ENTREGA (Completo!)
-**Capítulos 22-28**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
+**Capítulos 23-29**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
 
-- ✅ Cap 22: O Encontro
-- ✅ Cap 23: A Resistência
-- ✅ Cap 24: O Fim e o Começo
-- ✅ Cap 25: Um Ano Depois: A Nova Paz
-- ✅ Cap 26: As Crianças Conhecem Daniel
-- ✅ Cap 27: Carta Para Mim Mesma
-- ✅ Cap 28: A Metade Que Me Faltava Era Eu (FINAL)
+- ✅ Cap 23: O Encontro
+- ✅ Cap 24: A Resistência
+- ✅ Cap 25: O Fim e o Começo
+- ✅ Cap 26: Um Ano Depois: A Nova Paz
+- ✅ Cap 27: As Crianças Conhecem Daniel
+- ✅ Cap 28: Carta Para Mim Mesma
+- ✅ Cap 29: A Metade Que Me Faltava Era Eu (FINAL)
 
 ---
 
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
-- **Total de capítulos escritos**: 28/28 (100%)
-- **Total de palavras**: **~45.350** (era ~37.300 antes da expansão)
+- **Total de capítulos escritos**: 29/29 (100%)
+- **Total de palavras**: **~46.250** (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.620
 - **Páginas estimadas**: ~175-195 (formato 14x21 cm)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
@@ -57,9 +58,9 @@
 | Ato | Capítulos | Palavras (aprox.) | % | Alvo |
 |---|---|---|---|---|
 | I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
-| II — Desconstrução e Redescobrimento | 10-21 | ~18.600 | 43% | 50% (~40k) |
-| III — Abertura e Entrega | 22-28 | ~10.850 | 24% | 25% (~20k) |
-| **TOTAL** | 28 | **~45.350** | 100% | ~80k |
+| II — Desconstrução e Redescobrimento | 10-22 | ~19.700 | 43% | 50% (~40k) |
+| III — Abertura e Entrega | 23-29 | ~10.850 | 23% | 25% (~20k) |
+| **TOTAL** | 29 | **~46.250** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.

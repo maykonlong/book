@@ -1,4 +1,4 @@
-# CAPÍTULO 25
+﻿# CAPÍTULO 26
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -352,3 +352,4 @@ No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 — Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
 
 Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, pela primeira vez, ela não teve medo de entrar.
+

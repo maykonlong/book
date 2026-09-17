@@ -1,4 +1,4 @@
-# CAPÍTULO 19
+﻿# CAPÍTULO 20
 ## O Aniversário de Léo
 
 Nove anos.
@@ -136,3 +136,4 @@ Ele tinha dormido desenhando. Ela pegou o caderno dele. Havia um desenho novo: d
 Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na festa, não no videogame, mas na promessa de um passeio a dois. Aquilo, ali, era o presente de verdade. Não o que se compra. O que se constrói.
 
 Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.
+

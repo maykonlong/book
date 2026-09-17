@@ -1,4 +1,4 @@
-# CAPÍTULO 20
+﻿# CAPÍTULO 21
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -115,3 +115,4 @@ Não com saudade.
 Mas como quem guarda um documento histórico de uma civilização extinta.
 Aquela Camila não existia mais.
 E a nova Camila não trocaria de lugar com ela por nada nesse mundo.
+

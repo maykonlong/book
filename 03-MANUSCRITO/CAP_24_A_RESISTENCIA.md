@@ -1,4 +1,4 @@
-# CAPÍTULO 23
+﻿# CAPÍTULO 24
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -137,3 +137,4 @@ Camila riu. Riu de verdade, alto, solto, até doer a barriga.
 — Ele falou que eu vou me arrepender de envelhecer sozinha.
 — Amiga, a única coisa pior do que envelhecer sozinha é envelhecer ao lado de quem te anula. Você escolheu certo.
 — Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu finalmente sei.
+

@@ -2718,6 +2718,96 @@ Engasgando, mas indo.
 
 
 # CAPÍTULO 12
+## O Recomeço Financeiro
+
+O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando ele, como se o papel pudesse, de alguma forma, se tornar menos assustador se ela o encarasse por tempo suficiente.
+
+Não se tornou.
+
+Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, pela primeira vez em onze anos, não havia ninguém para dividir a conta — literal e metaforicamente.
+
+Você já fez essa conta sozinha? A conta que não fecha, no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. É a conta mais solitária que existe.
+
+Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. O mês estava no dia 8.
+
+Ela fechou o aplicativo. Abriu de novo, como se esperasse que o número tivesse mudado. Não tinha.
+
+*Respira*, disse a si mesma. *Uma coisa de cada vez.*
+
+E então fez o que nunca tinha feito: sentou e listou. Não a lista mental da casa, das crianças, do Ricardo. A lista do dinheiro. De onde vinha. Para onde ia. O que dava para cortar.
+
+A lista doía mais do que qualquer outra.
+
+---
+
+O primeiro corte foi o plano de celular. Camila trocou o pós-pago pelo pré-pago mais barato que encontrou, e sentiu uma pontada de humilhação ao confirmar a mudança — como se a operadora inteira estivesse vendo que ela estava no vermelho.
+
+O segundo corte foi a TV a cabo. Cancelou. Explicou para as crianças que "a gente não precisa de quinhentos canais para ser feliz". Bia aceitou. Léo fez uma cara que Camila escolheu não interpretar.
+
+O terceiro corte foi mais difícil: a natação do Léo. Ele amava aquela aula. Camila adiou a decisão por uma semana inteira, até que a professora mandou o boleto do mês seguinte e ela percebeu que não tinha escolha.
+
+— Filho, a gente vai dar uma pausa na natação, tá? — ela disse, ajoelhada na frente dele, odiando cada palavra. — Só por um tempinho. Até a mamãe se organizar.
+
+— Tá bom, mãe. — Léo deu de ombros, mas os olhos dele disseram outra coisa. Os olhos de criança entendem mais do que a boca.
+
+Naquela noite, Camila chorou no chuveiro. Não por causa da natação. Por causa de tudo o que a natação representava: a ilusão, enfim desfeita, de que ela conseguiria manter a vida dos filhos intacta. Não conseguiria. E isso doía mais do que qualquer boleto.
+
+---
+
+Foi a Fernanda quem deu a ideia.
+
+— Você cozinha bem, Cá. De verdade. Já pensou em vender bolo no pote?
+
+Camila riu, achando que era piada.
+
+— Eu, vendendo bolo? Fernanda, eu mal dou conta do meu emprego.
+
+— Não é pra largar o emprego. É pra complementar. — Fernanda deu de ombros. — Eu vendi brigadeiro gourmet no primeiro ano pós-divórcio. Pagava o aluguel. Depois larguei, quando o salário cobriu.
+
+Camila ficou olhando para a amiga, processando. Bolo no pote. Ela, a "coordenadora de marketing", vendendo bolo no pote.
+
+*E daí?* — uma voz dentro dela rebateu. *Orgulho não paga condomínio.*
+
+Naquela semana, Camila fez o primeiro teste. Comprou os ingredientes com o cartão (sentindo o estômago revirar a cada centavo), passou a noite de sábado assando, e no domingo de manhã postou no grupo do prédio:
+
+*"Bolo no pote caseiro. R$ 8,00. Entrega no condomínio."*
+
+Depois desligou o celular e foi esconder a cara no travesseiro, morrendo de vergonha.
+
+Quando voltou, havia sete pedidos.
+
+---
+
+Sete viraram quinze. Quinze viraram uma clientela fixa. Camila descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
+
+Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, sem depender de ninguém, sem esperar o Ricardo cumprir a promessa de pensão que, até agora, não tinha cumprido.
+
+E, aos poucos, a conta que não fechava começou a fechar. Não folgada. Apertada, no limite, mas fechando.
+
+Você já sentiu isso? A dignidade de ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. É uma dignidade que ninguém tira.
+
+---
+
+Na última quinta-feira do mês, Camila sentou de novo com a planilha aberta. O saldo agora era outro. Ainda pequeno. Mas as contas estavam pagas. A natação do Léo ainda não tinha voltado. O celular ainda era pré-pago. Mas havia uma diferença crucial:
+
+Ela não estava mais com medo do dia 8.
+
+Porque agora ela sabia que, se tudo desabasse, ela tinha as mãos. Tinha o fogão. Tinha a receita do bolo de cenoura.
+
+E tinha, principalmente, a certeza — dura como uma pedra no peito — de que nunca mais deixaria outra pessoa cuidar do dinheiro da sua vida.
+
+---
+
+Mas a pergunta que ainda não tinha resposta, e que Camila carregava como uma pedra no sapato, era outra:
+
+E o apartamento? Aquele que o Ricardo queria vender para pegar a parte dele. Aquele que guardava os tracinhos de lápis na parede da cozinha, a marca da altura do Léo a cada aniversário.
+
+O bolo no pote pagava as contas do mês. Mas não pagava a parte do Ricardo no imóvel.
+
+E o prazo, Camila sabia, estava correndo.
+
+
+# CAPÍTULO 13
 ## A Pressão da Família
 
 Domingo é o dia oficial da família. E, consequentemente, o dia oficial da cobrança para quem quebrou a família.
@@ -2884,7 +2974,7 @@ Não estava mais sozinha. Tinha a mãe. E tinha a si mesma.
 E isso, descobriu ela, era um exército e tanto.
 
 
-# CAPÍTULO 13
+# CAPÍTULO 14
 ## A Primeira Sessão
 
 Camila quase não foi.
@@ -3058,7 +3148,7 @@ Ela guardou o papel na carteira.
 Ligou o carro e dirigiu de volta para o vazio barulhento de sua casa, mas agora com uma pequena, minúscula, missão secreta no bolso.
 
 
-# CAPÍTULO 14
+# CAPÍTULO 15
 ## A Nova Rotina
 
 A casa tem uma maneira cruel de lembrar a mulher divorciada de que ela está sozinha.
@@ -3486,7 +3576,7 @@ E movimento era vida.
 E ela estava finalmente vivendo de novo.
 
 
-# CAPÍTULO 15
+# CAPÍTULO 16
 ## Voltando a Pintar
 
 A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer algo só por você.*
@@ -3621,7 +3711,7 @@ Naquela noite, ela não sonhou com boletos.
 Sonhou que estava nadando em um mar de azul cobalto, e que sabia respirar debaixo d'água.
 
 
-# CAPÍTULO 16
+# CAPÍTULO 17
 ## As Pequenas Vitórias
 
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
@@ -4007,7 +4097,7 @@ E por cada pequena vitória que provava:
 Ela tinha feito certo.
 
 
-# CAPÍTULO 17
+# CAPÍTULO 18
 ## O Grupo de Mulheres
 
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
@@ -4127,7 +4217,7 @@ Antes de dormir, ela puxou o caderno e anotou uma única linha:
 Depois apagou a luz e dormiu sem peso no peito, pela primeira vez em meses.
 
 
-# CAPÍTULO 18
+# CAPÍTULO 19
 ## A Culpa da Maternidade
 
 Léo tinha apresentação na escola.
@@ -4493,7 +4583,7 @@ Imperfeita. Honesta. Presente.
 E era suficiente.
 
 
-# CAPÍTULO 19
+# CAPÍTULO 20
 ## O Aniversário de Léo
 
 Nove anos.
@@ -4633,7 +4723,7 @@ Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na
 Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.
 
 
-# CAPÍTULO 20
+# CAPÍTULO 21
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -4752,7 +4842,7 @@ Aquela Camila não existia mais.
 E a nova Camila não trocaria de lugar com ela por nada nesse mundo.
 
 
-# CAPÍTULO 21
+# CAPÍTULO 22
 ## O Primeiro Sorriso Real
 
 A exposição no ateliê.
@@ -4886,7 +4976,7 @@ Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 
 
-# CAPÍTULO 22
+# CAPÍTULO 23
 ## O Encontro
 
 Quase um ano depois de Ricardo sair de casa.
@@ -5265,7 +5355,7 @@ Camila dirigiu para casa cantando.
 Sozinha. E muito bem acompanhada de si mesma.
 
 
-# CAPÍTULO 23
+# CAPÍTULO 24
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -5406,7 +5496,7 @@ Camila riu. Riu de verdade, alto, solto, até doer a barriga.
 — Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu finalmente sei.
 
 
-# CAPÍTULO 24
+# CAPÍTULO 25
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
@@ -5752,7 +5842,7 @@ Mas esperança mesmo assim.
 E isso era um começo.
 
 
-# CAPÍTULO 25
+# CAPÍTULO 26
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -6108,7 +6198,7 @@ No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, pela primeira vez, ela não teve medo de entrar.
 
 
-# CAPÍTULO 26
+# CAPÍTULO 27
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -6196,7 +6286,7 @@ Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era m
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.
 
 
-# CAPÍTULO 27
+# CAPÍTULO 28
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -6258,7 +6348,7 @@ Pela mulher que ela teve que matar para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
 
-# CAPÍTULO 28
+# CAPÍTULO 29
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.

@@ -1,4 +1,4 @@
-# CAPÍTULO 15
+﻿# CAPÍTULO 16
 ## Voltando a Pintar
 
 A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer algo só por você.*
@@ -131,3 +131,4 @@ Foi dormir com cheiro de tinta guache (ok, aquarela não tem cheiro, mas a memó
 
 Naquela noite, ela não sonhou com boletos.
 Sonhou que estava nadando em um mar de azul cobalto, e que sabia respirar debaixo d'água.
+

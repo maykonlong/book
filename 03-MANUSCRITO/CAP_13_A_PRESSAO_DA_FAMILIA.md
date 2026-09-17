@@ -1,4 +1,4 @@
-# CAPÍTULO 12
+﻿# CAPÍTULO 13
 ## A Pressão da Família
 
 Domingo é o dia oficial da família. E, consequentemente, o dia oficial da cobrança para quem quebrou a família.
@@ -163,3 +163,4 @@ Camila saiu da casa da mãe em Santo Amaro pisando leve.
 Não estava mais sozinha. Tinha a mãe. E tinha a si mesma.
 
 E isso, descobriu ela, era um exército e tanto.
+
