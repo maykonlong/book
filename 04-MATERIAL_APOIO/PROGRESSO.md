@@ -92,7 +92,7 @@
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado (1.282 → 1.302)
 - [16/09] **CAP 25 "A Resistência"** — manhã seguinte, a leveza (1.244 → 1.326)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** — 2ª passada: "eu voltei" no reflexo (1.275 → 1.416)
-- [16/09] **CAP 20 "O Contraste"** — 2ª passada: demolição do molde (1.148 → 1.248)
+- [16/09] **CAP 22 "O Contraste"** — "essa aí eu enterrei hoje" (1.248 → 1.336)
 - [16/09] **CAP 19 "O Aniversário de Léo"** — 2ª passada: desenho "eu e a minha mãe na espozição" (1.167 → 1.357)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** — 2ª passada: invisibilidade é o sintoma (1.117 → 1.229)
 - [16/09] **CAP 8 "Eu Quero me Separar"** — 2ª passada: "com quem quero passar a vida" (1.173 → 1.244)

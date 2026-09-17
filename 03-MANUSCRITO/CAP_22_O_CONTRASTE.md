@@ -116,4 +116,16 @@ Mas como quem guarda um documento histórico de uma civilização extinta.
 Aquela Camila não existia mais.
 E a nova Camila não trocaria de lugar com ela por nada nesse mundo.
 
+Antes de fechar a caixa, Camila pegou o celular e tirou uma foto daquela Camila antiga — a da boneca de porcelana. Não para guardar. Para lembrar de onde tinha vindo.
+
+Depois, mandou para Fernanda, com uma legenda:
+*"Essa aí eu enterrei hoje."*
+
+Fernanda respondeu em segundos:
+*"Descansa em paz. E viva a nova."*
+
+Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
+
+Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
+
 
