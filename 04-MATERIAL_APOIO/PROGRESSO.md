@@ -88,7 +88,7 @@
 - [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado (1.054 → 1.094)
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado (1.282 → 1.302)
 - [16/09] **CAP 23 "A Resistência"** — 2ª passada: chantagem dos filhos (1.105 → 1.198)
-- [16/09] **CAP 21 "O Primeiro Sorriso Real"** — 2ª passada: cena da compradora + Paula (1.019 → 1.275)
+- [16/09] **CAP 21 "O Primeiro Sorriso Real"** — 2ª passada: "eu voltei" no reflexo (1.275 → 1.416)
 - [16/09] **CAP 20 "O Contraste"** — 2ª passada: demolição do molde (1.148 → 1.248)
 - [16/09] **CAP 19 "O Aniversário de Léo"** — 2ª passada: desenho "eu e a minha mãe na espozição" (1.167 → 1.357)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado — 2ª passada (1.021 → 1.117)

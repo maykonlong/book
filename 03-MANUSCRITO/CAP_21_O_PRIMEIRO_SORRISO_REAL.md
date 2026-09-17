@@ -101,6 +101,16 @@ Ela saiu para a calçada do ateliê para tomar um ar.
 A noite estava fresca.
 Camila fechou os olhos e sentiu o vento.
 
+E, ali, sozinha na calçada, ela fez uma coisa que não fazia havia muito tempo: lembrou de quem era antes do Ricardo, antes dos boletos, antes do medo. Lembrou da menina que pintava no chão do quarto alugado, que recitava Neruda nos saraus da Vila Madalena, que ria alto e sonhava sem pedir licença.
+
+Aquela menina não tinha morrido, afinal. Tinha só ficado muito quieta, esperando um momento seguro para voltar. E aquele era o momento.
+
+Camila abriu os olhos e olhou para o próprio reflexo no vidro escuro do ateliê. A mulher que olhava de volta não era a esposa cansada, nem a mãe culpada, nem a funcionária apagada. Era uma artista. Uma mulher inteira, de pé, que tinha transformado a dor em cor e a cor em recomeço.
+
+— Eu voltei — sussurrou para o próprio reflexo.
+
+E sorriu.
+
 E sorriu.
 Não para alguém.
 Para ela mesma.
