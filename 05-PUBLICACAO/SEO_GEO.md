@@ -65,3 +65,17 @@
 - [ ] Criar perfis nas redes e linkar no site (Instagram, TikTok).
 - [ ] Publicar a **sinopse** também na Amazon, Goodreads e Skoob (mais fontes = mais chances de a IA citar).
 - [ ] Pedir avaliações/resenhas (aumentam autoridade).
+
+---
+
+## 7. Nível master (adições avançadas — já implementadas)
+
+- ✅ **JSON-LD enriquecido:** `Book` completo (páginas, público-alvo, temas, oferta, ação de leitura) + `Person` (autora) + `WebSite` + `FAQPage` com **6 perguntas**.
+- ✅ **FAQ ampliada** na página (6 perguntas visíveis, casando com o markup).
+- ✅ **Seção "Trechos do livro"** — citações marcantes (compartilháveis e citáveis por IA).
+- ✅ **`llms.txt`** — padrão de descoberta de conteúdo por IAs/LLMs (llmstxt.org).
+- ✅ **`manifest.json`** — PWA (nome, tema, cores) para "instalar" o site.
+- ✅ **Favicon** (SVG embutido) e meta tags da **Apple**.
+- ✅ **Open Graph com dimensões** (1200×630) e `og:image:alt`.
+
+> Com isso, o livro tem **entidade clara e consistente** (título + autora + temas + público), o que faz o Google e as IAs (ChatGPT, Gemini, Perplexity) conseguirem **referenciar o livro para "toda mulher"** que buscar por recomeço, divórcio e amor-próprio.

@@ -24,6 +24,13 @@
 <meta name="twitter:title" content="A Metade Que Me Faltava Era Eu — Mariana Duarte">
 <meta name="twitter:description" content="A jornada de uma mulher que cansou de ser a única a tentar.">
 <meta name="twitter:image" content="https://SEU-DOMINIO.com.br/capa.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Capa do livro A Metade Que Me Faltava Era Eu">
+<meta name="apple-mobile-web-app-title" content="A Metade">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23b0432e'/%3E%3C/svg%3E">
+<link rel="manifest" href="/manifest.json">
 <title>A Metade Que Me Faltava Era Eu — Mariana Duarte</title>
 <style>
 :root {
@@ -69,6 +76,7 @@ h2 { font-size: 1.3rem; margin: 0 0 16px; }
 .faq details { border: 1px solid var(--line); border-radius: 8px; margin: 0 0 12px; padding: 0 16px; }
 .faq summary { cursor: pointer; font-weight: bold; padding: 14px 0; }
 .faq details p { color: var(--muted); margin: 0 0 14px; }
+.quotes blockquote { font-style: italic; font-size: 1.05rem; border-left: 3px solid var(--accent); padding-left: 16px; margin: 0 0 18px; }
 footer { padding: 40px 0 56px; text-align: center; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); }
 footer .socials a { color: var(--muted); margin: 0 6px; text-decoration: none; }
 footer .socials a:hover { color: var(--accent); }
@@ -89,33 +97,57 @@ footer .socials a:hover { color: var(--accent); }
       "@id": "https://SEU-DOMINIO.com.br/#livro",
       "name": "A Metade Que Me Faltava Era Eu",
       "alternateName": "A jornada de uma mulher que cansou de ser a única a tentar",
-      "author": { "@type": "Person", "name": "Mariana Duarte", "url": "https://SEU-DOMINIO.com.br/" },
+      "author": { "@id": "https://SEU-DOMINIO.com.br/#autora" },
       "inLanguage": "pt-BR",
-      "genre": ["Ficção feminina", "Women's Fiction", "Drama contemporâneo"],
+      "genre": ["Ficção feminina", "Women's Fiction", "Drama contemporâneo", "Romance"],
       "keywords": "ficção feminina, autodescoberta, empoderamento feminino, divórcio, recomeço, amor-próprio, carga mental, maternidade",
-      "description": "A história de Camila, uma mulher casada há onze anos que carrega sozinha a casa, os filhos e a carga mental do casamento — e decide se divorciar para se reencontrar.",
+      "description": "A história de Camila, uma mulher de 34 anos, casada há onze anos, que carrega sozinha a casa, os filhos e a carga mental do casamento — e decide se divorciar para se reencontrar.",
       "datePublished": "2026",
-      "publisher": "Mariana Duarte"
+      "publisher": { "@type": "Organization", "name": "Mariana Duarte" },
+      "numberOfPages": "240",
+      "audience": { "@type": "PeopleAudience", "suggestedGender": "female", "suggestedMinAge": 28, "suggestedMaxAge": 55 },
+      "about": [
+        { "@type": "Thing", "name": "Divórcio" },
+        { "@type": "Thing", "name": "Amor-próprio" },
+        { "@type": "Thing", "name": "Autodescoberta" },
+        { "@type": "Thing", "name": "Carga mental feminina" },
+        { "@type": "Thing", "name": "Empoderamento feminino" }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "BRL",
+        "price": "0.00",
+        "url": "https://SEU-DOMINIO.com.br/ler.html"
+      },
+      "potentialAction": { "@type": "ReadAction", "target": "https://SEU-DOMINIO.com.br/ler.html" }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://SEU-DOMINIO.com.br/#autora",
+      "name": "Mariana Duarte",
+      "jobTitle": "Escritora",
+      "url": "https://SEU-DOMINIO.com.br/",
+      "description": "Escreve sobre mulheres que se recusam a desaparecer dentro da própria vida."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://SEU-DOMINIO.com.br/#site",
+      "name": "A Metade Que Me Faltava Era Eu",
+      "url": "https://SEU-DOMINIO.com.br/",
+      "inLanguage": "pt-BR",
+      "publisher": { "@id": "https://SEU-DOMINIO.com.br/#autora" }
     },
     {
       "@type": "FAQPage",
       "@id": "https://SEU-DOMINIO.com.br/#faq",
       "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Sobre o que é o livro A Metade Que Me Faltava Era Eu?",
-          "acceptedAnswer": { "@type": "Answer", "text": "É a história de Camila, uma mulher casada há onze anos que carrega sozinha a casa, os filhos e a carga mental do casamento — e decide se divorciar para se reencontrar." }
-        },
-        {
-          "@type": "Question",
-          "name": "Para quem é este livro?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Para mulheres de 28 a 45 anos, casadas ou separadas, que buscam identificação, empoderamento e uma história de recomeço e amor-próprio." }
-        },
-        {
-          "@type": "Question",
-          "name": "Onde posso ler A Metade Que Me Faltava Era Eu?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Você pode ler online grátis no site e, em breve, comprar na Amazon em eBook e impresso." }
-        }
+        { "@type": "Question", "name": "Sobre o que é o livro A Metade Que Me Faltava Era Eu?", "acceptedAnswer": { "@type": "Answer", "text": "É a história de Camila, uma mulher casada há onze anos que carrega sozinha a casa, os filhos e a carga mental do casamento — e decide se divorciar para se reencontrar." } },
+        { "@type": "Question", "name": "Para quem é este livro?", "acceptedAnswer": { "@type": "Answer", "text": "Para mulheres de 28 a 45 anos, casadas ou separadas, que buscam identificação, empoderamento e uma história de recomeço e amor-próprio." } },
+        { "@type": "Question", "name": "Onde posso ler A Metade Que Me Faltava Era Eu?", "acceptedAnswer": { "@type": "Answer", "text": "Você pode ler online grátis no site e, em breve, comprar na Amazon em eBook e impresso." } },
+        { "@type": "Question", "name": "O livro é baseado em uma história real?", "acceptedAnswer": { "@type": "Answer", "text": "É ficção, mas inspirada em histórias reais de mulheres que carregaram o mundo sozinhas." } },
+        { "@type": "Question", "name": "O que significa o título A Metade Que Me Faltava Era Eu?", "acceptedAnswer": { "@type": "Answer", "text": "Significa que a metade que a protagonista procurava em outras pessoas sempre esteve dentro dela — a descoberta do amor-próprio." } },
+        { "@type": "Question", "name": "Quem é a autora Mariana Duarte?", "acceptedAnswer": { "@type": "Answer", "text": "Mariana Duarte é escritora de ficção feminina, e este é seu romance de estreia." } }
       ]
     }
   ]
@@ -175,6 +207,21 @@ footer .socials a:hover { color: var(--accent); }
       <summary>É baseado em uma história real?</summary>
       <p>É ficção, mas inspirada em histórias reais de mulheres que carregaram o mundo sozinhas.</p>
     </details>
+    <details>
+      <summary>O que significa o título?</summary>
+      <p>Que a metade que a protagonista procurava em outras pessoas sempre esteve dentro dela — a descoberta do amor-próprio.</p>
+    </details>
+    <details>
+      <summary>Quem é a autora Mariana Duarte?</summary>
+      <p>Escritora de ficção feminina; "A Metade Que Me Faltava Era Eu" é seu romance de estreia.</p>
+    </details>
+  </section>
+
+  <section class="quotes">
+    <h2>Trechos do livro</h2>
+    <blockquote>"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim."</blockquote>
+    <blockquote>"Ela não ia mais regar cadáveres."</blockquote>
+    <blockquote>"Amor que a gente tem que conquistar não é amor. É dívida."</blockquote>
   </section>
 
   <footer>

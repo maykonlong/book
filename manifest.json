@@ -1,0 +1,10 @@
+{
+  "name": "A Metade Que Me Faltava Era Eu",
+  "short_name": "A Metade",
+  "description": "A jornada de uma mulher que cansou de ser a única a tentar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf6ee",
+  "theme_color": "#b0432e",
+  "lang": "pt-BR"
+}
