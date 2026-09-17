@@ -4918,6 +4918,70 @@ E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha co
 
 
 # CAPÍTULO 23
+## O Dia em Que Léo Perguntou Sobre o Pai
+
+Foi numa terça-feira à noite, quando Camila estava arrumando a cozinha e Léo apareceu na porta, com aquele jeito de quem ensaiava a pergunta fazia tempo.
+
+— Mãe — disse ele, e a voz saiu mais baixa do que o normal. — Por que o pai foi embora?
+
+Camila fechou a torneira devagar, como se o tempo a ajudasse a achar as palavras certas.
+
+Léo tinha nove anos. Sofia, seis. Eles tinham ouvido "a gente não se ama mais", "não foi culpa de vocês", "o pai vai continuar amando vocês". Mas, como toda criança, ele tinha guardado a pergunta que doía mais: *por quê?*
+
+E, naquela noite, ela saiu.
+
+---
+
+Camila enxugou as mãos e sentou na mesa, puxando a cadeira ao lado para o filho.
+
+— Por que você quer saber agora? — perguntou ela, sem pressa.
+
+Léo deu de ombros.
+
+— Porque o pai liga, mas não vem. E quando vem, fica mexendo no celular. E eu fico achando que... — ele parou, mordeu o lábio. — Que foi por minha causa.
+
+O coração de Camila apertou.
+
+*Claro.* Ela devia ter imaginado. Criança sempre acha que é por causa dela.
+
+— Léo — disse ela, segurando a mão do filho —, escuta o que eu vou te dizer, e escuta com atenção. O seu pai não foi embora por causa de você. Nem da Sofia. Ele foi embora porque... a gente deixou de saber ficar junto. Isso é coisa de adulto. Nunca foi, e nunca vai ser, culpa de vocês.
+
+— Mas ele não sente falta? — A voz de Léo falhou.
+
+— Sente. Ele só não sabe muito bem como mostrar. — Camila escolheu as palavras com cuidado. — E isso é uma coisa que ele precisa resolver. Não você.
+
+---
+
+Houve um silêncio. Do tipo que as mães aprendem a respeitar.
+
+— Mãe? — Léo chamou de novo, depois de um tempo.
+
+— Oi?
+
+— Eu ainda posso gostar dele? Mesmo ele tendo ido embora?
+
+Camila sentiu os olhos arderem.
+
+— Pode — disse ela, e a voz saiu firme, mesmo com o nó na garganta. — Você pode amar o seu pai o quanto quiser. Isso não me machuca. Isso não diminui o meu amor por você. Na verdade... — ela engoliu — ...me deixa mais orgulhosa ainda.
+
+Léo baixou a cabeça, e Camila viu duas lágrimas caírem no tampo da mesa.
+
+Ela o puxou para um abraço, e os dois ficaram ali, sem pressa, no meio da cozinha.
+
+---
+
+Você já precisou explicar para um filho uma dor que nem você entende direito? É o trabalho mais difícil do mundo. Porque a gente quer proteger, mas não pode mentir. Quer consolar, mas não tem resposta.
+
+Naquela noite, Camila não tinha todas as respostas. Mas tinha os braços. E, às vezes, é disso que uma criança precisa — de braços que não soltam, mesmo quando o mundo inteiro parece soltar.
+
+— Te amo, mãe — sussurrou Léo, abafado contra o ombro dela.
+
+— E eu te amo mais do que você vai conseguir entender um dia — respondeu Camila, apertando-o ainda mais.
+
+Lá fora, a noite seguia. Mas dentro daquela cozinha, uma ferida pequena começava, devagar, a cicatrizar.
+
+
+# CAPÍTULO 24
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -5048,7 +5112,7 @@ Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
 
-# CAPÍTULO 24
+# CAPÍTULO 25
 ## O Primeiro Sorriso Real
 
 A exposição no ateliê.
@@ -5188,7 +5252,7 @@ Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 
 
-# CAPÍTULO 25
+# CAPÍTULO 26
 ## O Encontro
 
 Quase um ano depois de Ricardo sair de casa.
@@ -5575,7 +5639,7 @@ Camila dirigiu para casa cantando.
 Sozinha. E muito bem acompanhada de si mesma.
 
 
-# CAPÍTULO 26
+# CAPÍTULO 27
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -5726,7 +5790,7 @@ Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou 
 E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
 
 
-# CAPÍTULO 27
+# CAPÍTULO 28
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
@@ -6082,7 +6146,7 @@ Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio 
 Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
 
 
-# CAPÍTULO 28
+# CAPÍTULO 29
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -6446,7 +6510,7 @@ Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha 
 E essa era, talvez, a maior vitória de todas.
 
 
-# CAPÍTULO 29
+# CAPÍTULO 30
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -6534,7 +6598,7 @@ Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era m
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.
 
 
-# CAPÍTULO 30
+# CAPÍTULO 31
 ## A Primeira Viagem a Três
 
 O carro estava quieto demais.
@@ -6614,7 +6678,7 @@ E Camila, olhando para aquela mesa torta, pensou:
 *É isso. É disso que era feita a felicidade o tempo todo.*
 
 
-# CAPÍTULO 31
+# CAPÍTULO 32
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.
@@ -6680,7 +6744,7 @@ E ela aprendeu, aos poucos, que conflito não é abandono. Que brigar não é o 
 O Ricardo nunca tinha ensinado isso. O Daniel, sim.
 
 
-# CAPÍTULO 32
+# CAPÍTULO 33
 ## O Reencontro
 
 Aconteceu num sábado de manhã, no corredor de congelados do mercado do bairro. Camila estava escolhendo entre duas marcas de ervilha — a mais barata ou a que as crianças realmente comiam — quando ouviu a voz.
@@ -6784,7 +6848,7 @@ Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilh
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, finalmente, tinha passado.
 
 
-# CAPÍTULO 33
+# CAPÍTULO 34
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -6846,7 +6910,7 @@ Pela mulher que ela teve que matar para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
 
-# CAPÍTULO 34
+# CAPÍTULO 35
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.

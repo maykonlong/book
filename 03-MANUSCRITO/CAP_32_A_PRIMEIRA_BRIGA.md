@@ -1,4 +1,4 @@
-# CAPÍTULO 31
+﻿# CAPÍTULO 32
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.
