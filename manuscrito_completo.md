@@ -5229,6 +5229,14 @@ Fazia quanto tempo que ela se permitia ser interessante?
 
 Guardou o bilhete na bolsa. Tentou não pensar mais nisso.
 
+Não conseguiu.
+
+Pelo resto da noite, enquanto ajudava a desmontar a exposição, o bilhete pareceu queimar no fundo da bolsa. Cada vez que Camila mexia para pegar algo, seus dedos roçavam o papel dobrado, e o coração dava um salto — pequeno, involuntário, irritante.
+
+Ela se pegou pensando no que havia de tão desconcertante naquele gesto. Não era a cantada. Era a ausência de pressão. *"Sem pressão. Só se você quiser."* Onze anos de casamento a tinham ensinado que todo gesto de homem vinha com cobrança embutida. E aquele bilhete — aquele bilhete simples, educado, que pedia nada — tinha desmontado uma crença que ela nem sabia que carregava.
+
+Talvez existissem homens que davam sem esperar em troca. Talvez.
+
 Mas quando chegou em casa, sozinha (crianças com Ricardo), pegou o celular.
 
 Salvou o número.
@@ -5973,6 +5981,16 @@ Mas esperança mesmo assim.
 
 E isso era um começo.
 
+Naquela noite, Camila não conseguiu dormir. Não de insônia — de um tipo de agitação que ela quase não reconhecia mais.
+
+Ela ficou deitada no escuro, repassando a noite: o café derramado, a risada de Daniel, a mão dele acenando na calçada quando se despediram. E sentiu, no peito, uma coisa que não sentia desde a juventude.
+
+Ansiedade boa. Borboletas. Aquele frio na barriga de quem está prestes a começar algo que pode dar certo.
+
+Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio recém-assinado — e ali estava ela, com borboletas no estômago, como uma adolescente.
+
+Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
+
 
 # CAPÍTULO 27
 ## Um Ano Depois: A Nova Paz
@@ -6328,6 +6346,14 @@ No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 — Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
 
 Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, pela primeira vez, ela não teve medo de entrar.
+
+No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem finalmente parou de ensaiar e começou a viver.
+
+Camila olhou para o perfil dele, iluminado de relance pelos postes. E se perguntou, com um espanto doce, como tinha passado tantos anos sem saber que existiam homens assim. Homens que ligavam no dia seguinte. Que perguntavam "como foi seu dia?" e esperavam a resposta. Que dividiam a conta sem fazer drama, que respeitavam o "não", que não confundiam amor com posse.
+
+Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha que merece. Naquela noite, segurando a mão de Daniel, Camila entendeu: ela finalmente achava que merecia o amor bom.
+
+E essa era, talvez, a maior vitória de todas.
 
 
 # CAPÍTULO 28
