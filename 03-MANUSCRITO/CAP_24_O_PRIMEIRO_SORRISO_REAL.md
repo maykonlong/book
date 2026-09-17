@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 23
+﻿# CAPÍTULO 24
 ## O Primeiro Sorriso Real
 
 A exposição no ateliê.
@@ -136,5 +136,6 @@ Mas, puta merda, ela estava *livre*.
 E pela primeira vez em anos, o futuro não parecia um túnel escuro.
 Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
+
 
 

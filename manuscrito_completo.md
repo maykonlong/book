@@ -4119,6 +4119,82 @@ Ela tinha feito certo.
 
 
 # CAPÍTULO 18
+## O Colega do Trabalho
+
+Voltar ao escritório depois do divórcio foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
+
+Na primeira semana, ela pegou três pessoas interrompendo a conversa quando ela se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
+
+Você já voltou a um lugar onde todos sabiam da sua vida? É como andar de vestido de noiva no metrô: você não fez nada errado, mas todo mundo olha.
+
+---
+
+Foi o Marcos quem quebrou o gelo — do jeito dele.
+
+Marcos era o colega de contas, quarenta anos, divorciado, com um sorriso fácil e um talento nato para flertes leves que não comprometiam ninguém. Na quinta-feira, ele passou pela baia de Camila e largou um café na mesa dela.
+
+— Tá com cara de quem precisa — disse ele, sem parar.
+
+— Eu não pedi — respondeu Camila, desconfiada.
+
+— Por isso mesmo. — Ele piscou e seguiu andando.
+
+Camila ficou olhando para o café. Era um capuccino, do jeito que ela gostava. Ela nem sabia que ele sabia.
+
+*Calma*, pensou ela. *Ele é só um colega simpático. Nem todo gesto é um sinal de alerta. Nem todo homem é o Ricardo.*
+
+Mas o coração dela, treinado por onze anos para desconfiar, demorou a acreditar.
+
+---
+
+No almoço, foi a Ana quem sentou ao lado dela.
+
+Ana era casada, quarenta e poucos, mãe de dois, e tinha aquele jeito calmo de quem já passou por muita coisa e não julga ninguém.
+
+— Ignora o pessoal da copa — disse Ana, baixinho, sem tirar os olhos do próprio prato. — Gente fofoqueira tem memória curta. Daqui a um mês arrumam outra vida para comentar.
+
+— Você ouviu? — Camila perguntou, sentindo o rosto esquentar.
+
+— Todo mundo ouviu, Cá. Mas o que importa é o que VOCÊ acha da sua vida. E, pelo que eu vejo, você tá mais leve. — Ana olhou para ela, finalmente. — Isso assusta quem ficou.
+
+Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para ela de verdade, como pessoa, e não como a "coordenadora" ou a "mãe divorciada".
+
+— Obrigada, Ana — disse ela, e era sincero.
+
+---
+
+Na sexta-feira, o Marcos tentou de novo. Dessa vez, esperou Camila na saída do elevador.
+
+— Então... — ele começou, com aquele sorriso. — Eu ia perguntar se você quer almoçar qualquer dia. Só almoço. Sem pressão.
+
+*Sem pressão.* A expressão que o Daniel usava.
+
+Camila quase recusou por reflexo. Onze anos de "não" automático, de achar que todo convite vinha com uma cobrança escondida.
+
+Mas então ela pensou: *eu sou uma mulher solteira. Eu posso almoçar com quem eu quiser. Isso não é traição de ninguém. Isso não é errado.*
+
+E a resposta que saiu a surpreendeu:
+
+— Pode ser. Segunda-feira?
+
+O sorriso do Marcos se abriu, genuíno.
+
+— Segunda, então.
+
+Camila entrou no elevador sentindo uma coisa estranha, nova: leveza. Não porque o Marcos fosse especial — ele não era. Mas porque, pela primeira vez em muito tempo, ela tinha se permitido ser *vista* como uma mulher desejável, e não como a esposa cansada, a mãe sobrecarregada, a ex.
+
+E descobriu, com um espanto doce, que gostava.
+
+---
+
+Você já se sentiu desejada de novo, depois de muito tempo? Não precisa virar nada. Às vezes é só um café na mesa, um "quer almoçar?", um olhar que demora meio segundo a mais. É o lembrete de que você ainda existe como mulher — além de mãe, além de profissional, além de ex.
+
+Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
+
+E, pela primeira vez em anos, ela gostou do que viu.
+
+
+# CAPÍTULO 19
 ## O Grupo de Mulheres
 
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
@@ -4249,7 +4325,7 @@ Antes de dormir, ela puxou o caderno e anotou uma única linha:
 Depois apagou a luz e dormiu sem peso no peito, pela primeira vez em meses.
 
 
-# CAPÍTULO 19
+# CAPÍTULO 20
 ## A Culpa da Maternidade
 
 Léo tinha apresentação na escola.
@@ -4629,7 +4705,7 @@ Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da expos
 E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou, pela primeira vez, em silêncio.
 
 
-# CAPÍTULO 20
+# CAPÍTULO 21
 ## O Primeiro Natal Sozinha
 
 Dezembro chegou sem pedir licença, e Camila descobriu que o Natal tinha um peso que as outras datas não tinham.
@@ -4689,7 +4765,7 @@ E Camila foi dormir sabendo que, pela primeira vez, aquilo não era um sonho dis
 Era um plano.
 
 
-# CAPÍTULO 21
+# CAPÍTULO 22
 ## O Aniversário de Léo
 
 Nove anos.
@@ -4841,7 +4917,7 @@ O sorriso que abriu no rosto do Léo valia mais do que qualquer PlayStation.
 E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha comprado o presente mais barato, mas porque tinha comprado o presente que precisava dela para existir. O presente era só a desculpa. O verdadeiro presente era o sábado juntos.
 
 
-# CAPÍTULO 22
+# CAPÍTULO 23
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -4972,7 +5048,7 @@ Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
 
-# CAPÍTULO 23
+# CAPÍTULO 24
 ## O Primeiro Sorriso Real
 
 A exposição no ateliê.
@@ -5112,7 +5188,7 @@ Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 
 
-# CAPÍTULO 24
+# CAPÍTULO 25
 ## O Encontro
 
 Quase um ano depois de Ricardo sair de casa.
@@ -5499,7 +5575,7 @@ Camila dirigiu para casa cantando.
 Sozinha. E muito bem acompanhada de si mesma.
 
 
-# CAPÍTULO 25
+# CAPÍTULO 26
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -5650,7 +5726,7 @@ Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou 
 E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
 
 
-# CAPÍTULO 26
+# CAPÍTULO 27
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
@@ -6006,7 +6082,7 @@ Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio 
 Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
 
 
-# CAPÍTULO 27
+# CAPÍTULO 28
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -6370,7 +6446,7 @@ Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha 
 E essa era, talvez, a maior vitória de todas.
 
 
-# CAPÍTULO 28
+# CAPÍTULO 29
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -6458,7 +6534,7 @@ Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era m
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.
 
 
-# CAPÍTULO 29
+# CAPÍTULO 30
 ## O Reencontro
 
 Aconteceu num sábado de manhã, no corredor de congelados do mercado do bairro. Camila estava escolhendo entre duas marcas de ervilha — a mais barata ou a que as crianças realmente comiam — quando ouviu a voz.
@@ -6562,7 +6638,7 @@ Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilh
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, finalmente, tinha passado.
 
 
-# CAPÍTULO 30
+# CAPÍTULO 31
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -6624,7 +6700,7 @@ Pela mulher que ela teve que matar para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
 
-# CAPÍTULO 31
+# CAPÍTULO 32
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.

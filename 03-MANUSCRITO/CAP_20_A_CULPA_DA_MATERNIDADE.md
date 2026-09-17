@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 19
+﻿# CAPÍTULO 20
 ## A Culpa da Maternidade
 
 Léo tinha apresentação na escola.
@@ -376,4 +376,5 @@ O menino que ela temia ter destruído tinha acabado de escrever, com a própria 
 Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da exposição.
 
 E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou, pela primeira vez, em silêncio.
+
 

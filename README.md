@@ -191,9 +191,9 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Páginas totais**: ~160-180 (atual) → meta 300-330
-- **Capítulos**: 31
-- **Palavras por capítulo**: ~1.585 (atual) → meta 2.500-3.000
-- **Total**: ~49.100 palavras (atual, após 1ª + 2ª passadas de expansão + 4 capítulos novos) → meta 75.000-85.000
+- **Capítulos**: 32
+- **Palavras por capítulo**: ~1.555 (atual) → meta 2.500-3.000
+- **Total**: ~49.800 palavras (atual, após 1ª + 2ª passadas de expansão + 5 capítulos novos) → meta 75.000-85.000
 
 ### Cronograma Estimado
 | Fase | Duração | Status |

@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 18
+﻿# CAPÍTULO 19
 ## O Grupo de Mulheres
 
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
@@ -127,4 +127,5 @@ Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
 Depois apagou a luz e dormiu sem peso no peito, pela primeira vez em meses.
+
 

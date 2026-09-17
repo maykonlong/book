@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 26
+﻿# CAPÍTULO 27
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
@@ -352,5 +352,6 @@ Ansiedade boa. Borboletas. Aquele frio na barriga de quem está prestes a começ
 Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio recém-assinado — e ali estava ela, com borboletas no estômago, como uma adolescente.
 
 Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
+
 
 
