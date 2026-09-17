@@ -59,5 +59,24 @@
 
 > ⚠️ A varredura automática encontra erros óbvios, mas **não substitui** uma leitura humana em voz alta, que capta repetições de estilo, ritmo e nuances que o script não detecta.
 
+---
+
+## 🎨 Estilo — repetições detectadas (próxima passada)
+
+Varredura de frases recorrentes (o tipo de coisa que uma leitura em voz alta flagraria):
+
+| Frase | Ocorrências | Observação |
+|---|---|---|
+| "pela primeira vez" | **51** | ⚠️ muito repetido — vale variar ("enfim", "agora", "por fim", "de novo") |
+| "como se" | 58 | comum na língua, mas alto |
+| "de novo" | 41 | aceitável, revisar pontualmente |
+| "de verdade" | 35 | revisar pontualmente |
+| "finalmente" | 31 | revisar pontualmente |
+| "lágrima(s)" | 21 | revisar pontualmente |
+| "pela primeira vez em muito tempo" | 12 | ⚠️ variação redundante do acima |
+
+**Recomendação:** na leitura final, variar principalmente o **"pela primeira vez"** (51×) — é o mais perceptível para a leitora. Os demais são aceitáveis, mas podem ser suavizados onde aparecerem próximos.
+
+
 
 ---
