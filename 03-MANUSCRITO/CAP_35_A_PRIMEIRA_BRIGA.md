@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 33
+﻿# CAPÍTULO 35
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.
@@ -84,4 +84,6 @@ Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve. Mas ele f
 E ela aprendeu, aos poucos, que conflito não é abandono. Que brigar não é o fim. Que uma pessoa pode discordar de você e continuar te amando no minuto seguinte.
 
 O Ricardo nunca tinha ensinado isso. O Daniel, sim.
+
+
 

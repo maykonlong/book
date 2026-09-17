@@ -5156,6 +5156,158 @@ Lá fora, a noite seguia. Mas dentro daquela cozinha, uma ferida pequena começa
 
 
 # CAPÍTULO 25
+## O Dia das Mães
+
+Camila sempre tinha achado o Dia das Mães a data mais injusta do ano. Porque, na casa dela, "Dia das Mães" significava mais trabalho, não menos: era ela quem organizava o almoço para as duas avós, quem comprava os presentes (inclusive o "dela", que o Ricardo entregava com um "tá aí, escolhe você mesma"), quem arrumava a mesa, quem sorria nas fotos e quem lavava a louça depois.
+
+Mas aquele ano era diferente.
+
+Aquele era o primeiro Dia das Mães em que Camila era, oficialmente, uma mãe divorciada. E ela não sabia muito bem como se sentir sobre isso.
+
+---
+
+Na véspera, as crianças chegaram da escola com as mochilas cheias de segredos. Léo guardava uma sacola de mercado embaixo da cama. Bia escondia um papel dobrado dentro da meia.
+
+— Não pode olhar, mãe! — avisou Léo, com o rosto sério. — É surpresa.
+
+— Prometo que não olho — disse Camila, e era verdade. Mas o coração dela já estava apertado de um jeito bom.
+
+Você já recebeu um presente feito por mãos pequenas? Não importa se é um cartão torto ou um colar de macarrão pintado. É o tipo de coisa que a gente guarda para sempre, porque ali tem algo que dinheiro nenhum compra: o esforço de uma criança tentando te dizer "eu te amo" do jeito que sabe.
+
+---
+
+No domingo de manhã, Camila acordou com o cheiro de... alguma coisa queimando.
+
+Levantou num pulo. Correu para a cozinha.
+
+E encontrou Léo em cima de um banquinho, mexendo uma panela de leite no fogão, com a testa franzida de concentração. Bia estava ao lado, segurando uma colher enorme, coberta de achocolatado dos pés à cabeça.
+
+— MÃE! — gritaram os dois juntos. — Volta pra cama! É surpresa!
+
+Camila obedeceu, rindo, com lágrimas nos olhos. Voltou para a cama e ficou ali, esperando, ouvindo o barulho da cozinha: o leite borbulhando, uma colher caindo, sussurros de "não, deixa que eu mexo", "cuidado, vai queimar".
+
+Dez minutos depois, Léo entrou no quarto carregando uma bandeja. Bia vinha atrás, segurando o presente embrulhado.
+
+A bandeja tinha: um copo de leite com achocolatado (meio empelotado), uma torrada queimada (de um lado) e uma flor de plástico que Bia tinha tirado de um vaso da sala.
+
+Era o café da manhã mais feio do mundo.
+
+E o mais perfeito.
+
+— Feliz Dia das Mães — disseram os dois, em coro, com os olhos brilhando.
+
+Camila comeu tudo. Até a parte queimada. E disse que era o melhor café da manhã da vida dela.
+
+Porque era.
+
+---
+
+Depois do café, Bia entregou o presente embrulhado em papel de jornal.
+
+Camila abriu devagar.
+
+Dentro, havia um cartão de cartolina vermelha, todo enfeitado de cola e purpurina, com um desenho dela e das crianças de mãos dadas. E, em cima, escrito com a letra torta de Bia, uma frase:
+
+*"MAMÃE É A MELHOR DO MUNDO INTEIRO."*
+
+E, embaixo, com a letra mais firme do Léo, outra:
+
+*"Obrigado por não desistir da gente."*
+
+Camila leu. E releu. E as lágrimas vieram, quentes e silenciosas, escorrendo pelo rosto.
+
+*Obrigado por não desistir da gente.*
+
+Fazia meses que ela se perguntava se tinha feito a coisa certa. Se separar tinha sido egoísmo. Se os filhos um dia entenderiam — ou perdoariam.
+
+E ali, naquela cartolina vermelha, estava a resposta.
+
+Não era preciso perdão. Era preciso agradecimento.
+
+---
+
+Naquele ano, Camila não organizou almoço para ninguém. Não comprou presente para si mesma "porque o Ricardo esqueceu". Não lavou louça de vinte pessoas.
+
+Foi à padaria com as crianças. Comeram bolo e pão de queijo. Riram das mãos sujas de achocolatado.
+
+E, no fim do dia, quando os filhos dormiram, Camila pegou o cartão de cartolina e o pendurou na porta da geladeira, no lugar de honra.
+
+Depois, fez algo que nunca tinha feito em onze anos de Dia das Mães: deu um presente para si mesma.
+
+Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses esperando na estante, e ficou ali, em silêncio, sem culpa, sem pressa.
+
+E pensou: *hoje eu me celebro. Porque eu também fui mãe de mim mesma este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
+
+E, pela primeira vez, o Dia das Mães fez sentido.
+
+
+# CAPÍTULO 26
+## As Férias de Julho
+
+Quando as férias de julho chegaram, Camila teve um momento de pânico.
+
+Onze anos de férias com o Ricardo tinham ensinado a ela que "férias em família" era uma expressão elegante para "mais trabalho, só que em outra cidade". Era ela quem planejava tudo, arrumava as malas das crianças, separava os remédios, dirigia, organizava as refeições — enquanto o Ricardo tirava fotos e reclamava do calor.
+
+Mas agora não havia Ricardo. E, pela primeira vez, Camila percebeu que férias podiam ser... dela.
+
+— Pra onde a gente vai, mãe? — perguntou Léo, animado, espalhando mapas pela mesa.
+
+— Pra praia? — sugeriu Bia, que tinha visto um desenho de mar na escola.
+
+Camila olhou para os dois, para o mapa, para o saldo do banco (que ainda não era folgado, mas já não era desesperador). E tomou uma decisão que, um ano atrás, teria achado irresponsável:
+
+— A gente vai pra praia. Só nós três.
+
+---
+
+A viagem foi longa. Cinco horas de estrada, com paradas para xixi e para comprar biscoito de polvilho num posto à beira da estrada. Camila dirigiu o tempo todo, cantando as músicas que as crianças pediam, rindo das piadas sem graça do Léo.
+
+E percebeu, no meio do caminho, uma coisa estranha: não estava exausta.
+
+Estava... leve.
+
+Você já reparou que a exaustão da gente, às vezes, não vem do trabalho — vem da companhia? Fazer tudo sozinha, mas sem ninguém reclamando, sem ninguém criticando, sem ninguém fazendo você se sentir um estorvo... era outra coisa. Era cansaço bom, de quem está vivendo a própria vida.
+
+---
+
+A pousada era simples. Um quarto com uma cama de casal e uma beliche, cheiro de maresia e uma rede na varanda. Não era o resort que o Ricardo escolhia (e parcelava em doze vezes). Era menor, mais barato, mais... deles.
+
+No primeiro dia, Camila ensinou os filhos a boiar. Léo teve medo no começo, agarrando o braço dela com força, depois soltou e descobriu que conseguia flutuar sozinho.
+
+— MÃE, EU TÔ BOIANDO! — gritou ele, com uma alegria que atravessou a praia inteira.
+
+— Você tá! — Camila riu, aplaudindo. — Tá boiando!
+
+Bia, sentada na areia, construía um castelo com um balde furado. Camila ajudou, cavando o fosso, enchendo o balde, fazendo torres tortas.
+
+E, naquele fim de tarde, com o sol se pondo no mar e os filhos cansados e felizes ao lado dela, Camila sentiu uma paz que não sentia desde... desde antes de casar, talvez.
+
+*É isso*, pensou. *É isso que eu queria. Uma família de três, inteira, feliz, sem medo.*
+
+---
+
+À noite, os três deitaram na rede, enrolados numa toalha, olhando as estrelas (que na praia, sem a luz da cidade, pareciam mais perto). Léo contou as constelações que tinha aprendido na escola. Bia dormiu no meio da frase, com a bochecha colada no peito da mãe.
+
+— Mãe — sussurrou Léo, já com sono —, a gente pode voltar aqui nas próximas férias?
+
+— Pode, filho. Pode voltar sempre.
+
+— E o Daniel? Ele vem?
+
+Camila sorriu no escuro.
+
+— Se a gente quiser, ele vem.
+
+— Eu quero — disse Léo, simples. E fechou os olhos.
+
+Camila ficou ali, ouvindo o barulho do mar, sentindo o peso quente dos dois filhos contra o corpo.
+
+E entendeu que tinha chegado num lugar novo. Não era um lugar no mapa. Era um lugar dentro dela — onde as férias não eram mais uma obrigação a cumprir, mas um tempo a ser vivido.
+
+Ela tinha aprendido a ser feliz. Com eles. Por ela.
+
+
+# CAPÍTULO 27
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -5286,7 +5438,7 @@ Camila riu. E, pela primeira vez, olhar para o próprio passado não doeu.
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
 
-# CAPÍTULO 26
+# CAPÍTULO 28
 ## O Primeiro Sorriso Real
 
 A exposição no ateliê.
@@ -5426,7 +5578,7 @@ Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 
 
-# CAPÍTULO 27
+# CAPÍTULO 29
 ## O Encontro
 
 Quase um ano depois de Ricardo sair de casa.
@@ -5813,7 +5965,7 @@ Camila dirigiu para casa cantando.
 Sozinha. E muito bem acompanhada de si mesma.
 
 
-# CAPÍTULO 28
+# CAPÍTULO 30
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -5964,7 +6116,7 @@ Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou 
 E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
 
 
-# CAPÍTULO 29
+# CAPÍTULO 31
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
@@ -6320,7 +6472,7 @@ Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio 
 Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
 
 
-# CAPÍTULO 30
+# CAPÍTULO 32
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -6684,7 +6836,7 @@ Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha 
 E essa era, talvez, a maior vitória de todas.
 
 
-# CAPÍTULO 31
+# CAPÍTULO 33
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -6800,7 +6952,7 @@ Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era m
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.
 
 
-# CAPÍTULO 32
+# CAPÍTULO 34
 ## A Primeira Viagem a Três
 
 O carro estava quieto demais.
@@ -6906,7 +7058,7 @@ E Camila, olhando para aquela mesa torta, pensou:
 *É isso. É disso que era feita a felicidade o tempo todo.*
 
 
-# CAPÍTULO 33
+# CAPÍTULO 35
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.
@@ -6994,7 +7146,151 @@ E ela aprendeu, aos poucos, que conflito não é abandono. Que brigar não é o 
 O Ricardo nunca tinha ensinado isso. O Daniel, sim.
 
 
-# CAPÍTULO 34
+# CAPÍTULO 36
+## O Primeiro Presente
+
+Camila não esperava presentes.
+
+Onze anos com o Ricardo a tinham ensinado que presentes eram, na melhor das hipóteses, uma transferência de dinheiro ("compra você, que eu não sei o que você gosta") e, na pior, uma prova de que ele não prestava atenção ("eu vi esse perfume e lembrei de você" — de um perfume que ela nunca tinha usado na vida).
+
+Por isso, quando o Daniel apareceu com uma caixa embrulhada em papel pardo, sem data especial nenhuma, Camila desconfiou.
+
+— Que dia é hoje? — perguntou ela, tentando lembrar. — Meu aniversário é em março. Dia dos namorados é em junho. O que eu esqueci?
+
+— Nada — disse Daniel, sorrindo. — Não precisa ter data. Eu só vi uma coisa e lembrei de você.
+
+*Vi uma coisa e lembrei de você.*
+
+Camila abriu a caixa devagar, quase com medo.
+
+Dentro, havia um pincel.
+
+Não era um pincel qualquer. Era um pincel de pelo de esquilo, daquele tipo caro que os artistas guardam para ocasiões especiais. Camila tinha comentado, uma vez, de passagem, olhando a vitrine de uma loja de materiais de arte, que um dia queria ter um pincel daqueles.
+
+Uma vez. De passagem.
+
+E ele lembrou.
+
+— Como você...? — Camila começou, sem conseguir terminar.
+
+— Você falou aquele dia, na rua. Que queria um dia. Eu anotei no celular. — Ele deu de ombros, como se fosse a coisa mais natural do mundo. — Fiquei guardando pra te dar quando fizesse sentido.
+
+Camila segurou o pincel na mão, sentindo o peso leve, a maciez do pelo.
+
+E chorou.
+
+Não por causa do pincel. Por causa de tudo o que ele representava: atenção. Memória. Cuidado. As coisas que ela tinha implorado por onze anos e nunca recebido — agora chegando de graça, num papel pardo, numa terça-feira comum.
+
+---
+
+Você já percebeu que presente bom não é o que custa caro? É o que prova que alguém te escutou. Que alguém te viu. Que, no meio de um mundo barulhento, alguém guardou uma frase sua numa anotação de celular e esperou o momento certo.
+
+— Desculpa — disse Camila, enxugando o rosto, rindo de si mesma. — Eu sou péssima em receber. Não estou acostumada.
+
+— Então a gente vai praticar — respondeu Daniel, puxando-a para um abraço. — Porque eu pretendo te dar muitos presentes. E você vai ter que se acostumar a ser mimada.
+
+*Mimada.* Palavra que Camila nunca tinha ouvido na vida conjugal.
+
+Ela riu, enterrando o rosto no ombro dele.
+
+— Eu não sei ser mimada. Vou ter que aprender.
+
+— Eu tenho paciência. — Ele a apertou. — Muita.
+
+---
+
+Naquela noite, Camila foi para o ateliê e usou o pincel novo pela primeira vez.
+
+Era diferente. Não só porque o pincel era bom — porque era. Mas porque cada pincelada carregava uma memória nova: a de que alguém a tinha ouvido. A de que ela importava o suficiente para alguém anotar os seus sonhos.
+
+Ela pintou até tarde. E, quando terminou, olhou para a tela e sorriu.
+
+O quadro estava diferente. Mais vivo. Mais solto.
+
+Ela também estava.
+
+---
+
+O presente do Daniel não foi o pincel. Foi a lembrança de que ser vista, ser lembrada, ser amada nos detalhes — isso não era luxo. Era o mínimo.
+
+E, pela primeira vez, Camila entendeu que merecia o mínimo.
+
+Merecia o mínimo todos os dias.
+
+
+# CAPÍTULO 37
+## O Encontro com a Mãe do Daniel
+
+Camila estava mais nervosa do que no dia do divórcio.
+
+É estranho, mas é verdade: enfrentar o Ricardo no cartório tinha sido fácil comparado a conhecer a mãe do Daniel. Porque, no fundo, ela sabia que o Ricardo não tinha mais poder sobre ela. Mas a Dona Lúcia... a Dona Lúcia tinha o poder de gostar ou não gostar dela. E, para uma mulher recém-divorciada, com dois filhos, aquilo parecia um teste que ela não estava pronta para fazer.
+
+— Você tá mais branca que a parede — observou Daniel, no carro, segurando a mão dela. — Minha mãe não morde.
+
+— Todas as sogras mordem, Daniel. É o instinto de defesa.
+
+Ele riu.
+
+— A minha não. A minha é a pessoa mais tranquila que existe. Ela já me disse que só quer que eu seja feliz. E eu sou feliz com você. Então, já tá resolvido.
+
+Camila queria acreditar. Mas os nervos não obedeciam.
+
+---
+
+A Dona Lúcia morava numa casa pequena no interior, com um quintal cheio de plantas e um cachorro velho chamado Bolinha que veio recebê-los abanando o rabo.
+
+Ela saiu na varanda, enxugando as mãos no avental. Era uma mulher baixinha, de cabelo grisalho preso num coque, com o sorriso fácil do filho.
+
+— Então essa é a famosa Camila! — disse ela, e a abraçou como se a conhecesse de anos. — O Daniel não para de falar de você. E dos seus quadros. E das crianças. Já sei até o time do Léo e a cor preferida da Bia.
+
+Camila ficou sem palavras. Não esperava aquilo.
+
+— A senhora... sabe tudo? — perguntou ela, surpresa.
+
+— Filho apaixonado é assim, minha filha. Fala até o que a gente não pergunta. — Dona Lúcia riu, puxando Camila para dentro. — Entra, entra. Fiz o seu bolo favorito. O Daniel disse que é cenoura com cobertura de chocolate.
+
+Bolo de cenoura. O mesmo que Camila vendia nos potes. O mesmo que fazia para os filhos.
+
+Daniel tinha contado. Tudo.
+
+Camila sentiu o peito aquecer de um jeito que não sabia nomear.
+
+---
+
+O almoço foi leve. Dona Lúcia contou histórias do Daniel criança — das artes dele, do jeito que sempre foi cuidadoso com os outros, do pai que tinha falecido cedo e de como os dois tinham se virado sozinhos.
+
+Camila percebeu, ali, de onde vinha a paciência do Daniel. De uma mulher que tinha criado o filho sozinha, sem amargura, ensinando a ele que sensibilidade não era fraqueza.
+
+— A senhora criou um homem muito bom — disse Camila, olhando para Dona Lúcia.
+
+— Ele já era bom. Eu só não atrapalhei. — Dona Lúcia sorriu. — E você, Camila... o Daniel me contou o que você passou. Não é fácil recomeçar com dois filhos. Você tem coragem. E coragem é a coisa que eu mais admiro numa mulher.
+
+Camila engoliu o nó na garganta.
+
+— Obrigada, Dona Lúcia.
+
+— Me chama de Lúcia. Dona é para quem não gosta de mim.
+
+E riram.
+
+---
+
+Na volta, Camila ficou quieta, olhando a estrada.
+
+— O que foi? — perguntou Daniel, preocupado. — Ela foi demais, né? Eu avisei.
+
+— Não foi isso — disse Camila, a voz embargada. — É que... eu passei onze anos tentando agradar uma sogra que nunca gostou de mim. E a sua mãe me aceitou em cinco minutos, sem eu fazer nada para merecer.
+
+— Você não precisa fazer nada para merecer, Cá. É isso que eu venho tentando te mostrar.
+
+Camila olhou para ele. E, pela primeira vez, entendeu de verdade.
+
+Amor que a gente tem que conquistar não é amor. É dívida.
+
+E ela estava, finalmente, aprendendo a diferença.
+
+
+# CAPÍTULO 38
 ## O Reencontro
 
 Aconteceu num sábado de manhã, no corredor de congelados do mercado do bairro. Camila estava escolhendo entre duas marcas de ervilha — a mais barata ou a que as crianças realmente comiam — quando ouviu a voz.
@@ -7104,7 +7400,7 @@ Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilh
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, finalmente, tinha passado.
 
 
-# CAPÍTULO 35
+# CAPÍTULO 39
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -7188,7 +7484,7 @@ Pela mulher que ela teve que matar para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
 
-# CAPÍTULO 36
+# CAPÍTULO 40
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.

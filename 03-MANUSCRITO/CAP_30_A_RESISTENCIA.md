@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 28
+﻿# CAPÍTULO 30
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -147,6 +147,8 @@ Só o silêncio. E o silêncio, ela descobriu, também era uma forma de liberdad
 Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou no que tinha dito na noite anterior. Pensou nos lírios no lixo. Pensou no "não" que tinha saído da boca dela sem tremer.
 
 E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
+
+
 
 
 

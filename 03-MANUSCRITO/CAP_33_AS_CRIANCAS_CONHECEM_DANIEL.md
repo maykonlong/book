@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 31
+﻿# CAPÍTULO 33
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -112,6 +112,8 @@ Camila entendeu, ali, que as crianças tinham encontrado um jeito próprio de ac
 Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
 
 E, pela primeira vez, ela não teve medo de sonhar grande de novo.
+
+
 
 
 

@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 27
+﻿# CAPÍTULO 29
 ## O Encontro
 
 Quase um ano depois de Ricardo sair de casa.
@@ -383,6 +383,8 @@ Mas saber que existiam "Daniéis" no mundo fazia o futuro parecer muito menos as
 Ligou o rádio. Estava tocando uma música animada.
 Camila dirigiu para casa cantando.
 Sozinha. E muito bem acompanhada de si mesma.
+
+
 
 
 

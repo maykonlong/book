@@ -1,5 +1,7 @@
 # 📈 PLANO DE EXPANSÃO — 37k → 80k palavras
 
+> **Status atual (17/09/2026)**: ~56.600 palavras · **40 capítulos** · +13 capítulos novos + aprofundamento. A história está COMPLETA (com FIM no CAP 40). Faltam ~19–28 mil palavras para a meta cheia de 75–85k, o que pode ser feito com mais uma passada de aprofundamento dos capítulos médios (média atual ~1.415 p/cap vs. meta 2.400–3.000).
+
 > **Meta**: transformar "A Metade Que Me Faltava Era Eu" de novela (~37.300 palavras) em romance comercial de women's fiction (~75–85 mil palavras), mantendo os **27 capítulos / 3 atos** e a voz narrativa já definida (`00-PLANEJAMENTO/VOZ_NARRATIVA.md`).
 
 > **Referência de mercado (pesquisa validada em 16/09/2026)**: 70–90 mil palavras · 280–380 páginas · 3 atos · capítulos de 2.000–3.200 palavras.

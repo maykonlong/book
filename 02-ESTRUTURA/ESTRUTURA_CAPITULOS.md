@@ -1,11 +1,11 @@
 # 📚 ESTRUTURA DE CAPÍTULOS
 
-## Divisão Geral: 3 ATOS em 27 Capítulos
+## Divisão Geral: 3 ATOS em 40 Capítulos
 
 ### Estrutura Narrativa
-- **Ato I**: Estagnação e Ruptura (Cap. 1-9) - ~30%
-- **Ato II**: Desconstrução e Redescobrimento (Cap. 10-21) - ~45%
-- **Ato III**: Abertura e Entrega (Cap. 22-27) - ~25%
+- **Ato I**: Estagnação e Ruptura (Cap. 1-9) - ~23%
+- **Ato II**: Desconstrução e Redescobrimento (Cap. 10-28) - ~48%
+- **Ato III**: Abertura e Entrega (Cap. 29-40) - ~29%
 
 ---
 
@@ -401,9 +401,9 @@
 | Ato | Capítulos | Páginas | Foco |
 |-----|-----------|---------|------|
 | **I** | 1-9 | 60-75 | Mostrar problema e tomar decisão |
-| **II** | 10-21 | 95-110 | Processo de cura e redescobrimento |
-| **III** | 22-27 | 50-60 | Abertura para novo amor e integração |
-| **TOTAL** | 27 | 205-245 | Jornada completa |
+| **II** | 10-28 | 110-130 | Processo de cura e redescobrimento |
+| **III** | 29-40 | 65-75 | Abertura para novo amor e integração |
+| **TOTAL** | 40 | 235-280 | Jornada completa |
 
 ---
 
@@ -414,4 +414,28 @@
 3. **Cap. 13**: Camila começa terapia (início da cura)
 4. **Cap. 21**: Camila percebe que vai ficar bem
 5. **Cap. 26**: Camila se permite ser vulnerável com Daniel
-6. **Cap. 27**: Integração e paz consigo mesma
+6. **Cap. 40**: Integração e paz consigo mesma
+
+---
+
+## 🆕 CAPÍTULOS NOVOS (adicionados na expansão)
+
+Os 13 capítulos abaixo foram criados durante a expansão (37k → 56,6k palavras). Eles não constam na estrutura original de 27 capítulos e foram inseridos nos atos conforme a cronologia:
+
+**Ato II (Desconstrução e Redescobrimento):**
+- CAP 12 — O Recomeço Financeiro (independência: bolo no pote)
+- CAP 16 — Um Sábado Só Minha (aprender a ficar sozinha)
+- CAP 19 — O Colega do Trabalho (Marcos/Ana; sentir-se desejada)
+- CAP 22 — O Primeiro Natal Sozinha
+- CAP 24 — O Dia em Que Léo Perguntou Sobre o Pai (filhos processando o divórcio)
+- CAP 25 — O Dia das Mães
+- CAP 26 — As Férias de Julho (primeira viagem a três)
+
+**Ato III (Abertura e Entrega):**
+- CAP 34 — A Primeira Viagem a Três (integração da família com Daniel)
+- CAP 35 — A Primeira Briga (conflito saudável)
+- CAP 36 — O Primeiro Presente (romance/detalhe)
+- CAP 37 — O Encontro com a Mãe do Daniel (família dele)
+- CAP 38 — O Reencontro (fechamento com Ricardo)
+
+> **Nota**: os nomes originais de "As Crianças Conhecem Daniel" e "O Encontro/O Reencontro" foram reordenados/renumerados para dar espaço a esses capítulos, mantendo a continuidade da cronologia.
