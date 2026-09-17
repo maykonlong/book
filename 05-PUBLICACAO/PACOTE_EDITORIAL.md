@@ -10,7 +10,7 @@
 |---|---|
 | **Título** | A Metade Que Me Faltava Era Eu |
 | **Subtítulo** | A jornada de uma mulher que cansou de ser a única a tentar |
-| **Autor(a)** | *[NOME DA AUTORA — preencher]* |
+| **Autor(a)** | Mariana Duarte (pseudônimo) |
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
 | **Palavras** | ~56.600 |
 | **Capítulos** | 40 (3 atos) |
@@ -24,6 +24,8 @@
 ## 2. SINOPSES
 
 ### 📖 Sinopse principal (contracapa / orelha — ~190 palavras)
+
+**Como o fim de um casamento me ensinou a amar a mim mesma.**
 
 Camila faz tudo. A lista mental, a casa, os filhos, o trabalho, o calendário de todo mundo. Ricardo "ajuda" — daquele jeito que a gente "ajuda" quando não quer responsabilidade nenhuma.
 
@@ -65,11 +67,9 @@ Uma mulher que cansou de carregar tudo sozinha aprende que a metade que faltava 
 
 ---
 
-## 5. SOBRE A AUTORA *(bio — preencher)*
+## 5. SOBRE A AUTORA
 
-**[NOME DA AUTORA]** é escritora e, como Camila, sabe o peso de uma lista mental infinita. *[Adicionar: cidade, formação, experiências pessoais relevantes, por que escreveu este livro, outros trabalhos.]*
-
-*Exemplo de preenchimento:* "...vive em [cidade] e escreve histórias sobre mulheres que se recusam a desaparecer dentro da própria vida. 'A Metade Que Me Faltava Era Eu' é seu romance de estreia, escrito para toda mulher que já se perguntou, de madrugada, se seria mais leve sozinha."
+**Mariana Duarte** escreve sobre mulheres que se recusam a desaparecer dentro da própria vida. "A Metade Que Me Faltava Era Eu" é seu romance de estreia, escrito para toda mulher que já carregou o mundo sozinha — e que, um dia, decidiu se salvar.
 
 ---
 

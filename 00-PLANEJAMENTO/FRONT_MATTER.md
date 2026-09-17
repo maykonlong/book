@@ -34,6 +34,6 @@ Porque, no fundo, esta é a história de como o fim de um casamento pode ensinar
 
 Com carinho,
 
-**[NOME DA AUTORA]**
+**Mariana Duarte**
 
 ---
