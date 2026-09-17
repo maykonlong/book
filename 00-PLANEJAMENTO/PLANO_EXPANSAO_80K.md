@@ -112,7 +112,7 @@ Cada capítulo expandido segue:
 | 4 | As Pequenas Sabotagens | 1.522 | 2.000 | 🟡 |
 | 5 | A Conversa com Fernanda | 1.229 | 1.800 | 🟡 |
 | 6 | A Última Tentativa | 1.335 | 2.000 | 🟡 |
-| 7 | A Gota D'água | 1.224 | 1.800 | 🟡 |
+| 7 | A Gota D'água | 1.292 | 1.800 | 🟡 |
 | 8 | Eu Quero me Separar | 1.173 | 1.800 | 🟡 |
 | 9 | A Conversa com os Filhos | 1.342 | 2.000 | 🟡 |
 | 10 | O Vazio Barulhento | 2.054 | 2.600 | ⏳ |

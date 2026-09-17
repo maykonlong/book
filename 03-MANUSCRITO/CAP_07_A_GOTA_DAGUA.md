@@ -180,6 +180,12 @@ Não um texto longo. Não uma explicação. Ela já tinha explicado mil vezes.
 Escreveu apenas três palavras.
 Deixou em cima da poça de leite seco no balcão.
 
+*Eu vou embora.*
+
+Três palavras que custaram onze anos para sair. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, finalmente entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
+
+Mas, pela primeira vez, a opinião dele não importava. O que importava era que, pela primeira vez em onze anos, ela estava indo embora sem pedir desculpa.
+
 Saiu.
 Bateu a porta.
 Entrou no elevador tremendo, suando, febril.
