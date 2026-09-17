@@ -3710,6 +3710,14 @@ Foi dormir com cheiro de tinta guache (ok, aquarela não tem cheiro, mas a memó
 Naquela noite, ela não sonhou com boletos.
 Sonhou que estava nadando em um mar de azul cobalto, e que sabia respirar debaixo d'água.
 
+Na manhã seguinte, Camila acordou e viu as cinco folhas secas espalhadas pela mesa, e a luz da manhã atravessando as cores. Ela ficou um tempo olhando, meio incrédula, como quem acorda e confirma que o sonho era real.
+
+Não eram obras-primas. Eram borrões, manchas, alvéolos de tinta. Mas eram a prova de que, na noite anterior, uma parte dela — a parte que ela julgava morta — tinha voltado à vida.
+
+E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mudaria tudo: não era sobre o quadro. Nunca foi sobre o quadro. Era sobre descobrir que ela ainda existia embaixo de todos aqueles papéis — mãe, esposa, funcionária — esperando para voltar a ser.
+
+Ela pegou o celular e, antes de qualquer outra coisa, ligou para a aula de aquarela e se matriculou para o semestre inteiro.
+
 
 # CAPÍTULO 17
 ## As Pequenas Vitórias
