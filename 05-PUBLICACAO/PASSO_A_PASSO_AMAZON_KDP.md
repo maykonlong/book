@@ -28,7 +28,7 @@
 
 ## 2. Pré-requisitos (tenha em mãos)
 
-1. ☐ **Nome da autora / pseudônimo** definido
+1. ✅ **Nome da autora / pseudônimo** definido (Mariana Duarte)
 2. ☐ **Revisão final** do texto (ortografia e gramática)
 3. ☐ **Capa** pronta (dimensões na Seção 3)
 4. ☐ **CPF ou CNPJ** (para os dados fiscais)

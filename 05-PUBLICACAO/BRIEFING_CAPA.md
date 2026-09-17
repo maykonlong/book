@@ -27,7 +27,7 @@ Sugestões de imagem:
 
 ## 📐 Elementos obrigatórios
 - Título: **A Metade Que Me Faltava Era Eu**
-- Nome da autora
+- Nome da autora: **Mariana Duarte**
 - (Opcional) subtítulo curto na parte inferior.
 
 ## 🔎 Referências visuais (buscar em bancos de capa)
