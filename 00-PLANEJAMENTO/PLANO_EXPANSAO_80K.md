@@ -124,7 +124,7 @@ Cada capítulo expandido segue:
 | 16 | As Pequenas Vitórias | 1.672 | 2.800 | 🟡 |
 | 17 | O Grupo de Mulheres | 1.237 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 2.019 | 3.200 | 🟡 |
-| 19 | O Aniversário de Léo | 1.167 | 2.600 | 🟡 |
+| 19 | O Aniversário de Léo | 1.357 | 2.600 | 🟡 |
 | 20 | O Contraste | 1.148 | 2.800 | 🟡 |
 | 21 | O Primeiro Sorriso Real | 1.275 | 2.800 | 🟡 |
 | 22 | O Encontro | 2.069 | 3.000 | 🟡 |

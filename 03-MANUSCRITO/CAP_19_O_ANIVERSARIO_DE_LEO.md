@@ -126,3 +126,13 @@ Você já sentiu isso? O presente simples que vale mais que o caro — porque ve
 Ricardo podia ter ganhado a noite com o cheque.
 Mas Camila tinha ganhado o filho com a presença.
 E, no fim das contas, era isso que ficava quando a festa acabava.
+
+Naquela noite, depois que a casa ficou em silêncio, Camila se sentou na cozinha, diante do que sobrou da festa: papel de presente rasgado, um prato com brigadeiros que ninguém comeu, o bolo cortado pela metade. E, num cantinho da mesa, o kit de desenho do Léo, aberto, com um lápis de cor azul já usado na ponta.
+
+Ele tinha dormido desenhando. Ela pegou o caderno dele. Havia um desenho novo: dois bonecos de mãos dadas, um grande e um pequeno, sob um sol amarelo. Embaixo, escrito com a letra torta de quem ainda está aprendendo:
+
+*"eu e a minha mãe na espozição"*.
+
+Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na festa, não no videogame, mas na promessa de um passeio a dois. Aquilo, ali, era o presente de verdade. Não o que se compra. O que se constrói.
+
+Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.

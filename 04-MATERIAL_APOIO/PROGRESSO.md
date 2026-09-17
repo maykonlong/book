@@ -90,7 +90,7 @@
 - [16/09] **CAP 23 "A Resistência"** — 2ª passada: chantagem dos filhos (1.105 → 1.198)
 - [16/09] **CAP 21 "O Primeiro Sorriso Real"** — 2ª passada: cena da compradora + Paula (1.019 → 1.275)
 - [16/09] **CAP 20 "O Contraste"** — 2ª passada: cena da foto de casamento (1.041 → 1.148)
-- [16/09] **CAP 19 "O Aniversário de Léo"** aprofundado — 2ª passada (1.039 → 1.167)
+- [16/09] **CAP 19 "O Aniversário de Léo"** — 2ª passada: desenho "eu e a minha mãe na espozição" (1.167 → 1.357)
 - [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado — 2ª passada (1.021 → 1.117)
 - [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado — 2ª passada (1.094 → 1.173)
 - [16/09] **CAP 7 "A Gota D'água"** aprofundado — 2ª passada (1.169 → 1.224)
