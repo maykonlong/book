@@ -1,7 +1,7 @@
 # 📋 VISÃO GERAL DO PROJETO
 
 ## Status Atual
-🟡 **Em Planejamento** - Estruturação inicial
+✅ **Manuscrito completo** — 40 capítulos, ~56.600 palavras (ver `04-MATERIAL_APOIO/PROGRESSO.md` e `05-PUBLICACAO/PACOTE_EDITORIAL.md`)
 
 ---
 
