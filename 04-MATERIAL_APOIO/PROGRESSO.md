@@ -34,22 +34,23 @@
 ---
 
 ## ✅ ATO III - ABERTURA E ENTREGA (Completo!)
-**Capítulos 22-27**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
+**Capítulos 22-28**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
 
 - ✅ Cap 22: O Encontro
 - ✅ Cap 23: A Resistência
 - ✅ Cap 24: O Fim e o Começo
 - ✅ Cap 25: Um Ano Depois: A Nova Paz
-- ✅ Cap 26: Carta Para Mim Mesma
-- ✅ Cap 27: A Metade Que Me Faltava Era Eu (FINAL)
+- ✅ Cap 26: As Crianças Conhecem Daniel
+- ✅ Cap 27: Carta Para Mim Mesma
+- ✅ Cap 28: A Metade Que Me Faltava Era Eu (FINAL)
 
 ---
 
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
-- **Total de capítulos escritos**: 27/27 (100%)
-- **Total de palavras**: **~43.500** (era ~37.300 antes da expansão)
-- **Palavras/capítulo (média)**: ~1.600
-- **Páginas estimadas**: ~160-180 (formato 14x21 cm)
+- **Total de capítulos escritos**: 28/28 (100%)
+- **Total de palavras**: **~45.350** (era ~37.300 antes da expansão)
+- **Palavras/capítulo (média)**: ~1.620
+- **Páginas estimadas**: ~175-195 (formato 14x21 cm)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
 
 ### Distribuição por ato
@@ -57,8 +58,8 @@
 |---|---|---|---|---|
 | I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
 | II — Desconstrução e Redescobrimento | 10-21 | ~18.600 | 43% | 50% (~40k) |
-| III — Abertura e Entrega | 22-27 | ~9.700 | 22% | 25% (~20k) |
-| **TOTAL** | 27 | **~43.500** | 100% | ~80k |
+| III — Abertura e Entrega | 22-28 | ~10.850 | 24% | 25% (~20k) |
+| **TOTAL** | 28 | **~45.350** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.

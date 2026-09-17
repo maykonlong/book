@@ -1,4 +1,4 @@
-# CAPÍTULO 26
+# CAPÍTULO 27
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.

@@ -1227,6 +1227,10 @@ Fernanda apertou a mão dela.
 Fernanda baixou a voz, como quem conta um segredo que ainda dói um pouco.
 — Eu demorei três anos pra sair, sabia? Três anos sabendo que tinha acabado, e ficando. Sabe o que finalmente me fez ir embora? Não foi uma briga. Foi uma terça-feira comum. Cheguei do trabalho exausta, e ele nem levantou os olhos do celular pra me cumprimentar. E eu pensei: "se eu sumir agora, ele não percebe". E era verdade. Testei. Fiquei uma semana inteira fingindo que era invisível. Ele não percebeu. Aí eu entendi que já estava sozinha. Só faltava assumir.
 
+Camila ouviu e sentiu um arrepio de reconhecimento. Ela já tinha feito aquele mesmo teste, sem saber que era um teste. Nas últimas semanas, tinha começado a reparar em quanto tempo Ricardo levava para notar que ela tinha cortado o cabelo, que tinha trocado o perfume, que tinha chorado no banheiro antes de dormir. A resposta, quase sempre, era: nunca.
+
+— E o pior — continuou Fernanda — é que a gente se acostuma. A gente acha que sumir aos poucos é normal. Que ser invisível é o preço de ter uma família. Não é. — Ela olhou firme para Camila. — Invisibilidade não é o preço de nada. É o sintoma.
+
 Camila olhou para a suculenta morta.
 
 Ali, na copa, com cheiro de café velho, algo mudou. A esperança teimosa — aquela que a fazia tentar jantares e terapias — começou a dar lugar a outra coisa.
@@ -1626,6 +1630,12 @@ Não um texto longo. Não uma explicação. Ela já tinha explicado mil vezes.
 Escreveu apenas três palavras.
 Deixou em cima da poça de leite seco no balcão.
 
+*Eu vou embora.*
+
+Três palavras que custaram onze anos para sair. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, finalmente entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
+
+Mas, pela primeira vez, a opinião dele não importava. O que importava era que, pela primeira vez em onze anos, ela estava indo embora sem pedir desculpa.
+
 Saiu.
 Bateu a porta.
 Entrou no elevador tremendo, suando, febril.
@@ -1707,6 +1717,10 @@ A médica sorriu, um sorriso triste.
 Aquelas palavras bateram fundo.
 
 *Com quem eu quero passar o resto da vida?*
+
+A resposta veio rápido demais, e isso assustou ainda mais do que a pergunta. Com ela. Ela queria passar o resto da vida consigo mesma — inteira, de pé, dona do próprio nome. Fazia tanto tempo que não se lembrava de si como alguém com quem valia a pena conviver.
+
+E se a resposta era essa, então não havia mais nada a discutir. Não era sobre o Ricardo. Era sobre ela.
 
 Camila saiu do consultório com a receita de antibiótico e uma clareza assustadora. Passou na farmácia, tomou o remédio ali mesmo com uma garrafa de água.
 
@@ -2628,6 +2642,10 @@ Vender a casa.
 Tirar Léo e Bia do único lar que conheciam. Mais uma ruptura.
 
 Camila sentiu o peso do dinheiro — ou da falta dele — esmagando seus ombros.
+
+Lembrou do dia em que eles assinaram a compra daquele apartamento. Ricardo segurando a chave, girando no dedo como um troféu. Camila grávida do Léo, os pés inchados, imaginando o berço no quarto azul. "Nosso cantinho", ela tinha dito, e ele tinha rido. Na época, aquilo parecia o começo de tudo.
+
+Agora, sentada no carro quente, ela entendia que a casa tinha virado uma âncora — e que soltá-la, se fosse preciso, seria só mais um luto na longa lista de lutos daquele ano.
 
 Ela pensou no apartamento. Não no imóvel, no investimento, na "parte que teria que comprar". Pensou na casa.
 
@@ -3922,6 +3940,10 @@ Léo perguntou: *"é do namorado, mãe?"*. Camila riu: *"é meu. Eu comprei pra 
 
 E o menino sorriu, como se entendesse — talvez entendesse — o tamanho daquilo.
 
+E, na sexta, uma vitória que ela não tinha planejado: foi ao cinema sozinha. Comprou o ingresso, escolheu a poltrona do meio, comeu pipoca sem dividir. No início, sentiu os olhares — ou imaginou que sentia. *Uma mulher sozinha no cinema. Coitada. Deve ter sido largada.* Mas, na metade do filme, ela tinha esquecido do mundo. E, ao sair, percebeu que não tinha se sentido sozinha nem por um segundo. Tinha se sentido... em paz.
+
+Você já foi ao cinema sozinha? Se não, tenta. É um rito de passagem da mulher que está aprendendo a gostar da própria companhia.
+
 Domingo à noite, depois de colocar as crianças para dormir, Camila sentou no sofá com caderninho.
 
 Estava fazendo isso recentemente: listar. Não tarefas. Não obrigações.
@@ -4077,6 +4099,14 @@ Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulhe
 — Um brinde ao Sindicato — disse Camila, levantando seu café.
 
 — Ao Sindicato! — responderam as outras.
+
+E então, como acontece quando a guarda baixa, as histórias ficaram mais fundas. Clara, a mãe solo dos gêmeos, contou como, na semana anterior, tinha chorado escondida no banheiro do trabalho porque o ex mandou mensagem dizendo que não ia buscar as crianças no fim de semana — "e eu tinha uma reunião de madrugada no sábado, e precisei remarcar tudo, e a minha chefe me olhou torto, e eu só queria dormir oito horas seguidas uma única vez".
+
+Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho invisível": fez as contas de quanto gastaria contratando cozinheira, motorista, babá e personal organizer — e o total dava mais que o salário de muita gente. "E a gente faz tudo isso de graça, todo santo dia, e ainda ouve que 'não faz nada'".
+
+Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só assentiram. Só passaram o pão de queijo e encheram o café.
+
+E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um posto de reabastecimento. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
 
 Naquela noite, voltando para casa, Camila criou um grupo no WhatsApp.
 *"As Aquarelistas (e o Sindicato)"*
@@ -4592,6 +4622,16 @@ Ricardo podia ter ganhado a noite com o cheque.
 Mas Camila tinha ganhado o filho com a presença.
 E, no fim das contas, era isso que ficava quando a festa acabava.
 
+Naquela noite, depois que a casa ficou em silêncio, Camila se sentou na cozinha, diante do que sobrou da festa: papel de presente rasgado, um prato com brigadeiros que ninguém comeu, o bolo cortado pela metade. E, num cantinho da mesa, o kit de desenho do Léo, aberto, com um lápis de cor azul já usado na ponta.
+
+Ele tinha dormido desenhando. Ela pegou o caderno dele. Havia um desenho novo: dois bonecos de mãos dadas, um grande e um pequeno, sob um sol amarelo. Embaixo, escrito com a letra torta de quem ainda está aprendendo:
+
+*"eu e a minha mãe na espozição"*.
+
+Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na festa, não no videogame, mas na promessa de um passeio a dois. Aquilo, ali, era o presente de verdade. Não o que se compra. O que se constrói.
+
+Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.
+
 
 # CAPÍTULO 20
 ## O Contraste
@@ -4698,6 +4738,12 @@ A Camila de agora era feita de carne, osso e cicatriz. Despenteada, sem maquiage
 E era muito, muito mais bonita.
 
 Porque a beleza da primeira era de vitrine. A da segunda era de verdade. De quem parou de se espremer para caber.
+
+Ela ficou muito tempo olhando as duas fotos lado a lado, como quem compara dois capítulos de vidas diferentes. A mulher da primeira foto precisava de aprovação. A da segunda, só de um banho quente e de silêncio. A primeira media o próprio valor pelo olhar do outro. A segunda media pela própria paz.
+
+E, naquele contraste, Camila entendeu uma coisa que nenhuma terapia, nenhum livro, nenhum conselho de amiga tinha conseguido cravar: o divórcio não tinha sido o fim da mulher bonita. Tinha sido a demolição do molde.
+
+O que sobrou não era perfeito. Mas era dela. Era inteiro.
 
 Ela guardou a caixa.
 Não com saudade.
@@ -4808,6 +4854,16 @@ Pela primeira vez, a opinião de Ricardo não tinha nem o poder de estragar a no
 Ela saiu para a calçada do ateliê para tomar um ar.
 A noite estava fresca.
 Camila fechou os olhos e sentiu o vento.
+
+E, ali, sozinha na calçada, ela fez uma coisa que não fazia havia muito tempo: lembrou de quem era antes do Ricardo, antes dos boletos, antes do medo. Lembrou da menina que pintava no chão do quarto alugado, que recitava Neruda nos saraus da Vila Madalena, que ria alto e sonhava sem pedir licença.
+
+Aquela menina não tinha morrido, afinal. Tinha só ficado muito quieta, esperando um momento seguro para voltar. E aquele era o momento.
+
+Camila abriu os olhos e olhou para o próprio reflexo no vidro escuro do ateliê. A mulher que olhava de volta não era a esposa cansada, nem a mãe culpada, nem a funcionária apagada. Era uma artista. Uma mulher inteira, de pé, que tinha transformado a dor em cor e a cor em recomeço.
+
+— Eu voltei — sussurrou para o próprio reflexo.
+
+E sorriu.
 
 E sorriu.
 Não para alguém.
@@ -5308,6 +5364,12 @@ Camila riu.
 Ele ficou encarando-a, chocado com a audácia.
 Pegou a chave do carro.
 — Você vai se arrepender. Você vai ver como é envelhecer sozinha.
+
+— E as crianças? — ele disparou, mudando de tática. — Você já pensou neles? No que vão pensar quando descobrirem que a mãe recusou uma reconciliação? Que a mãe preferiu ficar sozinha?
+
+Camila olhou para ele. A cartada mais baixa de todas: usar os filhos como arma.
+
+— Eu penso neles todos os dias, Ricardo. — A voz dela não tremeu. — E é exatamente por eles que eu recuso. Porque eles merecem ver a mãe inteira, não uma mulher que aceitou metade de um amor só para dizer que tinha um.
 
 — Prefiro envelhecer sozinha do que morrer em vida ao seu lado. Tchau, Ricardo.
 
@@ -6047,6 +6109,94 @@ Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não e
 
 
 # CAPÍTULO 26
+## As Crianças Conhecem Daniel
+
+Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
+
+Léo tinha nove. Bia, cinco. Idades suficientes para sentir, mas não para entender direito. Camila sabia que aquele dia ficaria gravado neles para sempre.
+
+Ela escolheu um domingo comum, de pizza na sala. Porque pizza desarma qualquer um.
+
+Daniel chegou às cinco, pontual, com uma caixa de pizza e um jogo de tabuleiro debaixo do braço.
+
+— E aí. — Ele sorriu, baixinho. — Tudo bem?
+— Tô mais nervosa do que no dia do meu casamento — confessou ela.
+— Eu também. Mas vai dar certo. Ou não. E a gente lida.
+
+Léo estava no sofá, de braços cruzados, com cara de segurança de boate avaliando um suspeito. Bia estava no chão, desenhando.
+
+— Léo, Bia, esse é o Daniel. — A voz de Camila saiu mais firme do que ela se sentia. — Ele é meu amigo. Queria que vocês conhecessem.
+
+— Oi, gente. Trouxe pizza e um jogo. Alguém sabe jogar Detetive?
+
+Léo não respondeu. Bia, sem cerimônia, foi checar a caixa de pizza.
+
+— Qual sabor? — perguntou, prática.
+
+— Metade marguerita, metade calabresa. Se não gostar, pedimos outra.
+
+Bia abriu um sorriso. Primeiro fio de esperança.
+
+O jantar foi tenso, como Camila previra. Léo respondeu às perguntas gentis de Daniel com monossílabos. Bia tagarelou sobre desenho animado, a boneca nova, o cachorro da vizinha. Daniel ouviu tudo com paciência genuína.
+
+— E você, Léo? — Daniel tentou. — Joga futebol, né? Sua mãe disse que você é bom.
+
+— Sou mais ou menos.
+
+— Eu era péssimo. Goleiro. Tomava gol até de pênalti mal batido.
+
+Léo ergueu os olhos por um segundo, quase contra a vontade.
+
+— Goleiro é difícil — disse, baixinho.
+
+— Demais. Se você joga na linha, já é melhor do que eu.
+
+E, pela primeira vez na noite, o canto da boca de Léo se mexeu.
+
+Depois da pizza, Daniel montou o jogo na mesa. Camila ficou na cozinha, lavando a louça devagar, deixando os três sozinhos. Precisava ver aquilo de longe.
+
+Da cozinha, ouvia os sons. Primeiro, silêncio. Depois, a risada de Bia. Depois, a voz de Léo explicando uma regra. Depois, os três rindo juntos.
+
+Camila apoiou as mãos na pia e fechou os olhos. Aquele som — as risadas dos filhos misturadas à de Daniel — era um som de família possível.
+
+Quando voltou para a sala, Bia estava no colo de Daniel. Léo estava menos tenso.
+
+— Mãe! O Daniel sabe fazer voz de monstro! — gritou Bia.
+
+— Essa é a minha voz normal — brincou Daniel. E todos riram.
+
+Camila sentou ao lado de Léo. Ele se inclinou e sussurrou:
+
+— Ele é legal, mãe.
+
+Três palavras. Para Camila, valiam mais do que qualquer declaração.
+
+Na despedida, Daniel deu high five para Bia e um aperto de mão respeitoso para Léo, como entre dois cavalheiros.
+
+— Foi muito bom conhecer vocês.
+
+Na porta, Camila e Daniel ficaram um momento em silêncio.
+
+— Eles são incríveis — disse Daniel. — Você criou duas pessoas muito especiais.
+
+— Obrigada. Por ter vindo. Por ter sido você.
+
+— Eu não preciso ser outra coisa. Só preciso estar presente. E eu quero estar.
+
+Depois que ele foi embora, Camila colocou as crianças para dormir. Léo, antes de apagar a luz, disse:
+
+— Mãe, se o Daniel te faz feliz, eu gosto dele.
+
+Camila beijou a testa do filho.
+
+— Ele faz, filho. Ele faz.
+
+Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
+
+E, pela primeira vez, ela não teve medo de sonhar grande de novo.
+
+
+# CAPÍTULO 27
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -6108,7 +6258,7 @@ Pela mulher que ela teve que matar para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
 
-# CAPÍTULO 27
+# CAPÍTULO 28
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.

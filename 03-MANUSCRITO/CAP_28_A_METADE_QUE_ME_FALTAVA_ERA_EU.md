@@ -1,4 +1,4 @@
-# CAPÍTULO 27
+# CAPÍTULO 28
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.
