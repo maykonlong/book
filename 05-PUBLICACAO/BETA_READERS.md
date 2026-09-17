@@ -40,7 +40,9 @@
 
 ## 5. O que enviar
 
-1. O manuscrito em **PDF** (exporte `manuscrito_completo.md` para PDF ou .docx)
+1. O manuscrito **já formatado**: `05-PUBLICACAO/manuscrito_beta.html`
+   - **Para gerar o PDF:** abra o `.html` no navegador (Chrome/Edge) e use **Ctrl+P → "Salvar como PDF"**.
+   - **Para regenerar** (se editar o texto): rode `04-MATERIAL_APOIO/converter_html.ps1` no PowerShell.
 2. **Prazo sugerido:** 2–3 semanas
 3. O **questionário** (Seção 8 abaixo)
 

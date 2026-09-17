@@ -37,7 +37,7 @@
 ## 📋 Pendências
 
 1. [x] **Revisão ortográfica/gramatical (1ª varredura automática)** — ver "Correções ortográficas" abaixo (recomenda-se ainda uma leitura humana em voz alta)
-2. [ ] **Beta readers** (mulheres 28–45, casadas/separadas, mães) — ver `05-PUBLICACAO/BETA_READERS.md`
+2. [ ] **Beta readers** (mulheres 28–45, casadas/separadas, mães) — materiais prontos (`BETA_READERS.md` + `manuscrito_beta.html`); falta recrutar e coletar o feedback
 3. [ ] Decidir se **expande para 75–85k** (aprofundando capítulos médios — média atual ~1.415 p/cap)
 4. [ ] Preencher **nome/bio da autora** no pacote editorial
 5. [ ] Formatação final + capa

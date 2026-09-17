@@ -17,6 +17,8 @@
 | Item | Onde está |
 |---|---|
 | Manuscrito completo (front matter + 40 capítulos) | `manuscrito_completo.md` |
+| Manuscrito formatado p/ beta readers (HTML) | `05-PUBLICACAO/manuscrito_beta.html` |
+| Conversor .md → .html (regenerar) | `04-MATERIAL_APOIO/converter_html.ps1` |
 | Sinopse principal + curta + de 1 frase | `05-PUBLICACAO/PACOTE_EDITORIAL.md` |
 | Palavras-chave / categorias / hashtags | `05-PUBLICACAO/PACOTE_EDITORIAL.md` |
 | Bio da autora (falta preencher o nome) | `05-PUBLICACAO/PACOTE_EDITORIAL.md` |
