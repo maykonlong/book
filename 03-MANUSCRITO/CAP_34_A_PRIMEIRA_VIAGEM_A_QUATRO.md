@@ -9,7 +9,7 @@ Era o tipo de silêncio que acontece quando todo mundo está com medo de dizer a
 
 — Tanto faz — disse Léo, sem tirar os olhos do fone.
 
-— Tanto faz — repetiu Bia, por inércia.
+— Tanto faz — repetiu Bia, no automático.
 
 *Ótimo*, pensou Camila. *A primeira viagem juntos e já estamos em silêncio de velório.*
 

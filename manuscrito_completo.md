@@ -1201,7 +1201,7 @@ Camila assentiu. Não precisava explicar. Fernanda sabia. Todo mundo sabia, de u
 
 — Senta aqui. — Fernanda puxou uma das cadeiras. — A pauta das 11h pode esperar.
 
-Camila sentou. Olhou para o centro da mesa. Havia um vasinho triste com uma suculenta murcha, esquecida ali por alguém do RH. A terra estava seca, esturricada. As folhas estavam marrons e quebradiças.
+Camila sentou. Olhou para o centro da mesa. Havia um vasinho triste com uma suculenta murcha, esquecida ali por alguém do RH. A terra estava seca, ressecada. As folhas estavam marrons e quebradiças.
 
 — Eu não aguento mais, Fê — sussurrou Camila. — Eu faço tudo. Eu tento tudo. Jantar romântico, conversa, terapia... e nada funciona. Ele não me vê. Ele age como se eu fosse um eletrodoméstico que funciona sozinho.
 
@@ -1300,7 +1300,7 @@ Ela não ia mais regar cadáveres.
 # CAPÍTULO 6
 ## A Última Tentativa
 
-Apesar da conversa com Fernanda — e da suculenta no lixo —, a inércia de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
+Apesar da conversa com Fernanda — e da suculenta no lixo —, o peso de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
 
 Camila teve uma recaída de esperança.
 
@@ -2692,7 +2692,7 @@ Na parede da cozinha onde marcava, a lápis, a altura de Léo a cada aniversári
 
 Pensou no cheiro daquele lugar. Cheiro de bolo assando nas tardes de domingo. Cheiro de choro no meio da madrugada, de febre e de colo. Cheiro de vida.
 
-Vender a casa não era vender tijolos. Era vender a arqueologia inteira de uma família. E ela não tinha dinheiro para impedir.
+Vender a casa não era vender tijolos. Era vender a história inteira de uma família. E ela não tinha dinheiro para impedir.
 
 Camila fechou os olhos por um segundo. O escritório, com suas pilhas de processos de capa parda, pareceu subitamente um cemitério de sonhos de outras mulheres — mulheres que também tinham entrado ali achando que o amor bastava, e saído descobrindo que amor não paga condomínio.
 
@@ -3654,7 +3654,7 @@ Era uma pergunta que ela não sabia responder. Porque, durante nove anos, ela ti
 
 Você já se sentiu assim? De repente sem a agenda cheia, sem o papel que te define, sem ninguém precisando de você — e, no lugar, um vazio que assusta. A gente passa tanto tempo vivendo para os outros que, quando fica sozinha, não sabe mais viver para si.
 
-Camila levantou, mais por inércia do que por vontade. Fez um café. Tomou olhando pela janela. E foi aí que percebeu: fazia anos que não tomava café sentada. Café, para ela, era uma coisa que se bebia de pé, apressada, entre uma tarefa e outra.
+Camila levantou, mais no automático do que por vontade. Fez um café. Tomou olhando pela janela. E foi aí que percebeu: fazia anos que não tomava café sentada. Café, para ela, era uma coisa que se bebia de pé, apressada, entre uma tarefa e outra.
 
 Naquele sábado, ela bebeu devagar. Sentiu o gosto. Olhou a rua lá embaixo, as pessoas andando sem pressa, um cachorro farejando a calçada.
 
@@ -5594,7 +5594,7 @@ E sorriu.
 Não para alguém.
 Para ela mesma.
 
-Foi um sorriso que veio do útero, subiu pelo estômago, aqueceu o peito e explodiu no rosto.
+Foi um sorriso que veio das entranhas, subiu pelo estômago, aqueceu o peito e explodiu no rosto.
 Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito bem, obrigada.
 
 Você já sentiu isso? Aquele sorriso que ninguém vê, que vem de dentro e não pede plateia. O sorriso de quem se salvou. Guarde o seu. É o mais precioso que existe.
@@ -7002,7 +7002,7 @@ Era o tipo de silêncio que acontece quando todo mundo está com medo de dizer a
 
 — Tanto faz — disse Léo, sem tirar os olhos do fone.
 
-— Tanto faz — repetiu Bia, por inércia.
+— Tanto faz — repetiu Bia, no automático.
 
 *Ótimo*, pensou Camila. *A primeira viagem juntos e já estamos em silêncio de velório.*
 
@@ -7500,7 +7500,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 *Não aquele sorriso educado para as visitas. Mas risada de doer a barriga.*
 *Você gosta da sua própria companhia.*
 
-*Não tenha medo da solidão. A solidão foi o útero onde a gente renasceu.*
+*Não tenha medo da solidão. A solidão foi o casulo onde a gente renasceu.*
 *Resista. Aguente a dor inicial. Assine aquele papel.*
 
 *A metade que você acha que vai perder não é sua.*
@@ -7684,7 +7684,7 @@ Sorriu. Um sorriso que iluminou a sala como o dourado do terceiro quadro.
 
 Aplausos.
 
-Não aqueles aplausos educados de vernissage, polidos e protocolares. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma intensidade que Camila nunca tinha visto nela.
+Não aqueles aplausos educados de galeria, polidos e protocolares. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma intensidade que Camila nunca tinha visto nela.
 
 Camila olhou para Daniel. Ele estava encostado na parede, braços cruzados, sorrindo. Ele piscou. E naquele piscar havia algo que não era possessão, não era posse, não era "você é minha". Era reconhecimento. Era admiração. Era um inteiro olhando para outro inteiro e dizendo, sem palavras: *eu te vejo. Toda você. E é mais que suficiente.*
 

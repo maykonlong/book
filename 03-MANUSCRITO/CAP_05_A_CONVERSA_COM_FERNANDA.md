@@ -31,7 +31,7 @@ Camila assentiu. Não precisava explicar. Fernanda sabia. Todo mundo sabia, de u
 
 — Senta aqui. — Fernanda puxou uma das cadeiras. — A pauta das 11h pode esperar.
 
-Camila sentou. Olhou para o centro da mesa. Havia um vasinho triste com uma suculenta murcha, esquecida ali por alguém do RH. A terra estava seca, esturricada. As folhas estavam marrons e quebradiças.
+Camila sentou. Olhou para o centro da mesa. Havia um vasinho triste com uma suculenta murcha, esquecida ali por alguém do RH. A terra estava seca, ressecada. As folhas estavam marrons e quebradiças.
 
 — Eu não aguento mais, Fê — sussurrou Camila. — Eu faço tudo. Eu tento tudo. Jantar romântico, conversa, terapia... e nada funciona. Ele não me vê. Ele age como se eu fosse um eletrodoméstico que funciona sozinho.
 

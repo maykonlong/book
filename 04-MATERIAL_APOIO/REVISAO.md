@@ -82,6 +82,22 @@ Varredura de frases recorrentes + correção aplicada:
 
 ---
 
+## 🗣️ Vocabulário — suavização (17/09)
+
+A pedido, **mantidos** os termos literários intencionais: **parasitismo**, **reverência**, **invalidação** e **solitude**. Suavizados os demais termos "de dicionário":
+
+| Antes | Depois |
+|---|---|
+| "inércia" (3×) | "peso" / "no automático" |
+| "vernissage" | "galeria" |
+| "arqueologia (de uma família)" | "história (de uma família)" |
+| "esturricada" | "ressecada" |
+| "útero" (2×) | "das entranhas" / "casulo" |
+
+**Resultado:** linguagem leve e coloquial, sem palavras que exijam dicionário.
+
+---
+
 ## 🔎 Varredura preventiva de "restos de substituição" (17/09)
 
 Após o bug **"Quatroês"** (substituição parcial `Três → Quatro` que deixou o "ês" sobrando), foi feita uma varredura por padrões semelhantes em todo o projeto:

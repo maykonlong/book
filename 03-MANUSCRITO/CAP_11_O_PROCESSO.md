@@ -71,7 +71,7 @@ Na parede da cozinha onde marcava, a lápis, a altura de Léo a cada aniversári
 
 Pensou no cheiro daquele lugar. Cheiro de bolo assando nas tardes de domingo. Cheiro de choro no meio da madrugada, de febre e de colo. Cheiro de vida.
 
-Vender a casa não era vender tijolos. Era vender a arqueologia inteira de uma família. E ela não tinha dinheiro para impedir.
+Vender a casa não era vender tijolos. Era vender a história inteira de uma família. E ela não tinha dinheiro para impedir.
 
 Camila fechou os olhos por um segundo. O escritório, com suas pilhas de processos de capa parda, pareceu subitamente um cemitério de sonhos de outras mulheres — mulheres que também tinham entrado ali achando que o amor bastava, e saído descobrindo que amor não paga condomínio.
 

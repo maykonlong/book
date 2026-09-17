@@ -159,7 +159,7 @@ Sorriu. Um sorriso que iluminou a sala como o dourado do terceiro quadro.
 
 Aplausos.
 
-Não aqueles aplausos educados de vernissage, polidos e protocolares. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma intensidade que Camila nunca tinha visto nela.
+Não aqueles aplausos educados de galeria, polidos e protocolares. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma intensidade que Camila nunca tinha visto nela.
 
 Camila olhou para Daniel. Ele estava encostado na parede, braços cruzados, sorrindo. Ele piscou. E naquele piscar havia algo que não era possessão, não era posse, não era "você é minha". Era reconhecimento. Era admiração. Era um inteiro olhando para outro inteiro e dizendo, sem palavras: *eu te vejo. Toda você. E é mais que suficiente.*
 

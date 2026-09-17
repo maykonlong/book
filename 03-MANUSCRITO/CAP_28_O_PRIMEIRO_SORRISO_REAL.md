@@ -115,7 +115,7 @@ E sorriu.
 Não para alguém.
 Para ela mesma.
 
-Foi um sorriso que veio do útero, subiu pelo estômago, aqueceu o peito e explodiu no rosto.
+Foi um sorriso que veio das entranhas, subiu pelo estômago, aqueceu o peito e explodiu no rosto.
 Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito bem, obrigada.
 
 Você já sentiu isso? Aquele sorriso que ninguém vê, que vem de dentro e não pede plateia. O sorriso de quem se salvou. Guarde o seu. É o mais precioso que existe.

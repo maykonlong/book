@@ -19,7 +19,7 @@ Era uma pergunta que ela não sabia responder. Porque, durante nove anos, ela ti
 
 Você já se sentiu assim? De repente sem a agenda cheia, sem o papel que te define, sem ninguém precisando de você — e, no lugar, um vazio que assusta. A gente passa tanto tempo vivendo para os outros que, quando fica sozinha, não sabe mais viver para si.
 
-Camila levantou, mais por inércia do que por vontade. Fez um café. Tomou olhando pela janela. E foi aí que percebeu: fazia anos que não tomava café sentada. Café, para ela, era uma coisa que se bebia de pé, apressada, entre uma tarefa e outra.
+Camila levantou, mais no automático do que por vontade. Fez um café. Tomou olhando pela janela. E foi aí que percebeu: fazia anos que não tomava café sentada. Café, para ela, era uma coisa que se bebia de pé, apressada, entre uma tarefa e outra.
 
 Naquele sábado, ela bebeu devagar. Sentiu o gosto. Olhou a rua lá embaixo, as pessoas andando sem pressa, um cachorro farejando a calçada.
 

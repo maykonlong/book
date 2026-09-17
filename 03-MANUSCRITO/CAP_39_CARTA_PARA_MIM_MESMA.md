@@ -59,7 +59,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 *Não aquele sorriso educado para as visitas. Mas risada de doer a barriga.*
 *Você gosta da sua própria companhia.*
 
-*Não tenha medo da solidão. A solidão foi o útero onde a gente renasceu.*
+*Não tenha medo da solidão. A solidão foi o casulo onde a gente renasceu.*
 *Resista. Aguente a dor inicial. Assine aquele papel.*
 
 *A metade que você acha que vai perder não é sua.*

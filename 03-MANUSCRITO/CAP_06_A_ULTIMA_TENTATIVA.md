@@ -1,7 +1,7 @@
 ﻿# CAPÍTULO 6
 ## A Última Tentativa
 
-Apesar da conversa com Fernanda — e da suculenta no lixo —, a inércia de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
+Apesar da conversa com Fernanda — e da suculenta no lixo —, o peso de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
 
 Camila teve uma recaída de esperança.
 
