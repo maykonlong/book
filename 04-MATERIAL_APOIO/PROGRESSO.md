@@ -100,7 +100,7 @@
 - [16/09] **CAP 17 "O Grupo de Mulheres"** — 2ª passada: histórias de Clara e Júlia (1.237 → 1.453)
 - [16/09] **CAP 6 "A Última Tentativa"** aprofundado — 2ª passada (1.275 → 1.335)
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado — 2ª passada (1.302 → 1.342)
-- [16/09] **CAP 15 "Voltando a Pintar"** aprofundado — 2ª passada (1.341 → 1.380)
+- [16/09] **CAP 16 "Voltando a Pintar"** — manhã seguinte + matrícula (1.380 → 1.523)
 - [16/09] **CAP 11 "O Processo"** — 2ª passada: a âncora do apartamento (1.210 → 1.295)
 - [16/09] **CAP 4 "As Pequenas Sabotagens"** aprofundado — 2ª passada (1.480 → 1.522)
 - [16/09] **CAP 12 "A Pressão da Família"** aprofundado — 2ª passada (1.393 → 1.435)
