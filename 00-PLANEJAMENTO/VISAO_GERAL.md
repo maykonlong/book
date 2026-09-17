@@ -2,6 +2,7 @@
 
 ## Status Atual
 ✅ **Manuscrito completo** — 40 capítulos, ~56.600 palavras (ver `04-MATERIAL_APOIO/PROGRESSO.md` e `05-PUBLICACAO/PACOTE_EDITORIAL.md`)
+✅ **Site profissional no ar** — landing page (`index.html`) + leitor online (`ler.html`), com FAQ de 12 perguntas e layout mobile-first (ver `05-PUBLICACAO/SEO_GEO.md`)
 
 ---
 
@@ -175,8 +176,8 @@ Criar um livro que ressoe com mulheres brasileiras de 28-45 anos, casadas ou sep
 
 ## Próximos Passos Imediatos
 
-1. ✅ Criar estrutura de pastas
-2. ⏳ Desenvolver fichas detalhadas de personagens
-3. ⏳ Criar cronologia de eventos da história
-4. ⏳ Dividir a história em capítulos com sinopses
-5. ⏳ Escrever primeiro capítulo (teste de voz narrativa)
+1. ✅ Manuscrito completo (40 capítulos)
+2. ✅ Revisões (coesão, ortografia, repetições)
+3. ✅ Site + SEO/GEO + layout mobile-first
+4. ⏳ Beta readers (`05-PUBLICACAO/BETA_READERS.md`)
+5. ⏳ Publicação na Amazon KDP (`05-PUBLICACAO/PASSO_A_PASSO_AMAZON_KDP.md`)

@@ -8,7 +8,7 @@
 
 - **Manuscrito completo**: 40 capítulos + sinopse + dedicatória + epígrafe + carta à leitora + agradecimentos + sobre a autora + ficha técnica
 - **Revisões**: coesão (nomes/idades/cronologia), ortografia, repetições, vocabulário leve
-- **Site completo**: landing page (`index.html`) + leitor online (`ler.html`)
+- **Site profissional**: landing page (`index.html`) com nav fixa, FAQ de 12 perguntas, temas, trechos, CTA e rodapé; layout **mobile-first** (menu hamburguer); + leitor online (`ler.html`)
 - **SEO/GEO nível master**: JSON-LD rico, FAQ, trechos, llms.txt, sitemap, robots, manifest, favicon
 - **Pacote editorial**: ficha, sinopses, bio, resumo
 - **Guias**: Amazon KDP, beta readers, checklist pré-lançamento, SEO/GEO

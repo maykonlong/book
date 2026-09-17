@@ -117,6 +117,16 @@
 
 ---
 
+## 🌐 Progresso do Site (Landing Page) — 17/09/2026
+
+- ✅ **FAQ enriquecida**: 12 perguntas (antes 6) no HTML visível + JSON-LD `FAQPage` casando perfeitamente
+- ✅ **Landing page profissional**: nav fixa, seções (Sobre → Temas → Trechos → Autora → FAQ), chamada final (CTA) e rodapé em colunas
+- ✅ **Layout mobile-first**: menu hamburguer (☰), tipografia fluida (`clamp`), botões full-width no celular
+- ✅ **SEO/GEO**: JSON-LD (`Book` + `Person` + `WebSite` + `FAQPage`), Open Graph, Twitter Card, `llms.txt`, `sitemap.xml`, `robots.txt`, `manifest.json`
+- ✅ **Leitor online** (`ler.html`) — leitura completa no navegador
+
+---
+
 ## 🎯 Próximos Passos
 0. **EXPANSÃO — 1ª passada concluída** (Etapas 1-4, +3.650 palavras) — ver `00-PLANEJAMENTO/PLANO_EXPANSAO_80K.md`
 1. Revisão estrutural (coerência entre capítulos)

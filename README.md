@@ -2,7 +2,7 @@
 
 ## 🎯 Sobre Este Projeto
 
-Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"** (título provisório), uma história de ficção contemporânea sobre autodescoberta, empoderamento feminino e a jornada de uma mulher brasileira que encontra a si mesma após um relacionamento tóxico.
+Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"** (título definitivo), uma história de ficção contemporânea sobre autodescoberta, empoderamento feminino e a jornada de uma mulher brasileira que encontra a si mesma após um relacionamento tóxico.
 
 ---
 
@@ -26,13 +26,13 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 │   └── PERSONAGENS_SECUNDARIOS.md # Personagens de apoio
 │
 ├── 📁 02-ESTRUTURA/               # Estrutura narrativa
-│   ├── ESTRUTURA_CAPITULOS.md    # 27 capítulos em 3 atos
+│   ├── ESTRUTURA_CAPITULOS.md    # 40 capítulos em 3 atos
 │   └── CRONOLOGIA.md             # Linha do tempo de eventos
 │
-├── 📁 03-MANUSCRITO/              # 27 capítulos escritos (primeiro rascunho completo)
+├── 📁 03-MANUSCRITO/              # 40 capítulos escritos (rascunho completo)
 │   ├── CAP_01_A_ROTINA_INVISIVEL.md
 │   ├── CAP_02_O_ANIVERSARIO_ESQUECIDO.md
-│   └── ... (27 capítulos)
+│   └── ... (40 capítulos)
 │
 ├── 📁 04-PESQUISA/                # Material de pesquisa
 │   └── TOPICOS_PESQUISA.md       # Lista de tópicos a pesquisar
@@ -65,7 +65,7 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 
 **Público-Alvo**: Mulheres brasileiras de 28-45 anos (casadas, separadas, mães)
 
-**Dimensões**: 180-250 páginas | 27 capítulos | 3 atos
+**Dimensões**: ~240 páginas | 40 capítulos | 3 atos
 
 ---
 
@@ -87,19 +87,23 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 ### ✅ Concluído
 - [x] Conceito e proposta inicial
 - [x] Desenvolvimento de personagens principais
-- [x] Estrutura de capítulos (27 capítulos em 3 atos)
+- [x] Estrutura de capítulos (40 capítulos em 3 atos)
 - [x] Cronologia de eventos
 - [x] Definição de temas e mensagens
 - [x] Guia de voz narrativa
 - [x] Lista de tópicos de pesquisa
-- [x] Primeiro rascunho completo (27 capítulos)
+- [x] Primeiro rascunho completo (40 capítulos)
+- [x] Revisão estrutural, de continuidade e ortográfica
+- [x] Site profissional (landing page + leitor online)
+- [x] SEO/GEO completo (JSON-LD, FAQ com 12 perguntas, sitemap, llms.txt)
+- [x] Layout mobile-first (menu hamburguer, tipografia fluida)
 
 ### ⏳ Próximos Passos
-1. ✅ Revisão estrutural, ortográfica e de continuidade (concluída)
-2. ✅ Nivelamento de profundidade + voz da autora (concluído)
-3. ⏳ Beta readers (guia pronto em `05-PUBLICACAO/GUIA_BETA_READERS.md`)
-4. ⏳ Diagramação e conversão (guia em `05-PUBLICACAO/GUIA_CONVERSAO_EBOOK.md`)
-5. ⏳ Capa, sinopse e ISBN (materiais em `05-PUBLICACAO/`)
+1. ⏳ Beta readers (guia pronto em `05-PUBLICACAO/BETA_READERS.md`)
+2. ⏳ Diagramação e conversão para eBook/impresso (`05-PUBLICACAO/PASSO_A_PASSO_AMAZON_KDP.md`)
+3. ⏳ Capa final, sinopse comercial e ISBN (materiais em `05-PUBLICACAO/`)
+4. ⏳ Publicar na Amazon KDP e linkar o botão de compra no site
+5. ⏳ Criar perfis nas redes (Instagram, TikTok) e linkar no rodapé
 
 ---
 
@@ -271,7 +275,16 @@ Procurando mulheres de 28-45 anos, preferencialmente:
 
 ## 🆕 Atualizações
 
-### Versão 1.0 - [Data]
+### 17/09/2026 — Site profissional + mobile-first
+- ✅ FAQ enriquecida (6 → 12 perguntas) no HTML visível e no JSON-LD
+- ✅ Landing page reestruturada (nav fixa, temas, trechos, autora, CTA, rodapé em colunas)
+- ✅ Layout mobile-first (menu hamburguer, tipografia fluida, botões full-width)
+
+### 16/09/2026 — Manuscrito completo
+- ✅ 40 capítulos (~56.600 palavras) + 1ª e 2ª passadas de expansão
+- ✅ Revisão de coesão, ortografia, repetições e vocabulário
+
+### Versão 1.0
 - ✅ Estrutura inicial criada
 - ✅ Personagens desenvolvidos
 - ✅ Capítulos planejados
@@ -294,8 +307,8 @@ Se você está revisitando este projeto após um tempo:
 
 ---
 
-**Última atualização**: Setembro 2026  
-**Status geral**: ✅ Primeiro Rascunho Completo | Próxima Fase: Revisão
+**Última atualização**: 17/09/2026  
+**Status geral**: ✅ Manuscrito completo (40 capítulos) + revisão + site profissional no ar | Próxima fase: beta readers e publicação
 
 ---
 
