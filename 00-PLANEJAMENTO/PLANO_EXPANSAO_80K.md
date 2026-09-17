@@ -122,7 +122,7 @@ Cada capítulo expandido segue:
 | 14 | A Nova Rotina | 2.124 | 2.800 | ⏳ |
 | 15 | Voltando a Pintar | 1.380 | 3.000 | 🟡 |
 | 16 | As Pequenas Vitórias | 1.672 | 2.800 | 🟡 |
-| 17 | O Grupo de Mulheres | 1.237 | 3.200 | 🟡 |
+| 17 | O Grupo de Mulheres | 1.453 | 3.200 | 🟡 |
 | 18 | A Culpa da Maternidade | 2.019 | 3.200 | 🟡 |
 | 19 | O Aniversário de Léo | 1.357 | 2.600 | 🟡 |
 | 20 | O Contraste | 1.248 | 2.800 | 🟡 |

@@ -91,6 +91,14 @@ Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulhe
 
 — Ao Sindicato! — responderam as outras.
 
+E então, como acontece quando a guarda baixa, as histórias ficaram mais fundas. Clara, a mãe solo dos gêmeos, contou como, na semana anterior, tinha chorado escondida no banheiro do trabalho porque o ex mandou mensagem dizendo que não ia buscar as crianças no fim de semana — "e eu tinha uma reunião de madrugada no sábado, e precisei remarcar tudo, e a minha chefe me olhou torto, e eu só queria dormir oito horas seguidas uma única vez".
+
+Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho invisível": fez as contas de quanto gastaria contratando cozinheira, motorista, babá e personal organizer — e o total dava mais que o salário de muita gente. "E a gente faz tudo isso de graça, todo santo dia, e ainda ouve que 'não faz nada'".
+
+Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só assentiram. Só passaram o pão de queijo e encheram o café.
+
+E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um posto de reabastecimento. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
+
 Naquela noite, voltando para casa, Camila criou um grupo no WhatsApp.
 *"As Aquarelistas (e o Sindicato)"*
 Adicionou as quatro.

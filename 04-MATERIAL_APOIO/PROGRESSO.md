@@ -94,7 +94,7 @@
 - [16/09] **CAP 5 "A Conversa com Fernanda"** aprofundado — 2ª passada (1.021 → 1.117)
 - [16/09] **CAP 8 "Eu Quero me Separar"** aprofundado — 2ª passada (1.094 → 1.173)
 - [16/09] **CAP 7 "A Gota D'água"** aprofundado — 2ª passada (1.169 → 1.224)
-- [16/09] **CAP 17 "O Grupo de Mulheres"** aprofundado — 2ª passada (1.177 → 1.237)
+- [16/09] **CAP 17 "O Grupo de Mulheres"** — 2ª passada: histórias de Clara e Júlia (1.237 → 1.453)
 - [16/09] **CAP 6 "A Última Tentativa"** aprofundado — 2ª passada (1.275 → 1.335)
 - [16/09] **CAP 9 "A Conversa com os Filhos"** aprofundado — 2ª passada (1.302 → 1.342)
 - [16/09] **CAP 15 "Voltando a Pintar"** aprofundado — 2ª passada (1.341 → 1.380)
