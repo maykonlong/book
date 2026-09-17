@@ -760,7 +760,7 @@ Sempre as crianças. Como se fosse a única catástrofe possível. O casamento d
 
 — Não. É com a gente.
 
-Ele suspirou. Não foi um suspiro alto, teatral. Foi sutil. Uma exalação curta pelo nariz e um leve revirar de olhos imperceptível para leigos, mas gritante para uma esposa de oito anos. *Lá vem ela.*
+Ele suspirou. Não foi um suspiro alto, teatral. Foi sutil. Uma exalação curta pelo nariz e um leve revirar de olhos imperceptível para leigos, mas gritante para uma esposa de onze anos. *Lá vem ela.*
 
 — Tá. Pode falar.
 
@@ -2599,7 +2599,7 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — E você?
 
-— Seis mil. Sou analista sênior.
+— Seis mil. Sou coordenadora de marketing.
 
 — Ótimo. Ele ganha o dobro. Vamos pedir pensão alimentícia de 30% do líquido dele para as duas crianças, mais plano de saúde e escola.
 
@@ -2953,7 +2953,7 @@ No final, quando faltavam cinco minutos, ele colocou o bloco de lado.
 
 Camila piscou.
 — Como assim?
-— Se você não pudesse usar as palavras "mãe", "esposa" (ou ex-esposa) e "analista de marketing"... quem é você?
+— Se você não pudesse usar as palavras "mãe", "esposa" (ou ex-esposa) e "coordenadora de marketing"... quem é você?
 
 Camila abriu a boca para responder. Fechou.
 
@@ -2982,6 +2982,15 @@ Dr. Lucas estendeu uma caixa de lenços. Ela pegou um, assoou o nariz sem elegâ
 — Eu vou achar ela de novo?
 
 — Vai. Ela tá aí. Tá soterrada debaixo de muita "obrigação" e "dever", mas tá aí.
+
+— De onde veio a ideia de que ser artista era perda de tempo? — perguntou Dr. Lucas, inclinando-se.
+Camila piscou. Ninguém nunca tinha perguntado isso.
+— Da minha mãe — respondeu, sem pensar. — Ela dizia que arte era "hobby sem futuro". Que eu precisava de uma carreira "de verdade".
+— E você acreditou.
+— Acreditei. — A voz de Camila ficou pequena. — Troquei a agência de publicidade — que eu amava — por um emprego "estável". Guardei os pincéis. Virei prática.
+— E agora?
+— Agora... — Camila olhou para as próprias mãos, como se procurasse nelas a resposta. — Agora eu não sei quem sou sem essa voz me dizendo o que fazer. É como se a minha mãe ainda morasse na minha cabeça, decidindo por mim.
+— Essa voz — disse Dr. Lucas, gentil — não é a sua mãe. É a sua leitura dela. E leituras podem ser relidas. E reescritas.
 
 Ele olhou no relógio.
 
@@ -5412,6 +5421,8 @@ E ela estava faminta.
 
 Sábado. Três da tarde.
 
+Era o segundo café deles. O primeiro — semanas atrás, ainda antes do divórcio — tinha sido um desastre silencioso, com ela fechada como um muro e ele perguntando, com uma paciência que a desconcertou, se estava incomodando. Desde então, Camila tinha pensado muito naquela pergunta. E tinha prometido a si mesma que, se houvesse outra chance, não ia se esconder de novo.
+
 Camila chegou na Cafeteria Grão dez minutos atrasada.
 
 Não por causa do trânsito. Mas porque tinha dado três voltas no quarteirão antes de estacionar. Quase desistiu duas vezes. Precisou de Fernanda mandando mensagem motivacional de última hora:
@@ -5644,7 +5655,7 @@ Camila sorriu.
 
 Abriu o diário. Escreveu:
 
-*"Primeiro café com Daniel.*
+*"Segundo café com Daniel.*
 
 *Esperava desastre. Tive... algo bom.*
 
@@ -6015,6 +6026,24 @@ Chance real.
 Porque ele merecia. Ela merecia. Eles mereciam.
 
 E talvez fosse ali que a verdadeira cura começava.
+
+---
+
+Uma semana depois, num sábado à noite, Camila estava na porta de um restaurante italiano em Moema, alisando o vestido pela centésima vez.
+
+— Para de se arrumar, você já tá linda — sussurrou Daniel, segurando a mão dela.
+— Eu tô nervosa. E se a sua irmã não gostar de mim?
+— Impossível. A Mariana adora todo mundo. E vai adorar você mais ainda. Confia.
+
+A irmã de Daniel, Mariana, era três anos mais velha que ele, psicóloga, com uma risada alta e um abraço que esmagava. Em dez minutos, já tinha tirado da bolsa uma foto do Daniel adolescente, de aparelho nos dentes, e estava contando, entre gargalhadas, como ele chorou no primeiro fora que levou.
+
+— Mari, pelo amor de Deus — Daniel gemeu, vermelho.
+Camila riu até doer a barriga. E percebeu, no meio da risada, que não estava mais tensa. Estava... confortável. Como se aquele círculo — Daniel, Mariana, e agora ela — fizesse sentido.
+
+No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
+— Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
+
+Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, pela primeira vez, ela não teve medo de entrar.
 
 
 # CAPÍTULO 26

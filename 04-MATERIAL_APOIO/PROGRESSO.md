@@ -47,7 +47,7 @@
 
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
 - **Total de capítulos escritos**: 27/27 (100%)
-- **Total de palavras**: **~43.100** (era ~37.300 antes da expansão)
+- **Total de palavras**: **~43.500** (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.600
 - **Páginas estimadas**: ~160-180 (formato 14x21 cm)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
@@ -56,12 +56,15 @@
 | Ato | Capítulos | Palavras (aprox.) | % | Alvo |
 |---|---|---|---|---|
 | I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
-| II — Desconstrução e Redescobrimento | 10-21 | ~18.500 | 43% | 50% (~40k) |
-| III — Abertura e Entrega | 22-27 | ~9.400 | 22% | 25% (~20k) |
-| **TOTAL** | 27 | **~43.100** | 100% | ~80k |
+| II — Desconstrução e Redescobrimento | 10-21 | ~18.600 | 43% | 50% (~40k) |
+| III — Abertura e Entrega | 22-27 | ~9.700 | 22% | 25% (~20k) |
+| **TOTAL** | 27 | **~43.500** | 100% | ~80k |
 
-### Nota de coerência (documentada para revisão futura)
-- CAP 22 e CAP 24 contêm dois "primeiros cafés" com Daniel. Decisão (opção 3): **manter como está** e revisar na próxima passada de revisão estrutural.
+### ✅ Furos corrigidos (16/09/2026)
+1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.
+2. **CAP 3**: "esposa de oito anos" → "esposa de onze anos".
+3. **Cargo da Camila**: unificado em "coordenadora de marketing" (CAP 1, 11, 13, 27).
+4. **Idade/linha do tempo**: ficha corrigida — casou aos 23, Léo nasceu 3 anos depois (aos 26), fechando a conta dos 34 anos.
 
 ---
 

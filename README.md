@@ -193,7 +193,7 @@ Como uma amiga contando sua história e dizendo:
 - **Páginas totais**: ~160-180 (atual) → meta 300-330
 - **Capítulos**: 27
 - **Palavras por capítulo**: ~1.600 (atual) → meta 2.500-3.000
-- **Total**: ~43.100 palavras (atual, após 1ª + 2ª passadas de expansão) → meta 75.000-85.000
+- **Total**: ~43.500 palavras (atual, após 1ª + 2ª passadas de expansão) → meta 75.000-85.000
 
 ### Cronograma Estimado
 | Fase | Duração | Status |
