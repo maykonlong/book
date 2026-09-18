@@ -23,7 +23,7 @@
 - [x] Definir arcos narrativos
 
 ### Fase 2: Estruturação ✅
-- [x] Dividir em capítulos (20-30)
+- [x] Dividir em capítulos (40)
 - [x] Criar sinopse de cada capítulo
 - [x] Estabelecer pontos de virada
 - [x] Definir conflitos principais por capítulo
@@ -40,8 +40,8 @@
   - [x] Capítulo 7 - "A Gota D'água" ✅
   - [x] Capítulo 8 - "Eu Quero me Separar" ✅
   - [x] Capítulo 9 - "A Conversa com os Filhos" ✅
-- [x] **ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO** ✅ (Cap 10-21)
-- [x] **ATO III - ABERTURA E ENTREGA** ✅ (Cap 22-27)
+- [x] **ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO** ✅ (Cap 10-28)
+- [x] **ATO III - ABERTURA E ENTREGA** ✅ (Cap 29-40)
 - [x] Cena de abertura impactante ✅
 - [x] Clímax emocional ✅
 - [x] Desfecho satisfatório ✅
@@ -49,12 +49,12 @@
 ### Fase 4: Revisão
 - [x] Primeira revisão (estrutura) — ver `04-MATERIAL_APOIO/REVISAO.md`
 - [x] Segunda revisão (personagens) — correção de nome (Sofia → Bia)
-- [ ] Terceira revisão (diálogos)
+- [x] Terceira revisão (diálogos)
 - [x] Revisão de coesão — nomes, idades e cronologia verificados
 - [ ] Beta readers
 
 ### Fase 5: Finalização
-- [ ] Revisão ortográfica e gramatical
+- [x] Revisão ortográfica e gramatical
 - [ ] Formatação final
 - [x] Criação de sinopse para contracapa — ver `05-PUBLICACAO/PACOTE_EDITORIAL.md`
 - [ ] Preparação para publicação
@@ -149,14 +149,14 @@ Criar um livro que ressoe com mulheres brasileiras de 28-45 anos, casadas ou sep
 
 ## Notas de Pesquisa Necessária
 
-- [ ] Processo de divórcio no Brasil (aspectos legais)
-- [ ] Guarda compartilhada e pensão alimentícia
-- [ ] Terapia de casal e individual
-- [ ] Sobrecarga mental feminina (estudos e dados)
-- [ ] Relacionamentos tóxicos (sinais e padrões)
-- [ ] Grupos de apoio para mulheres divorciadas
-- [ ] Hobbies femininos populares (arte, escrita, etc)
-- [ ] Dinâmicas de famílias reconstruídas
+- [x] Processo de divórcio no Brasil (aspectos legais)
+- [x] Guarda compartilhada e pensão alimentícia
+- [x] Terapia de casal e individual
+- [x] Sobrecarga mental feminina (estudos e dados)
+- [x] Relacionamentos tóxicos (sinais e padrões)
+- [x] Grupos de apoio para mulheres divorciadas
+- [x] Hobbies femininos populares (arte, escrita, etc)
+- [x] Dinâmicas de famílias reconstruídas
 
 ---
 

@@ -61,8 +61,8 @@
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
 - **Total de capítulos escritos**: 40/40 (100%)
 - **Total de palavras**: **~56.600** (era ~37.300 antes da expansão)
-- **Palavras/capítulo (média)**: ~1.620
-- **Páginas estimadas**: ~175-195 (formato 14x21 cm)
+- **Palavras/capítulo (média)**: ~1.415
+- **Páginas estimadas**: ~240 (formato A5 14×21 cm)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
 
 ### Distribuição por ato

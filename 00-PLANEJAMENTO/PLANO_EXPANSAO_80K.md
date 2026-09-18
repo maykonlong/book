@@ -1,8 +1,10 @@
-# 📈 PLANO DE EXPANSÃO — 37k → 80k palavras
+# 📈 PLANO DE EXPANSÃO — 56,6k → 80k palavras
 
 > **Status atual (17/09/2026)**: ~56.600 palavras · **40 capítulos** · +13 capítulos novos + aprofundamento. A história está COMPLETA (com FIM no CAP 40). Faltam ~19–28 mil palavras para a meta cheia de 75–85k, o que pode ser feito com mais uma passada de aprofundamento dos capítulos médios (média atual ~1.415 p/cap vs. meta 2.400–3.000).
 
-> **Meta**: transformar "A Metade Que Me Faltava Era Eu" de novela (~37.300 palavras) em romance comercial de women's fiction (~75–85 mil palavras), mantendo os **27 capítulos / 3 atos** e a voz narrativa já definida (`00-PLANEJAMENTO/VOZ_NARRATIVA.md`).
+> ⏸️ **Expansão adiada** (decisão da autora, 17/09/2026) — o manuscrito permanece em ~56.600 palavras / 40 capítulos. Este plano fica como referência para o futuro.
+
+> **Meta**: transformar "A Metade Que Me Faltava Era Eu" de romance curto (~56.600 palavras) em romance comercial de women's fiction (~75–85 mil palavras), mantendo os **40 capítulos / 3 atos** e a voz narrativa já definida (`00-PLANEJAMENTO/VOZ_NARRATIVA.md`).
 
 > **Referência de mercado (pesquisa validada em 16/09/2026)**: 70–90 mil palavras · 280–380 páginas · 3 atos · capítulos de 2.000–3.200 palavras.
 
@@ -12,12 +14,12 @@
 
 | Métrica | Atual | Alvo |
 |---|---|---|
-| Palavras totais | **~37.300** | 75.000–85.000 |
-| Palavras/capítulo (média) | ~1.380 | 2.400–3.000 |
+| Palavras totais | **~56.600** | 75.000–85.000 |
+| Palavras/capítulo (média) | ~1.415 | 2.400–3.000 |
 | Ato I (cap. 1–9) | ~14.700 (39%) | ~19.000 (25%) |
 | Ato II (cap. 10–21) | ~14.200 (38%) | ~36.500 (50%) |
 | Ato III (cap. 22–27) | ~8.400 (22%) | ~16.500 (25%) |
-| Capítulos | 27 | 27 (sem mudanças) |
+| Capítulos | 40 | 40 (sem mudanças) |
 
 **Problema central**: o livro está com ~50% do tamanho do nicho. O déficit concentra-se no **Ato II** (que deveria ser o coração emocional) e no **Ato III** (romance com Daniel rápido demais para ser crível).
 
@@ -38,8 +40,8 @@
 
 ### ✅ Etapa 0 — Planejamento e correção de métricas (16/09/2026)
 - [x] Criar este plano
-- [x] Corrigir `PROGRESSO.md` (37.300 reais, não 75–80k)
-- [ ] Commit + push no GitHub
+- [x] Corrigir `PROGRESSO.md` (37.300 palavras, não 75–80k)
+- [x] Commit + push no GitHub
 
 ### ✅ Etapa 1 — Ato II, bloco A: terapia e redescobrimento
 - [x] CAP 13 — A Primeira Sessão (888 → 1.860) 🟡

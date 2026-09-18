@@ -26,7 +26,7 @@ Estes são os parâmetros alvo para a diagramação no software de editoração 
 
 Baseado no volume de caracteres atual (arquivos Markdown), esta é a estimativa de páginas impressas por capitulo (considerando média de 1.500 caracteres/página).
 
-*Nota: Capítulos iniciais (1-3) são propositalmente mais longos para estabelecer a "prisão" da rotina. Capítulos finais (26-27) são mais curtos e poéticos para dar leveza ao desfecho.*
+*Nota: esta tabela é o registro histórico do rascunho original (27 capítulos). O livro final tem 40 capítulos — o total atualizado está no fim da seção. Capítulos iniciais (1-3) são propositalmente mais longos para estabelecer a "prisão" da rotina; os finais, mais curtos e poéticos para dar leveza ao desfecho.*
 
 | Capítulo | Arquivo | Tamanho Aprox. (Bytes) | Pág. Estimadas (A5) | Obs. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -58,8 +58,8 @@ Baseado no volume de caracteres atual (arquivos Markdown), esta é a estimativa 
 | **26** | CAP_26_CARTA_PARA_MIM_MESMA.md | 2 KB | **1-2** | Carta (Epílogo 1) |
 | **27** | CAP_27_A_METADE_QUE_ME_FALTAVA... | 2 KB | **1-2** | Final (Epílogo 2) |
 
-**Total Estimado de Páginas:** ~160 a 180 páginas.
-(Tamanho ideal para romance contemporâneo / novela).
+**Total Estimado de Páginas:** ~240 páginas (A5, 40 capítulos).
+(Romance curto / women's fiction).
 
 ### 3. Checklist de Revisão Final
 

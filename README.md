@@ -45,7 +45,8 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 │
 └── 📁 05-PUBLICACAO/              # Materiais para publicação
     ├── SINOPSE_COMERCIAL.md      # Sinopse e palavras-chave
-    ├── GUIA_BETA_READERS.md      # Questionário para leitoras-teste
+    ├── BETA_READERS.md           # Questionário para leitoras-teste
+    ├── PASSO_A_PASSO_AMAZON_KDP.md # Publicação na Amazon KDP
     ├── GUIA_CONVERSAO_EBOOK.md   # Markdown → ePub/MOBI/PDF
     ├── BRIEFING_CAPA.md          # Briefing do design de capa
     └── GUIA_ISBN_DIRETOS_AUTORAIS.md # Registro da obra
@@ -194,10 +195,11 @@ Como uma amiga contando sua história e dizendo:
 ## 📊 Métricas do Projeto
 
 ### Objetivos Quantitativos
-- **Páginas totais**: ~160-180 (atual) → meta 300-330
-- **Capítulos**: 40
-- **Palavras por capítulo**: ~1.415 (atual) → meta 2.500-3.000
-- **Total**: ~56.600 palavras (atual, após 1ª + 2ª passadas de expansão + 13 capítulos novos + aprofundamento) → meta 75.000-85.000
+- **Capítulos**: 40 (completos)
+- **Palavras totais**: ~56.600 (miolo) · ~57.000 com front/back matter
+- **Palavras por capítulo (média)**: ~1.415
+- **Páginas estimadas (A5, 14×21 cm)**: ~240
+- **Meta futura (expansão adiada)**: 75.000–85.000 palavras (~280–320 páginas)
 
 ### Cronograma Estimado
 | Fase | Duração | Status |

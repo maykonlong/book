@@ -1,13 +1,13 @@
 # GUIA DE CONVERSÃO E DIAGRAMAÇÃO
 ## Do Markdown ao ePub / MOBI / PDF
 
-O manuscrito está em 27 arquivos Markdown em **03-MANUSCRITO/**. Para publicar, é preciso unificá-los e convertê-los.
+O manuscrito está em 40 arquivos Markdown em **03-MANUSCRITO/**. Para publicar, é preciso unificá-los e convertê-los.
 
 ---
 
 ## 1. Unificar o manuscrito (PowerShell)
 
-Os arquivos já estão numerados (CAP_01 a CAP_27), então a ordem alfabética é a ordem correta. Execute a partir da pasta `book`:
+Os arquivos já estão numerados (CAP_01 a CAP_40), então a ordem alfabética é a ordem correta. Execute a partir da pasta `book`:
 
 ```powershell
 $capitulos = Get-ChildItem "03-MANUSCRITO\CAP_*.md" | Sort-Object Name
@@ -49,4 +49,4 @@ pandoc manuscrito_completo.md -o livro.pdf \
 ## 5. Especificações alvo (do `DIRETRIZES_PUBLICACAO.md`)
 - Página **A5** (14 × 21 cm); margens 2 cm (interna 2,5 cm).
 - Fonte serifada 11 pt; entrelinha 1,15.
-- Total estimado: ~160–180 páginas.
+- Total estimado: ~240 páginas (A5).
