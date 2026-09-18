@@ -162,13 +162,13 @@ Criar um livro que ressoe com mulheres brasileiras de 28-45 anos, casadas ou sep
 
 ## Cronograma Sugerido
 
-| Fase | Duração Estimada | Prazo |
-|------|------------------|-------|
-| Planejamento completo | 2 semanas | - |
-| Estruturação de capítulos | 1 semana | - |
-| Escrita do 1º rascunho | 8-12 semanas | - |
-| Revisões | 4-6 semanas | - |
-| Finalização | 2 semanas | - |
+| Fase | Duração Estimada | Status |
+|------|------------------|--------|
+| Planejamento completo | 2 semanas | ✅ Concluído |
+| Estruturação de capítulos | 1 semana | ✅ Concluído |
+| Escrita do 1º rascunho | 8-12 semanas | ✅ Concluído |
+| Revisões | 4-6 semanas | ✅ Concluído |
+| Finalização | 2 semanas | ⏳ Em andamento |
 
 **Total estimado**: 4-6 meses
 

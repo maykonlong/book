@@ -205,10 +205,12 @@ Como uma amiga contando sua história e dizendo:
 | Planejamento | 2 semanas | ✅ Concluído |
 | Pesquisa | 1-2 semanas | ✅ Concluído |
 | Primeiro rascunho | 8-12 semanas | ✅ Concluído |
-| Revisões | 4-6 semanas | ⏳ Próximo |
-| Finalização | 2 semanas | 📅 Pendente |
+| Revisões | 4-6 semanas | ✅ Concluído |
+| Finalização | 2 semanas | ⏳ Em andamento |
 
 **Total estimado**: 4-6 meses
+
+> *Finalização* em andamento: site e leitor online já prontos; faltam beta readers, capa final e publicação na Amazon KDP.
 
 ---
 
