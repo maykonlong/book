@@ -192,6 +192,12 @@ Mas o tom dele era curioso de verdade. Não julgador.
 
 — Devem ser incríveis. Você fala deles com muito carinho.
 
+Daniel hesitou antes de continuar:
+
+— Eu sempre imaginei que seria pai um dia. Acho que por isso gosto de ouvir as pessoas falarem dos filhos.
+
+A frase acendeu uma luz pequena na cabeça de Camila. Não era medo ainda. Era só uma informação importante chegando cedo demais, no segundo café com um homem que ela nem sabia se veria de novo. Então guardou aquilo num canto.
+
 — São. São tudo. — Pausa. — Eu... sou mãe em tempo integral além de trabalhar em tempo integral também. É... muito.
 
 Esperou que ele recuasse. Que dissesse algo como "Nossa, deve ser complicado" com tom de "você TEM muita bagagem".

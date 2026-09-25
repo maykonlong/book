@@ -149,6 +149,8 @@ Daniel ficou alguns segundos olhando a pista.
 
 — Eu quero ser pai um dia — disse. — Sempre quis. No meu noivado, a gente falava muito disso. Quando terminou, tentei convencer a mim mesmo de que não importava. Mas importa.
 
+Camila lembrou do segundo café, quando ele contou que sempre se imaginara pai. Lembrou também da casa cheia na viagem. Daniel nunca tinha escondido aquele desejo. Ela é que ainda não estava pronta para perguntar o que ele significava para os dois. Agora, a pergunta estava ali, entre eles, impossível de guardar outra vez.
+
 Camila sentiu o coração apertar. Não por medo. Por clareza.
 
 — Eu não quero ter mais filhos.

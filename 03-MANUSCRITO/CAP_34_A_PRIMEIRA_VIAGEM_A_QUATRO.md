@@ -171,7 +171,13 @@ Não houve drama. Daniel foi para o sofá, Bia ocupou metade da cama e chutou Ca
 
 Todos riram.
 
-Camila também. Porque ninguém tinha cobrado dela o desconforto da noite.
+Daniel olhou para as crianças e depois para Camila.
+
+— Eu gosto dessa bagunça — disse. — Sempre gostei da ideia de uma casa cheia.
+
+Camila sorriu, mas a frase ficou com ela. Pela primeira vez, se perguntou se, para Daniel, uma casa cheia significava os três que já existiam ou uma criança que ainda não existia.
+
+Ainda assim, Camila conseguiu aproveitar a manhã. Ninguém tinha cobrado dela o desconforto da noite.
 
 Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
 

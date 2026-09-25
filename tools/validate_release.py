@@ -85,10 +85,14 @@ def validate_chapters() -> int:
         fail("Daniel aparece antes do capítulo 27")
 
     continuity_markers = {
+        1: "bombinha de asma do Léo",
         9: "Ricardo voltou para casa tarde",
         10: "mudança definitiva de Ricardo",
         11: "gerente comercial",
         12: "Abril estava no dia 8",
+        29: "sempre imaginei que seria pai",
+        34: "ideia de uma casa cheia",
+        37: "Daniel nunca tinha escondido",
     }
     for chapter_number, marker in continuity_markers.items():
         if marker.casefold() not in texts[chapter_number - 1].casefold():

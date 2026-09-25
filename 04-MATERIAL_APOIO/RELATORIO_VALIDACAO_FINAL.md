@@ -8,7 +8,7 @@
 **APROVADO para publicação técnica.**
 
 - 40 capítulos em sequência, sem lacunas.
-- 62.180 palavras contando os títulos e cabeçalhos dos capítulos.
+- 62.394 palavras contando os títulos e cabeçalhos dos capítulos.
 - Nenhum capítulo abaixo de 900 palavras.
 - 10 ilustrações narrativas presentes no leitor e no EPUB.
 - 13 temas femininos presentes na página, no JSON-LD e no `llms.txt`.
@@ -34,7 +34,15 @@
 - A ficha de Daniel deixou de apresentar alternativas incompatíveis. Agora registra o mesmo passado do manuscrito: solteiro, sem filhos e com um noivado encerrado há três anos.
 - A ficha de Ricardo esclarece que não existe traição no enredo; o conflito nasce da negligência emocional e da desigualdade doméstica.
 - A ficha de Camila passou a registrar corretamente a cena da doença como a gota d'água.
-- O desejo de Daniel de ser pai é apresentado no capítulo 37, processado na terapia no capítulo 38, resolvido no capítulo 39 e confirmado pelo estado emocional de Camila no capítulo 40.
+- A bombinha de asma do Léo passou a aparecer na lista mental de Camila já no capítulo 1. Assim, sua importância no capítulo 25 deixa de surgir apenas quando a trama precisa dela.
+- O desejo de Daniel de ser pai agora é revelado no capítulo 29, reaparece de forma natural no capítulo 34, torna-se uma conversa inevitável no capítulo 37, é processado na terapia no capítulo 38 e resolvido no capítulo 39.
+- O fim do relacionamento não nasce de uma briga artificial: Camila e Daniel reconhecem um projeto de vida incompatível e terminam com afeto, sem transformar nenhum dos dois em vilão.
+
+### Três varreduras profundas desta revisão
+
+1. **Continuidade e fatos:** corrigidos a saída temporária e a mudança definitiva de Ricardo, o momento da primeira consulta jurídica, profissão e idade de personagens, cronologia, moradia, campeonato, medicação e hábitos das crianças.
+2. **Linguagem e concordância:** simplificados estrangeirismos e termos distantes do público; revisadas pontuação, maiúsculas, cores, datas, concordâncias, diálogos e repetição de frases longas.
+3. **Preparação emocional do final:** antecipados a asma de Léo e o desejo de paternidade de Daniel, com sinais graduais nos capítulos anteriores para que o desfecho seja sentido como consequência da história, não como recurso apressado.
 
 ### Linguagem acessível
 
@@ -57,9 +65,10 @@ Foram substituídas palavras e expressões que poderiam afastar o público, entr
 3. Revisão manual dos alertas do corretor. Os 92 alertas remanescentes são falsos positivos de ficção: nomes próprios, marcas, sons escritos, falas informais e construções corretas interpretadas sem o contexto literário.
 4. Busca por resíduos em inglês, marcadores de rascunho, conflitos de nomes, títulos divergentes e termos formais selecionados.
 5. Comparação da cronologia: janeiro do Ano 0 a setembro do Ano 1, idades, aniversários, separação, divórcio, relacionamento e término.
-6. EPUBCheck oficial após a reconstrução do EPUB.
-7. Inspeção visual da capa e de páginas do início, capítulo 21, exposição final e encerramento.
-8. Inspeção visual e técnica da landing page em desktop e celular.
+6. Verificação automática de frases longas repetidas entre capítulos e de marcadores narrativos nos capítulos 1, 9, 10, 11, 12, 29, 34 e 37.
+7. EPUBCheck oficial após a reconstrução do EPUB.
+8. Inspeção visual da capa e de páginas do início, capítulo 21, exposição final e encerramento.
+9. Inspeção visual e técnica da landing page em desktop e celular.
 
 ## Limite honesto da validação
 

@@ -117,12 +117,13 @@ Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldit
 
 *1. Lancheira do Léo (ele disse que enjoou de maçã, tentar colocar pera picada).*
 *2. Uniforme da Bia (verificar se a mancha de tinta saiu).*
-*3. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza outra vez e Ricardo vai reclamar do gasto).*
-*4. Pagar a conta de luz (vence hoje, colocar lembrete).*
-*5. Responder o e-mail do cliente chato sobre a campanha de volta às aulas.*
-*6. Marcar o dentista das crianças.*
-*7. Comprar presente para a festa do amiguinho do Léo no sábado.*
-*8. Onde está a lista de compras? O leite acabou. O queijo também.*
+*3. Conferir a bombinha de asma do Léo (deixar outra na mochila).*
+*4. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza outra vez e Ricardo vai reclamar do gasto).*
+*5. Pagar a conta de luz (vence hoje, colocar lembrete).*
+*6. Responder o e-mail do cliente chato sobre a campanha de volta às aulas.*
+*7. Marcar o dentista das crianças.*
+*8. Comprar presente para a festa do amiguinho do Léo no sábado.*
+*9. Onde está a lista de compras? O leite acabou. O queijo também.*
 
 Camila abriu a geladeira e suspirou. Só havia duas fatias de queijo.
 
@@ -6532,6 +6533,12 @@ Mas o tom dele era curioso de verdade. Não julgador.
 
 — Devem ser incríveis. Você fala deles com muito carinho.
 
+Daniel hesitou antes de continuar:
+
+— Eu sempre imaginei que seria pai um dia. Acho que por isso gosto de ouvir as pessoas falarem dos filhos.
+
+A frase acendeu uma luz pequena na cabeça de Camila. Não era medo ainda. Era só uma informação importante chegando cedo demais, no segundo café com um homem que ela nem sabia se veria de novo. Então guardou aquilo num canto.
+
 — São. São tudo. — Pausa. — Eu... sou mãe em tempo integral além de trabalhar em tempo integral também. É... muito.
 
 Esperou que ele recuasse. Que dissesse algo como "Nossa, deve ser complicado" com tom de "você TEM muita bagagem".
@@ -7775,7 +7782,13 @@ Não houve drama. Daniel foi para o sofá, Bia ocupou metade da cama e chutou Ca
 
 Todos riram.
 
-Camila também. Porque ninguém tinha cobrado dela o desconforto da noite.
+Daniel olhou para as crianças e depois para Camila.
+
+— Eu gosto dessa bagunça — disse. — Sempre gostei da ideia de uma casa cheia.
+
+Camila sorriu, mas a frase ficou com ela. Pela primeira vez, se perguntou se, para Daniel, uma casa cheia significava os três que já existiam ou uma criança que ainda não existia.
+
+Ainda assim, Camila conseguiu aproveitar a manhã. Ninguém tinha cobrado dela o desconforto da noite.
 
 Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
 
@@ -8277,6 +8290,8 @@ Ele diminuiu a velocidade antes de entrar na rodovia.
 Daniel ficou alguns segundos olhando a pista.
 
 — Eu quero ser pai um dia — disse. — Sempre quis. No meu noivado, a gente falava muito disso. Quando terminou, tentei convencer a mim mesmo de que não importava. Mas importa.
+
+Camila lembrou do segundo café, quando ele contou que sempre se imaginara pai. Lembrou também da casa cheia na viagem. Daniel nunca tinha escondido aquele desejo. Ela é que ainda não estava pronta para perguntar o que ele significava para os dois. Agora, a pergunta estava ali, entre eles, impossível de guardar outra vez.
 
 Camila sentiu o coração apertar. Não por medo. Por clareza.
 

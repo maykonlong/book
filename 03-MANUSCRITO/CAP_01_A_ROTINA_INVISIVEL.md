@@ -57,12 +57,13 @@ Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldit
 
 *1. Lancheira do Léo (ele disse que enjoou de maçã, tentar colocar pera picada).*
 *2. Uniforme da Bia (verificar se a mancha de tinta saiu).*
-*3. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza outra vez e Ricardo vai reclamar do gasto).*
-*4. Pagar a conta de luz (vence hoje, colocar lembrete).*
-*5. Responder o e-mail do cliente chato sobre a campanha de volta às aulas.*
-*6. Marcar o dentista das crianças.*
-*7. Comprar presente para a festa do amiguinho do Léo no sábado.*
-*8. Onde está a lista de compras? O leite acabou. O queijo também.*
+*3. Conferir a bombinha de asma do Léo (deixar outra na mochila).*
+*4. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza outra vez e Ricardo vai reclamar do gasto).*
+*5. Pagar a conta de luz (vence hoje, colocar lembrete).*
+*6. Responder o e-mail do cliente chato sobre a campanha de volta às aulas.*
+*7. Marcar o dentista das crianças.*
+*8. Comprar presente para a festa do amiguinho do Léo no sábado.*
+*9. Onde está a lista de compras? O leite acabou. O queijo também.*
 
 Camila abriu a geladeira e suspirou. Só havia duas fatias de queijo.
 
