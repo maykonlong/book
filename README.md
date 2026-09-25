@@ -99,7 +99,8 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Site profissional (landing page + leitor online)
 - [x] SEO, GEO e AEO (13 temas visíveis, JSON-LD, FAQ, sitemap, robots e llms.txt)
 - [x] Relatório reproduzível de validação editorial e técnica
-- [x] Layout mobile-first (menu hamburguer, tipografia fluida)
+- [x] Layout mobile-first (menu, tipografia fluida, CTA inteligente e áreas seguras)
+- [x] Leitor acessível para celular, tablet e e-reader (fonte ajustável, modos claro/sépia/escuro, retomada automática e artes web otimizadas)
 - [x] Dez ilustrações narrativas integradas ao leitor, EPUB e miolo
 - [x] EPUB 3 validado estruturalmente
 - [x] Miolo de 316 páginas em 5,5 × 8,5 pol., sem sangria

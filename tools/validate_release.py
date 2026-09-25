@@ -146,12 +146,16 @@ def validate_site_links() -> None:
         fail("Referências locais ausentes: " + ", ".join(sorted(missing)))
 
     reader = (ROOT / "ler.html").read_text(encoding="utf-8")
-    illustrated = {
-        int(number)
-        for number in re.findall(r"art:\s*'assets/illustrations-v2/cap-(\d{2})-[^']+\.png'", reader)
-    }
+    art_refs = re.findall(r"art:\s*'(assets/illustrations-web/cap-(\d{2})-[^']+\.jpg)'", reader)
+    illustrated = {int(number) for _, number in art_refs}
     if illustrated != ILLUSTRATED_CHAPTERS:
         fail(f"Artes do leitor divergentes: {sorted(illustrated)}")
+    for relative_path, _ in art_refs:
+        art_path = ROOT / relative_path
+        if not art_path.is_file():
+            fail(f"Arte web ausente: {relative_path}")
+        if art_path.stat().st_size > 400_000:
+            fail(f"Arte web acima de 400 KB: {relative_path}")
 
 
 def validate_site_content() -> None:
