@@ -105,7 +105,7 @@
 - Camila tenta protegê-lo da tensão (mas ele sente)
 - Após divórcio: Léo fica mais tranquilo vendo a mãe feliz
 
-#### Bia (4 anos)
+#### Bia (Beatriz, 4 anos)
 - Relação leve e espontânea
 - Bia é pura alegria e inocência
 - Camila se culpa por não dar atenção plena (sempre multitarefando)
@@ -143,7 +143,7 @@
 
 ### Fase 2: Ruptura e Decisão
 **Cap. 6-8**
-- Gota d'água (cena de aniversário?)
+- Gota d'água: fica doente, continua responsável por tudo e vê Ricardo reclamar em vez de cuidar dela
 - Decisão de se separar
 - Enfrentar Ricardo
 - Conversa difícil com as crianças

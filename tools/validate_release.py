@@ -13,19 +13,77 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PACKAGE = ROOT / "PACOTE_PUBLICACAO" / "AMAZON_KDP"
 ILLUSTRATED_CHAPTERS = {1, 8, 12, 17, 22, 27, 31, 34, 39, 40}
+THEMES = (
+    "Carga mental feminina",
+    "Trabalho doméstico desigual",
+    "Solidão no casamento",
+    "Perda e reconstrução da identidade",
+    "Maternidade real e culpa materna",
+    "Divórcio e julgamento social",
+    "Independência financeira",
+    "Amor-próprio e limites",
+    "Terapia e saúde emocional",
+    "Amizade feminina e rede de apoio",
+    "Dependência emocional e medo da solidão",
+    "Reconstrução familiar e coparentalidade",
+    "Autonomia para escolher o próprio futuro",
+)
+FORBIDDEN_TEXT = (
+    "eventually",
+    "Léo process.",
+    "chamava m",
+    "quebrado família",
+    "segurou rostinho",
+    "os snacks",
+    "band-aid",
+    "stalkeava",
+)
 
 
 def fail(message: str) -> None:
     raise AssertionError(message)
 
 
-def validate_chapters() -> None:
+def validate_chapters() -> int:
     chapters = sorted((ROOT / "03-MANUSCRITO").glob("CAP_*.md"))
     if len(chapters) != 40:
         fail(f"Esperados 40 capítulos; encontrados {len(chapters)}")
     numbers = [int(re.search(r"CAP_(\d{2})_", path.name).group(1)) for path in chapters]
     if numbers != list(range(1, 41)):
         fail(f"Numeração de capítulos inválida: {numbers}")
+
+    texts = [path.read_text(encoding="utf-8").lstrip("\ufeff") for path in chapters]
+    for chapter_number, text in enumerate(texts, 1):
+        if not text.startswith(f"# CAPÍTULO {chapter_number}\n## "):
+            fail(f"Cabeçalho inconsistente no capítulo {chapter_number}")
+    word_counts = [len(re.findall(r"\b[\wÀ-ÿ]+\b", text, flags=re.UNICODE)) for text in texts]
+    short = [(numbers[index], count) for index, count in enumerate(word_counts) if count < 900]
+    if short:
+        fail(f"Capítulos abaixo de 900 palavras: {short}")
+
+    combined = "\n".join(texts)
+    leftovers = [token for token in FORBIDDEN_TEXT if token.casefold() in combined.casefold()]
+    if leftovers:
+        fail(f"Resíduos linguísticos encontrados: {leftovers}")
+
+    if any("Daniel" in text for text in texts[:26]):
+        fail("Daniel aparece antes do capítulo 27")
+
+    ending = texts[-1]
+    for sentence in ("Estava solteira.", "Estava feliz.", "Estava inteira."):
+        if sentence not in ending:
+            fail(f"Fecho ausente no capítulo 40: {sentence}")
+
+    arc_markers = {
+        37: "ser pai",
+        38: "mais um filho",
+        39: "solteira por escolha",
+    }
+    for chapter_number, marker in arc_markers.items():
+        if marker.casefold() not in texts[chapter_number - 1].casefold():
+            fail(f"Preparação do desfecho ausente no capítulo {chapter_number}: {marker}")
+
+    return sum(word_counts)
 
 
 def validate_site_links() -> None:
@@ -50,6 +108,58 @@ def validate_site_links() -> None:
     }
     if illustrated != ILLUSTRATED_CHAPTERS:
         fail(f"Artes do leitor divergentes: {sorted(illustrated)}")
+
+
+def validate_site_content() -> None:
+    index = (ROOT / "index.html").read_text(encoding="utf-8")
+    beta = (ROOT / "05-PUBLICACAO" / "manuscrito_beta.html").read_text(encoding="utf-8")
+    if index.count("<h1") != 1:
+        fail("A página inicial deve ter exatamente um H1")
+    if '<link rel="canonical" href="https://maykonlong.github.io/book/">' not in index:
+        fail("URL canônica da página inicial ausente")
+
+    description_match = re.search(r'<meta name="description" content="([^"]+)">', index)
+    if not description_match or not 70 <= len(description_match.group(1)) <= 160:
+        fail("Meta description ausente ou fora do intervalo de 70 a 160 caracteres")
+
+    theme_section = re.search(r'<section class="section inside" id="temas">(.*?)</section>', index, re.S)
+    if not theme_section:
+        fail("Seção visível de temas ausente")
+    visible_themes = len(re.findall(r'<li class="inside-card(?: inside-card--wide)?">', theme_section.group(1)))
+    if visible_themes != len(THEMES):
+        fail(f"Seção visual contém {visible_themes} temas em vez de {len(THEMES)}")
+
+    json_match = re.search(r'<script type="application/ld\+json">\s*(\{.*?\})\s*</script>', index, re.S)
+    if not json_match:
+        fail("JSON-LD ausente")
+    data = json.loads(json_match.group(1))
+    graph = data.get("@graph", [])
+    book = next(item for item in graph if item.get("@type") == "Book")
+    item_list = next(item for item in graph if item.get("@type") == "ItemList")
+    faq = next(item for item in graph if item.get("@type") == "FAQPage")
+
+    about = tuple(item["name"] for item in book.get("about", []))
+    listed = tuple(item["name"] for item in item_list.get("itemListElement", []))
+    if about != THEMES or listed != THEMES or item_list.get("numberOfItems") != len(THEMES):
+        fail("Os 13 temas divergem entre Book, ItemList e a lista oficial")
+    questions = {item["name"] for item in faq.get("mainEntity", [])}
+    if "Quais temas sobre a vida das mulheres aparecem no livro?" not in questions:
+        fail("Pergunta AEO sobre os 13 temas ausente")
+
+    llms = (ROOT / "llms.txt").read_text(encoding="utf-8")
+    numbered_themes = re.findall(r"(?m)^\d+\. ", llms)
+    if len(numbered_themes) != len(THEMES):
+        fail(f"llms.txt contém {len(numbered_themes)} temas numerados")
+
+    sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
+    if sitemap.count("<lastmod>2026-09-25</lastmod>") != 2:
+        fail("Datas do sitemap não foram atualizadas")
+
+    beta_leftovers = [token for token in FORBIDDEN_TEXT if token.casefold() in beta.casefold()]
+    if beta_leftovers or "Beatriz, do grupo" in beta or "Um Ano Depois: A Nova Paz" in beta:
+        fail(f"Manuscrito beta desatualizado: {beta_leftovers}")
+    if "Júlia e Teresa" not in beta:
+        fail("Renomeação de Teresa ausente no manuscrito beta")
 
 
 def validate_epub() -> dict[str, int]:
@@ -103,8 +213,9 @@ def validate_package() -> None:
 
 
 def main() -> int:
-    validate_chapters()
+    chapter_words = validate_chapters()
     validate_site_links()
+    validate_site_content()
     epubcheck = validate_epub()
     validate_package()
     bundle = ROOT / "PACOTE_PUBLICACAO" / "A_Metade_Que_Me_Faltava_Era_Eu_KDP.zip"
@@ -113,7 +224,13 @@ def main() -> int:
             {
                 "status": "APROVADO",
                 "capitulos": 40,
+                "palavras_com_titulos": chapter_words,
                 "ilustracoes": len(ILLUSTRATED_CHAPTERS),
+                "temas_na_pagina": len(THEMES),
+                "arco_final": "OK",
+                "linguagem": "OK",
+                "dados_estruturados": "OK",
+                "manuscrito_beta": "OK",
                 "links_locais": "OK",
                 "epubcheck": epubcheck,
                 "checksums": "OK",
@@ -130,6 +247,6 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         raise SystemExit(main())
-    except (AssertionError, FileNotFoundError, KeyError, ValueError, zipfile.BadZipFile) as exc:
+    except (AssertionError, FileNotFoundError, KeyError, StopIteration, ValueError, zipfile.BadZipFile) as exc:
         print(f"REPROVADO: {exc}", file=sys.stderr)
         raise SystemExit(1)

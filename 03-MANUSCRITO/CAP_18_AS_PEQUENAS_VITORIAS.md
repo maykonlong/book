@@ -144,7 +144,7 @@ Firme. Claro. Final.
 
 Por anos, o "não" dela era sempre acompanhado de um pedido de desculpas. "Não, mas se precisar mesmo...", "Não, desculpa, é que...", "Não, mas depois eu vejo". Era um não pela metade, que o Ricardo — e o mundo inteiro — ignorava com facilidade.
 
-Dessa vez, o não veio inteiro. Sem porta dos fundos. Sem espaço para interpretação. E a sensação era tão nova, tão poderosa, que Camila riu sozinha no carro.
+Dessa vez, o não veio inteiro. Sem porta dos fundos. Sem espaço para dúvida. E a sensação era tão nova, tão poderosa, que Camila riu sozinha no carro.
 
 Pequena vitória.
 
@@ -192,7 +192,7 @@ E era.
 
 ---
 
-A quinta pequena vitória — a mais significativa — aconteceu numa quinta à noite.
+A quinta pequena vitória — a mais importante — aconteceu numa quinta à noite.
 
 Aula de aquarela. Quarta semana.
 
@@ -300,7 +300,7 @@ Camila olhou para o filho. Sempre perceptivo.
 
 — Como eu.
 
-Léo assentiu. Não disse mais nada. Mas Camila viu no olhinho dele: entendimento. Apoio infantil mas real.
+Léo balançou a cabeça. Não disse mais nada. Mas Camila viu no olhinho dele: entendimento. Apoio infantil mas real.
 
 ---
 

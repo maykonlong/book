@@ -11,7 +11,7 @@ A recusa da terapia ainda doía, mas sua mente traidora racionalizou: *Ele tem r
 
 Ela decidiu preparar um jantar surpresa.
 
-Não era aniversário de namoro. Não era data especial. Era apenas uma sexta-feira chuvosa em que Camila queria desesperadamente sentir que ainda tinha um marido, não apenas um colega de quarto que roncava.
+Não era aniversário de namoro. Não era data especial. Era apenas uma sexta-feira chuvosa em que Camila queria muito sentir que ainda tinha um marido, não apenas um colega de quarto que roncava.
 
 Ela saiu do trabalho às 16h, inventando uma desculpa de dentista para o chefe. Correu ao supermercado.
 

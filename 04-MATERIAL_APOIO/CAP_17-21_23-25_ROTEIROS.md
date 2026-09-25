@@ -11,7 +11,7 @@
 **Desenvolvimento**:
 - Camila ansiosa mas animada
 - Júlia (32, mãe solteira) comenta: "A gente devia ir tomar café depois, né?"
-- Beatriz (55, recém-viúva) hesita
+- Teresa (55, recém-viúva) hesita
 - Clara (40, mãe solo de gêmeos) aceita na hora
 - Camila surpreendida mas diz sim
 
@@ -22,7 +22,7 @@
 
 **Diálogos-chave**:
 - Júlia: "Eu sou mãe solteira. Por escolha. Fiz inseminação. Melhor decisão da vida."
-- Beatriz vulnerável: "Meu marido... o falecido... eu fazia tudo e ninguém nunca viu."
+- Teresa vulnerável: "Meu marido... o falecido... eu fazia tudo e ninguém nunca viu."
 - Camila: "Eu também. Separando. Dois filhos."
 - Clara: "Eu crio os gêmeos sozinha. O pai deles é o clássico Pai Disney."
 
@@ -32,7 +32,7 @@
 **Desenvolvimento**:
 - Cada uma conta resumidamente sua história
 - Risos e lágrimas misturados
-- Beatriz: "Vocês não acham que a gente é muito velha pra recomeçar?"
+- Teresa: "Vocês não acham que a gente é muito velha pra recomeçar?"
 - Júlia: "NUNCA é tarde. Eu comecei aos 32!"
 - Camila sentindo pertencimento
 

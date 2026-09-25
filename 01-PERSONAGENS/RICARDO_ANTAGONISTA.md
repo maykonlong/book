@@ -171,7 +171,7 @@ Ricardo não é **mau**. Ele é:
 
 ### Não é Monstro
 - Não agride fisicamente
-- Não trai (ou não é mostrado)
+- Não há traição no enredo; o conflito nasce da negligência emocional e da desigualdade dentro de casa
 - Não é alcoólatra ou viciado
 - **É a toxicidade comum, a que passa despercebida**
 

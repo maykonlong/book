@@ -209,9 +209,9 @@ De raiva. De frustração. De culpa.
 
 Uma culpa enorme, esmagadora.
 
-Porque ela que tinha feito isso. Ela que tinha separado. Ela que tinha "quebrado família".
+Porque ela que tinha feito isso. Ela que tinha se separado. Ela que tinha "quebrado a família".
 
-E agora Léo sofria consequências.
+E agora Léo sofria as consequências.
 
 Ela foi até a mochila do Léo, jogada no canto da sala. Tirou a cartolina amassada. Desdobrou.
 
@@ -235,11 +235,11 @@ Ele estava deitado, olhando teto.
 
 — Vocês vão voltar? Você e o pai?
 
-Camila sentiu ar sair dos pulmões. A pergunta tinha vindo eventually. Mas ainda doeu.
+Camila sentiu o ar sair dos pulmões. A pergunta por fim tinha vindo. Mas ainda doeu.
 
 — Não, amor. Não vamos voltar.
 
-Léo process. Então:
+Léo ficou alguns segundos em silêncio. Então:
 
 — Eu queria que fosse diferente.
 
@@ -261,9 +261,9 @@ A pergunta atravessou Camila como agulha. Então era isso. O menino de oito anos
 
 — Léo, escuta. O seu pai não vem por causa DELE. Por causa das escolhas DELE. Você podia ser o menino mais perfeito do mundo — e você é — e ele ainda teria o mesmo problema. Isso não é sobre você. Nunca foi.
 
-— Mas se a gente fosse mais bonzinhos...
+— Mas se a gente fosse melhor...
 
-— Léo, olha para mim. — Ela segurou rostinho dele. — Você e sua irmã são PERFEITOS. A separação foi porque eu e seu pai não sabíamos mais ser felizes juntos. Não porque vocês fizeram algo errado. Nunca.
+— Léo, olha para mim. — Ela segurou o rostinho dele. — Você e sua irmã são PERFEITOS. A separação foi porque eu e seu pai não sabíamos mais ser felizes juntos. Não porque vocês fizeram algo errado. Nunca.
 
 Ele chorou. Enfim. Choro guardado. Choro de meses.
 

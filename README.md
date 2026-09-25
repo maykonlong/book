@@ -39,6 +39,7 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 │
 ├── 📁 04-MATERIAL_APOIO/          # Rascunhos e roteiros de apoio
     ├── PROGRESSO.md              # Status do manuscrito
+    ├── RELATORIO_VALIDACAO_FINAL.md # Evidências da revisão e dos testes finais
     ├── CAP_01_RASCUNHO.md        # Rascunho inicial do capítulo 1
     ├── CAP_12-15_DESCONSTRUCAO_INICIAL.md
     └── CAP_17-21_23-25_ROTEIROS.md
@@ -96,7 +97,8 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Primeiro rascunho completo (40 capítulos)
 - [x] Revisão estrutural, de continuidade e ortográfica
 - [x] Site profissional (landing page + leitor online)
-- [x] SEO, GEO e AEO (JSON-LD, FAQ, sitemap, robots e llms.txt)
+- [x] SEO, GEO e AEO (13 temas visíveis, JSON-LD, FAQ, sitemap, robots e llms.txt)
+- [x] Relatório reproduzível de validação editorial e técnica
 - [x] Layout mobile-first (menu hamburguer, tipografia fluida)
 - [x] Dez ilustrações narrativas integradas ao leitor, EPUB e miolo
 - [x] EPUB 3 validado estruturalmente
@@ -201,7 +203,7 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Capítulos**: 40 (completos)
-- **Palavras totais**: ~61.700 (40 capítulos) · ~62.500 com textos iniciais e finais
+- **Palavras totais**: ~61.900 (40 capítulos) · ~62.700 com textos iniciais e finais
 - **Palavras por capítulo (média)**: ~1.415
 - **Páginas do arquivo final (5,5 × 8,5 pol.)**: 316
 - **Meta futura (expansão adiada)**: 75.000–85.000 palavras (~280–320 páginas)
@@ -291,7 +293,7 @@ Procurando mulheres adultas, preferencialmente:
 - ✅ Layout mobile-first (menu hamburguer, tipografia fluida, botões full-width)
 
 ### 16/09/2026 — Manuscrito completo
-- ✅ 40 capítulos (~61.700 palavras após a revisão final) + passadas de expansão, continuidade e linguagem
+- ✅ 40 capítulos (~61.900 palavras após a revisão final) + passadas de expansão, continuidade e linguagem
 - ✅ Revisão de coesão, ortografia, repetições e vocabulário
 
 ### Versão 1.0

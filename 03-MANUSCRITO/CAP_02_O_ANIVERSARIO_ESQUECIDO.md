@@ -9,7 +9,7 @@ Quinze dias para o aniversário de Léo.
 
 Oito anos.
 
-Seu primogênito ia completar oito voltas ao redor do sol, e ela ainda não tinha organizado absolutamente nada. A culpa bateu instantaneamente, aquele soco familiar no estômago que toda mãe conhece.
+Seu filho mais velho ia completar oito voltas ao redor do sol, e ela ainda não tinha organizado nada. A culpa veio na mesma hora, aquele soco familiar no estômago que toda mãe conhece.
 
 Não que ela tivesse esquecido. Impossível esquecer. Camila pensava nisso toda vez que o celular vibrava com o lembrete programado há meses. Pensava toda vez que Léo voltava da escola excitado, contando sobre a festa do Pedro (que teve um mágico) ou da Sofia (que teve uma cascata de chocolate). Pensava toda vez que Bia, com seus quatro anos de pura ansiedade, perguntava se "no do mano vai ter bolo de super-herói".
 

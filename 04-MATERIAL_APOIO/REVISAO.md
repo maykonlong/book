@@ -10,7 +10,7 @@
 |---|---|
 | Sequência de capítulos | 1–40, sem falhas nem duplicatas (validado por script) |
 | Cabeçalhos (`# CAPÍTULO N`) | Batem com o nome do arquivo em todos os 40 (validado) |
-| Nome da filha | **Bia** (corrigido — ver abaixo) |
+| Nome da filha | **Bia (Beatriz)** — distinta de Teresa, a colega adulta do grupo de pintura |
 | Terapeuta | **Dr. Lucas** (homem) — consistente nos caps 14, 15, 18, 31, 32… |
 | Médica do PS | **Dra. Helena** (CAP 8) — papel distinto da terapeuta, sem conflito |
 | Mães/avós | Dona Sônia (mãe de Camila), Dona Vera (mãe de Ricardo), Dona Lúcia (mãe de Daniel) — três personagens distintas |
@@ -19,6 +19,7 @@
 | Idade de Léo | 8 (Ato I) → 9 (Atos II/III) — coerente |
 | Idade de Bia | 4 (Ato I) → 5 (Atos II/III) — coerente |
 | Daniel | Professor universitário de literatura (CAP 29) — coerente com a ficha |
+| Passado de Daniel | Solteiro, sem filhos; encerrou um noivado há três anos — sem alternativas em aberto na ficha |
 | Sobrenome de Camila | "Camila Ferreira Santos" (tirou o sobrenome do ex no divórcio) — coerente |
 
 ---
@@ -38,7 +39,7 @@
 
 1. [x] **Revisão ortográfica/gramatical (1ª varredura automática)** — ver "Correções ortográficas" abaixo (recomenda-se ainda uma leitura humana em voz alta)
 2. [ ] **Beta readers** (mulheres adultas, especialmente mães e mulheres casadas/separadas) — materiais prontos (`BETA_READERS.md` + `manuscrito_beta.html`); falta recrutar e coletar o feedback
-3. [x] **Expansão para 75–85k adiada** (decisão da autora — edição final com ~61.700 palavras de história; média ~1.542 por capítulo)
+3. [x] **Expansão para 75–85k adiada** (decisão da autora — edição final com ~61.900 palavras de história; média ~1.547 por capítulo)
 4. [ ] Preencher **nome/bio da autora** no pacote editorial
 5. [ ] Formatação final + capa
 

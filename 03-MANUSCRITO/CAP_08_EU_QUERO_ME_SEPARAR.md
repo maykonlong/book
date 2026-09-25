@@ -40,7 +40,7 @@ A médica, Dra. Helena, era uma mulher na casa dos cinquenta, com olhar cansado 
 
 — Virose forte — decretou. — Mas o seu corpo está gritando exaustão, minha filha. Se você não parar, ele vai te parar. De novo.
 
-Camila assentiu. Lágrimas quentes escorreram sem aviso.
+Camila fez que sim. Lágrimas quentes escorreram sem aviso.
 
 — Não é só o corpo, né? — perguntou a médica, baixando o estetoscópio.
 

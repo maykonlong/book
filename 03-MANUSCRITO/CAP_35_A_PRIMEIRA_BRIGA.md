@@ -95,7 +95,7 @@ Camila colocou os pratos de volta.
 
 — Posso sentar?
 
-Ela assentiu.
+Ela fez que sim.
 
 ---
 

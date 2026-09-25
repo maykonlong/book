@@ -293,7 +293,7 @@ Foi cortar o cabelo.
 
 Há anos usava o mesmo corte. Longo, preso, prático.
 
-"Cabelo de mãe", as pessoas chamava m.
+Era o que as pessoas chamavam de "cabelo de mãe".
 
 Camila sempre odiou essa expressão.
 
@@ -391,7 +391,7 @@ Camila sentiu lágrimas. Mas boas.
 
 A frase pegou Camila de surpresa. Oito anos. Ele tinha oito anos e estava entendendo coisas que muitos adultos não entendiam.
 
-— Por quê você acha?
+— Por que você acha?
 
 — Porque antes vocês fingiam. E agora vocês não fingem mais. E acho que... acho que é melhor assim. Mesmo sendo triste às vezes.
 

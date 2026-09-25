@@ -99,7 +99,7 @@ Daniel ficou sério outra vez.
 
 — Não. — Camila respondeu sem hesitar. — Você foi uma história de verdade. Com começo, meio e fim. Me mostrou que eu podia ser tratada com cuidado. E também me ajudou a descobrir que cuidado nenhum vale o preço de eu mentir para ficar.
 
-Ele assentiu, devagar.
+Ele fez que sim, devagar.
 
 — E você me mostrou que uma mulher pode dizer não sem deixar de amar. Acho que eu precisava aprender isso também.
 

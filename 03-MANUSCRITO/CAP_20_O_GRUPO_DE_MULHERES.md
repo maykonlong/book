@@ -12,14 +12,14 @@ Havia um grupo peculiar naquela sala de ateliê.
 
 **Júlia:** 32 anos, publicitária, ligada no 220v. Pintava quadros abstratos violentos e coloridíssimos. Falava alto, ria alto e tinha uma energia caótica que Camila adorava. Júlia era o tipo de pessoa que entrava na sala e, em dez minutos, já sabia da vida de todo mundo — e todo mundo sabia da dela.
 
-**Beatriz:** 55 anos, recém-viúva. Pintava flores com uma delicadeza impressionante. Tinha uma tristeza nos olhos que Camila reconhecia, mas também uma doçura infinita. Falava pouco e ouvia muito, do jeito de quem aprendeu cedo que a solidão ensina a escutar.
+**Teresa:** 55 anos, recém-viúva. Pintava flores com uma delicadeza impressionante. Tinha uma tristeza nos olhos que Camila reconhecia, mas também uma doçura infinita. Falava pouco e ouvia muito, do jeito de quem aprendeu cedo que a solidão ensina a escutar.
 
-**Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era um exemplo vivo de força. Quando Clara chegava, sempre trazia alguma história de perrengue contada com um humor seco que fazia todo mundo rir de alívio, de identificação.
+**Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era um exemplo vivo de força. Quando Clara chegava, sempre trazia alguma história de perrengue contada com um humor seco que fazia todo mundo rir de alívio e se reconhecer nela.
 
 Numa quinta-feira chuvosa, Paula, a professora, sugeriu:
 — Gente, a chuva está triste. Vamos encerrar meia hora mais cedo e ir na padaria da esquina? Eu pago o pão de queijo.
 
-Foram as cinco (Paula, Camila, Júlia, Beatriz e Clara).
+Foram as cinco (Paula, Camila, Júlia, Teresa e Clara).
 
 Sentaram-se numa mesa de canto, com cafés fumegantes e uma cesta de pão de queijo. Lá fora, a chuva engrossava. Dentro, o vapor do café subia e embaçava a vidraça, criando um mundo pequeno e seguro.
 
@@ -39,7 +39,7 @@ Clara suspirou.
 
 — Pai Disney! — Camila bateu na mesa. — É exatamente isso!
 
-— Meninas — disse Beatriz, a voz suave. — Eu sei que dá raiva. Meu marido... o falecido... ele era um homem bom, mas eu fazia tudo. Tudo. E quando ele morreu, todo mundo dizia "pobre Alfredo, trabalhava tanto". Ninguém via o meu trabalho. É ingrato.
+— Meninas — disse Teresa, a voz suave. — Eu sei que dá raiva. Meu marido... o falecido... ele era um homem bom, mas eu fazia tudo. Tudo. E quando ele morreu, todo mundo dizia "pobre Alfredo, trabalhava tanto". Ninguém via o meu trabalho. É ingrato.
 
 Ela fez uma pausa, girando a xícara entre os dedos.
 — No velório, uma parente dele me disse: "a senhora foi uma santa, cuidou dele até o fim". E eu só pensava: e quem cuidou de mim? Quarenta anos eu cuidei. Quarenta. E ninguém nunca me perguntou se eu estava cansada. Ninguém nunca cuidou de mim nem por um dia.
@@ -85,7 +85,7 @@ Era isso que faltava. Não conselho. Não "ah, mas você devia ter feito assim".
 
 Só presença.
 
-Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulheres que ouviam "meu marido nunca notou meu trabalho" e assentiam, porque também eram invisíveis em casa. Mulheres que não tentavam colocar band-aid na dor de ninguém — só seguravam a mão e diziam, sem palavras: *eu também. Eu também sei como é.*
+Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulheres que ouviam "meu marido nunca notou meu trabalho" e faziam que sim, porque também eram invisíveis em casa. Mulheres que não tentavam colocar um curativo na dor de ninguém — só seguravam a mão e diziam, sem palavras: *eu também. Eu também sei como é.*
 
 — Um brinde ao Sindicato — disse Camila, levantando seu café.
 
@@ -114,7 +114,7 @@ Naquela noite, voltando para casa, Camila criou um grupo no WhatsApp.
 *"As Aquarelistas (e o Sindicato)"*
 Adicionou as quatro.
 
-A primeira mensagem foi de Beatriz:
+A primeira mensagem foi de Teresa:
 *"Obrigada, meninas. Eu estava me sentindo muito sozinha hoje. Vocês iluminaram minha noite."*
 
 Coração. Coração. Coração.

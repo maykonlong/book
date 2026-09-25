@@ -94,7 +94,7 @@ Um resmungo abafado.
 
 Mentira. O dia estava nublado, cinza chumbo, típico de São Paulo em janeiro. Mas "o sol já nasceu" soava mais otimista.
 
-Léo se mexeu, descobrindo o rosto amassado. Ele abriu um olho só, fitou a mãe com aquela honestidade brutal das crianças.
+Léo se mexeu, descobrindo o rosto amassado. Ele abriu um olho só e olhou para a mãe com aquela honestidade brutal das crianças.
 
 — Você tá com cara de cansada, mãe.
 
@@ -128,7 +128,7 @@ A menina bufou, mas obedeceu. Camila vestiu a filha com a eficiência de quem ve
 
 Sete e vinte e oito.
 
-Camila voltou à cozinha puxando as duas crianças, já vestidas e razoavelmente apresentáveis. Colocou cereal nas tigelas. Serviu o leite.
+Camila voltou à cozinha puxando as duas crianças, já vestidas e mais ou menos arrumadas. Colocou cereal nas tigelas. Serviu o leite.
 
 E foi aí que Ricardo apareceu.
 
@@ -178,7 +178,7 @@ Ela pegou a xícara e virou o líquido gelado e amargo de uma vez só, como se f
 
 ---
 
-O trânsito da Avenida Rebouças era a representação física do estado mental de Camila: caótico, barulhento e travado.
+O trânsito da Avenida Rebouças era o retrato da cabeça de Camila: caótico, barulhento e travado.
 
 Bia cantava "Livres Estou" no banco de trás, desafinando com convicção. Léo olhava pela janela, quieto demais para uma criança de sete anos, quase oito.
 
@@ -366,5 +366,5 @@ A solidão acompanhada. A solidão de dormir ao lado de alguém que não sabia a
 Camila levantou-se, apagou a última luz, e caminhou para o quarto, arrastando os pés e a alma, pronta para dormir pouco e acordar sete minutos antes do despertador, para fazer tudo de novo.
 
 Invisível.
-Imprescindível.
+Necessária para tudo.
 E completamente só.

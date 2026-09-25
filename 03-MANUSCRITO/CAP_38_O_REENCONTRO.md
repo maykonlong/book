@@ -83,7 +83,7 @@ Ricardo apertou a alça da cesta.
 
 Camila esperou o ciúme. A ironia. Alguma frase sobre ela ter seguido em frente rápido demais.
 
-Ricardo apenas assentiu.
+Ricardo apenas balançou a cabeça.
 
 — O Léo falou de um professor que é ruim no gol. Então é ele.
 
@@ -131,7 +131,7 @@ E o mais surpreendente de tudo: ela não precisava mais delas.
 
 — Obrigada por reconhecer — disse ela. — Isso não muda o que aconteceu. Mas talvez ajude você a fazer diferente com as crianças.
 
-Ricardo assentiu.
+Ricardo fez que sim.
 
 — A apresentação da Bia é quinta, às seis. Eu coloquei dois alarmes.
 

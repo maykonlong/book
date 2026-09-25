@@ -143,7 +143,7 @@ Ela ficou parada na porta, sem querer interromper. O filho dela, que podia estar
 
 — Mãe, olha — ele disse, mostrando o desenho. Era um boneco de capa e espada, meio torto, meio lindo.
 
-— Tá incrível, filho. — Camila se sentou ao lado dele. — Quer que a gente vá na exposição dos heróis sábado? Levar o caderno, desenhar lá?
+— Tá incrível, filho. — Camila se sentou ao lado dele. — Quer ir comigo à exposição dos heróis no sábado? A gente leva o caderno e desenha lá.
 
 O sorriso que abriu no rosto do Léo valia mais do que qualquer PlayStation.
 

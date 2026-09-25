@@ -69,7 +69,7 @@ O assunto mudou. Ninguém fez cara feia. Ninguém cobrou que Camila aliviasse o 
 
 Era uma família capaz de fazer uma pergunta ruim, pedir desculpa e continuar o almoço.
 
-Parecia uma coisa pequena. Para Camila, era quase revolucionária.
+Parecia uma coisa pequena. Para Camila, era uma mudança enorme.
 
 ---
 
@@ -169,7 +169,7 @@ Não houve briga. Não houve chantagem. Só um silêncio difícil, desses que ap
 
 — Hoje eu não consigo imaginar. Talvez seja medo. Talvez seja uma escolha. Ainda não sei. O que eu sei é que não quero prometer uma vida que não tenho certeza de querer.
 
-Daniel assentiu devagar.
+Daniel fez que sim, devagar.
 
 — Eu não preciso de uma resposta hoje.
 

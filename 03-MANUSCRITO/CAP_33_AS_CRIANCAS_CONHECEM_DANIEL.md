@@ -23,7 +23,7 @@ Léo não respondeu. Bia, sem cerimônia, foi checar a caixa de pizza.
 
 — Qual sabor? — perguntou, prática.
 
-— Metade marguerita, metade calabresa. Se não gostar, pedimos outra.
+— Metade muçarela com tomate e manjericão, metade calabresa. Se não gostar, pedimos outra.
 
 Bia abriu um sorriso. Primeiro fio de esperança.
 
@@ -41,7 +41,7 @@ Léo ergueu os olhos por um segundo, quase contra a vontade.
 
 — Demais. Se você joga na linha, já é melhor do que eu.
 
-E, enfim, na noite, o canto da boca de Léo se mexeu.
+E, pela primeira vez naquela noite, o canto da boca de Léo se mexeu.
 
 Depois da pizza, Daniel montou o jogo na mesa. Camila ficou na cozinha, lavando a louça devagar, deixando os três sozinhos. Precisava ver aquilo de longe.
 

@@ -59,7 +59,7 @@ Camila parou, com a caneca na mão.
 
 — Não, meu amor. Você fica com a mamãe. E com o papai também, alguns dias. Mas a sua casa é aqui.
 
-Bia assentiu, mastigando devagar, como se digerisse algo maior do que cereal.
+Bia fez que sim, mastigando devagar, como se digerisse algo maior do que cereal.
 
 — É que a Lívia, da minha sala, foi morar com o pai depois que os pais dela separaram. Eu fiquei com medo.
 

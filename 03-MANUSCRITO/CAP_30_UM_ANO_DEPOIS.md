@@ -1,5 +1,5 @@
 # CAPÍTULO 30
-## Um Ano Depois: A Nova Paz
+## Um Ano Depois
 
 Um ano.
 Fazia doze meses que Ricardo tinha saído.
@@ -105,7 +105,7 @@ Encontro quatro. Cinema.
 
 Daniel perguntou sobre as crianças.
 
-Camila congelou instantaneamente.
+Camila congelou na mesma hora.
 
 *"Está avaliando se sirvo? Se sou muito complicada?"*
 
@@ -185,7 +185,7 @@ Encontro delas para café. Terça à tarde.
 
 — Não estou sabotando.
 
-— Está. Você procura defeito onde não tem. Testando ele constantemente.
+— Está. Você procura defeito onde não tem. Testando ele o tempo todo.
 
 Camila sabia que era verdade. Mas:
 
@@ -291,7 +291,7 @@ Assustador.
 
 Mas também... bom.
 
-Talvez pudesse parar de testar constantemente.
+Talvez pudesse parar de testar o tempo todo.
 
 Talvez pudesse começar a confiar, devagar.
 

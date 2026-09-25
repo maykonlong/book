@@ -84,7 +84,7 @@ Conversaram mais alguns minutos. Sobre arte. Sobre literatura. Sobre a exposiç�
 — Qual é o seu, afinal? — Daniel perguntou, apontando para os quadros. — Quero dizer, o que te atravessou.
 Camila hesitou. Ninguém nunca tinha perguntado assim — não sobre técnica, mas sobre o que a atravessava.
 — Esse — disse ela, indicando o quadro da mulher sob a água. — Porque eu passei muito tempo me sentindo exatamente assim: afundando, mas vendo a luz lá em cima.
-Daniel olhou para o quadro. Depois para ela. E não disse "nossa, que profundo" nem "você devia procurar ajuda". Só assentiu, devagar, como quem recebe uma confidência e promete, em silêncio, guardá-la.
+Daniel olhou para o quadro. Depois para ela. E não disse "nossa, que profundo" nem "você devia procurar ajuda". Só fez que sim, devagar, como quem recebe uma confidência e promete, em silêncio, guardá-la.
 — Faz sentido — ele disse, simples. — A luz também aparece nos seus olhos quando você fala disso.
 
 Camila desviou o olhar, desconcertada. Não era flerte barato. Era observação. Era alguém que prestava atenção de verdade.
@@ -131,7 +131,7 @@ Não conseguiu.
 
 Pelo resto da noite, enquanto ajudava a desmontar a exposição, o bilhete pareceu queimar no fundo da bolsa. Cada vez que Camila mexia para pegar algo, seus dedos roçavam o papel dobrado, e o coração dava um salto — pequeno, sem querer, irritante.
 
-Ela se pegou pensando no que havia de tão desconcertante naquele gesto. Não era a cantada. Era a ausência de pressão. *"Sem pressão. Só se você quiser."* Onze anos de casamento a tinham ensinado que todo gesto de homem vinha com cobrança embutida. E aquele bilhete — aquele bilhete simples, educado, que pedia nada — tinha desmontado uma crença que ela nem sabia que carregava.
+Ela se pegou pensando por que aquele gesto mexia tanto com ela. Não era a cantada. Era a ausência de pressão. *"Sem pressão. Só se você quiser."* Onze anos de casamento a tinham ensinado que todo gesto de homem vinha com cobrança embutida. E aquele bilhete — aquele bilhete simples, educado, que pedia nada — tinha desmontado uma crença que ela nem sabia que carregava.
 
 Talvez existissem homens que davam sem esperar em troca. Talvez.
 
@@ -177,7 +177,7 @@ Casual demais.
 
 Quase apagou mas ENVIOU antes que pudesse.
 
-Encarou a tela. Mensagem enviada. Dois checks.
+Encarou a tela. Mensagem enviada. Duas marcas de leitura.
 
 Pânico.
 
@@ -334,7 +334,7 @@ Ele riu levemente.
 
 — Tipo achar que você vai me criticar a qualquer momento. Ou que quer me controlar. Ou que só quer falar de você.
 
-Daniel assentiu devagar.
+Daniel fez que sim, devagar.
 — Entendi. Fantasmas do passado. Eles são chatos mesmo.
 
 — São insuportáveis.

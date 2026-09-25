@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>A Metade Que Me Faltava Era Eu | Romance de Mariana Duarte</title>
-  <meta name="description" content="Você cuida de todo mundo. Mas quem cuida de você? Conheça o romance de Mariana Duarte sobre carga mental, divórcio, maternidade e recomeço. Leia grátis.">
-  <meta name="keywords" content="romance feminino, carga mental, maternidade, divórcio, independência emocional, mulher solteira feliz, amor-próprio, recomeço, ficção brasileira">
+  <meta name="description" content="Um romance para mulheres sobre carga mental, maternidade, divórcio, dependência emocional e recomeço. Conheça Camila e leia grátis.">
+  <meta name="keywords" content="romance feminino, carga mental feminina, trabalho doméstico desigual, solidão no casamento, maternidade real, culpa materna, divórcio, independência financeira, saúde emocional, amizade feminina, amor-próprio, dependência emocional, coparentalidade, mulher solteira feliz, recomeço">
   <meta name="author" content="Mariana Duarte">
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
   <meta name="theme-color" content="#13283b">
@@ -17,7 +17,7 @@
   <meta property="og:locale" content="pt_BR">
   <meta property="og:site_name" content="A Metade Que Me Faltava Era Eu">
   <meta property="og:title" content="A Metade Que Me Faltava Era Eu — Mariana Duarte">
-  <meta property="og:description" content="Você cuida de todo mundo. Mas quem cuida de você? Um romance sobre a coragem de se escolher.">
+  <meta property="og:description" content="Treze dores e recomeços que muitas mulheres conhecem. Um romance sobre carga mental, maternidade, divórcio e a coragem de se escolher.">
   <meta property="og:url" content="https://maykonlong.github.io/book/">
   <meta property="og:image" content="https://maykonlong.github.io/book/assets/og-livro.png">
   <meta property="og:image:secure_url" content="https://maykonlong.github.io/book/assets/og-livro.png">
@@ -28,7 +28,7 @@
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="A Metade Que Me Faltava Era Eu — Mariana Duarte">
-  <meta name="twitter:description" content="Um romance sobre carga mental, maternidade, divórcio e a coragem de recomeçar.">
+  <meta name="twitter:description" content="Treze temas da vida real atravessam a jornada de Camila: carga mental, maternidade, divórcio, autonomia e recomeço.">
   <meta name="twitter:image" content="https://maykonlong.github.io/book/assets/og-livro.png">
 
   <style>
@@ -134,8 +134,11 @@
     .story-close { padding: 20px 22px; background: #f1e7d8; border-left: 4px solid var(--terracotta); border-radius: 0 12px 12px 0; font-weight: 750; }
 
     .inside { background: #efe7dc; }
-    .inside-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
-    .inside-card { display: grid; grid-template-columns: 48px 1fr; gap: 16px; padding: 24px; background: var(--paper); border: 1px solid #dfd3c2; border-radius: 18px; }
+    .theme-summary { max-width: 900px; margin: -12px 0 30px; padding: 18px 20px; color: var(--navy); background: rgba(255,255,255,.6); border-left: 4px solid var(--terracotta); border-radius: 0 14px 14px 0; }
+    .inside-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 0; padding: 0; list-style: none; counter-reset: themes; }
+    .inside-card { display: grid; grid-template-columns: 48px 1fr; gap: 15px; align-items: start; padding: 22px; background: var(--paper); border: 1px solid #dfd3c2; border-radius: 18px; box-shadow: 0 8px 24px rgba(19,40,59,.05); transition: transform .18s ease, box-shadow .18s ease; }
+    .inside-card:hover { transform: translateY(-3px); box-shadow: 0 14px 34px rgba(19,40,59,.1); }
+    .inside-card--wide { grid-column: 1 / -1; align-items: center; }
     .inside-number { display: grid; place-items: center; width: 48px; height: 48px; color: #fff; background: var(--terracotta); border-radius: 15px 15px 15px 5px; font-family: Georgia, serif; font-size: 1.2rem; }
     .inside-card h3 { margin: 0 0 7px; font-size: 1.18rem; }
     .inside-card p { margin: 0; color: var(--muted); font-size: .95rem; }
@@ -191,6 +194,8 @@
 
     @media (max-width: 900px) {
       .hero-grid, .story-grid, .excerpt-wrap { grid-template-columns: 1fr; }
+      .inside-grid { grid-template-columns: repeat(2, 1fr); }
+      .inside-card--wide { grid-column: 1 / -1; }
       .hero-copy { text-align: center; }
       .hero-lead { margin-inline: auto; }
       .actions, .trust-line { justify-content: center; }
@@ -215,6 +220,7 @@
       .menu .nav-cta { margin-top: 5px; text-align: center; }
       h1 { font-size: clamp(2.45rem, 14vw, 4rem); }
       .signs, .inside-grid, .journey-grid { grid-template-columns: 1fr; }
+      .inside-card--wide { grid-column: auto; }
       .book-note { right: -8px; }
       .author-card { grid-template-columns: 1fr; }
       .footer-row { flex-direction: column; align-items: flex-start; }
@@ -255,9 +261,10 @@
         "datePublished": "2026",
         "copyrightYear": 2026,
         "numberOfPages": 316,
-        "wordCount": 61714,
+        "wordCount": 61871,
         "isAccessibleForFree": true,
         "genre": ["Ficção feminina", "Romance contemporâneo", "Drama familiar"],
+        "keywords": ["carga mental feminina", "trabalho doméstico desigual", "solidão no casamento", "identidade feminina", "culpa materna", "divórcio", "independência financeira", "saúde emocional", "amizade feminina", "amor-próprio", "dependência emocional", "coparentalidade", "autonomia feminina"],
         "description": "Romance sobre Camila, uma mulher sobrecarregada que encerra um casamento de onze anos, rompe a dependência emocional e descobre que pode ser solteira, feliz e inteira.",
         "audience": {
           "@type": "PeopleAudience",
@@ -265,12 +272,19 @@
           "suggestedMinAge": 18
         },
         "about": [
-          { "@type": "Thing", "name": "Carga mental" },
-          { "@type": "Thing", "name": "Divórcio" },
-          { "@type": "Thing", "name": "Maternidade" },
-          { "@type": "Thing", "name": "Independência emocional" },
-          { "@type": "Thing", "name": "Amor-próprio" },
-          { "@type": "Thing", "name": "Recomeço" }
+          { "@type": "Thing", "name": "Carga mental feminina" },
+          { "@type": "Thing", "name": "Trabalho doméstico desigual" },
+          { "@type": "Thing", "name": "Solidão no casamento" },
+          { "@type": "Thing", "name": "Perda e reconstrução da identidade" },
+          { "@type": "Thing", "name": "Maternidade real e culpa materna" },
+          { "@type": "Thing", "name": "Divórcio e julgamento social" },
+          { "@type": "Thing", "name": "Independência financeira" },
+          { "@type": "Thing", "name": "Amor-próprio e limites" },
+          { "@type": "Thing", "name": "Terapia e saúde emocional" },
+          { "@type": "Thing", "name": "Amizade feminina e rede de apoio" },
+          { "@type": "Thing", "name": "Dependência emocional e medo da solidão" },
+          { "@type": "Thing", "name": "Reconstrução familiar e coparentalidade" },
+          { "@type": "Thing", "name": "Autonomia para escolher o próprio futuro" }
         ],
         "potentialAction": {
           "@type": "ReadAction",
@@ -293,7 +307,8 @@
         "inLanguage": "pt-BR",
         "isPartOf": { "@id": "https://maykonlong.github.io/book/#site" },
         "mainEntity": { "@id": "https://maykonlong.github.io/book/#livro" },
-        "description": "Página oficial do romance A Metade Que Me Faltava Era Eu, com sinopse, temas, trecho e leitura online gratuita."
+        "description": "Página oficial do romance A Metade Que Me Faltava Era Eu, com sinopse, treze temas femininos, trecho e leitura online gratuita.",
+        "dateModified": "2026-09-25"
       },
       {
         "@type": "WebSite",
@@ -301,6 +316,28 @@
         "url": "https://maykonlong.github.io/book/",
         "name": "A Metade Que Me Faltava Era Eu",
         "inLanguage": "pt-BR"
+      },
+      {
+        "@type": "ItemList",
+        "@id": "https://maykonlong.github.io/book/#lista-temas",
+        "name": "13 temas femininos abordados em A Metade Que Me Faltava Era Eu",
+        "numberOfItems": 13,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Carga mental feminina" },
+          { "@type": "ListItem", "position": 2, "name": "Trabalho doméstico desigual" },
+          { "@type": "ListItem", "position": 3, "name": "Solidão no casamento" },
+          { "@type": "ListItem", "position": 4, "name": "Perda e reconstrução da identidade" },
+          { "@type": "ListItem", "position": 5, "name": "Maternidade real e culpa materna" },
+          { "@type": "ListItem", "position": 6, "name": "Divórcio e julgamento social" },
+          { "@type": "ListItem", "position": 7, "name": "Independência financeira" },
+          { "@type": "ListItem", "position": 8, "name": "Amor-próprio e limites" },
+          { "@type": "ListItem", "position": 9, "name": "Terapia e saúde emocional" },
+          { "@type": "ListItem", "position": 10, "name": "Amizade feminina e rede de apoio" },
+          { "@type": "ListItem", "position": 11, "name": "Dependência emocional e medo da solidão" },
+          { "@type": "ListItem", "position": 12, "name": "Reconstrução familiar e coparentalidade" },
+          { "@type": "ListItem", "position": 13, "name": "Autonomia para escolher o próprio futuro" }
+        ]
       },
       {
         "@type": "FAQPage",
@@ -314,7 +351,12 @@
           {
             "@type": "Question",
             "name": "O livro é ficção ou autoajuda?",
-            "acceptedAnswer": { "@type": "Answer", "text": "É ficção, com uma história completa em 40 capítulos. Os temas incluem carga mental, maternidade, divórcio, amizade, arte e recomeço." }
+            "acceptedAnswer": { "@type": "Answer", "text": "É ficção, com uma história completa em 40 capítulos. Por meio da vida de Camila, o romance aborda treze temas femininos ligados à sobrecarga, à maternidade, ao divórcio, à autonomia e ao recomeço." }
+          },
+          {
+            "@type": "Question",
+            "name": "Quais temas sobre a vida das mulheres aparecem no livro?",
+            "acceptedAnswer": { "@type": "Answer", "text": "O livro aborda treze temas centrais: carga mental, trabalho doméstico desigual, solidão no casamento, identidade, culpa materna, divórcio, independência financeira, amor-próprio, terapia, amizade feminina, dependência emocional, reconstrução familiar e autonomia para escolher o próprio futuro." }
           },
           {
             "@type": "Question",
@@ -432,28 +474,65 @@
     <section class="section inside" id="temas">
       <div class="shell">
         <div class="section-head">
-          <p class="eyebrow">Dentro destas páginas</p>
-          <h2>Uma história de dor real, mas também de esperança.</h2>
-          <p>O romance acompanha o recomeço sem atalhos: com tropeços, escolhas difíceis e pequenas vitórias.</p>
+          <p class="eyebrow">Você pode se reconhecer aqui</p>
+          <h2>13 temas que fazem parte da vida de muitas mulheres.</h2>
+          <p>Não são lições de autoajuda. São dores, dúvidas e recomeços vividos por Camila dentro de uma história leve, íntima e cheia de esperança.</p>
         </div>
-        <div class="inside-grid">
-          <article class="inside-card">
+        <p class="theme-summary"><strong>Em uma frase:</strong> este é um romance sobre uma mulher que deixa de carregar todos sozinha, reconstrói a própria vida e descobre que estar inteira vale mais do que ter alguém ao lado.</p>
+        <ol class="inside-grid" aria-label="13 temas femininos presentes no romance">
+          <li class="inside-card">
             <span class="inside-number" aria-hidden="true">1</span>
-            <div><h3>Carga mental sem palavras difíceis</h3><p>A rotina mostra o peso de lembrar, organizar e cuidar de tudo quando a responsabilidade não é dividida.</p></div>
-          </article>
-          <article class="inside-card">
+            <div><h3>Carga mental feminina</h3><p>O peso invisível de lembrar, prever e organizar tudo para todos.</p></div>
+          </li>
+          <li class="inside-card">
             <span class="inside-number" aria-hidden="true">2</span>
-            <div><h3>Maternidade sem perfeição</h3><p>Camila ama os filhos e, ao mesmo tempo, aprende que uma boa mãe também precisa existir como mulher.</p></div>
-          </article>
-          <article class="inside-card">
+            <div><h3>Trabalho doméstico desigual</h3><p>Quando uma pessoa “ajuda”, mas a mulher continua responsável por pensar e cobrar.</p></div>
+          </li>
+          <li class="inside-card">
             <span class="inside-number" aria-hidden="true">3</span>
-            <div><h3>Recomeço possível</h3><p>Dinheiro, guarda, família e medo aparecem como são — sem transformar mudança em conto de fadas.</p></div>
-          </article>
-          <article class="inside-card">
+            <div><h3>Solidão no casamento</h3><p>A dor de dividir a casa com alguém e, mesmo assim, enfrentar a vida sozinha.</p></div>
+          </li>
+          <li class="inside-card">
             <span class="inside-number" aria-hidden="true">4</span>
-            <div><h3>Amor sem dependência</h3><p>Daniel mostra que carinho pode existir sem controle — e Camila aprende que uma relação boa não precisa durar para ter valor.</p></div>
-          </article>
-        </div>
+            <div><h3>Perda da própria identidade</h3><p>Quem é Camila além de mãe, esposa, profissional e cuidadora de todo mundo?</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">5</span>
+            <div><h3>Culpa materna</h3><p>O medo de machucar os filhos e a descoberta de que uma boa mãe também precisa viver.</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">6</span>
+            <div><h3>Divórcio e julgamento</h3><p>Família, comentários e o receio de ser vista como a mulher que desistiu.</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">7</span>
+            <div><h3>Independência financeira</h3><p>Contas apertadas, escolhas reais e a segurança de aprender a cuidar do próprio dinheiro.</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">8</span>
+            <div><h3>Amor-próprio e limites</h3><p>Dizer “não” sem culpa e parar de aceitar migalhas para evitar conflitos.</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">9</span>
+            <div><h3>Terapia e saúde emocional</h3><p>Pedir ajuda, dar nome à dor e reconhecer padrões que antes pareciam normais.</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">10</span>
+            <div><h3>Amizade feminina</h3><p>Mulheres que escutam sem julgar e formam uma rede de apoio nos dias difíceis.</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">11</span>
+            <div><h3>Dependência emocional</h3><p>O medo da solidão e a diferença entre escolher alguém e precisar de alguém.</p></div>
+          </li>
+          <li class="inside-card">
+            <span class="inside-number" aria-hidden="true">12</span>
+            <div><h3>Família depois da separação</h3><p>Guarda, presença, conversas difíceis e novas formas de continuar sendo família.</p></div>
+          </li>
+          <li class="inside-card inside-card--wide">
+            <span class="inside-number" aria-hidden="true">13</span>
+            <div><h3>O direito de escolher o próprio futuro</h3><p>Uma mulher não precisa casar, ter mais filhos ou permanecer num relacionamento para provar que sua vida deu certo.</p></div>
+          </li>
+        </ol>
       </div>
     </section>
 
@@ -519,7 +598,11 @@
           </details>
           <details>
             <summary>É ficção ou autoajuda?</summary>
-            <p>É ficção: um romance contemporâneo completo, com 40 capítulos. A história aborda carga mental, maternidade, divórcio, amizade, arte e recomeço.</p>
+            <p>É ficção: um romance contemporâneo completo, com 40 capítulos. Por meio da vida de Camila, a história aborda treze temas femininos ligados à sobrecarga, à maternidade, ao divórcio, à autonomia e ao recomeço.</p>
+          </details>
+          <details>
+            <summary>Quais temas sobre a vida das mulheres aparecem no livro?</summary>
+            <p>São treze temas centrais: carga mental, trabalho doméstico desigual, solidão no casamento, perda da identidade, culpa materna, divórcio, independência financeira, amor-próprio, terapia, amizade feminina, dependência emocional, reconstrução familiar e autonomia para escolher o próprio futuro.</p>
           </details>
           <details>
             <summary>Preciso estar vivendo um divórcio para me identificar?</summary>

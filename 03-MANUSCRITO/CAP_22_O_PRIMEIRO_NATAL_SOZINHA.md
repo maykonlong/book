@@ -85,7 +85,7 @@ Mas a dor do filho não era lugar para a guerra dos adultos.
 
 — Eu não sei. E você pode ficar triste por isso.
 
-Léo assentiu. Os olhos estavam úmidos.
+Léo balançou a cabeça. Os olhos estavam úmidos.
 
 — Eu tô.
 
@@ -143,7 +143,7 @@ Camila não prometeu o que não podia controlar.
 
 — Eu vou ficar — respondeu. — Do começo ao fim.
 
-Léo pensou por um instante e assentiu.
+Léo pensou por um instante e fez que sim.
 
 — Então tá.
 

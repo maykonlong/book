@@ -55,7 +55,7 @@ Ele levantou e chegou perto dela.
 Ele tentou pegar a mão dela.
 Camila recuou um passo.
 
-Ela olhou para ele. Para o homem que ela tinha amado desesperadamente. O homem por quem ela chorou, implorou, fez terapia, leu livros de autoajuda.
+Ela olhou para ele. Para o homem que ela tinha amado com todas as forças. O homem por quem ela chorou, implorou, fez terapia, leu livros de autoajuda.
 
 E não sentiu nada.
 Nem raiva. Nem amor. Nem pena.
@@ -70,8 +70,8 @@ Viu o corte de cabelo meio atrasado.
 Viu a necessidade nos olhos dele.
 
 Não era saudade dela.
-Era saudade do conforto que ela provia.
-Ele não queria a Camila de volta. Ele queria a cozinheira, a governanta, a secretária, a mãe substituta de volta. Ele queria a infraestrutura que ela mantinha.
+Era saudade do conforto que ela oferecia.
+Ele não queria a Camila de volta. Ele queria a cozinheira, a governanta, a secretária, a mãe substituta de volta. Ele queria a vida pronta que ela mantinha.
 
 — Você não mudou, Ricardo — disse ela, calma.
 
@@ -98,7 +98,7 @@ Ele ficou encarando-a, chocado com a audácia.
 Pegou a chave do carro.
 — Você vai se arrepender. Você vai ver como é envelhecer sozinha.
 
-— E as crianças? — ele disparou, mudando de tática. — Você já pensou neles? No que vão pensar quando descobrirem que a mãe recusou uma reconciliação? Que a mãe preferiu ficar sozinha?
+— E as crianças? — ele disparou, mudando de tática. — Você já pensou neles? No que vão pensar quando descobrirem que a mãe recusou voltar? Que a mãe preferiu ficar sozinha?
 
 Camila olhou para ele. A cartada mais baixa de todas: usar os filhos como arma.
 

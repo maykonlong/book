@@ -66,7 +66,7 @@
 
 ## 📊 Estatísticas (atualizadas em 25/09/2026 — após expansão e revisão final)
 - **Total de capítulos escritos**: 40/40 (100%)
-- **Total de palavras**: **~61.700** nos 40 capítulos após a revisão final (era ~37.300 antes da expansão)
+- **Total de palavras**: **~61.900** nos 40 capítulos após a revisão final (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.543
 - **Páginas do arquivo final**: 316 (formato 5,5 × 8,5 pol.)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
@@ -78,7 +78,7 @@
 | II — Desconstrução e Redescobrimento | 10-18 | ~14.100 | 22,8% | — |
 | III — Rede, autonomia e fechamento | 19-30 | ~18.600 | 30,1% | — |
 | IV — Amar sem depender | 31-40 | ~14.200 | 23,1% | — |
-| **TOTAL** | 40 | **~61.700** | 100% | ~80k |
+| **TOTAL** | 40 | **~61.900** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.

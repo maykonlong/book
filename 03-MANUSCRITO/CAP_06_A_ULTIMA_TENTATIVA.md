@@ -20,7 +20,7 @@ Camila surpreendeu-se. Ele sugerindo algo?
 
 — Vê se consegue desconto, tá? Fevereiro é caro.
 
-Ela reservou. Ela fez as malas (as quatro malas). Ela revisou o carro. Ela comprou os snacks para a estrada.
+Ela reservou. Ela fez as malas (as quatro malas). Ela revisou o carro. Ela comprou os lanches para a estrada.
 
 Sexta-feira de saída.
 

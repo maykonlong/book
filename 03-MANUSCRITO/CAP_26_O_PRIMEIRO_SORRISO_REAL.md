@@ -77,7 +77,7 @@ Camila riu e a abraçou.
 
 Depois, num momento de calmaria entre um gole e outro, ela se afastou e olhou para os três quadros pendurados lado a lado. *Afogamento*, *Caos*, *Silêncio*. E percebeu que tinha exposto ali, sem querer, a história inteira da sua travessia: a mulher que afundava, a que se debatia em meio ao caos, e a que, enfim, encontrou uma sala vazia com sol entrando. Três retratos. Um antes, um durante, um depois. E ela tinha sobrevivido aos três.
 
-Mais tarde, Ricardo mandou mensagem (ele soube pelas redes sociais, claro, ele stalkeava).
+Mais tarde, Ricardo mandou mensagem (ele soube pelas redes sociais, claro, acompanhava tudo escondido).
 *"Vi que você tá 'artista' agora. Parabéns. Espero que isso não atrapalhe a rotina das crianças."*
 
 Camila leu a mensagem.

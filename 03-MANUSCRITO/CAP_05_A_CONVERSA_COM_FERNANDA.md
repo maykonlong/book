@@ -27,7 +27,7 @@ Fernanda colocou a xícara na mesa. Sua expressão mudou de brincalhona para ate
 
 — Ricardo de novo?
 
-Camila assentiu. Não precisava explicar. Fernanda sabia. Todo mundo sabia, de um jeito ou de outro, que Camila carregava o mundo nas costas.
+Camila fez que sim. Não precisava explicar. Fernanda sabia. Todo mundo sabia, de um jeito ou de outro, que Camila carregava o mundo nas costas.
 
 — Senta aqui. — Fernanda puxou uma das cadeiras. — A pauta das 11h pode esperar.
 

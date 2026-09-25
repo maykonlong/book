@@ -88,7 +88,7 @@
 |-------|------------|
 | **Nome Completo** | Daniel Almeida |
 | **Idade** | 35 anos |
-| **Estado Civil** | Solteiro (ou divorciado sem filhos) |
+| **Estado Civil** | Solteiro; encerrou um noivado há três anos e não tem filhos |
 | **Profissão** | Professor universitário |
 | **Personalidade** | Gentil, paciente, empático, respeitoso |
 
@@ -276,7 +276,7 @@ Personagens menores que aparecem ocasionalmente:
 - História inspiradora
 - Parte do grupo de apoio informal
 
-### Beatriz (55)
+### Teresa (55)
 - Viúva recentemente
 - Mais insegura que Camila
 - Camila vira mentora dela (círculo completo)

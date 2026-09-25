@@ -28,7 +28,7 @@ Ele parou na porta. Hesitou.
 — Pra você também, Ricardo.
 
 E ele saiu.
-Onze anos de casamento. Dois filhos. Uma vida inteira construída e desconstruída.
+Onze anos de casamento. Dois filhos. Uma vida inteira construída e depois desfeita.
 Encerrados em vinte minutos e uma caneta BIC.
 
 Camila saiu do cartório.
@@ -262,7 +262,7 @@ Mas a nova parte - a parte crescente - queria tentar.
 
 — Eu gostaria. Mas... — Era hora de abrir o coração. — Eu preciso ir devagar. Saí de algo muito difícil. E ainda estou... descobrindo coisas.
 
-— Totalmente compreensível. Sem pressão. No ritmo que você precisar.
+— Eu entendo. Sem pressão. No ritmo que você precisar.
 
 Ele disse sem hesitação. Genuíno.
 
@@ -284,7 +284,7 @@ Talvez, só talvez, nem todo mundo fosse como Ricardo.
 
 Talvez algumas pessoas fossem realmente o que pareciam.
 
-E esse pensamento - simples mas revolucionário - mudou tudo.
+E esse pensamento — simples, mas novo para ela — mudou tudo.
 
 ---
 

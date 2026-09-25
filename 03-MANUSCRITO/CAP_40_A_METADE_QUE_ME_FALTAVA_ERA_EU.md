@@ -43,7 +43,7 @@ Fazia algumas semanas que ela e Daniel tinham terminado. Ainda havia dias de sau
 
 Não lotada como uma festa de aniversário infantil — não era esse tipo de evento. Mas havia umas sessenta, setenta pessoas circulando entre as paredes, segurando taças de vinho barato e copinhos de água com gás, olhando as telas com aquela mistura de curiosidade e respeito que as pessoas têm em espaços artísticos.
 
-Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação do trabalho final da faculdade. As mãos suavam. Ela as enxugava discretamente na lateral do vestido vermelho.
+Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação do trabalho final da faculdade. As mãos suavam. Ela as enxugava na lateral do vestido vermelho, tentando não chamar atenção.
 
 Fernanda chegou primeiro, claro. Usando uma jaqueta de couro e batom vinho, como uma versão paulistana de uma rockstar.
 
@@ -51,13 +51,13 @@ Fernanda chegou primeiro, claro. Usando uma jaqueta de couro e batom vinho, como
 
 — Para — Camila riu, o nó no peito afrouxando.
 
-— Não paro. Estou orgulhosa e vou ser inconveniente a noite inteira.
+— Não paro. Estou orgulhosa e vou repetir isso a noite inteira.
 
-Depois vieram Júlia e Beatriz, do grupo de arte. Beatriz, que estava na turma desde as primeiras semanas de Camila, parecia tão nervosa quanto ela.
+Depois vieram Júlia e Teresa, do grupo de arte. Teresa, que estava na turma desde as primeiras semanas de Camila, parecia tão nervosa quanto ela.
 
-— Cá, seus quadros são os melhores da exposição — disse Beatriz, apertando a mão dela. — Os meus parecem que foram feitos por uma criança.
+— Cá, seus quadros são os melhores da exposição — disse Teresa, apertando a mão dela. — Os meus parecem que foram feitos por uma criança.
 
-— Seus quadros são lindos, Beatriz. Para com isso.
+— Seus quadros são lindos, Teresa. Para com isso.
 
 — Mas os seus são *doloridos*. Eles contam uma história. Os meus só contam que eu não sei misturar verde.
 
@@ -79,7 +79,7 @@ Sônia segurou o rosto de Camila entre as mãos enrugadas.
 
 — Eu demorei para entender. Mas agora vejo. Você está brilhando de novo, Cá.
 
-Camila engoliu o choro. Não de tristeza. De reconciliação.
+Camila engoliu o choro. Não de tristeza. De paz consigo mesma.
 
 De saber que, às vezes, o amor que mais cura é o amor que vence o medo e escolhe ficar ao nosso lado.
 
@@ -131,7 +131,7 @@ Uma mulher na plateia levantou a mão. Era mais ou menos da idade de Camila, cab
 
 Camila olhou para os quadros. Olhou para o salão.
 
-Viu sua mãe, de mechas rosa, rindo de algo que Fernanda contava ao seu lado. Viu Léo sentado no chão com o caderno de desenho, desenhando discretamente os quadros dos outros alunos. Viu Bia no colo de Beatriz, com os dedos melecados de brigadeiro. E viu Daniel perto da porta. Ele tinha perguntado, dias antes, se a presença dele deixaria a noite mais difícil. Camila respondeu que não. A exposição também guardava uma parte do que tinham aprendido juntos, e terminar bem não exigia apagar o que foi bom.
+Viu sua mãe, de mechas rosa, rindo de algo que Fernanda contava ao seu lado. Viu Léo sentado no chão com o caderno de desenho, copiando em silêncio os quadros dos outros alunos. Viu Bia no colo de Teresa, com os dedos melecados de brigadeiro. E viu Daniel perto da porta. Ele tinha perguntado, dias antes, se a presença dele deixaria a noite mais difícil. Camila respondeu que não. A exposição também guardava uma parte do que tinham aprendido juntos, e terminar bem não exigia apagar o que foi bom.
 
 Todos ali. Todos reais. Todos seus.
 
@@ -231,13 +231,13 @@ Quando todos foram embora, Camila voltou ao centro da galeria. A professora Paul
 
 Antes de buscar a bolsa, foi até os quadros.
 
-A galeria estava em penumbra agora. Apenas os spots da parede central ainda acesos, banhando os três quadros numa luz dourada e solitária. O silêncio era completo — aquele silêncio de depois, quando tudo já aconteceu e só resta o eco.
+A galeria estava em penumbra agora. Apenas as luzes da parede central continuavam acesas, banhando os três quadros numa luz dourada e solitária. O silêncio era completo — aquele silêncio de depois, quando tudo já aconteceu e só resta o eco.
 
 Camila parou diante do terceiro quadro. "Voo".
 
 Levantou a mão e tocou a tela com as pontas dos dedos. Sentiu a tinta seca sob a pele. A textura dos relevos que o pincel tinha criado. Cada camada de cor era uma camada de dor transformada. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
 
-Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e reconquistado, reunido numa tela de algodão de sessenta por oitenta centímetros.
+Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e recuperado, reunido numa tela de algodão de sessenta por oitenta centímetros.
 
 — Conseguimos — sussurrou.
 

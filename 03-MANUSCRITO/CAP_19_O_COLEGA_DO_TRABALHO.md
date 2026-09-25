@@ -19,7 +19,7 @@ Marcos era o colega de contas, quarenta anos, divorciado, com um sorriso fácil 
 
 — Por isso mesmo. — Ele piscou e seguiu andando.
 
-Camila ficou olhando para o café. Era um capuccino, do jeito que ela gostava. Ela nem sabia que ele sabia.
+Camila ficou olhando para o café. Era um cappuccino, do jeito que ela gostava. Ela nem sabia que ele sabia.
 
 *Calma*, pensou ela. *Ele é só um colega simpático. Nem todo gesto é um sinal de alerta. Nem todo homem é o Ricardo.*
 
