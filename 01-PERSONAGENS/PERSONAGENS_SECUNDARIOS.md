@@ -55,7 +55,7 @@
 |-------|------------|
 | **Nome** | Dr. Lucas Mendes |
 | **Idade** | 45 anos |
-| **Profissão** | Psicólogo(a) / Terapeuta |
+| **Profissão** | Psicólogo / Terapeuta |
 | **Especialidade** | Relacionamentos, traumas, autoestima |
 
 ### Abordagem

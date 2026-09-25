@@ -62,7 +62,7 @@ A resposta veio rápido demais, e isso assustou ainda mais do que a pergunta. Co
 
 E se a resposta era essa, então não havia mais nada a discutir. Não era sobre o Ricardo. Era sobre ela.
 
-Camila saiu do consultório com a receita de antibiótico e uma clareza assustadora. Passou na farmácia, tomou o remédio ali mesmo com uma garrafa de água.
+Camila saiu do consultório com a receita para aliviar a febre e a dor, além de uma clareza assustadora. Passou na farmácia, tomou o remédio ali mesmo com uma garrafa de água.
 
 Sentou no banco do pronto-socorro e pensou.
 

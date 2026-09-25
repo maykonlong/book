@@ -1,7 +1,7 @@
 ﻿# CAPÍTULO 10
 ## O Vazio Barulhento
 
-A primeira noite sem Ricardo em casa não foi silenciosa.
+A primeira noite depois da mudança definitiva de Ricardo não foi silenciosa.
 
 Foi barulhenta.
 
@@ -91,9 +91,9 @@ E ela podia lidar com o próprio barulho. O que ela não aguentava mais era o ba
 
 Adormeceu atravessada na cama, ocupando todo o espaço que, por direito, sempre deveria ter sido seu.
 
-Ricardo saiu de casa numa quinta-feira.
+A mudança definitiva aconteceu numa quinta-feira.
 
-Não foi dramático. Não teve briga, choro, cena. Só... aconteceu.
+Não houve nova briga, choro ou cena. Só... aconteceu.
 
 Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram e conversaram sobre logística.
 
@@ -115,7 +115,7 @@ Camila respirou fundo. Controlou a raiva.
 
 — A gente conversa sobre isso com os advogados.
 
-Ela já tinha ido a um. Dra. Patrícia Alves. Mulher de quarenta e poucos anos, firme mas gentil. Tinha explicado tudo: divórcio por acordo ou com disputa, guarda compartilhada, pensão e divisão de bens.
+Ela já tinha marcado uma consulta com a Dra. Patrícia Alves, uma mulher de quarenta e poucos anos que Fernanda descrevera como firme, mas gentil. Na segunda-feira seguinte, Camila entenderia melhor o que vinha pela frente: acordo ou disputa, guarda compartilhada, pensão e divisão de bens.
 
 Tinha um longo caminho pela frente.
 

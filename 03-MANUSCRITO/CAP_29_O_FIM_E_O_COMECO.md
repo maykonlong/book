@@ -4,7 +4,7 @@
 O divórcio saiu numa terça-feira cinzenta.
 Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata. As decisões sobre os filhos já tinham sido aprovadas pela Justiça: guarda compartilhada, casa principal com Camila, fins de semana alternados com Ricardo, pensão, escola e plano de saúde.
 
-O apartamento também tinha deixado de ser uma ameaça sem resposta. Camila ficaria ali com as crianças, assumiria as parcelas que faltavam e pagaria a parte de Ricardo aos poucos, como ficou no acordo. Não era fácil, mas agora cabia no papel — e no orçamento que ela tinha aprendido a controlar.
+O apartamento também tinha deixado de ser uma ameaça sem resposta. Camila ficaria ali com as crianças e pagaria a parte de Ricardo aos poucos, como ficou no acordo. Não era fácil, mas agora cabia no papel — e no orçamento que ela tinha aprendido a controlar.
 
 Com os filhos e os bens resolvidos, faltava o ato final. Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
 

@@ -9,7 +9,7 @@ Camila descobriu isso na segunda-feira seguinte, no escritório da Dra. Patríci
 
 O escritório ficava em um prédio comercial antigo no centro. Carpete cinza, cheiro de café passado há muito tempo, e pilhas de processos encadernados em capa parda que pareciam lápides de casamentos mortos.
 
-Dra. Patrícia era direta. Uma mulher de cinquenta anos com óculos de armação vermelha e sem paciência para rodeios.
+Dra. Patrícia era direta. Uma mulher de quarenta e dois anos com óculos de armação vermelha e sem paciência para rodeios.
 
 — Bens? — perguntou ela, caneta em riste sobre um bloco amarelo.
 
@@ -27,7 +27,7 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — Erro clássico número um — murmurou a advogada, anotando algo. — Se ele não aceitar um acordo, podemos pedir ao juiz acesso às contas bancárias. Mas primeiro vamos tentar resolver sem briga. Quanto ele ganha?
 
-— Acho que uns doze mil líquido. Ele é gerente de projetos.
+— Acho que uns doze mil líquido. Ele é gerente comercial.
 
 — E você?
 
@@ -119,7 +119,7 @@ Vergonha de ter assinado documentos sem ler. De ter acreditado no "confia em mim
 
 *Erro clássico número um*, ecoou a voz da advogada na cabeça dela.
 
-A "mulher empoderada" que saiu de casa decidida dias atrás agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
+A "mulher empoderada" que tinha encarado a separação com firmeza dias antes agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
 
 Mas então ela lembrou da cena do leite derramado.
 Lembrou do Léo tentando acordar o pai.

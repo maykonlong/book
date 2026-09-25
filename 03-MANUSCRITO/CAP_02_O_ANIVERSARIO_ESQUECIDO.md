@@ -300,7 +300,7 @@ Ela sentiu nojo.
 
 À noite, o silêncio no apartamento pós-festa era sepulcral.
 
-Léo já tinha capotado na cama, segurando um boneco novo. Bia dormia no berço, exausta de tanto açúcar.
+Léo já tinha capotado na cama, segurando um boneco novo. Bia dormia na própria cama, exausta de tanto açúcar.
 
 Ricardo estava jogado no sofá, zapeando canais na TV, com os pés sobre a mesa de centro.
 

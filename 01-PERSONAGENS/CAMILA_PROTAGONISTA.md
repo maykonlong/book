@@ -7,7 +7,7 @@
 | **Nome Completo** | Camila Ferreira Santos |
 | **Idade** | 34 anos |
 | **Estado Civil** | Casada → Divorciada (durante a história) |
-| **Profissão** | Analista de Marketing / Coordenadora |
+| **Profissão** | Coordenadora de Marketing |
 | **Escolaridade** | Superior Completo (Comunicação Social) |
 | **Cidade** | São Paulo, SP |
 

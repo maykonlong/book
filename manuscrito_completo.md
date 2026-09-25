@@ -733,7 +733,7 @@ Ela sentiu nojo.
 
 À noite, o silêncio no apartamento pós-festa era sepulcral.
 
-Léo já tinha capotado na cama, segurando um boneco novo. Bia dormia no berço, exausta de tanto açúcar.
+Léo já tinha capotado na cama, segurando um boneco novo. Bia dormia na própria cama, exausta de tanto açúcar.
 
 Ricardo estava jogado no sofá, zapeando canais na TV, com os pés sobre a mesa de centro.
 
@@ -1195,7 +1195,7 @@ E quando a mulher para de tentar agradar, o casamento começa a mostrar suas ver
 
 Segunda-feira. O dia internacional do arrependimento por não ter vivido o fim de semana que se sonhou.
 
-Camila chegou ao escritório arrastando os pés. Seus olhos ardiam. Ela tinha passado o domingo chorando escondida no banheiro enquanto Ricardo assistia a todos os jogos do Campeonato Brasileiro, um após o outro, como se fosse um trabalho remunerado.
+Camila chegou ao escritório arrastando os pés. Seus olhos ardiam. Ela tinha passado o domingo chorando escondida no banheiro enquanto Ricardo assistia a todos os jogos do Campeonato Paulista, um após o outro, como se fosse um trabalho remunerado.
 
 Às 10h da manhã, ela foi para a copa. Precisava de café. Cafeína era o único combustível que a mantinha em pé.
 
@@ -1786,7 +1786,7 @@ A resposta veio rápido demais, e isso assustou ainda mais do que a pergunta. Co
 
 E se a resposta era essa, então não havia mais nada a discutir. Não era sobre o Ricardo. Era sobre ela.
 
-Camila saiu do consultório com a receita de antibiótico e uma clareza assustadora. Passou na farmácia, tomou o remédio ali mesmo com uma garrafa de água.
+Camila saiu do consultório com a receita para aliviar a febre e a dor, além de uma clareza assustadora. Passou na farmácia, tomou o remédio ali mesmo com uma garrafa de água.
 
 Sentou no banco do pronto-socorro e pensou.
 
@@ -1930,7 +1930,7 @@ Incluindo as crianças.
 
 ---
 
-Ricardo saiu de casa naquela noite.
+Ricardo saiu naquela noite.
 
 Depois do confronto com Dona Vera, depois de Camila se trancar no quarto, ele bateu na porta e gritou mais algumas coisas (você vai se arrepender, você está sendo egoísta, você está destruindo essa família). Camila não respondeu. Por fim, ele cansou. Pegou as chaves. Saiu batendo a porta.
 
@@ -2189,7 +2189,7 @@ O começo de Camila. Que não sabia para onde ia, mas sabia de onde estava saind
 ﻿# CAPÍTULO 10
 ## O Vazio Barulhento
 
-A primeira noite sem Ricardo em casa não foi silenciosa.
+A primeira noite depois da mudança definitiva de Ricardo não foi silenciosa.
 
 Foi barulhenta.
 
@@ -2279,9 +2279,9 @@ E ela podia lidar com o próprio barulho. O que ela não aguentava mais era o ba
 
 Adormeceu atravessada na cama, ocupando todo o espaço que, por direito, sempre deveria ter sido seu.
 
-Ricardo saiu de casa numa quinta-feira.
+A mudança definitiva aconteceu numa quinta-feira.
 
-Não foi dramático. Não teve briga, choro, cena. Só... aconteceu.
+Não houve nova briga, choro ou cena. Só... aconteceu.
 
 Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram e conversaram sobre logística.
 
@@ -2303,7 +2303,7 @@ Camila respirou fundo. Controlou a raiva.
 
 — A gente conversa sobre isso com os advogados.
 
-Ela já tinha ido a um. Dra. Patrícia Alves. Mulher de quarenta e poucos anos, firme mas gentil. Tinha explicado tudo: divórcio por acordo ou com disputa, guarda compartilhada, pensão e divisão de bens.
+Ela já tinha marcado uma consulta com a Dra. Patrícia Alves, uma mulher de quarenta e poucos anos que Fernanda descrevera como firme, mas gentil. Na segunda-feira seguinte, Camila entenderia melhor o que vinha pela frente: acordo ou disputa, guarda compartilhada, pensão e divisão de bens.
 
 Tinha um longo caminho pela frente.
 
@@ -2658,7 +2658,7 @@ Camila descobriu isso na segunda-feira seguinte, no escritório da Dra. Patríci
 
 O escritório ficava em um prédio comercial antigo no centro. Carpete cinza, cheiro de café passado há muito tempo, e pilhas de processos encadernados em capa parda que pareciam lápides de casamentos mortos.
 
-Dra. Patrícia era direta. Uma mulher de cinquenta anos com óculos de armação vermelha e sem paciência para rodeios.
+Dra. Patrícia era direta. Uma mulher de quarenta e dois anos com óculos de armação vermelha e sem paciência para rodeios.
 
 — Bens? — perguntou ela, caneta em riste sobre um bloco amarelo.
 
@@ -2676,7 +2676,7 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — Erro clássico número um — murmurou a advogada, anotando algo. — Se ele não aceitar um acordo, podemos pedir ao juiz acesso às contas bancárias. Mas primeiro vamos tentar resolver sem briga. Quanto ele ganha?
 
-— Acho que uns doze mil líquido. Ele é gerente de projetos.
+— Acho que uns doze mil líquido. Ele é gerente comercial.
 
 — E você?
 
@@ -2768,7 +2768,7 @@ Vergonha de ter assinado documentos sem ler. De ter acreditado no "confia em mim
 
 *Erro clássico número um*, ecoou a voz da advogada na cabeça dela.
 
-A "mulher empoderada" que saiu de casa decidida dias atrás agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
+A "mulher empoderada" que tinha encarado a separação com firmeza dias antes agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
 
 Mas então ela lembrou da cena do leite derramado.
 Lembrou do Léo tentando acordar o pai.
@@ -2796,7 +2796,7 @@ Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz.
 
 Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
-Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. O mês estava no dia 8.
+Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. Abril estava no dia 8.
 
 Ela fechou o aplicativo. Abriu outra vez, como se esperasse que o número tivesse mudado. Não tinha.
 
@@ -6344,7 +6344,7 @@ E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma
 O divórcio saiu numa terça-feira cinzenta.
 Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata. As decisões sobre os filhos já tinham sido aprovadas pela Justiça: guarda compartilhada, casa principal com Camila, fins de semana alternados com Ricardo, pensão, escola e plano de saúde.
 
-O apartamento também tinha deixado de ser uma ameaça sem resposta. Camila ficaria ali com as crianças, assumiria as parcelas que faltavam e pagaria a parte de Ricardo aos poucos, como ficou no acordo. Não era fácil, mas agora cabia no papel — e no orçamento que ela tinha aprendido a controlar.
+O apartamento também tinha deixado de ser uma ameaça sem resposta. Camila ficaria ali com as crianças e pagaria a parte de Ricardo aos poucos, como ficou no acordo. Não era fácil, mas agora cabia no papel — e no orçamento que ela tinha aprendido a controlar.
 
 Com os filhos e os bens resolvidos, faltava o ato final. Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
 

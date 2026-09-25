@@ -3,7 +3,7 @@
 
 Segunda-feira. O dia internacional do arrependimento por não ter vivido o fim de semana que se sonhou.
 
-Camila chegou ao escritório arrastando os pés. Seus olhos ardiam. Ela tinha passado o domingo chorando escondida no banheiro enquanto Ricardo assistia a todos os jogos do Campeonato Brasileiro, um após o outro, como se fosse um trabalho remunerado.
+Camila chegou ao escritório arrastando os pés. Seus olhos ardiam. Ela tinha passado o domingo chorando escondida no banheiro enquanto Ricardo assistia a todos os jogos do Campeonato Paulista, um após o outro, como se fosse um trabalho remunerado.
 
 Às 10h da manhã, ela foi para a copa. Precisava de café. Cafeína era o único combustível que a mantinha em pé.
 

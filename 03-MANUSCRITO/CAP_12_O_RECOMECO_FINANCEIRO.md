@@ -9,7 +9,7 @@ Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz.
 
 Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
-Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. O mês estava no dia 8.
+Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. Abril estava no dia 8.
 
 Ela fechou o aplicativo. Abriu outra vez, como se esperasse que o número tivesse mudado. Não tinha.
 

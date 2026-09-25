@@ -17,7 +17,7 @@ Incluindo as crianças.
 
 ---
 
-Ricardo saiu de casa naquela noite.
+Ricardo saiu naquela noite.
 
 Depois do confronto com Dona Vera, depois de Camila se trancar no quarto, ele bateu na porta e gritou mais algumas coisas (você vai se arrepender, você está sendo egoísta, você está destruindo essa família). Camila não respondeu. Por fim, ele cansou. Pegou as chaves. Saiu batendo a porta.
 
