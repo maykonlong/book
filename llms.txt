@@ -3,7 +3,7 @@
 > Romance de ficção feminina, de Mariana Duarte.
 
 ## Sobre o livro
-A Metade Que Me Faltava Era Eu é a história de Camila, uma mulher de 34 anos, casada há onze anos, que carrega sozinha a casa, os filhos e a carga mental do casamento. Depois de uma vida de silêncio, sobrecarga e solidão, ela decide se divorciar — não para encontrar outra pessoa, mas para se reencontrar. Entre o processo, as contas apertadas, a culpa materna e o medo de recomeçar, Camila redescobre a pintura, a autoestima e, por fim, um amor saudável com Daniel.
+A Metade Que Me Faltava Era Eu é a história de Camila, uma mulher de 34 anos, casada há onze anos, que carrega sozinha a casa, os filhos e a carga mental do casamento. Depois de uma vida de silêncio, sobrecarga e solidão, ela decide se divorciar — não para encontrar outra pessoa, mas para se reencontrar. Entre contas apertadas, culpa materna e medo de recomeçar, Camila redescobre a pintura, vive uma relação saudável sem transformá-la em dependência e termina solteira, feliz e inteira.
 
 ## Autora
 Mariana Duarte escreve sobre mulheres que se recusam a desaparecer dentro da própria vida.
@@ -16,7 +16,8 @@ A metade que falta não está em outra pessoa — está dentro de cada mulher.
 - Divórcio como recomeço
 - Amor-próprio e autodescoberta
 - Maternidade sem se perder
-- Relacionamento saudável
+- Relacionamento saudável sem dependência emocional
+- Felicidade e autonomia na vida solteira
 - Empoderamento feminino
 
 ## Público
@@ -28,9 +29,9 @@ Leitoras adultas, especialmente mulheres que vivem ou viveram sobrecarga familia
 
 ## Estrutura e formatos
 - 40 capítulos em 4 atos
-- Cerca de 56,5 mil palavras
-- Edição impressa preparada com 278 páginas em 5,5 × 8,5 polegadas
-- Sete ilustrações narrativas em aquarela editorial
+- Cerca de 61,7 mil palavras nos capítulos
+- Edição impressa preparada com 316 páginas em 5,5 × 8,5 polegadas
+- Dez ilustrações narrativas em aquarela editorial
 
 ## Links
 - Página oficial: https://maykonlong.github.io/book/

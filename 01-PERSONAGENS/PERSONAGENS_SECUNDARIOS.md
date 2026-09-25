@@ -81,7 +81,7 @@
 
 ---
 
-## 💙 DANIEL - O NOVO AMOR
+## 💙 DANIEL - O AMOR QUE NÃO VIRA DEPENDÊNCIA
 
 ### Informações Básicas
 | Campo | Informação |
@@ -118,7 +118,9 @@
 4. **Paciência**: Ele espera, sem cobrar
 5. **Abertura gradual**: Camila aceita café, depois jantar
 6. **Teste de confiança**: Camila projeta Ricardo nele, Daniel não reage mal
-7. **Entrega**: Camila finalmente se permite amar
+7. **Entrega**: Camila se permite amar sem deixar de observar o que deseja
+8. **Diferença de futuro**: Daniel quer ser pai; Camila não quer mais filhos
+9. **Despedida madura**: Eles terminam com carinho, sem transformar ninguém em vilão
 
 ### Contraste com Ricardo
 
@@ -144,13 +146,14 @@
 - **Contraste necessário**: Mostra o que é parceria real
 - **Catalisador**: Ajuda Camila a se abrir novamente
 - **Esperança**: Demonstra que relacionamentos saudáveis existem
-- **Não é salvador**: Camila já estava se curando, ele apenas complementa
+- **Não é salvador nem destino final**: Camila já estava se curando; a relação tem valor mesmo terminando
 
 ### O que ELE NÃO É
 - ❌ Perfeito demais (tem imperfeições sutis)
 - ❌ Salvador (Camila se salva sozinha)
 - ❌ Substituto de terapeuta
 - ❌ Apenas "prêmio" no final
+- ❌ Par romântico definitivo de Camila neste primeiro livro
 
 ---
 

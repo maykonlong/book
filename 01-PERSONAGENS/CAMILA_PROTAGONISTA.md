@@ -117,11 +117,11 @@
 - Já passou por divórcio e é voz da experiência
 - Encoraja Camila a priorizar-se
 
-### Com Daniel (Novo Amor)
+### Com Daniel (Amor sem dependência)
 - **Início**: Camila resiste, desconfia, compara com Ricardo
 - **Desenvolvimento**: Percebe que ele é diferente - gentil, paciente, parceiro
 - **Conflito interno**: Medo de se machucar vs. desejo de se abrir
-- **Resolução**: Permite-se amar e ser amada de forma saudável
+- **Resolução**: Reconhece que uma relação pode ser boa e ainda assim não servir aos dois; termina com respeito porque não quer mais filhos e Daniel quer ser pai
 
 ### Com Dona Sônia (Mãe)
 - Relação complexa
@@ -175,8 +175,9 @@
 - Apresenta Daniel aos filhos com cuidado
 - Aprende que conflito não precisa significar abandono
 - Permite-se receber amor sem se apagar
+- Recusa permanecer por medo, culpa ou gratidão
 - Integra mãe, profissional, mulher e artista
-- Reconhece que já é inteira
+- Encerra solteira, feliz e consciente de que já é inteira
 
 ---
 

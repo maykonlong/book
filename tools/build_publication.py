@@ -58,8 +58,11 @@ ART_MAP = {
     8: "cap-08-separacao.png",
     12: "cap-12-recomeco-financeiro.png",
     17: "cap-17-voltando-a-pintar.png",
+    22: "cap-22-primeiro-natal.png",
     27: "cap-27-o-encontro.png",
+    31: "cap-31-dia-das-maes.png",
     34: "cap-34-viagem-a-quatro.png",
+    39: "cap-39-carta-para-mim.png",
     40: "cap-40-inteira.png",
 }
 ART_ALTS = {
@@ -67,8 +70,11 @@ ART_ALTS = {
     8: "Camila observa Ricardo partir e sustenta a decisão de se separar.",
     12: "Camila organiza as contas ao lado dos bolos que começou a vender.",
     17: "Camila volta a pintar aquarelas depois de muitos anos.",
+    22: "Camila e os filhos vivem um Natal simples, imperfeito e cheio de afeto.",
     27: "Camila e Daniel se conhecem diante de uma aquarela na exposição.",
+    31: "Léo e Bia surpreendem Camila com um café da manhã no Dia das Mães.",
     34: "Camila, Daniel, Léo e Bia observam as estrelas na primeira viagem juntos.",
+    39: "Camila escreve para a mulher que foi enquanto prepara sua série de aquarelas.",
     40: "Camila contempla a série Renascimento na galeria vazia.",
 }
 
@@ -692,7 +698,8 @@ Não altere o número de páginas do miolo sem gerar novamente a capa completa, 
 <p>Há onze anos, ela organiza a casa, os filhos, o trabalho e até as responsabilidades de Ricardo. Ele diz que ajuda — mas nunca vê o que precisa ser feito.</p>
 <p>Até que uma manhã comum, entre febre, lancheiras e leite derramado, mostra o que Camila já não consegue negar: está sozinha, mesmo acompanhada.</p>
 <p>Ao escolher o divórcio, ela não encontra uma saída fácil. Encontra culpa, contas apertadas, medo de ferir os filhos e o julgamento de quem acha que mulher deve aguentar. Mas também reencontra os pincéis, a própria voz e uma vida que ainda pode ser sua.</p>
-<p><em>A Metade Que Me Faltava Era Eu</em> é um romance contemporâneo sobre carga mental, maternidade, recomeço e amor-próprio — para toda mulher que já se sentiu invisível dentro da própria casa.</p>
+<p>Ao conhecer um homem gentil, Camila enfrenta uma pergunta ainda mais difícil: como amar sem transformar carinho em dependência — e como partir quando ninguém precisa ser o vilão?</p>
+<p><em>A Metade Que Me Faltava Era Eu</em> é um romance contemporâneo sobre carga mental, maternidade, independência emocional, recomeço e amor-próprio — para toda mulher que já se sentiu invisível dentro da própria casa.</p>
 '''
     (META / "descricao-amazon.html").write_text(description, encoding="utf-8")
     (META / "descricao-amazon.txt").write_text(re.sub(r"<[^>]+>", "", description).strip(), encoding="utf-8")
@@ -713,7 +720,7 @@ Não altere o número de páginas do miolo sem gerar novamente a capa completa, 
 ## Posicionamento
 
 - Romance contemporâneo feminino sobre uma mulher sobrecarregada que deixa um casamento desigual e reconstrói a identidade.
-- Leitoras interessadas em carga mental, maternidade real, divórcio, autoestima, recomeço e relações saudáveis.
+- Leitoras interessadas em carga mental, maternidade real, divórcio, autoestima, independência emocional, recomeço e relações saudáveis.
 
 ## Sete frases-chave sugeridas
 
@@ -723,7 +730,7 @@ Não altere o número de páginas do miolo sem gerar novamente a capa completa, 
 4. romance sobre maternidade real
 5. mulher recomeçando aos 35 anos
 6. livro sobre relacionamento desigual
-7. história de amor-próprio e coragem
+7. livro sobre independência emocional
 
 ## Categorias para avaliar no painel
 

@@ -122,7 +122,7 @@ E ela não abriu.
 
 Camila sorriu para a página do livro, retomando a leitura de onde tinha parado. Lá fora, o elevador desceu levando Ricardo embora. E dentro dela, não sobrou nem o eco daquela conversa.
 
-Ela estava, definitivamente, vacinada.
+Ela tinha aprendido a lição.
 
 Depois, sem conseguir voltar ao livro, Camila pegou o celular e ligou para Fernanda.
 

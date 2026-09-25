@@ -47,7 +47,7 @@ Na sexta-feira, o Marcos tentou outra vez. Dessa vez, esperou Camila na saída d
 
 — Então... — ele começou, com aquele sorriso. — Eu ia perguntar se você quer almoçar qualquer dia. Só almoço. Sem pressão.
 
-*Sem pressão.* A expressão que o Daniel usava.
+*Sem pressão.* A expressão soou estranhamente boa.
 
 Camila quase recusou por reflexo. Onze anos de "não" automático, de achar que todo convite vinha com uma cobrança escondida.
 
@@ -85,8 +85,86 @@ Sem medo. Sem dívida. Sem o coração disparado de quem espera o ataque.
 
 ---
 
+O alívio durou até a tarde.
+
+Camila entrou na copa para pegar água e ouviu seu nome antes que percebessem sua presença.
+
+— Eu vi os dois saindo juntos — dizia Patrícia, do financeiro. — Mal separou e já está almoçando com outro.
+
+— Você sabe que ela estava sozinha há muito tempo, né? — respondeu Ana.
+
+Camila poderia ter recuado. Poderia esperar as duas saírem, fingir que não ouviu e engolir mais aquela opinião como engolira tantas.
+
+Em vez disso, entrou.
+
+Patrícia ficou vermelha. Ana fechou os olhos por um segundo, como quem lamentava o desastre anunciado.
+
+Camila encheu o copo de água. Bebeu um gole. Só então falou:
+
+— Eu almocei com um colega de trabalho. Mas, mesmo que fosse um encontro, a minha vida não está aberta para votação na copa.
+
+Patrícia abriu a boca e fechou.
+
+— Eu não quis dizer...
+
+— Quis, sim. Só não esperava que eu escutasse.
+
+Não havia grito na voz de Camila. Isso era o mais novo. Ela não precisava explodir para ocupar espaço. Bastava não se diminuir.
+
+— Desculpa — disse Patrícia, olhando para o chão.
+
+— Tudo bem. Só não faça de novo.
+
+Camila saiu com as pernas tremendo. No corredor, precisou entrar no banheiro e respirar fundo diante do espelho. A mulher refletida ali parecia calma. Por dentro, o coração batia na garganta.
+
+Coragem, ela descobriu, nem sempre parecia força. Às vezes parecia uma mulher tremendo depois de dizer uma frase simples.
+
+Ana a alcançou alguns minutos depois.
+
+— Você foi perfeita.
+
+— Eu quase vomitei.
+
+— Mas não voltou atrás.
+
+Camila riu, ainda nervosa.
+
+— Não voltei.
+
+Na saída, Marcos se aproximou com cuidado.
+
+— Fiquei sabendo da fofoca. Se o almoço te trouxe problema, eu sinto muito.
+
+— Você não fez nada errado.
+
+— Mesmo assim, não quero que se sinta pressionada a repetir.
+
+Camila observou o rosto dele. Não havia ofensa, cobrança ou aquela falsa gentileza que pede recompensa.
+
+— Podemos repetir — disse ela. — Como amigos.
+
+— Como amigos — confirmou Marcos, sem mudar o sorriso.
+
+Outro limite aceito sem castigo.
+
+Camila guardou aquilo.
+
+---
+
 Não precisava virar romance. Às vezes, um café na mesa, um "quer almoçar?" ou um olhar que demorava meio segundo a mais já lembrava que ela ainda existia como mulher — além de mãe, profissional e ex.
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
 
 E, enfim, ela gostou do que viu.
+
+Quando chegou em casa, havia uma mensagem de Júlia, da aula de aquarela:
+
+*"A turma vai tomar café depois da aula de quinta. Você vem? Prometo pão de queijo e zero perguntas sobre ex-marido. Ou poucas."*
+
+Camila sorriu.
+
+Na mesma semana em que parou de fugir dos olhares no trabalho, alguém a convidava para sentar à mesa sem precisar provar nada.
+
+Ela respondeu antes que o medo inventasse uma desculpa:
+
+*"Eu vou."*

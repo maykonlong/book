@@ -1,10 +1,10 @@
 # 📋 VISÃO GERAL DO PROJETO
 
 ## Status Atual
-✅ **Manuscrito completo** — 40 capítulos, ~54.600 palavras de história (~55.200 com textos iniciais e finais)
+✅ **Manuscrito completo** — 40 capítulos, ~61.700 palavras de história (~62.500 com textos iniciais e finais)
 ✅ **Site e leitor atualizados** — landing page (`index.html`) + leitor online ilustrado (`ler.html`), com FAQ, JSON-LD e layout mobile-first (ver `05-PUBLICACAO/SEO_GEO.md`)
 
-✅ **Pacote KDP gerado** — EPUB 3, capa Kindle, miolo de 278 páginas, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`
+✅ **Pacote KDP gerado** — EPUB 3, capa Kindle, miolo de 316 páginas, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`
 
 ---
 
@@ -42,8 +42,9 @@
   - [x] Capítulo 7 - "A Gota D'água" ✅
   - [x] Capítulo 8 - "Eu Quero me Separar" ✅
   - [x] Capítulo 9 - "A Conversa com os Filhos" ✅
-- [x] **ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO** ✅ (Cap 10-28)
-- [x] **ATO III - ABERTURA E ENTREGA** ✅ (Cap 29-40)
+- [x] **ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO** ✅ (Cap 10-18)
+- [x] **ATO III - REDE, AUTONOMIA E FECHAMENTO** ✅ (Cap 19-30)
+- [x] **ATO IV - AMAR SEM DEPENDER** ✅ (Cap 31-40)
 - [x] Cena de abertura impactante ✅
 - [x] Clímax emocional ✅
 - [x] Desfecho satisfatório ✅
@@ -57,9 +58,9 @@
 
 ### Fase 5: Finalização
 - [x] Revisão ortográfica e gramatical
-- [ ] Formatação final
+- [x] Formatação final
 - [x] Criação de sinopse para contracapa — ver `05-PUBLICACAO/PACOTE_EDITORIAL.md`
-- [ ] Preparação para publicação
+- [x] Preparação para publicação
 
 ---
 
@@ -135,7 +136,7 @@ Criar um livro que ressoe com mulheres brasileiras adultas, especialmente mães,
 4. **Desconstrução** → Fase de dor e culpa
 5. **Redescobrimento** → Retoma hobbies, amizades, autoestima
 6. **Abertura** → Conhece Daniel, mas resiste
-7. **Entrega** → Permite-se ser vulnerável e amar novamente
+7. **Autonomia** → Ama sem se apagar e encerra a relação quando percebe que desejam futuros diferentes
 
 ### Arco de Ricardo (Antagonista)
 1. **Acomodação** → Marido passivo-agressivo

@@ -52,7 +52,7 @@
 | 29 | O Fim e o Começo | O divórcio e os acordos são concluídos; Daniel se aproxima. |
 | 30 | Um Ano Depois | A nova paz já faz parte da rotina. |
 
-## Ato IV — Amor sem perder a si mesma
+## Ato IV — Amar sem depender e escolher a si mesma
 
 | Cap. | Título | Função na história |
 |---:|---|---|
@@ -62,10 +62,10 @@
 | 34 | A Primeira Viagem a Quatro | A ideia de família se amplia. |
 | 35 | A Primeira Briga | Camila aprende que conflito não precisa significar medo. |
 | 36 | O Primeiro Presente | Daniel demonstra atenção, não controle. |
-| 37 | O Encontro com a Mãe do Daniel | Camila é acolhida sem esforço ou prova. |
-| 38 | O Reencontro | Ricardo já não tem poder emocional sobre ela. |
-| 39 | Carta Para Mim Mesma | Camila perdoa a versão antiga de si. |
-| 40 | A Metade Que Me Faltava Era Eu | A exposição final reúne arte, filhos, mãe, amigas e amor próprio. |
+| 37 | O Encontro com a Mãe do Daniel | O acolhimento é real, mas Camila e Daniel descobrem que desejam futuros diferentes. |
+| 38 | O Reencontro | Ricardo já não tem poder emocional; Camila entende que não precisa de um vilão para poder partir. |
+| 39 | Carta Para Mim Mesma | Ela acolhe a mulher que foi e encerra a relação com Daniel de forma madura. |
+| 40 | A Metade Que Me Faltava Era Eu | A exposição reúne sua história; Camila termina solteira, feliz e inteira. |
 
 ## Fios de continuidade
 
@@ -74,7 +74,7 @@
 - **A maternidade:** sai da culpa e caminha para presença com limites.
 - **Dona Sônia:** sente medo no começo, mas se posiciona a favor da filha ainda no cap. 13.
 - **Ricardo:** passa de centro da vida de Camila a uma pessoa sem poder sobre ela.
-- **Daniel:** não salva Camila; chega quando ela já está se reconstruindo.
+- **Daniel:** não salva Camila e não é prêmio; a relação saudável também ensina que amar não obriga ninguém a abandonar o próprio futuro.
 - **A frase-título:** só ganha sua explicação completa no encerramento.
 
 ## Regras de tom

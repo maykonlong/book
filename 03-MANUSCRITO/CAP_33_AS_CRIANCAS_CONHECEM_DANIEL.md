@@ -49,11 +49,55 @@ Da cozinha, ouvia os sons. Primeiro, silêncio. Depois, a risada de Bia. Depois,
 
 Camila apoiou as mãos na pia e fechou os olhos. Aquele som — as risadas dos filhos misturadas à de Daniel — era um som de família possível.
 
-Quando voltou para a sala, Bia estava no colo de Daniel. Léo estava menos tenso.
+Quando voltou para a sala, Bia estava sentada ao lado de Daniel, segurando uma das cartas dele. Léo estava menos tenso.
 
 — Mãe! O Daniel sabe fazer voz de monstro! — gritou Bia.
 
 — Essa é a minha voz normal — brincou Daniel. E todos riram.
+
+Pouco depois, Daniel pegou a última fatia de pizza.
+
+— Meu pai sempre deixa essa pro Léo — disse Bia.
+
+O riso parou.
+
+Daniel colocou a fatia de volta na caixa.
+
+— Então é do Léo. Regra importante da família.
+
+— Não precisa — respondeu o menino, desconfiado. — Pode comer.
+
+— A gente divide?
+
+Léo aceitou. Daniel cortou a fatia ao meio, entregou o pedaço maior ao menino e não tentou transformar aquilo numa lição.
+
+Mais tarde, enquanto Bia procurava uma peça do jogo embaixo do sofá, Léo perguntou de repente:
+
+— Você quer ser nosso pai agora?
+
+Camila congelou na cozinha.
+
+Daniel também pareceu surpreso, mas não desviou.
+
+— Não. Vocês já têm pai — disse. — Eu quero ser o Daniel. Se vocês deixarem, posso ser um adulto que gosta da sua mãe e gosta de estar com vocês.
+
+— E se eu não gostar de você?
+
+— Aí você pode me contar. Não precisa fingir.
+
+Léo observou o rosto dele, procurando alguma armadilha.
+
+— Eu ainda não decidi — avisou.
+
+— Justo. Eu também demoro para decidir se gosto de alguém.
+
+— Você falou que gostou da gente.
+
+— É, fui pego. De vocês eu gostei rápido.
+
+O canto da boca de Léo se mexeu outra vez.
+
+Camila voltou a respirar.
 
 Camila sentou ao lado de Léo. Ele se inclinou e sussurrou:
 
@@ -109,9 +153,67 @@ E continuou colorindo o sol.
 
 Camila entendeu, ali, que as crianças tinham encontrado um jeito próprio de acomodar a nova vida. Não era rejeição do pai. Era aceitação de que a família tinha mudado de forma. E que cabia todo mundo — só que agora, em desenhos diferentes.
 
-Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
+— Posso mostrar esse desenho para o Daniel? — perguntou.
 
-E, agora, ela não teve medo de sonhar grande de novo.
+Léo protegeu o papel com o braço.
+
+— Ainda não. Vou fazer o cabelo dele melhor.
+
+— Tudo bem.
+
+Na porta, Camila ouviu o filho chamar:
+
+— Mãe?
+
+— Oi?
+
+— Se ele for embora, você vai ficar triste daquele jeito de novo?
+
+A pergunta encontrou o medo que ela escondia até de si mesma.
+
+Camila voltou e se sentou na cama.
+
+— Posso ficar triste se qualquer pessoa que eu amo for embora. Mas eu não vou desaparecer. Nem vou deixar de cuidar de vocês ou de mim.
+
+— Promete?
+
+— Prometo.
+
+Léo pareceu satisfeito. Voltou ao desenho.
+
+Camila saiu do quarto entendendo que os filhos não precisavam de garantias sobre Daniel. Precisavam saber que a mãe continuaria de pé, qualquer que fosse o final.
+
+---
+
+Duas semanas depois, os quatro fizeram um piquenique no parque. Daniel levou frutas já cortadas, suco e guardanapos. Camila levou sanduíches. Léo levou a bola. Bia levou uma boneca e a convicção de que todos precisavam conversar com ela.
+
+Quando começou a chover, correram até o carro sob uma toalha pequena demais. Chegaram encharcados, rindo.
+
+— A gente podia viajar junto — soltou Bia, como se pedisse mais suco.
+
+Camila e Daniel se olharam.
+
+— Um dia — disse Camila.
+
+— Pra um lugar com estrela — pediu Léo. — Na praia tinha um monte.
+
+Daniel não respondeu por ela.
+
+— Se sua mãe achar uma boa ideia, eu conheço um sítio — disse apenas.
+
+Naquela noite, depois que as crianças dormiram, Camila abriu o calendário.
+
+O medo apareceu primeiro.
+
+Logo atrás dele veio uma vontade enorme de tentar.
+
+No sábado seguinte, desenhou um círculo em volta de uma data e escreveu:
+
+**SÍTIO — NÓS QUATRO.**
+
+As palavras pareceram grandes demais dentro do quadrado pequeno do calendário.
+
+Camila não apagou.
 
 
 

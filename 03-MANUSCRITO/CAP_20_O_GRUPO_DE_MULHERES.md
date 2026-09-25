@@ -69,12 +69,12 @@ Todas riram.
 — Mas falando sério — continuou Júlia. — Vocês são fodas. Olha pra gente. Sobrevivendo. Criando. Rindo numa quinta-feira de chuva. A gente é muito foda.
 
 Camila olhou para aquelas mulheres.
-Tão diferentes. Unidas por nada além de uma aula de pintura e pela experiência universal de ser mulher num mundo que exige demais.
+Tão diferentes. Unidas por uma aula de pintura e por algo que todas conheciam: ser mulher num mundo que exige demais.
 
 Camila tinha encontrado as suas: mulheres que olhavam e, sem dizer nada, entendiam. Que faziam umas às outras rir da própria desgraça. Elas existiam. E salvavam.
 
 Ela sentiu uma onda de calor no peito.
-Dra. Lucas tinha dito para ela encontrar "sua tribo".
+Dr. Lucas tinha dito para ela encontrar "sua turma".
 Ela achava que tribo era algo místico, difícil de achar.
 
 Mas tribo era isso.
@@ -97,7 +97,7 @@ Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho 
 
 Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só assentiram. Só passaram o pão de queijo e encheram o café.
 
-E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um posto de reabastecimento. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
+E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um lugar para recarregar as forças. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
 
 E, quando a conta chegou, houve um gesto pequeno que valeu mais do que qualquer conselho. Clara, a mãe solo dos gêmeos, anotou o próprio número num guardanapo e empurrou para Camila.
 
@@ -126,7 +126,7 @@ E a Camila de agora estava começando a gostar muito, mas muito mesmo, dessa nov
 Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
-Depois apagou a luz e dormiu sem peso no peito, em meses.
+Depois apagou a luz e, pela primeira vez em meses, dormiu sem peso no peito.
 
 
 

@@ -97,7 +97,7 @@ Não foi dramático. Não teve briga, choro, cena. Só... aconteceu.
 
 Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram e conversaram sobre logística.
 
-Friamente. Praticamente. Civilizadamente.
+Com frieza. Com praticidade. Como dois adultos.
 
 (era mentira, mas eles fingiam bem)
 
@@ -429,7 +429,7 @@ Não o que Ricardo queria. Não o que era esperado dela. Não o que era "certo" 
 
 O que ela, Camila, queria.
 
-E percebeu assustadoramente: ela não sabia.
+E percebeu, assustada: ela não sabia.
 
 Fazia tanto tempo que ela tinha se anulado que não lembrava mais o que queria.
 

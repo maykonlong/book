@@ -1,7 +1,7 @@
 ﻿# CAPÍTULO 17
 ## Voltando a Pintar
 
-A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer algo só por você.*
+A tarefa do Dr. Lucas voltava à cabeça dela como um desafio perigoso: *fazer algo só por você.*
 
 Camila tinha comprado os materiais na quinta-feira à tarde, saindo do trabalho mais cedo — e quase não saiu. A reunião estourou o horário, o trânsito estava um caos, e a voz prática dentro dela sussurrou: *vai pra casa, Cá. Descansa. Tinta pode esperar.* Tinta podia esperar, sim. Tinta esperou onze anos. Foi exatamente esse o argumento que a fez virar o carro na direção contrária, em direção à loja.
 
@@ -76,7 +76,7 @@ Ela não sabia o que pintar. Flores? Paisagem? O apartamento vazio?
 
 Deixou a mão ir.
 Fez manchas. Misturou azul com carmesim. Viu o roxo nascer.
-Pingou água limpa e viu alvéolos se formarem na tinta.
+Pingou água limpa e viu pequenas formas claras nascerem na tinta.
 
 A água ora obedecia, ora fazia o que queria. E Camila descobriu que não se importava. Havia beleza até no inesperado. Talvez fosse isso que a aquarela ensinava: você controla até certo ponto, e depois precisa confiar.
 
@@ -108,7 +108,7 @@ Não eram obras-primas. Eram borrões coloridos.
 Mas eram dela.
 Eram pedaços da alma dela que ela tinha conseguido colocar para fora sem precisar explicar com palavras.
 
-Você se lembra da última vez que fez algo só por você? Sem ser pela casa, pelos filhos, pelo trabalho. Só seu. Se não lembra, talvez esteja na hora de lembrar.
+Camila tentou se lembrar da última vez que tinha feito algo só para ela — sem ser pela casa, pelos filhos ou pelo trabalho. Não conseguiu. E aquela falta de memória mostrou quanto tempo tinha passado longe de si.
 
 Camila olhou para as mãos sujas de tinta. Azul nas cutículas. Vermelho na palma.
 
@@ -134,7 +134,7 @@ Sonhou que estava nadando em um mar de azul cobalto, e que sabia respirar debaix
 
 Na manhã seguinte, Camila acordou e viu as cinco folhas secas espalhadas pela mesa, e a luz da manhã atravessando as cores. Ela ficou um tempo olhando, meio incrédula, como quem acorda e confirma que o sonho era real.
 
-Não eram obras-primas. Eram borrões, manchas, alvéolos de tinta. Mas eram a prova de que, na noite anterior, uma parte dela — a parte que ela julgava morta — tinha voltado à vida.
+Não eram obras-primas. Eram borrões, manchas e pequenas marcas abertas pela água. Mas eram a prova de que, na noite anterior, uma parte dela — a parte que julgava morta — tinha voltado à vida.
 
 E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mudaria tudo: não era sobre o quadro. Nunca foi sobre o quadro. Era sobre descobrir que ela ainda existia embaixo de todos aqueles papéis — mãe, esposa, funcionária — esperando para voltar a ser.
 

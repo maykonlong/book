@@ -148,6 +148,13 @@
 - Daniel como modelo de parceria
 - Respeito, comunicação e empatia
 - Diferença entre amor tóxico e amor saudável
+- Uma relação pode ser saudável e ainda terminar porque os dois querem futuros diferentes
+
+### Independência Emocional
+- Camila não troca a dependência de Ricardo por uma dependência de Daniel
+- Ela não fica por culpa, medo de solidão ou gratidão pelo bom tratamento
+- Terminar com respeito não apaga o valor do que foi vivido
+- O Livro 1 fecha com Camila solteira, feliz e inteira
 
 ### Reconstrução Familiar
 - Famílias podem ser felizes em diferentes formatos
@@ -163,6 +170,9 @@
 
 ❌ **NÃO demoniza todos os homens**
 - Ricardo é tóxico, mas Daniel mostra que há parceiros reais
+
+❌ **NÃO apresenta um relacionamento como prêmio pela cura**
+- Daniel é importante, mas o final feliz do primeiro livro pertence à autonomia de Camila
 
 ❌ **NÃO prega o divórcio como solução universal**
 - O divórcio é a solução de CAMILA para ESTA situação

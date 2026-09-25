@@ -297,7 +297,7 @@ Daniel sendo simpático, aberto, interessado.
 Camila sendo um muro de concreto, interpretando cada frase dele como um sinal de alerta, uma manipulação ou um defeito.
 
 Ele perguntou dos filhos. *Quer saber se sou mãe solteira desesperada.*
-Ele perguntou dos livros. *Quer testar minha intelectualidade.*
+Ele perguntou dos livros. *Quer testar se sou inteligente.*
 Ele elogiou a blusa dela. *Só está olhando para o meu corpo.*
 
 A mente de Camila era um tribunal militar julgando um civil inocente.
@@ -328,7 +328,7 @@ Camila murchou na cadeira. A armadura caiu.
 Ele riu levemente.
 — O clássico "não é você, sou eu". Mas nesse caso, parece verdade.
 
-— É verdade. É que... — Camila olhou para as mãos. — Faz muito tempo que eu não... saio. E meu último relacionamento foi... difícil. Eu estou projetando coisas em você que não são suas.
+— É verdade. É que... — Camila olhou para as mãos. — Faz muito tempo que eu não... saio. E meu último relacionamento foi... difícil. Estou trazendo medos antigos para uma conversa que é nossa.
 
 — Tipo o quê? — Ele perguntou, curioso, sem raiva.
 

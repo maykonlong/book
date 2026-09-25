@@ -16,9 +16,9 @@ O fim não veio com uma traição de novela. Veio com uma poça de leite derrama
 
 Então ela pediu o divórcio. Não para encontrar outra pessoa — para se encontrar de novo.
 
-Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta, que respeita, que não precisa ser ensinado a ser parceiro.
+Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta e respeita — mas que deseja um futuro diferente do seu.
 
-Mas como confiar de novo quando o coração aprendeu a se proteger de tudo?
+Como amar de novo sem trocar uma dependência por outra? E como escolher a si mesma quando ninguém fez nada errado?
 
 *"A Metade Que Me Faltava Era Eu" é para toda mulher que carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
 

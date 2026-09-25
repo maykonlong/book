@@ -70,14 +70,14 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - **Cap. 33 — As Crianças Conhecem Daniel:** apresentação cuidadosa, sem forçar intimidade.
 - **Cap. 34 — A Primeira Viagem a Quatro:** o novo vínculo ganha espaço.
 
-### Agosto e setembro — amor sem apagamento
+### Agosto e setembro — amor sem dependência
 
 - **Cap. 35 — A Primeira Briga:** Camila e Daniel aprendem a discordar sem medo.
 - **Cap. 36 — O Primeiro Presente:** um gesto atento mostra a diferença entre preço e cuidado.
-- **Cap. 37 — O Encontro com a Mãe do Daniel:** Camila experimenta acolhimento sem precisar merecê-lo.
-- **Cap. 38 — O Reencontro:** ao encontrar Ricardo, ela percebe que ele já não controla suas emoções.
-- **Cap. 39 — Carta Para Mim Mesma:** Camila acolhe a mulher que foi.
-- **Cap. 40 — A Metade Que Me Faltava Era Eu:** em setembro, a exposição final encerra o arco de reconstrução.
+- **Cap. 37 — O Encontro com a Mãe do Daniel:** Camila experimenta acolhimento, mas descobre que Daniel quer ser pai e ela não quer mais filhos.
+- **Cap. 38 — O Reencontro:** ao encontrar Ricardo, ela percebe que ele já não controla suas emoções e entende que duas pessoas boas podem querer futuros diferentes.
+- **Cap. 39 — Carta Para Mim Mesma:** Camila acolhe a mulher que foi e termina com Daniel sem culpa, briga ou dependência.
+- **Cap. 40 — A Metade Que Me Faltava Era Eu:** semanas depois, em setembro, a exposição encerra o arco com Camila solteira, feliz e inteira.
 
 ## Idades de referência
 

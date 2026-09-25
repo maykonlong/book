@@ -14,7 +14,7 @@
 ## Posicionamento
 
 - Romance contemporâneo feminino sobre uma mulher sobrecarregada que deixa um casamento desigual e reconstrói a identidade.
-- Leitoras interessadas em carga mental, maternidade real, divórcio, autoestima, recomeço e relações saudáveis.
+- Leitoras interessadas em carga mental, maternidade real, divórcio, autoestima, independência emocional, recomeço e relações saudáveis.
 
 ## Sete frases-chave sugeridas
 
@@ -24,7 +24,7 @@
 4. romance sobre maternidade real
 5. mulher recomeçando aos 35 anos
 6. livro sobre relacionamento desigual
-7. história de amor-próprio e coragem
+7. livro sobre independência emocional
 
 ## Categorias para avaliar no painel
 

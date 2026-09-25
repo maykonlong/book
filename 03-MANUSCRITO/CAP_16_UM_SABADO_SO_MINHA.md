@@ -47,25 +47,59 @@ E, então, algo mudou.
 
 ---
 
-Ela foi até o quarto e pegou as tintas.
+Ela foi até o quarto e abriu a porta do armário.
 
-Não as tintas boas, que ela usava para os quadros. As tintas velhas, de uma caixa empoeirada que tinha ficado no fundo do armário por anos. Abriu a janela, montou o cavalete na sala, e começou a pintar.
+No fundo, atrás de uma mala e de dois cobertores, estava a caixa de materiais de pintura que não tocava havia anos. Camila a puxou até a beirada da prateleira. Passou a mão pela tampa empoeirada.
 
-Não um quadro para vender. Não um quadro para agradar. Um quadro só dela. Sobre o que ela quisesse.
+Por um instante, quis abrir.
 
-Pintou o silêncio. Pintou a rua. Pintou a solidão — e, no processo, descobriu que a solidão, quando encarada, não era um monstro.
+Não abriu.
 
-Era uma companhia.
+Ainda não. Havia lembranças demais ali dentro: a faculdade, o quartinho alugado, as noites em que pintava sem olhar o relógio. E havia também a voz da mãe dizendo que arte não pagava conta, a voz de Ricardo chamando aquilo de passatempo e a voz dela mesma repetindo que não tinha tempo.
 
-Pintar, escrever, cozinhar ou dançar sem plateia, sem objetivo e sem ninguém para aprovar parecia um ato de coragem. Num mundo que ensinava a fazer apenas o que rendia, agradava ou produzia, criar por prazer era uma forma de dizer: *eu importo. A minha alegria importa.*
+Camila empurrou a caixa de volta, mas não tão para o fundo quanto antes. Deixou-a visível.
+
+Era pouco. Ainda assim, parecia uma promessa.
+
+Vestiu uma calça confortável, prendeu o cabelo e saiu sem destino. Não para o mercado. Não para a farmácia. Não para resolver nada. Saiu apenas porque podia.
+
+Andou quatro quarteirões até uma padaria que sempre via da janela do ônibus. Pediu uma mesa perto do vidro.
+
+— Só você? — perguntou a atendente.
+
+A pergunta atingiu um lugar sensível. Camila quase explicou que tinha filhos, que era divorciada, que aquilo era só uma manhã livre. Como se uma mulher precisasse apresentar defesa para ocupar uma mesa sozinha.
+
+— Só eu — respondeu.
+
+E gostou do som.
+
+Pediu pão na chapa bem tostado e café forte. Ricardo preferia pão claro e café fraco. Durante onze anos, até o café da manhã tinha sido decidido pela vontade de outra pessoa. Camila mordeu a ponta quase queimada do pão e sorriu.
+
+Na mesa ao lado, duas mulheres riam alto. Mais adiante, um senhor lia o jornal. Ninguém olhava para ela. Ninguém parecia achar triste uma mulher tomando café sozinha.
+
+O mundo não tinha parado para julgar sua solidão. Era só ela que ainda fazia isso.
+
+Depois, entrou numa pequena livraria ao lado. Passeou entre as estantes sem procurar nada específico. Tocou capas, leu contracapas, abriu um livro de receitas e outro de viagens. Num expositor perto do caixa, encontrou um caderno de capa azul, sem linhas.
+
+— É para desenho — explicou o vendedor. — O papel aguenta lápis, carvão e um pouco de água.
+
+Camila segurou o caderno. Não precisava dele. Não estava na lista. Não era para as crianças.
+
+Comprou mesmo assim.
+
+Quando o vendedor colocou o caderno na sacola, ela viu um pequeno cartaz preso na parede: **AULAS DE AQUARELA PARA ADULTOS — NÃO É PRECISO SABER DESENHAR.**
+
+Na parte inferior, havia tiras de papel com o telefone do ateliê.
+
+Camila arrancou uma.
+
+Dobrou duas vezes e guardou no bolso, depressa, como se alguém pudesse impedi-la.
 
 ---
 
 Às duas da tarde, Camila percebeu que estava com fome. Foi à cozinha e fez uma omelete — só para ela, sem ter que cortar em pedacinhos, sem ter que disputar o último pedaço.
 
-Comeu na sala, em frente ao quadro. O quadro não estava pronto. Não estava bonito. Mas era dela.
-
-Depois, fez algo que não fazia desde antes do casamento: tomou um banho demorado. Sem pressa. Sem ninguém batendo na porta. Deixou a água quente escorrer pelos ombros e ficou ali, simplesmente existindo.
+Comeu na sala, com o caderno azul ainda dentro da sacola. Depois, fez algo que não fazia desde antes do casamento: tomou um banho demorado. Sem pressa. Sem ninguém batendo na porta. Deixou a água quente escorrer pelos ombros e ficou ali, simplesmente existindo.
 
 E, naquele banho, uma lágrima caiu. Mas não era de tristeza.
 
@@ -75,22 +109,42 @@ Porque ela tinha acabado de descobrir uma coisa que ninguém tinha ensinado a el
 
 ---
 
-Quando as crianças voltaram, no domingo à noite, Camila as recebeu com um abraço apertado e um cheiro de tinta no avental.
+Passou a tarde vendo um filme que ninguém mais na casa gostaria de assistir. Dormiu vinte minutos no sofá. Acordou assustada, achando que tinha perdido algum compromisso, e precisou lembrar a si mesma: não havia compromisso.
+
+O sábado não tinha produzido nada. Nenhuma roupa lavada. Nenhuma compra feita. Nenhuma planilha adiantada.
+
+Mesmo assim, tinha sido um dia cheio.
+
+Cheio dela.
+
+---
+
+Quando as crianças voltaram, no domingo à noite, Camila as recebeu com um abraço apertado e o cabelo ainda solto do banho.
 
 — Mãe, o que você fez esse fim de semana? — perguntou Léo, curioso.
 
-— Eu me encontrei — respondeu ela, sorrindo.
+— Tomei café fora, comprei um caderno, vi um filme e não fiz quase nada — respondeu ela.
 
 Léo fez uma careta.
 
-— Que estranho, mãe. Você tava perdida?
+— Isso é divertido?
 
 Camila riu, um riso solto, novo.
 
-— Tava, filho. Tava perdida fazia muito tempo. Mas achei o caminho.
+— Eu também não sabia. Mas é.
 
-E, enquanto colocava as crianças para dormir, ela pensou no sábado que tinha passado sozinha. Na omelete. No banho demorado. No quadro inacabado.
+E, enquanto colocava as crianças para dormir, ela pensou no sábado que tinha passado sozinha. No café forte. Na omelete. No banho demorado. No caderno azul que ainda nem tinha aberto.
 
 *Preciso fazer isso mais vezes*, pensou.
 
 Não porque não amasse os filhos. Mas porque, para amá-los inteira, ela precisava se lembrar — todo dia, se possível — de quem ela era quando ninguém estava olhando.
+
+Antes de dormir, esvaziou os bolsos da calça. A tira de papel caiu sobre a cama.
+
+**Aulas de aquarela.**
+
+Camila pegou o celular. Digitou o número. Escreveu: *Oi. Gostaria de saber os horários.*
+
+Ficou um minuto inteiro olhando para a mensagem.
+
+Então apertou enviar.

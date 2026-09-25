@@ -60,13 +60,13 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 
 **Conflito**: Casamento tóxico com Ricardo, sobrecarga mental, perda de identidade
 
-**Jornada**: Do cansaço extremo → Decisão de se separar → Redescobrimento pessoal → Abertura para novo amor saudável
+**Jornada**: Do cansaço extremo → Decisão de se separar → Redescobrimento pessoal → Amor sem dependência → Escolha de ficar solteira, feliz e inteira
 
 **Mensagem Central**: A parceria que você procura pode começar com você mesma
 
 **Público-Alvo**: Mulheres brasileiras adultas, especialmente mães, casadas, separadas ou divorciadas
 
-**Dimensões**: 278 páginas na edição 5,5 × 8,5 pol. | 40 capítulos | 4 atos
+**Dimensões**: 316 páginas na edição 5,5 × 8,5 pol. | 40 capítulos | 4 atos
 
 ---
 
@@ -98,9 +98,9 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Site profissional (landing page + leitor online)
 - [x] SEO, GEO e AEO (JSON-LD, FAQ, sitemap, robots e llms.txt)
 - [x] Layout mobile-first (menu hamburguer, tipografia fluida)
-- [x] Sete ilustrações narrativas integradas ao leitor, EPUB e miolo
+- [x] Dez ilustrações narrativas integradas ao leitor, EPUB e miolo
 - [x] EPUB 3 validado estruturalmente
-- [x] Miolo de 278 páginas em 5,5 × 8,5 pol., sem sangria
+- [x] Miolo de 316 páginas em 5,5 × 8,5 pol., sem sangria
 - [x] Capa Kindle 1600 × 2560 e capa impressa CMYK a 300 dpi
 - [x] Pacote Amazon KDP com metadados, checklist e checksums
 
@@ -201,9 +201,9 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Capítulos**: 40 (completos)
-- **Palavras totais**: ~54.600 (40 capítulos) · ~55.200 com textos iniciais e finais
+- **Palavras totais**: ~61.700 (40 capítulos) · ~62.500 com textos iniciais e finais
 - **Palavras por capítulo (média)**: ~1.415
-- **Páginas do arquivo final (5,5 × 8,5 pol.)**: 278
+- **Páginas do arquivo final (5,5 × 8,5 pol.)**: 316
 - **Meta futura (expansão adiada)**: 75.000–85.000 palavras (~280–320 páginas)
 
 ### Cronograma Estimado
@@ -245,7 +245,7 @@ Esta seção pode ser usada para anotações pessoais, insights durante o proces
 ### Insights Importantes
 - [ ] A sobrecarga mental precisa ser SENTIDA pela leitora, não só descrita
 - [ ] Ricardo não pode ser caricato - a toxicidade dele é a mais comum
-- [ ] O divórcio não é o clímax - a entrega de Camila ao novo amor é
+- [x] O divórcio não é o clímax — a escolha final de Camila por si mesma é
 - [ ] Cada capítulo deve ter momento emocional específico
 
 ### Lembretes
@@ -291,7 +291,7 @@ Procurando mulheres adultas, preferencialmente:
 - ✅ Layout mobile-first (menu hamburguer, tipografia fluida, botões full-width)
 
 ### 16/09/2026 — Manuscrito completo
-- ✅ 40 capítulos (~54.600 palavras após a revisão final) + 1ª e 2ª passadas de expansão
+- ✅ 40 capítulos (~61.700 palavras após a revisão final) + passadas de expansão, continuidade e linguagem
 - ✅ Revisão de coesão, ortografia, repetições e vocabulário
 
 ### Versão 1.0

@@ -57,7 +57,7 @@ Camila percebeu, com uma clareza estranha, que não sentia vontade de ajudá-lo 
 
 — Bom, eu tenho que ir — disse ele, depois de um tempo. — A... a minha mãe tá me esperando para o almoço.
 
-— Manda um beijo para ela — disse Camila, e percebeu que era sincero. Não havia veneno na frase. Só a polidez de quem já não tem nada a resolver com aquela família.
+— Manda um beijo para ela — disse Camila, e percebeu que era sincero. Não havia veneno na frase. Só a educação de quem já não tem nada a resolver com aquela família.
 
 Ricardo deu um passo para sair, depois parou. Olhou para ela de novo, como se quisesse dizer algo que não sabia formular.
 
@@ -65,17 +65,85 @@ Ricardo deu um passo para sair, depois parou. Olhou para ela de novo, como se qu
 
 — Pode falar.
 
-— Eu acho que... eu por fim entendi algumas coisas. Sobre como eu era. — Ele passou a mão no cabelo. — Foi mal.
+— Você está com alguém?
 
-Foi mal.
+A pergunta não veio agressiva. Ainda assim, Camila percebeu como aquele homem estava acostumado a procurar uma explicação para a mudança dela que não fosse ela mesma.
 
-Onze anos de sobrecarga, de silêncio, de solidão a dois — e as duas palavras que Camila esperou a vida inteira ouvir chegaram agora, tarde, no corredor de congelados, como um eco de uma guerra que já tinha acabado.
+— Estou bem — respondeu.
+
+— Eu vi uma foto. A sua mãe postou. Tinha um cara perto das crianças.
+
+— Daniel. As crianças conhecem ele. Com calma, do jeito que combinamos.
+
+Ricardo apertou a alça da cesta.
+
+— Elas gostam dele?
+
+— Gostam.
+
+Camila esperou o ciúme. A ironia. Alguma frase sobre ela ter seguido em frente rápido demais.
+
+Ricardo apenas assentiu.
+
+— O Léo falou de um professor que é ruim no gol. Então é ele.
+
+— É.
+
+— Ele parece... legal.
+
+Camila quase perguntou se aquilo o incomodava. Não perguntou. Os sentimentos de Ricardo já não eram uma tarefa dela.
+
+— As crianças estão seguras — disse. — É o que importa.
+
+— Eu sei.
+
+Ricardo olhou para as ervilhas na mão dela, depois para a própria cesta. Havia macarrão instantâneo, sabão em pó e uma camisa ainda dentro da embalagem.
+
+— Eu comecei a cozinhar — contou, com um sorriso sem graça. — Quer dizer, três coisas. Arroz, ovo e frango. O Léo disse que meu arroz parece borracha.
+
+Camila riu antes de conseguir impedir.
+
+— Ele tem razão?
+
+— Tem.
+
+Por um instante, conversaram como duas pessoas comuns que tinham dividido uma vida e agora dividiam filhos. Não era amizade. Também já não era guerra.
+
+Então Ricardo ficou sério.
+
+— Morar sozinho me fez perceber umas coisas.
+
+Camila esperou.
+
+— Eu achava que trabalhar e pagar parte das contas era fazer a minha parte. Não via o resto porque... você fazia antes que eu precisasse ver. Roupa, comida, escola, remédio. Até presente para a minha mãe era você que lembrava.
+
+— Era.
+
+— E quando você reclamava, eu achava que estava dizendo que eu não prestava. Então eu me defendia em vez de escutar.
+
+Não era uma desculpa perfeita. Não devolvia os anos. Mas, pela primeira vez, Ricardo nomeava alguma coisa sem obrigá-la a desenhar o mapa inteiro.
+
+— Eu acho que por fim entendi uma parte de como eu era — continuou. — Sinto muito.
+
+Onze anos de sobrecarga, de silêncio, de solidão a dois — e as palavras que Camila esperou a vida inteira ouvir chegaram tarde, no corredor de congelados, como o eco de uma guerra que já tinha acabado.
 
 E o mais surpreendente de tudo: ela não precisava mais delas.
 
-— Obrigada, Ricardo — disse ela, e sorriu. Um sorriso leve, verdadeiro. — Foi mal aceito.
+— Obrigada por reconhecer — disse ela. — Isso não muda o que aconteceu. Mas talvez ajude você a fazer diferente com as crianças.
 
-Era verdade. Ela aceitava. Mas não porque ainda esperasse algo dele. Aceitava porque já tinha se libertado, com ou sem desculpa.
+Ricardo assentiu.
+
+— A apresentação da Bia é quinta, às seis. Eu coloquei dois alarmes.
+
+— Ela vai procurar você na plateia.
+
+— Eu vou estar lá.
+
+Camila desejou que estivesse. Não por ela. Pela filha.
+
+— Então a gente se vê quinta.
+
+Ela não disse que estava tudo perdoado. Não precisava transformar uma desculpa em perdão total. Bastava ouvi-la e continuar andando.
 
 ---
 
@@ -104,6 +172,60 @@ E era verdade. Tudo estava bem. Porque o reencontro que ela temia há meses tinh
 Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilha.
 
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, por fim, tinha passado.
+
+Na quinta-feira, Ricardo chegou à escola às cinco e cinquenta e dois.
+
+Bia o viu na plateia e abriu um sorriso tão grande que perdeu o primeiro passo da dança.
+
+Camila assistiu à filha, depois olhou para o outro lado do auditório. Ricardo não estava no celular. Estava filmando, com os olhos cheios d'água.
+
+Talvez ele mudasse. Talvez mudasse só um pouco. Já não cabia a ela esperar para descobrir.
+
+Quando as luzes se apagaram e a música começou, Camila voltou os olhos para Bia.
+
+Era para a frente que ela queria olhar agora.
+
+---
+
+Na terapia da semana seguinte, Camila contou sobre o mercado, a apresentação e a conversa no carro com Daniel.
+
+— Ele é um homem bom — repetiu, pela terceira vez.
+
+Dr. Lucas apoiou o caderno no joelho.
+
+— Você está tentando me convencer ou convencer você?
+
+Camila abriu a boca e fechou.
+
+— Eu gosto dele. Ele me respeita. Gosta das crianças. Não fez nada errado.
+
+— Tudo isso pode ser verdade.
+
+— Então por que eu penso em terminar?
+
+— Porque relacionamento não é prêmio por bom comportamento. Duas pessoas podem se respeitar e querer futuros diferentes.
+
+Camila olhou para a janela.
+
+— Parece ingratidão. Como se eu tivesse pedido por um homem bom e, quando encontrei, decidisse que não quero.
+
+— Você pediu para ser tratada com respeito. Isso é o mínimo, não um contrato. Ficar por culpa também seria abandonar você mesma.
+
+A frase doeu de um jeito limpo.
+
+Durante anos, Camila acreditou que só podia sair se juntasse provas suficientes contra o outro. Mentiras. Humilhações. Ausências. Um tribunal inteiro dentro da cabeça. Com Daniel, não havia provas. Havia apenas duas verdades: ele queria construir uma família com mais um filho; ela queria cuidar dos filhos que já tinha e descobrir quem era sem correr para outra vida a dois.
+
+— E se eu me arrepender? — perguntou.
+
+— Pode acontecer. Escolher não elimina a dúvida. Só impede que o medo escolha por você.
+
+Camila ficou em silêncio.
+
+Ela tinha aprendido a deixar um homem ruim. Talvez o passo seguinte fosse ainda mais difícil: não se prender a um homem bom só porque tinha medo de nunca encontrar outro.
+
+Naquela noite, abriu o diário antigo.
+
+Antes de falar com Daniel, precisava falar com a mulher que um dia acreditou que ficar sem um homem era o mesmo que ficar sem futuro.
 
 
 

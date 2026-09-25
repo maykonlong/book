@@ -12,7 +12,7 @@ python tools/build_publication.py
 
 ## Arquivos produzidos
 
-- `ebook/A_Metade_Que_Me_Faltava_Era_Eu.epub`: EPUB 3 com sumário navegável, capa e sete ilustrações.
+- `ebook/A_Metade_Que_Me_Faltava_Era_Eu.epub`: EPUB 3 com sumário navegável, capa e dez ilustrações.
 - `ebook/capa-kindle-1600x2560-v2.jpg`: capa RGB para eBook.
 - `impresso/miolo-5.5x8.5-creme-sem-sangria.pdf`: miolo pronto para o formato impresso.
 - `impresso/capa-completa-5.5x8.5-creme.pdf`: contracapa, lombada e capa em um único PDF.
@@ -25,8 +25,8 @@ python tools/build_publication.py
 - Papel: creme.
 - Interior: preto e branco.
 - Sangria do miolo: não.
-- Total atual: 278 páginas.
-- Lombada atual: 0,695 polegada.
+- Total atual: 316 páginas.
+- Lombada atual: 0,790 polegada.
 - Capa: CMYK, 300 dpi, com sangria externa de 0,125 polegada.
 
 Se o texto ou a paginação mudar, gere novamente o miolo e a capa na mesma execução. A lombada depende do total exato de páginas.

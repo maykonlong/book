@@ -254,7 +254,7 @@ No final da aula, Paula perguntou:
 
 — Alguém quer compartilhar?
 
-Camila, surpreendentemente, levantou a mão.
+Para a própria surpresa, Camila levantou a mão.
 
 — Eu compartilho.
 

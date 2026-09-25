@@ -69,17 +69,101 @@ Camila sentou ao lado da filha e passou a mão no cabelo dela.
 
 Bia olhou para ela, e os olhos se encheram d'água.
 
-— Mesmo se você casar com o Daniel?
+— Mesmo se você namorar alguém?
 
 A pergunta pegou Camila de surpresa. Tão pequena, tão direta.
 
-— Mesmo assim — disse ela, com a voz firme. — Ninguém entra no lugar de vocês. O Daniel entra para somar, não para tirar ninguém.
+— Mesmo assim — disse ela, com a voz firme. — Ninguém entra no lugar de vocês. Quem chegar na nossa vida vai ter que entender isso.
 
 Bia soltou um suspiro longo, daqueles que só criança sabe dar, e voltou a comer.
 
 — Então tá — disse ela, simples.
 
 E Camila entendeu que aquela conversa, por mais curta que fosse, tinha sido um tijolo a mais na parede da segurança dos filhos. Tijolo por tijolo, dia após dia. Era assim que se reconstruía uma família.
+
+---
+
+Depois que os dois dormiram, Camila ficou sentada à mesa da cozinha com o celular na mão.
+
+Não queria ligar para Ricardo. Sabia como a conversa podia terminar: ele se defendendo, ela tentando explicar, os dois discutindo sobre quem tinha feito o quê no casamento.
+
+Mas aquela ligação não era sobre o casamento.
+
+Era sobre Léo.
+
+Ricardo atendeu com voz de sono.
+
+— Aconteceu alguma coisa?
+
+— O Léo perguntou se você foi embora por causa dele.
+
+Do outro lado, silêncio.
+
+— Como assim? Quem colocou isso na cabeça dele?
+
+A velha Camila teria corrido para provar que não tinha sido ela. Teria listado cada frase, cada cuidado, cada vez que defendeu Ricardo diante dos filhos.
+
+A nova Camila respirou.
+
+— Não importa de onde veio. Importa que ele está sentindo.
+
+— Mas eu ligo para ele.
+
+— Liga quando dá. Cancela quando o trabalho aperta. E, para uma criança, cada cancelamento vira uma resposta.
+
+— Você está dizendo que eu sou um pai ruim?
+
+— Estou dizendo que o seu filho sente sua falta. Você pode transformar isso numa ofensa ou pode fazer alguma coisa.
+
+Ricardo ficou quieto por tanto tempo que Camila conferiu se a ligação tinha caído.
+
+— O que você quer que eu faça?
+
+Era uma pergunta simples. Ainda assim, ela quase riu de nervoso. Durante anos, aquelas palavras tinham sido a armadilha: ele perguntava, ela planejava, lembrava e comandava; depois ele dizia que ajudou.
+
+Camila não faria a lista inteira por ele.
+
+— Quero que você pense no que consegue cumprir e combine diretamente com ele. Não promete sábado se talvez apareça trabalho. Não diz "depois" se não sabe quando é depois.
+
+— Tá.
+
+— E escuta quando ele estiver bravo. Não compra um presente para encerrar o assunto.
+
+— Eu entendi.
+
+Ela não tinha certeza. Mas, pela primeira vez, Ricardo não desligou no meio nem transformou a conversa numa disputa sobre o divórcio.
+
+— Eu vou falar com ele amanhã — disse.
+
+— Obrigada.
+
+Camila encerrou a ligação com as mãos frias. Não se sentia vitoriosa. Sentia-se cansada. Criar filhos depois de uma separação exigia conversar com alguém de quem ela tinha passado meses aprendendo a se afastar.
+
+No entanto, havia uma diferença: agora ela podia encerrar a ligação e continuar dona da própria noite.
+
+---
+
+Na manhã seguinte, Léo encontrou uma mensagem de voz do pai. Ouviu com o celular colado ao ouvido. Camila não tentou escutar, mas viu quando os ombros do filho relaxaram.
+
+— Ele vai me buscar no sábado — disse Léo. — Falou que vai colocar no calendário.
+
+— Que bom.
+
+— Você acha que ele vai lembrar?
+
+A pergunta veio com esperança e medo misturados.
+
+— Acho que ele vai tentar. E, se esquecer, você pode ficar bravo. Mas nunca precisa achar que foi culpa sua.
+
+Léo guardou o celular no bolso.
+
+— Tá.
+
+Antes de sair para a escola, deixou um desenho sobre a mesa: duas casas, uma de cada lado da folha, ligadas por uma estrada azul. Em uma casa estavam ele, Bia e Camila. Na outra, Ricardo. Nenhuma casa estava quebrada.
+
+Só eram diferentes.
+
+Camila dobrou o desenho com cuidado e guardou na bolsa.
 
 ---
 

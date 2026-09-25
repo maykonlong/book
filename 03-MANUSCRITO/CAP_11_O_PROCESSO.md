@@ -45,7 +45,7 @@ Dra. Patrícia virou a página.
 
 — Ele já saiu. Está num hotel.
 
-— Ótimo. Ele ter saído de casa voluntariamente pesa a nosso favor. No caso de acordo, facilita. Você quer ficar no apartamento?
+— Ótimo. Ele ter saído de casa por vontade própria pesa a nosso favor. No caso de acordo, facilita. Você quer ficar no apartamento?
 
 — Quero. É perto da escola das crianças. É a casa delas.
 
@@ -100,7 +100,7 @@ Como ela ia pagar advogado?
 Como ia pagar condomínio sozinha?
 Como ia pagar a escola se Ricardo atrasasse a pensão?
 
-O medo da pobreza pós-divórcio é um fantasma frio que assombra toda mulher que ousa sair de um casamento financeiramente confortável.
+O medo de passar necessidade depois do divórcio é um fantasma frio para toda mulher que ousa sair de um casamento que dava segurança financeira.
 *Será que eu vou conseguir?*
 *Será que vou ter que tirar as crianças da escola particular?*
 *Será que vou ter que voltar a morar com a minha mãe?*

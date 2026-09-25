@@ -16,9 +16,9 @@ O fim não veio com uma traição de novela. Veio com uma poça de leite derrama
 
 Então ela pediu o divórcio. Não para encontrar outra pessoa — para se encontrar de novo.
 
-Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta, que respeita, que não precisa ser ensinado a ser parceiro.
+Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta e respeita — mas que deseja um futuro diferente do seu.
 
-Mas como confiar de novo quando o coração aprendeu a se proteger de tudo?
+Como amar de novo sem trocar uma dependência por outra? E como escolher a si mesma quando ninguém fez nada errado?
 
 *"A Metade Que Me Faltava Era Eu" é para toda mulher que carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
 
@@ -564,7 +564,7 @@ Camila decidiu fazer a festa no salão do prédio. Era mais barato que um buffet
 
 Ela passava sua hora de almoço no centro da cidade, comprando descartáveis na 25 de Março, escolhendo lembrancinhas, negociando com a boleira. À noite, depois que as crianças dormiam e Ricardo roncava, ela colava etiquetas nos tubetes de doces, enrolava guardanapos e montava as sacolinhas surpresa.
 
-Suas mãos ficaram ásperas de cola quente e glitter. Suas costas doíam permanentemente.
+Suas mãos ficaram ásperas de cola quente e glitter. Suas costas doíam o tempo todo.
 
 Ricardo? Perguntou duas vezes: "Tá tudo certo pra festa?" e "Quanto ficou o total pra eu transferir?".
 
@@ -2285,7 +2285,7 @@ Não foi dramático. Não teve briga, choro, cena. Só... aconteceu.
 
 Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram e conversaram sobre logística.
 
-Friamente. Praticamente. Civilizadamente.
+Com frieza. Com praticidade. Como dois adultos.
 
 (era mentira, mas eles fingiam bem)
 
@@ -2617,7 +2617,7 @@ Não o que Ricardo queria. Não o que era esperado dela. Não o que era "certo" 
 
 O que ela, Camila, queria.
 
-E percebeu assustadoramente: ela não sabia.
+E percebeu, assustada: ela não sabia.
 
 Fazia tanto tempo que ela tinha se anulado que não lembrava mais o que queria.
 
@@ -2694,7 +2694,7 @@ Dra. Patrícia virou a página.
 
 — Ele já saiu. Está num hotel.
 
-— Ótimo. Ele ter saído de casa voluntariamente pesa a nosso favor. No caso de acordo, facilita. Você quer ficar no apartamento?
+— Ótimo. Ele ter saído de casa por vontade própria pesa a nosso favor. No caso de acordo, facilita. Você quer ficar no apartamento?
 
 — Quero. É perto da escola das crianças. É a casa delas.
 
@@ -2749,7 +2749,7 @@ Como ela ia pagar advogado?
 Como ia pagar condomínio sozinha?
 Como ia pagar a escola se Ricardo atrasasse a pensão?
 
-O medo da pobreza pós-divórcio é um fantasma frio que assombra toda mulher que ousa sair de um casamento financeiramente confortável.
+O medo de passar necessidade depois do divórcio é um fantasma frio para toda mulher que ousa sair de um casamento que dava segurança financeira.
 *Será que eu vou conseguir?*
 *Será que vou ter que tirar as crianças da escola particular?*
 *Será que vou ter que voltar a morar com a minha mãe?*
@@ -3468,7 +3468,7 @@ Fernanda percebeu.
 
 Foi Dr. Lucas que ajudou a dar direção:
 
-— Camila, você está com medo do vazio. E eu entendo. Mas vazio não é necessariamente ruim. Vazio é espaço. E você pode preencher esse espaço com o que você quiser.
+— Camila, você está com medo do vazio. E eu entendo. Mas vazio nem sempre é ruim. Vazio é espaço. E você pode preencher esse espaço com o que quiser.
 
 — Mas eu não sei o que eu quero.
 
@@ -3715,25 +3715,59 @@ E, então, algo mudou.
 
 ---
 
-Ela foi até o quarto e pegou as tintas.
+Ela foi até o quarto e abriu a porta do armário.
 
-Não as tintas boas, que ela usava para os quadros. As tintas velhas, de uma caixa empoeirada que tinha ficado no fundo do armário por anos. Abriu a janela, montou o cavalete na sala, e começou a pintar.
+No fundo, atrás de uma mala e de dois cobertores, estava a caixa de materiais de pintura que não tocava havia anos. Camila a puxou até a beirada da prateleira. Passou a mão pela tampa empoeirada.
 
-Não um quadro para vender. Não um quadro para agradar. Um quadro só dela. Sobre o que ela quisesse.
+Por um instante, quis abrir.
 
-Pintou o silêncio. Pintou a rua. Pintou a solidão — e, no processo, descobriu que a solidão, quando encarada, não era um monstro.
+Não abriu.
 
-Era uma companhia.
+Ainda não. Havia lembranças demais ali dentro: a faculdade, o quartinho alugado, as noites em que pintava sem olhar o relógio. E havia também a voz da mãe dizendo que arte não pagava conta, a voz de Ricardo chamando aquilo de passatempo e a voz dela mesma repetindo que não tinha tempo.
 
-Pintar, escrever, cozinhar ou dançar sem plateia, sem objetivo e sem ninguém para aprovar parecia um ato de coragem. Num mundo que ensinava a fazer apenas o que rendia, agradava ou produzia, criar por prazer era uma forma de dizer: *eu importo. A minha alegria importa.*
+Camila empurrou a caixa de volta, mas não tão para o fundo quanto antes. Deixou-a visível.
+
+Era pouco. Ainda assim, parecia uma promessa.
+
+Vestiu uma calça confortável, prendeu o cabelo e saiu sem destino. Não para o mercado. Não para a farmácia. Não para resolver nada. Saiu apenas porque podia.
+
+Andou quatro quarteirões até uma padaria que sempre via da janela do ônibus. Pediu uma mesa perto do vidro.
+
+— Só você? — perguntou a atendente.
+
+A pergunta atingiu um lugar sensível. Camila quase explicou que tinha filhos, que era divorciada, que aquilo era só uma manhã livre. Como se uma mulher precisasse apresentar defesa para ocupar uma mesa sozinha.
+
+— Só eu — respondeu.
+
+E gostou do som.
+
+Pediu pão na chapa bem tostado e café forte. Ricardo preferia pão claro e café fraco. Durante onze anos, até o café da manhã tinha sido decidido pela vontade de outra pessoa. Camila mordeu a ponta quase queimada do pão e sorriu.
+
+Na mesa ao lado, duas mulheres riam alto. Mais adiante, um senhor lia o jornal. Ninguém olhava para ela. Ninguém parecia achar triste uma mulher tomando café sozinha.
+
+O mundo não tinha parado para julgar sua solidão. Era só ela que ainda fazia isso.
+
+Depois, entrou numa pequena livraria ao lado. Passeou entre as estantes sem procurar nada específico. Tocou capas, leu contracapas, abriu um livro de receitas e outro de viagens. Num expositor perto do caixa, encontrou um caderno de capa azul, sem linhas.
+
+— É para desenho — explicou o vendedor. — O papel aguenta lápis, carvão e um pouco de água.
+
+Camila segurou o caderno. Não precisava dele. Não estava na lista. Não era para as crianças.
+
+Comprou mesmo assim.
+
+Quando o vendedor colocou o caderno na sacola, ela viu um pequeno cartaz preso na parede: **AULAS DE AQUARELA PARA ADULTOS — NÃO É PRECISO SABER DESENHAR.**
+
+Na parte inferior, havia tiras de papel com o telefone do ateliê.
+
+Camila arrancou uma.
+
+Dobrou duas vezes e guardou no bolso, depressa, como se alguém pudesse impedi-la.
 
 ---
 
 Às duas da tarde, Camila percebeu que estava com fome. Foi à cozinha e fez uma omelete — só para ela, sem ter que cortar em pedacinhos, sem ter que disputar o último pedaço.
 
-Comeu na sala, em frente ao quadro. O quadro não estava pronto. Não estava bonito. Mas era dela.
-
-Depois, fez algo que não fazia desde antes do casamento: tomou um banho demorado. Sem pressa. Sem ninguém batendo na porta. Deixou a água quente escorrer pelos ombros e ficou ali, simplesmente existindo.
+Comeu na sala, com o caderno azul ainda dentro da sacola. Depois, fez algo que não fazia desde antes do casamento: tomou um banho demorado. Sem pressa. Sem ninguém batendo na porta. Deixou a água quente escorrer pelos ombros e ficou ali, simplesmente existindo.
 
 E, naquele banho, uma lágrima caiu. Mas não era de tristeza.
 
@@ -3743,32 +3777,52 @@ Porque ela tinha acabado de descobrir uma coisa que ninguém tinha ensinado a el
 
 ---
 
-Quando as crianças voltaram, no domingo à noite, Camila as recebeu com um abraço apertado e um cheiro de tinta no avental.
+Passou a tarde vendo um filme que ninguém mais na casa gostaria de assistir. Dormiu vinte minutos no sofá. Acordou assustada, achando que tinha perdido algum compromisso, e precisou lembrar a si mesma: não havia compromisso.
+
+O sábado não tinha produzido nada. Nenhuma roupa lavada. Nenhuma compra feita. Nenhuma planilha adiantada.
+
+Mesmo assim, tinha sido um dia cheio.
+
+Cheio dela.
+
+---
+
+Quando as crianças voltaram, no domingo à noite, Camila as recebeu com um abraço apertado e o cabelo ainda solto do banho.
 
 — Mãe, o que você fez esse fim de semana? — perguntou Léo, curioso.
 
-— Eu me encontrei — respondeu ela, sorrindo.
+— Tomei café fora, comprei um caderno, vi um filme e não fiz quase nada — respondeu ela.
 
 Léo fez uma careta.
 
-— Que estranho, mãe. Você tava perdida?
+— Isso é divertido?
 
 Camila riu, um riso solto, novo.
 
-— Tava, filho. Tava perdida fazia muito tempo. Mas achei o caminho.
+— Eu também não sabia. Mas é.
 
-E, enquanto colocava as crianças para dormir, ela pensou no sábado que tinha passado sozinha. Na omelete. No banho demorado. No quadro inacabado.
+E, enquanto colocava as crianças para dormir, ela pensou no sábado que tinha passado sozinha. No café forte. Na omelete. No banho demorado. No caderno azul que ainda nem tinha aberto.
 
 *Preciso fazer isso mais vezes*, pensou.
 
 Não porque não amasse os filhos. Mas porque, para amá-los inteira, ela precisava se lembrar — todo dia, se possível — de quem ela era quando ninguém estava olhando.
+
+Antes de dormir, esvaziou os bolsos da calça. A tira de papel caiu sobre a cama.
+
+**Aulas de aquarela.**
+
+Camila pegou o celular. Digitou o número. Escreveu: *Oi. Gostaria de saber os horários.*
+
+Ficou um minuto inteiro olhando para a mensagem.
+
+Então apertou enviar.
 
 ---
 
 ﻿# CAPÍTULO 17
 ## Voltando a Pintar
 
-A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer algo só por você.*
+A tarefa do Dr. Lucas voltava à cabeça dela como um desafio perigoso: *fazer algo só por você.*
 
 Camila tinha comprado os materiais na quinta-feira à tarde, saindo do trabalho mais cedo — e quase não saiu. A reunião estourou o horário, o trânsito estava um caos, e a voz prática dentro dela sussurrou: *vai pra casa, Cá. Descansa. Tinta pode esperar.* Tinta podia esperar, sim. Tinta esperou onze anos. Foi exatamente esse o argumento que a fez virar o carro na direção contrária, em direção à loja.
 
@@ -3843,7 +3897,7 @@ Ela não sabia o que pintar. Flores? Paisagem? O apartamento vazio?
 
 Deixou a mão ir.
 Fez manchas. Misturou azul com carmesim. Viu o roxo nascer.
-Pingou água limpa e viu alvéolos se formarem na tinta.
+Pingou água limpa e viu pequenas formas claras nascerem na tinta.
 
 A água ora obedecia, ora fazia o que queria. E Camila descobriu que não se importava. Havia beleza até no inesperado. Talvez fosse isso que a aquarela ensinava: você controla até certo ponto, e depois precisa confiar.
 
@@ -3875,7 +3929,7 @@ Não eram obras-primas. Eram borrões coloridos.
 Mas eram dela.
 Eram pedaços da alma dela que ela tinha conseguido colocar para fora sem precisar explicar com palavras.
 
-Você se lembra da última vez que fez algo só por você? Sem ser pela casa, pelos filhos, pelo trabalho. Só seu. Se não lembra, talvez esteja na hora de lembrar.
+Camila tentou se lembrar da última vez que tinha feito algo só para ela — sem ser pela casa, pelos filhos ou pelo trabalho. Não conseguiu. E aquela falta de memória mostrou quanto tempo tinha passado longe de si.
 
 Camila olhou para as mãos sujas de tinta. Azul nas cutículas. Vermelho na palma.
 
@@ -3901,7 +3955,7 @@ Sonhou que estava nadando em um mar de azul cobalto, e que sabia respirar debaix
 
 Na manhã seguinte, Camila acordou e viu as cinco folhas secas espalhadas pela mesa, e a luz da manhã atravessando as cores. Ela ficou um tempo olhando, meio incrédula, como quem acorda e confirma que o sonho era real.
 
-Não eram obras-primas. Eram borrões, manchas, alvéolos de tinta. Mas eram a prova de que, na noite anterior, uma parte dela — a parte que ela julgava morta — tinha voltado à vida.
+Não eram obras-primas. Eram borrões, manchas e pequenas marcas abertas pela água. Mas eram a prova de que, na noite anterior, uma parte dela — a parte que julgava morta — tinha voltado à vida.
 
 E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mudaria tudo: não era sobre o quadro. Nunca foi sobre o quadro. Era sobre descobrir que ela ainda existia embaixo de todos aqueles papéis — mãe, esposa, funcionária — esperando para voltar a ser.
 
@@ -4165,7 +4219,7 @@ No final da aula, Paula perguntou:
 
 — Alguém quer compartilhar?
 
-Camila, surpreendentemente, levantou a mão.
+Para a própria surpresa, Camila levantou a mão.
 
 — Eu compartilho.
 
@@ -4358,7 +4412,7 @@ Na sexta-feira, o Marcos tentou outra vez. Dessa vez, esperou Camila na saída d
 
 — Então... — ele começou, com aquele sorriso. — Eu ia perguntar se você quer almoçar qualquer dia. Só almoço. Sem pressão.
 
-*Sem pressão.* A expressão que o Daniel usava.
+*Sem pressão.* A expressão soou estranhamente boa.
 
 Camila quase recusou por reflexo. Onze anos de "não" automático, de achar que todo convite vinha com uma cobrança escondida.
 
@@ -4396,11 +4450,89 @@ Sem medo. Sem dívida. Sem o coração disparado de quem espera o ataque.
 
 ---
 
+O alívio durou até a tarde.
+
+Camila entrou na copa para pegar água e ouviu seu nome antes que percebessem sua presença.
+
+— Eu vi os dois saindo juntos — dizia Patrícia, do financeiro. — Mal separou e já está almoçando com outro.
+
+— Você sabe que ela estava sozinha há muito tempo, né? — respondeu Ana.
+
+Camila poderia ter recuado. Poderia esperar as duas saírem, fingir que não ouviu e engolir mais aquela opinião como engolira tantas.
+
+Em vez disso, entrou.
+
+Patrícia ficou vermelha. Ana fechou os olhos por um segundo, como quem lamentava o desastre anunciado.
+
+Camila encheu o copo de água. Bebeu um gole. Só então falou:
+
+— Eu almocei com um colega de trabalho. Mas, mesmo que fosse um encontro, a minha vida não está aberta para votação na copa.
+
+Patrícia abriu a boca e fechou.
+
+— Eu não quis dizer...
+
+— Quis, sim. Só não esperava que eu escutasse.
+
+Não havia grito na voz de Camila. Isso era o mais novo. Ela não precisava explodir para ocupar espaço. Bastava não se diminuir.
+
+— Desculpa — disse Patrícia, olhando para o chão.
+
+— Tudo bem. Só não faça de novo.
+
+Camila saiu com as pernas tremendo. No corredor, precisou entrar no banheiro e respirar fundo diante do espelho. A mulher refletida ali parecia calma. Por dentro, o coração batia na garganta.
+
+Coragem, ela descobriu, nem sempre parecia força. Às vezes parecia uma mulher tremendo depois de dizer uma frase simples.
+
+Ana a alcançou alguns minutos depois.
+
+— Você foi perfeita.
+
+— Eu quase vomitei.
+
+— Mas não voltou atrás.
+
+Camila riu, ainda nervosa.
+
+— Não voltei.
+
+Na saída, Marcos se aproximou com cuidado.
+
+— Fiquei sabendo da fofoca. Se o almoço te trouxe problema, eu sinto muito.
+
+— Você não fez nada errado.
+
+— Mesmo assim, não quero que se sinta pressionada a repetir.
+
+Camila observou o rosto dele. Não havia ofensa, cobrança ou aquela falsa gentileza que pede recompensa.
+
+— Podemos repetir — disse ela. — Como amigos.
+
+— Como amigos — confirmou Marcos, sem mudar o sorriso.
+
+Outro limite aceito sem castigo.
+
+Camila guardou aquilo.
+
+---
+
 Não precisava virar romance. Às vezes, um café na mesa, um "quer almoçar?" ou um olhar que demorava meio segundo a mais já lembrava que ela ainda existia como mulher — além de mãe, profissional e ex.
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
 
 E, enfim, ela gostou do que viu.
+
+Quando chegou em casa, havia uma mensagem de Júlia, da aula de aquarela:
+
+*"A turma vai tomar café depois da aula de quinta. Você vem? Prometo pão de queijo e zero perguntas sobre ex-marido. Ou poucas."*
+
+Camila sorriu.
+
+Na mesma semana em que parou de fugir dos olhares no trabalho, alguém a convidava para sentar à mesa sem precisar provar nada.
+
+Ela respondeu antes que o medo inventasse uma desculpa:
+
+*"Eu vou."*
 
 ---
 
@@ -4475,12 +4607,12 @@ Todas riram.
 — Mas falando sério — continuou Júlia. — Vocês são fodas. Olha pra gente. Sobrevivendo. Criando. Rindo numa quinta-feira de chuva. A gente é muito foda.
 
 Camila olhou para aquelas mulheres.
-Tão diferentes. Unidas por nada além de uma aula de pintura e pela experiência universal de ser mulher num mundo que exige demais.
+Tão diferentes. Unidas por uma aula de pintura e por algo que todas conheciam: ser mulher num mundo que exige demais.
 
 Camila tinha encontrado as suas: mulheres que olhavam e, sem dizer nada, entendiam. Que faziam umas às outras rir da própria desgraça. Elas existiam. E salvavam.
 
 Ela sentiu uma onda de calor no peito.
-Dra. Lucas tinha dito para ela encontrar "sua tribo".
+Dr. Lucas tinha dito para ela encontrar "sua turma".
 Ela achava que tribo era algo místico, difícil de achar.
 
 Mas tribo era isso.
@@ -4503,7 +4635,7 @@ Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho 
 
 Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só assentiram. Só passaram o pão de queijo e encheram o café.
 
-E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um posto de reabastecimento. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
+E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um lugar para recarregar as forças. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
 
 E, quando a conta chegou, houve um gesto pequeno que valeu mais do que qualquer conselho. Clara, a mãe solo dos gêmeos, anotou o próprio número num guardanapo e empurrou para Camila.
 
@@ -4532,7 +4664,7 @@ E a Camila de agora estava começando a gostar muito, mas muito mesmo, dessa nov
 Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
-Depois apagou a luz e dormiu sem peso no peito, em meses.
+Depois apagou a luz e, pela primeira vez em meses, dormiu sem peso no peito.
 
 ---
 
@@ -4599,7 +4731,7 @@ A cada apresentação que passava, o assento vazio ao lado dela parecia crescer.
 
 Quando chamaram Léo, o lugar ao lado dela ainda estava vazio.
 
---- 
+---
 
 Léo subiu no palquinho improvisado. Cartolina grande nas mãos. Nervoso mas tentando parecer confiante.
 
@@ -4962,6 +5094,72 @@ As melhores lembranças não eram as perfeitas. Eram as que eles construíam jun
 
 ---
 
+Às dez da noite, Léo perguntou:
+
+— O pai não vai ligar?
+
+Camila olhou o celular sobre a bancada. Nenhuma mensagem.
+
+— Talvez esteja jantando com a vovó Vera.
+
+— Mas ele falou que ligava antes da ceia.
+
+O menino tentou dizer como se não se importasse. Camila reconheceu o esforço porque tinha feito o mesmo durante anos.
+
+— Vamos ligar nós — sugeriu.
+
+Ricardo atendeu depois do quarto toque. Havia música alta e vozes ao fundo.
+
+— Oi, crianças! Feliz Natal!
+
+Bia tomou o celular das mãos da mãe e começou a contar sobre o suco derramado. Léo apareceu atrás dela, quieto.
+
+— Pai, eu montei a estrela sozinho — disse ele quando conseguiu espaço.
+
+— Que legal, filhão. Depois você me mostra. Aqui está uma loucura. A gente se fala amanhã, tá?
+
+A ligação não durou três minutos.
+
+Quando a tela apagou, Bia voltou para a sobremesa. Léo ficou olhando para o celular.
+
+— Ele não queria falar comigo?
+
+Camila sentiu a velha raiva subir. Poderia dizer que o pai era egoísta. Poderia usar aquele momento para ganhar o filho para o seu lado. A vontade existiu — rápida, humana e amarga.
+
+Mas a dor do filho não era lugar para a guerra dos adultos.
+
+— Queria, sim. Seu pai às vezes não percebe que pouco tempo pode parecer pouco amor. Mas uma coisa não é igual à outra.
+
+— Então por que ele desligou?
+
+— Eu não sei. E você pode ficar triste por isso.
+
+Léo assentiu. Os olhos estavam úmidos.
+
+— Eu tô.
+
+Camila abriu os braços. Ele veio sem resistência. Bia percebeu o abraço e se enfiou no meio, ainda com farelo de panetone no rosto.
+
+Os três ficaram juntos perto da árvore. Camila não tinha uma resposta capaz de consertar Ricardo. Tinha presença. Naquela noite, seria suficiente.
+
+— Vamos criar uma tradição nossa? — perguntou ela.
+
+— Que tradição? — Bia quis saber.
+
+Cada um escreveu num pedaço de papel uma coisa difícil que queria deixar naquele ano e uma coisa boa que desejava levar para o próximo. Bia desenhou um monstro e um sorvete. Léo escreveu sem mostrar. Camila escreveu: *deixo a culpa; levo a coragem.*
+
+Dobraram os papéis e guardaram numa caixa vazia de panetone, para abrir no Natal seguinte.
+
+Léo colocou a caixa no alto do armário.
+
+— Assim a Bia não come os desejos — explicou.
+
+— Eu não como papel — protestou ela. — Só se tiver chocolate.
+
+Camila riu tão alto que Léo também riu. A tristeza não desapareceu, mas perdeu o tamanho. Talvez família fosse isso: não impedir toda dor, e sim não deixar ninguém atravessá-la sozinho.
+
+---
+
 Depois do jantar, Camila colocou os presentes embaixo da árvore. Eram poucos. O orçamento ainda apertava. Mas ela tinha escolhido cada um com cuidado, economizando nos meses anteriores, como quem esconde sementes para o inverno.
 
 — Podem abrir amanhã cedo — disse ela, beijando as testas das crianças.
@@ -4972,7 +5170,7 @@ E, no silêncio daquela noite de Natal, ela não se sentiu sozinha.
 
 Sentiu-se, enfim, em paz.
 
-E então, como acontece nos fins de ano, ela fez a pergunta que todo mundo faz e que quase ninguém responde de verdade: o que eu quero para o ano que vem?
+Pegou o diário e escreveu a pergunta que vinha evitando: *o que eu quero para o ano que vem?*
 
 Em onze anos, a resposta não envolvia o Ricardo. Não envolvia "manter a família", nem "fazer dar certo", nem "aguentar mais um pouco".
 
@@ -4981,6 +5179,24 @@ A resposta, simples e assustadora, era: eu quero ser feliz.
 E Camila foi dormir sabendo que aquilo, enfim, não era um sonho distante.
 
 Era um plano.
+
+Quando fechou o diário, viu Léo parado no corredor, abraçado ao travesseiro.
+
+— Mãe?
+
+— Oi, filho.
+
+— No meu aniversário, o pai vai ficar até o fim?
+
+Camila não prometeu o que não podia controlar.
+
+— Eu vou ficar — respondeu. — Do começo ao fim.
+
+Léo pensou por um instante e assentiu.
+
+— Então tá.
+
+Voltou para o quarto. Camila ficou olhando o corredor vazio, já sabendo que aquela pergunta voltaria.
 
 ---
 
@@ -5208,17 +5424,101 @@ Camila sentou ao lado da filha e passou a mão no cabelo dela.
 
 Bia olhou para ela, e os olhos se encheram d'água.
 
-— Mesmo se você casar com o Daniel?
+— Mesmo se você namorar alguém?
 
 A pergunta pegou Camila de surpresa. Tão pequena, tão direta.
 
-— Mesmo assim — disse ela, com a voz firme. — Ninguém entra no lugar de vocês. O Daniel entra para somar, não para tirar ninguém.
+— Mesmo assim — disse ela, com a voz firme. — Ninguém entra no lugar de vocês. Quem chegar na nossa vida vai ter que entender isso.
 
 Bia soltou um suspiro longo, daqueles que só criança sabe dar, e voltou a comer.
 
 — Então tá — disse ela, simples.
 
 E Camila entendeu que aquela conversa, por mais curta que fosse, tinha sido um tijolo a mais na parede da segurança dos filhos. Tijolo por tijolo, dia após dia. Era assim que se reconstruía uma família.
+
+---
+
+Depois que os dois dormiram, Camila ficou sentada à mesa da cozinha com o celular na mão.
+
+Não queria ligar para Ricardo. Sabia como a conversa podia terminar: ele se defendendo, ela tentando explicar, os dois discutindo sobre quem tinha feito o quê no casamento.
+
+Mas aquela ligação não era sobre o casamento.
+
+Era sobre Léo.
+
+Ricardo atendeu com voz de sono.
+
+— Aconteceu alguma coisa?
+
+— O Léo perguntou se você foi embora por causa dele.
+
+Do outro lado, silêncio.
+
+— Como assim? Quem colocou isso na cabeça dele?
+
+A velha Camila teria corrido para provar que não tinha sido ela. Teria listado cada frase, cada cuidado, cada vez que defendeu Ricardo diante dos filhos.
+
+A nova Camila respirou.
+
+— Não importa de onde veio. Importa que ele está sentindo.
+
+— Mas eu ligo para ele.
+
+— Liga quando dá. Cancela quando o trabalho aperta. E, para uma criança, cada cancelamento vira uma resposta.
+
+— Você está dizendo que eu sou um pai ruim?
+
+— Estou dizendo que o seu filho sente sua falta. Você pode transformar isso numa ofensa ou pode fazer alguma coisa.
+
+Ricardo ficou quieto por tanto tempo que Camila conferiu se a ligação tinha caído.
+
+— O que você quer que eu faça?
+
+Era uma pergunta simples. Ainda assim, ela quase riu de nervoso. Durante anos, aquelas palavras tinham sido a armadilha: ele perguntava, ela planejava, lembrava e comandava; depois ele dizia que ajudou.
+
+Camila não faria a lista inteira por ele.
+
+— Quero que você pense no que consegue cumprir e combine diretamente com ele. Não promete sábado se talvez apareça trabalho. Não diz "depois" se não sabe quando é depois.
+
+— Tá.
+
+— E escuta quando ele estiver bravo. Não compra um presente para encerrar o assunto.
+
+— Eu entendi.
+
+Ela não tinha certeza. Mas, pela primeira vez, Ricardo não desligou no meio nem transformou a conversa numa disputa sobre o divórcio.
+
+— Eu vou falar com ele amanhã — disse.
+
+— Obrigada.
+
+Camila encerrou a ligação com as mãos frias. Não se sentia vitoriosa. Sentia-se cansada. Criar filhos depois de uma separação exigia conversar com alguém de quem ela tinha passado meses aprendendo a se afastar.
+
+No entanto, havia uma diferença: agora ela podia encerrar a ligação e continuar dona da própria noite.
+
+---
+
+Na manhã seguinte, Léo encontrou uma mensagem de voz do pai. Ouviu com o celular colado ao ouvido. Camila não tentou escutar, mas viu quando os ombros do filho relaxaram.
+
+— Ele vai me buscar no sábado — disse Léo. — Falou que vai colocar no calendário.
+
+— Que bom.
+
+— Você acha que ele vai lembrar?
+
+A pergunta veio com esperança e medo misturados.
+
+— Acho que ele vai tentar. E, se esquecer, você pode ficar bravo. Mas nunca precisa achar que foi culpa sua.
+
+Léo guardou o celular no bolso.
+
+— Tá.
+
+Antes de sair para a escola, deixou um desenho sobre a mesa: duas casas, uma de cada lado da folha, ligadas por uma estrada azul. Em uma casa estavam ele, Bia e Camila. Na outra, Ricardo. Nenhuma casa estava quebrada.
+
+Só eram diferentes.
+
+Camila dobrou o desenho com cuidado e guardou na bolsa.
 
 ---
 
@@ -5799,7 +6099,7 @@ Daniel sendo simpático, aberto, interessado.
 Camila sendo um muro de concreto, interpretando cada frase dele como um sinal de alerta, uma manipulação ou um defeito.
 
 Ele perguntou dos filhos. *Quer saber se sou mãe solteira desesperada.*
-Ele perguntou dos livros. *Quer testar minha intelectualidade.*
+Ele perguntou dos livros. *Quer testar se sou inteligente.*
 Ele elogiou a blusa dela. *Só está olhando para o meu corpo.*
 
 A mente de Camila era um tribunal militar julgando um civil inocente.
@@ -5830,7 +6130,7 @@ Camila murchou na cadeira. A armadura caiu.
 Ele riu levemente.
 — O clássico "não é você, sou eu". Mas nesse caso, parece verdade.
 
-— É verdade. É que... — Camila olhou para as mãos. — Faz muito tempo que eu não... saio. E meu último relacionamento foi... difícil. Eu estou projetando coisas em você que não são suas.
+— É verdade. É que... — Camila olhou para as mãos. — Faz muito tempo que eu não... saio. E meu último relacionamento foi... difícil. Estou trazendo medos antigos para uma conversa que é nossa.
 
 — Tipo o quê? — Ele perguntou, curioso, sem raiva.
 
@@ -6010,7 +6310,7 @@ E ela não abriu.
 
 Camila sorriu para a página do livro, retomando a leitura de onde tinha parado. Lá fora, o elevador desceu levando Ricardo embora. E dentro dela, não sobrou nem o eco daquela conversa.
 
-Ela estava, definitivamente, vacinada.
+Ela tinha aprendido a lição.
 
 Depois, sem conseguir voltar ao livro, Camila pegou o celular e ligou para Fernanda.
 
@@ -6459,7 +6759,7 @@ Ela só precisava ser mãe.
 
 E naquela noite, com a casa em silêncio de novo, as crianças dormindo limpas e seguras, Camila sentiu uma gratidão imensa.
 Pelo divórcio.
-Porque ele tinha permitido que ela construísse esse santuário.
+Porque ele tinha permitido que ela construísse esse refúgio.
 Um lar onde não havia gritos abafados, nem tensão no ar.
 Apenas paz. E amor. E cheiro de lavanda.
 
@@ -6475,7 +6775,7 @@ E em cada encontro, Camila testava.
 
 Não de propósito. Era automático.
 
-Projetando Ricardo onde não tinha Ricardo.
+Enxergando Ricardo onde ele não estava.
 
 ---
 
@@ -6515,9 +6815,9 @@ Respondeu defensiva:
 
 Daniel piscou surpreso:
 
-— Porque... você é mãe? E imagino que seja parte importante da sua vida. Só curiosidade genuína.
+— Porque... você é mãe? E imagino que seja uma parte importante da sua vida. Só queria conhecer melhor você.
 
-O tom dele era gentil. Não interrogativo.
+O tom dele era gentil. Não parecia uma cobrança.
 
 Camila relaxou levemente:
 
@@ -6553,7 +6853,7 @@ Foto dele na cama. Claramente doente. Termômetro mostrando.
 
 Não era desculpa.
 
-Era genuíno.
+Era verdade.
 
 Camila sentiu culpa imediata:
 
@@ -6561,7 +6861,7 @@ Camila sentiu culpa imediata:
 
 *"Só tempo. Obrigado por se preocupar comigo :)"*
 
-Três dias depois, assim que melhorou, ele remarcou. Profusamente desculpando-se pelo cancelamento.
+Três dias depois, assim que melhorou, ele remarcou, pedindo desculpas mais de uma vez pelo cancelamento.
 
 No parque, no domingo de sol, Daniel fez uma coisa pequena que quase derrubou Camila. Passaram por um vendedor de algodão-doce, e ela comentou, distraidamente, que adorava o rosa, mas sempre tinha medo de ficar com a boca manchada em público. Ele comprou um. Dividiram. E quando ela percebeu que tinha açúcar na ponta do nariz, ele riu e disse: *"fica. Te deixa com cara de criança feliz"*.
 
@@ -6605,7 +6905,7 @@ Pausa pesada.
 
 — Como eu separo um perigo de verdade de um medo que ficou do passado?
 
-— Observa o padrão. Uma vez pode ser qualquer coisa. Múltiplas vezes é padrão. E até agora, Daniel só mostrou padrão de: respeito, gentileza, paciência.
+— Olha o que se repete. Uma vez pode ser qualquer coisa. Quando acontece sempre, diz quem a pessoa é. E, até agora, o que Daniel repete é respeito, gentileza e paciência.
 
 Camila sabia que Fernanda tinha razão.
 
@@ -6639,9 +6939,9 @@ Dr. Lucas continuou:
 
 — Nem todos os homens são seu ex. Daniel não é Ricardo. Eles são pessoas diferentes. Você precisa ver Daniel por QUEM ele é. Não por quem Ricardo foi.
 
-— Como paro de projetar?
+— Como paro de misturar as coisas?
 
-— Conscientemente escolhe confiar até ser dado motivo para não confiar. Ao invés de assumir o pior, assume neutro até provar o contrário. Confiança, Camila, não é o prêmio que você dá quando o outro prova ser perfeito. É a ponte que você constrói — aos poucos, com os olhos abertos — quando decide que merece chegar a algum lugar.
+— Escolha confiar até ter motivo para não confiar. Em vez de assumir o pior, não tire conclusões antes da hora. Confiança, Camila, não é o prêmio que você dá quando o outro prova ser perfeito. É a ponte que você constrói — aos poucos, com os olhos abertos — quando decide que merece chegar a algum lugar.
 
 Fazia sentido.
 
@@ -6685,7 +6985,7 @@ Mas a nova parte - a parte crescente - queria tentar.
 
 Depois que desligaram, Camila sentou para pensar.
 
-Daniel queria apresentá-la à irmã. Significando que pensava sobre o futuro. Sobre ela sendo parte da vida dele a longo prazo.
+Daniel queria apresentá-la à irmã. Isso mostrava que pensava num futuro em que ela faria parte da vida dele.
 
 Assustador.
 
@@ -6703,7 +7003,7 @@ Escreveu no diário:
 
 *"Daniel quer me apresentar à irmã.*
 
-*Significando que não está apenas casualmente interessado.*
+*Isso mostra que não é apenas um interesse passageiro.*
 
 *Com medo. Obviamente.*
 
@@ -6711,7 +7011,7 @@ Escreveu no diário:
 
 *Dr. Lucas está certo: nem todos são o ex.*
 
-*Daniel mostrando consistentemente coisas boas.*
+*Daniel mostrando coisas boas de novo e de novo.*
 
 *Hora de parar de esperar que o outro sapato caia.*
 
@@ -6727,7 +7027,7 @@ Dar a Daniel uma chance real.
 
 Sem sabotar.
 
-Sem projetar.
+Sem misturar o passado com o presente.
 
 Chance real.
 
@@ -6751,7 +7051,7 @@ Camila riu até doer a barriga. E percebeu, no meio da risada, que não estava m
 No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 — Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
 
-Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, agora, ela não teve medo de entrar.
+Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não sabia quanto tempo aquela história duraria nem aonde chegaria. Pela primeira vez, isso não a impedia de viver o que era bom no presente.
 
 No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem por fim parou de ensaiar e começou a viver.
 
@@ -6828,9 +7128,33 @@ Camila leu. E releu. E as lágrimas vieram, quentes e silenciosas, escorrendo pe
 
 Fazia meses que ela se perguntava se tinha feito a coisa certa. Se separar tinha sido egoísmo. Se os filhos um dia entenderiam — ou perdoariam.
 
-E ali, naquela cartolina vermelha, estava a resposta.
+— O que você quis dizer com isso? — perguntou, apontando para a frase.
 
-Não era preciso perdão. Era preciso agradecimento.
+Léo encolheu os ombros.
+
+— Que você ficou triste, sem dinheiro e cansada. Mas continuou levando a gente na escola. Continuou fazendo bolo. Continuou aqui.
+
+Não era uma aprovação do divórcio. Criança nenhuma devia carregar a tarefa de absolver a mãe. Era outra coisa, mais simples e mais importante: Léo tinha percebido que, mesmo assustada, ela não desapareceu.
+
+— Eu vou continuar aqui — prometeu.
+
+— Eu sei — disse ele.
+
+Era justamente isso que fez Camila chorar mais.
+
+Bia, preocupada com a quantidade de lágrimas, trouxe um segundo presente: um pote de geleia cheio de papéis dobrados.
+
+— São vales — explicou. — Tem abraço, beijo e arrumar brinquedo.
+
+Camila abriu um.
+
+**VALE UM DIA SEM BRIGA.**
+
+— Esse aqui vale ouro — disse.
+
+— Mas só pode usar uma vez — avisou Léo.
+
+Os três caíram na risada.
 
 ---
 
@@ -6838,15 +7162,61 @@ Naquele ano, Camila não organizou almoço para ninguém. Não comprou presente 
 
 Foi à padaria com as crianças. Comeram bolo e pão de queijo. Riram das mãos sujas de achocolatado.
 
+Na mesa ao lado, uma família grande tirava fotos. A mãe usava um vestido claro; o marido arrumava as crianças para caberem na imagem. Por um segundo, Camila sentiu a pontada antiga. A fotografia que ela achava que deveria ter.
+
+Então Bia mergulhou o pão de queijo no achocolatado.
+
+— Filha, isso deve estar horrível.
+
+— Quer provar?
+
+Camila provou. Estava mesmo horrível. As duas riram até Léo pedir silêncio, fingindo ser um adulto sério.
+
+Quando olhou outra vez para a mesa vizinha, a pontada tinha passado.
+
+Família não era a fotografia. Era quem sabia que o seu pão de queijo ficava ruim dentro do chocolate e, mesmo assim, provava.
+
+O celular vibrou. Uma mensagem de Daniel:
+
+*"Feliz Dia das Mães. Hoje é de vocês três. Só queria dizer que admiro a mãe que você é."*
+
+Sem flores entregues no meio do café. Sem tentar entrar numa data que não era sobre ele. Só uma frase no momento certo.
+
+Camila mostrou a mensagem a Léo.
+
+— Ele pode vir comer bolo? — o menino perguntou.
+
+— Hoje, não. Hoje é nosso.
+
+— Tá. Mas guarda um pedaço.
+
+Camila guardou.
+
 E, no fim do dia, quando os filhos dormiram, Camila pegou o cartão de cartolina e o pendurou na porta da geladeira, no lugar de honra.
 
 Depois, fez algo que nunca tinha feito em onze anos de Dia das Mães: deu um presente para si mesma.
 
 Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses esperando na estante, e ficou ali, em silêncio, sem culpa, sem pressa.
 
-E pensou: *hoje eu me celebro. Porque eu também fui mãe de mim mesma este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
+Pegou o pote dos vales e abriu outro.
+
+**VALE ESCOLHER O PRÓXIMO PASSEIO.**
+
+Camila sorriu. Na estante, havia uma lata onde guardava dinheiro para uma viagem curta. Ainda faltava bastante, mas já não parecia impossível.
+
+Ela escreveu no verso do vale: **praia**.
+
+Depois pensou: *hoje eu me celebro. Porque eu também aprendi a cuidar de mim este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
 
 E, enfim, o Dia das Mães fez sentido.
+
+Na manhã seguinte, Bia encontrou o papel sobre a mesa.
+
+— A gente vai ver o mar?
+
+Camila olhou para a lata de viagem.
+
+— Vai — respondeu, antes que o medo fizesse as contas. — Nem que seja do jeito mais simples do mundo.
 
 ---
 
@@ -6869,9 +7239,59 @@ Camila olhou para os dois, para o mapa, para o saldo do banco (que ainda não er
 
 ---
 
+Na semana da viagem, a coragem de Camila foi testada por uma lista.
+
+Protetor solar. Remédio de febre. Bombinha do Léo. Documentos. Carregadores. Roupas de frio porque julho no litoral podia mudar de ideia. Antes, ela teria feito tudo escondida, de madrugada, enquanto Ricardo dizia que viagem não precisava de tanta complicação.
+
+Dessa vez, chamou os filhos.
+
+— Cada um arruma a própria mochila. Eu confiro no final.
+
+Bia colocou três fantasias de princesa, uma escova de cabelo e nenhuma calcinha. Léo levou cinco gibis e esqueceu o casaco.
+
+— Talvez a gente ainda precise treinar — disse Camila, sentada no chão entre as duas malas.
+
+— Você falou que a mochila era nossa — Léo se defendeu.
+
+— É. E eu estou ensinando vocês a não passar frio nem usar fantasia molhada por quatro dias.
+
+Eles reorganizaram tudo juntos. Levou o dobro do tempo. Mesmo assim, Camila percebeu que não estava criando ajudantes para cumprir ordens. Estava criando duas pessoas capazes de cuidar da própria vida.
+
+Na noite anterior, abriu a conta bancária três vezes. O dinheiro dava, desde que não exagerassem nos restaurantes. Fechou o aplicativo, tornou a abrir e fechou outra vez.
+
+Daniel ligou enquanto ela separava os documentos.
+
+— Tá animada?
+
+— Estou a uma conta de pedágio de cancelar tudo.
+
+— Você planejou, guardou dinheiro e escolheu uma pousada que cabe no orçamento. Isso não é irresponsabilidade.
+
+— Meu corpo ainda acha que qualquer prazer é uma emergência financeira.
+
+— Então leva o medo no banco de trás. Só não deixa ele dirigir.
+
+Camila riu.
+
+Guardou a frase com os documentos.
+
+---
+
 A viagem foi longa. Cinco horas de estrada, com paradas para xixi e para comprar biscoito de polvilho num posto à beira da estrada. Camila dirigiu o tempo todo, cantando as músicas que as crianças pediam, rindo das piadas sem graça do Léo.
 
-E percebeu, no meio do caminho, uma coisa estranha: não estava exausta.
+Na metade do caminho, uma luz amarela acendeu no painel.
+
+O estômago de Camila despencou.
+
+Encostou num posto, pegou o manual do carro e tentou entender o desenho. Léo ficou sério. Bia perguntou se o carro ia explodir.
+
+— Não vai explodir — disse Camila, esperando estar certa.
+
+Um frentista explicou que era o aviso da pressão dos pneus. Ajudou a calibrar. Em dez minutos, estavam de volta à estrada.
+
+Parecia pequeno, mas Camila dirigiu os quilômetros seguintes com um orgulho quase infantil. Não precisou ligar para Ricardo. Não precisou ouvir que ela não entendia de carro. Teve medo, pediu ajuda e resolveu.
+
+E percebeu, no meio do caminho, outra coisa estranha: não estava exausta.
 
 Estava... leve.
 
@@ -6895,25 +7315,71 @@ E, naquele fim de tarde, com o sol se pondo no mar e os filhos cansados e felize
 
 ---
 
+No segundo dia, choveu.
+
+Não uma garoa rápida. Choveu desde o café da manhã, com vento batendo nas janelas e o mar escondido atrás de uma faixa cinza.
+
+Bia fez bico. Léo perguntou se tinham viajado cinco horas para assistir televisão numa pousada.
+
+Por alguns minutos, Camila sentiu a obrigação conhecida de salvar o dia. Procurou passeios no celular, calculou o preço de um aquário, tentou descobrir se havia cinema na cidade.
+
+Então se lembrou de que não precisava fabricar felicidade o tempo todo.
+
+— Hoje o passeio é aqui — anunciou. — Campeonato de cartas, macarrão no quarto e chuva na janela.
+
+Compraram um baralho na recepção. Léo inventou regras para ganhar. Bia perdeu três vezes e acusou todo mundo de roubo. Camila fez macarrão instantâneo com a chaleira elétrica, uma ideia ruim que se tornou uma história ótima.
+
+No meio da tarde, a energia caiu.
+
+Os três construíram uma cabana com lençóis e usaram a lanterna do celular para contar histórias de medo. Bia inventou um monstro que só atacava adultos que mandavam guardar brinquedos. Léo riu tanto que caiu para fora da cabana.
+
+Quando a luz voltou, ninguém quis ligar a televisão.
+
+Camila percebeu que as férias não precisavam provar nada. Nem todo dia tinha de render uma foto bonita. A paz também cabia numa tarde feia, com macarrão malfeito e os filhos brigando por uma carta de baralho.
+
+---
+
 À noite, os três deitaram na rede, enrolados numa toalha, olhando as estrelas (que na praia, sem a luz da cidade, pareciam mais perto). Léo contou as constelações que tinha aprendido na escola. Bia dormiu no meio da frase, com a bochecha colada no peito da mãe.
 
 — Mãe — sussurrou Léo, já com sono —, a gente pode voltar aqui nas próximas férias?
 
 — Pode, filho. Pode voltar sempre.
 
-— E o Daniel? Ele vem?
+— O Daniel é seu namorado? — perguntou Léo.
 
 Camila sorriu no escuro.
 
-— Se a gente quiser, ele vem.
+— É alguém de quem eu gosto muito.
 
-— Eu quero — disse Léo, simples. E fechou os olhos.
+— A gente vai conhecer ele?
+
+Camila olhou para o mar, embora no escuro só pudesse ouvi-lo.
+
+— Se vocês quiserem. E quando todo mundo estiver pronto.
+
+Léo ficou em silêncio.
+
+— Eu acho que quero — disse, por fim. — Mas ele não vai morar lá em casa de uma vez, né?
+
+— Não. Ninguém vai mudar a nossa vida sem a gente conversar.
+
+— Então tá.
+
+Ele fechou os olhos.
 
 Camila ficou ali, ouvindo o barulho do mar, sentindo o peso quente dos dois filhos contra o corpo.
 
 E entendeu que tinha chegado num lugar novo. Não era um lugar no mapa. Era um lugar dentro dela — onde as férias não eram mais uma obrigação a cumprir, mas um tempo a ser vivido.
 
 Ela tinha aprendido a ser feliz. Com eles. Por ela.
+
+O celular vibrou no criado-mudo. Era uma mensagem de Daniel:
+
+*"O mar estava bonito hoje?"*
+
+Camila olhou para os filhos dormindo e respondeu:
+
+*"Estava. E acho que eles estão prontos para conhecer você."*
 
 ---
 
@@ -6968,11 +7434,55 @@ Da cozinha, ouvia os sons. Primeiro, silêncio. Depois, a risada de Bia. Depois,
 
 Camila apoiou as mãos na pia e fechou os olhos. Aquele som — as risadas dos filhos misturadas à de Daniel — era um som de família possível.
 
-Quando voltou para a sala, Bia estava no colo de Daniel. Léo estava menos tenso.
+Quando voltou para a sala, Bia estava sentada ao lado de Daniel, segurando uma das cartas dele. Léo estava menos tenso.
 
 — Mãe! O Daniel sabe fazer voz de monstro! — gritou Bia.
 
 — Essa é a minha voz normal — brincou Daniel. E todos riram.
+
+Pouco depois, Daniel pegou a última fatia de pizza.
+
+— Meu pai sempre deixa essa pro Léo — disse Bia.
+
+O riso parou.
+
+Daniel colocou a fatia de volta na caixa.
+
+— Então é do Léo. Regra importante da família.
+
+— Não precisa — respondeu o menino, desconfiado. — Pode comer.
+
+— A gente divide?
+
+Léo aceitou. Daniel cortou a fatia ao meio, entregou o pedaço maior ao menino e não tentou transformar aquilo numa lição.
+
+Mais tarde, enquanto Bia procurava uma peça do jogo embaixo do sofá, Léo perguntou de repente:
+
+— Você quer ser nosso pai agora?
+
+Camila congelou na cozinha.
+
+Daniel também pareceu surpreso, mas não desviou.
+
+— Não. Vocês já têm pai — disse. — Eu quero ser o Daniel. Se vocês deixarem, posso ser um adulto que gosta da sua mãe e gosta de estar com vocês.
+
+— E se eu não gostar de você?
+
+— Aí você pode me contar. Não precisa fingir.
+
+Léo observou o rosto dele, procurando alguma armadilha.
+
+— Eu ainda não decidi — avisou.
+
+— Justo. Eu também demoro para decidir se gosto de alguém.
+
+— Você falou que gostou da gente.
+
+— É, fui pego. De vocês eu gostei rápido.
+
+O canto da boca de Léo se mexeu outra vez.
+
+Camila voltou a respirar.
 
 Camila sentou ao lado de Léo. Ele se inclinou e sussurrou:
 
@@ -7028,9 +7538,67 @@ E continuou colorindo o sol.
 
 Camila entendeu, ali, que as crianças tinham encontrado um jeito próprio de acomodar a nova vida. Não era rejeição do pai. Era aceitação de que a família tinha mudado de forma. E que cabia todo mundo — só que agora, em desenhos diferentes.
 
-Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era mais só ela. Era ela, os filhos, e a possibilidade de uma família inteira. Não uma que substituísse a antiga. Uma que somava.
+— Posso mostrar esse desenho para o Daniel? — perguntou.
 
-E, agora, ela não teve medo de sonhar grande de novo.
+Léo protegeu o papel com o braço.
+
+— Ainda não. Vou fazer o cabelo dele melhor.
+
+— Tudo bem.
+
+Na porta, Camila ouviu o filho chamar:
+
+— Mãe?
+
+— Oi?
+
+— Se ele for embora, você vai ficar triste daquele jeito de novo?
+
+A pergunta encontrou o medo que ela escondia até de si mesma.
+
+Camila voltou e se sentou na cama.
+
+— Posso ficar triste se qualquer pessoa que eu amo for embora. Mas eu não vou desaparecer. Nem vou deixar de cuidar de vocês ou de mim.
+
+— Promete?
+
+— Prometo.
+
+Léo pareceu satisfeito. Voltou ao desenho.
+
+Camila saiu do quarto entendendo que os filhos não precisavam de garantias sobre Daniel. Precisavam saber que a mãe continuaria de pé, qualquer que fosse o final.
+
+---
+
+Duas semanas depois, os quatro fizeram um piquenique no parque. Daniel levou frutas já cortadas, suco e guardanapos. Camila levou sanduíches. Léo levou a bola. Bia levou uma boneca e a convicção de que todos precisavam conversar com ela.
+
+Quando começou a chover, correram até o carro sob uma toalha pequena demais. Chegaram encharcados, rindo.
+
+— A gente podia viajar junto — soltou Bia, como se pedisse mais suco.
+
+Camila e Daniel se olharam.
+
+— Um dia — disse Camila.
+
+— Pra um lugar com estrela — pediu Léo. — Na praia tinha um monte.
+
+Daniel não respondeu por ela.
+
+— Se sua mãe achar uma boa ideia, eu conheço um sítio — disse apenas.
+
+Naquela noite, depois que as crianças dormiram, Camila abriu o calendário.
+
+O medo apareceu primeiro.
+
+Logo atrás dele veio uma vontade enorme de tentar.
+
+No sábado seguinte, desenhou um círculo em volta de uma data e escreveu:
+
+**SÍTIO — NÓS QUATRO.**
+
+As palavras pareceram grandes demais dentro do quadrado pequeno do calendário.
+
+Camila não apagou.
 
 ---
 
@@ -7105,6 +7673,70 @@ Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem 
 
 ---
 
+A parte bonita durou até a hora do jantar.
+
+Léo queria acender a churrasqueira. Bia queria ajudar. Em menos de cinco minutos, os dois brigavam por um pegador de carvão, Daniel queimava o pão de alho e Camila tentava descobrir por que o forno não ligava.
+
+— Eu falei pra ela não mexer! — gritou Léo.
+
+— Você não manda em mim! — Bia respondeu, chorando.
+
+Camila sentiu a nuca esquentar. A fotografia perfeita da viagem começava a desmanchar, e uma parte dela entrou em pânico.
+
+*Ele vai achar meus filhos mal-educados. Vai se arrepender. Vai perceber que uma mulher com duas crianças dá trabalho demais.*
+
+— Chega! — disse, mais alto do que queria. — Todo mundo para agora.
+
+O silêncio veio pesado. Bia chorou mais. Léo jogou o pegador sobre a mesa.
+
+Daniel desligou a churrasqueira.
+
+— Eu posso levar a Bia para lavar as mãos — ofereceu. — Ou posso ficar aqui. Você escolhe.
+
+Ele não tomou o comando. Não corrigiu os filhos dela. Não fez aquela expressão de homem que estava apenas tolerando a bagunça.
+
+Camila respirou.
+
+— Fica com o pão. Eu converso com eles.
+
+Sentou as crianças na varanda. Ouviu Léo dizer que Bia estragava tudo. Ouviu Bia dizer que só queria participar. Fez os dois devolverem o pegador, pedirem desculpa e encontrarem tarefas separadas.
+
+Quando voltaram, Daniel tinha raspado a parte queimada do pão e colocado queijo por cima.
+
+— Receita especial — anunciou. — Pão de alho sobrevivente.
+
+Léo riu primeiro. Bia riu depois. A tensão se desfez sem discurso.
+
+Comeram tarde, em pratos diferentes porque a casa não tinha quatro iguais. O arroz passou do ponto. A carne ficou salgada. Foi uma delícia.
+
+Na cozinha, enquanto as crianças escolhiam um filme, Camila começou a lavar a louça.
+
+Daniel pegou o pano.
+
+— Você não precisa — disse ela, por hábito.
+
+— Eu sei. Quero secar.
+
+Ficaram lado a lado. Sem que ela pedisse, sem que ele chamasse aquilo de ajuda.
+
+— Desculpa a confusão — Camila falou.
+
+— Que confusão?
+
+— A briga. O jantar atrasado. Tudo.
+
+Daniel olhou para ela.
+
+— Cá, criança briga. Pão queima. Viagem dá errado. Eu não vim conhecer uma propaganda de família. Vim ficar com vocês.
+
+A frase entrou devagar.
+
+Camila percebeu que ainda tentava merecer a permanência dele oferecendo uma versão perfeita da própria vida. Mas aquela versão não existia. Existiam Léo, Bia, arroz empapado, toalhas molhadas e amor no meio da bagunça.
+
+Se Daniel fosse ficar, precisaria amar o que era real.
+
+E ele parecia disposto.
+
 Naquela noite, depois do jantar, os quatro sentaram na varanda para olhar as estrelas.
 
 A cidade não tinha estrelas. O sítio tinha milhares, espalhadas como açúcar num pano preto. Léo deitou no chão de cimento, de olhos para o céu. Bia subiu no colo da mãe. Daniel ficou ao lado, calado, respeitando o momento.
@@ -7124,6 +7756,26 @@ Camila olhou para o céu, depois para o filho, depois para o homem ao seu lado.
 — É, filho — disse ela, com a voz embargada. — Essa aí é a nossa.
 
 E ficaram ali, os quatro, em silêncio, olhando para cima. Sem pressa. Sem medo. Como quem acabou de encontrar, no meio da noite, um pedaço de céu que ninguém podia tirar.
+
+---
+
+Mais tarde, Bia acordou assustada com o vento batendo na janela. Camila a encontrou no corredor, abraçada à boneca.
+
+— Posso dormir com você?
+
+Camila olhou para Daniel. Antes que precisasse pedir, ele pegou o travesseiro.
+
+— Eu fico no sofá.
+
+— Não precisa — disse Camila.
+
+— Eu sei — respondeu ele, com um sorriso. — Quero que ela se sinta segura.
+
+Não houve drama. Daniel foi para o sofá, Bia ocupou metade da cama e chutou Camila durante a madrugada. De manhã, ele apareceu na cozinha com o cabelo amassado e anunciou que o sofá tentara quebrar sua coluna.
+
+Todos riram.
+
+Camila também. Porque ninguém tinha cobrado dela o desconforto da noite.
 
 Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
 
@@ -7155,6 +7807,86 @@ Não foi nada grave — Camila sabia disso. Mas às oito da noite, quando Daniel
 Mas não resolvia. Porque dentro de Camila não era o Daniel que estava ali. Era o Ricardo. O Ricardo que sumia, que não avisava, que deixava ela esperando e ainda fazia parecer que ela era a louca por perguntar.
 
 *Onze anos*, pensou ela. *Onze anos treinando meu corpo para o silêncio.*
+
+— Estar aqui agora não apaga as três horas em que eu não sabia de nada.
+
+Daniel fechou os braços.
+
+— Eu estava trabalhando, Camila. Não estava num bar, não estava te evitando. Meu celular ficou na mochila.
+
+— Custava mandar uma mensagem antes?
+
+— Eu não sabia que a reunião ia durar tudo isso.
+
+— É sempre assim. Ninguém sabe. Ninguém avisa. E eu fico esperando.
+
+— Ninguém quem?
+
+A pergunta parou no meio da sala.
+
+Camila sabia a resposta. Daniel também.
+
+— Não faz isso — disse ela.
+
+— Isso o quê? Apontar que você está brigando comigo por uma coisa que outro homem fazia?
+
+— Eu estou brigando com você porque você sumiu.
+
+— Por três horas, numa reunião.
+
+O tom dele endureceu. Não chegou a ser um grito, mas foi suficiente para o corpo de Camila se preparar. Os ombros subiram. A garganta fechou. De repente, ela não estava mais na sala. Estava em todas as discussões antigas, escolhendo cada palavra para não piorar a noite.
+
+— Esquece — disse.
+
+Pegou os pratos da mesa.
+
+— Não, não esquece — Daniel respondeu. — Você não pode me acusar, fechar a cara e depois mandar esquecer.
+
+Camila virou de costas, com um prato em cada mão.
+
+— Eu não quero brigar.
+
+— Nem eu. Mas isso já é uma briga.
+
+Por alguns segundos, nenhum dos dois soube como continuar. O jantar esfriava. A torneira pingava. Era uma cena comum — e talvez por isso doesse tanto.
+
+Daniel passou as mãos pelo rosto.
+
+— Eu vou dar uma volta no quarteirão.
+
+O prato quase escapou das mãos de Camila.
+
+— Claro. Vai embora.
+
+— Eu não estou indo embora. Estou tentando não falar com raiva. Volto em dez minutos.
+
+— Foi o que ele dizia.
+
+Daniel pegou a chave e parou.
+
+— Eu sinto muito pelo que ele fez com você. De verdade. Mas eu não consigo provar, em cada minuto, que não sou ele.
+
+A porta fechou sem bater.
+
+Camila ficou imóvel.
+
+A frase doeu porque era verdadeira.
+
+Daniel precisava entender a ferida dela. Mas ela também precisava enxergar o homem diante dela, não apenas o fantasma atrás dele.
+
+Os dez minutos pareceram uma hora. No oitavo, Camila teve certeza de que ele não voltaria. No nono, quis mandar uma mensagem. No décimo, ouviu a chave.
+
+Daniel entrou mais calmo. Deixou o celular sobre a mesa, como quem deixava uma arma longe.
+
+— Eu voltei — disse.
+
+Camila colocou os pratos de volta.
+
+— Eu vi.
+
+— Posso sentar?
+
+Ela assentiu.
 
 ---
 
@@ -7192,6 +7924,22 @@ Daniel a olhou com uma ternura que ela não esperava.
 
 — Eu vou fazer uma coisa que ele nunca fez — disse ele. — Eu vou ficar. E amanhã, quando eu atrasar de novo, eu vou te avisar. Porque agora eu sei que pra você isso não é frescura. É ferida.
 
+Camila enxugou o rosto.
+
+— E eu vou tentar não transformar um atraso seu em onze anos dele.
+
+— Eu preciso que tente. Posso avisar quando atrasar. Posso ser claro. Mas talvez eu erre de novo, Cá. Não quero que cada erro meu vire uma prova de que sou uma pessoa ruim.
+
+Ela respirou fundo. Amor saudável não era alguém aceitar qualquer reação em nome do passado. Era poder mostrar a ferida sem usar a ferida para machucar.
+
+— Você tem razão.
+
+Daniel segurou a mão dela.
+
+— E você também. Custava pouco ter lembrado da mensagem.
+
+Ficaram ali, cada um com uma parte da razão e uma parte do erro. Era desconfortável. Também era novo. No casamento, alguém sempre precisava vencer. Ali, os dois tentavam entender o que fazer depois.
+
 ---
 
 Na manhã seguinte, Camila acordou com o celular vibrando.
@@ -7216,7 +7964,19 @@ E sentiu, enfim, que esperar alguém podia ser uma coisa boa.
 
 ---
 
-Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve uma ferida de onze anos em uma conversa. Mas ele ficou, ela falou e os dois combinaram um jeito simples de cuidar do que havia doído.
+Naquela noite, Daniel chegou às sete e cinco. Tinha avisado às seis e quarenta e oito que o trânsito parara perto da avenida. Camila leu a mensagem e percebeu o peito relaxar antes mesmo de pensar.
+
+Durante o jantar, combinaram uma regra simples: se um dos dois fosse atrasar, avisaria assim que pudesse. Se não pudesse, explicaria depois. E nenhum deles usaria silêncio para punir o outro.
+
+— Parece regra de escola — Daniel disse.
+
+— Relacionamento devia vir com agenda e manual.
+
+— Eu, professor, apoio a agenda.
+
+Eles riram. Não porque tudo estivesse resolvido, mas porque já conseguiam respirar dentro do assunto.
+
+Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve uma ferida de onze anos em uma conversa. Mas ele voltou, ela falou e os dois combinaram um jeito simples de cuidar do que havia doído.
 
 Camila releu a mensagem das sete e meia e deixou o celular sobre a mesa.
 
@@ -7243,7 +8003,7 @@ Camila abriu a caixa devagar, quase com medo.
 
 Dentro, havia um pincel.
 
-Não era um pincel qualquer. Era um pincel de pelo de esquilo, daquele tipo caro que os artistas guardam para ocasiões especiais. Camila tinha comentado, uma vez, de passagem, olhando a vitrine de uma loja de materiais de arte, que um dia queria ter um pincel daqueles.
+Não era um pincel qualquer. Era um pincel profissional, de cerdas muito macias, daquele tipo caro que os artistas guardam para ocasiões especiais. Camila tinha comentado, uma vez, de passagem, olhando a vitrine de uma loja de materiais de arte, que um dia queria ter um pincel daqueles.
 
 Uma vez. De passagem.
 
@@ -7259,21 +8019,69 @@ E chorou.
 
 Não por causa do pincel. Por causa de tudo o que ele representava: atenção. Memória. Cuidado. As coisas que ela tinha implorado por onze anos e nunca recebido — agora chegando de graça, num papel pardo, numa terça-feira comum.
 
+Então veio o medo.
+
+— Quanto custou?
+
+Daniel inclinou a cabeça.
+
+— Isso importa?
+
+— Importa. Se foi muito caro, eu não posso aceitar.
+
+— Por quê?
+
+Camila procurou uma resposta que não soasse absurda.
+
+Porque presentes caros viravam cobrança. Porque Ricardo lembrava cada coisa que tinha comprado quando queria ganhar uma discussão. Porque receber era perigoso quando alguém podia apresentar a conta meses depois.
+
+— Eu não quero ficar te devendo.
+
+O sorriso de Daniel desapareceu, não de raiva, mas de atenção.
+
+— Você não me deve nada.
+
+— É fácil falar agora.
+
+Assim que disse, Camila se arrependeu. Daniel respirou fundo.
+
+— Você tem razão em não acreditar só porque eu falei. Então observa o que eu faço com isso. O pincel é seu. Se a gente terminar amanhã, continua sendo seu. Se você nunca usar, continua sendo seu. Se odiar e trocar por outro, continua sendo seu.
+
+Camila apertou a caixa contra o peito.
+
+— Eu não vou odiar.
+
+— Ótimo. Mas ainda não me deve nada.
+
+Ela percebeu como era difícil receber quando passara a vida transformando carinho em contabilidade. Um jantar pedia outro. Um favor pedia silêncio. Um presente comprava perdão.
+
+Talvez aquele fosse outro aprendizado: deixar uma coisa boa chegar sem correr para pagar por ela. Receber não criava uma dívida. Também não obrigava ninguém a ficar para sempre.
+
 ---
 
 Presente bom não era o que custava caro. Era o que provava que alguém tinha escutado. Que alguém tinha visto. Que, no meio de um mundo barulhento, guardou uma frase numa anotação do celular e esperou o momento certo.
 
 — Desculpa — disse Camila, enxugando o rosto, rindo de si mesma. — Eu sou péssima em receber. Não estou acostumada.
 
-— Então a gente vai praticar — respondeu Daniel, puxando-a para um abraço. — Porque eu pretendo te dar muitos presentes. E você vai ter que se acostumar a ser mimada.
+— Então a gente vai praticar — respondeu Daniel, puxando-a para um abraço. — Sem pressa e sem exagero. Um carinho não pode virar uma cobrança.
 
-*Mimada.* Palavra que Camila nunca tinha ouvido na vida conjugal.
+Camila riu, enterrando o rosto no ombro dele.
 
-Ela riu, enterrando o rosto no ombro dele.
-
-— Eu não sei ser mimada. Vou ter que aprender.
+— Eu não sei receber. Vou ter que aprender.
 
 — Eu tenho paciência. — Ele a apertou. — Muita.
+
+— E eu tenho limite — avisou Camila.
+
+— Limite registrado.
+
+Ele pegou o celular, abriu o aplicativo de notas e escreveu na frente dela: **Presentes para Camila: ouvir primeiro, exagerar nunca.**
+
+— Você anota tudo mesmo?
+
+— Minha memória é boa. Minha organização é melhor.
+
+Camila riu. O peso no peito diminuiu.
 
 ---
 
@@ -7281,7 +8089,17 @@ Naquela noite, Camila foi para o ateliê e estreou o pincel novo.
 
 Era diferente. Não só porque o pincel era bom — porque era. Mas porque cada pincelada carregava uma memória nova: a de que alguém a tinha ouvido. A de que ela importava o suficiente para alguém anotar os seus sonhos.
 
-Ela pintou até tarde. E, quando terminou, olhou para a tela e sorriu.
+Por dez minutos, não conseguiu encostá-lo no papel. Era bonito demais, caro demais, carregado demais de significado. Tinha medo de estragar o pincel e de fazer uma pintura que não estivesse à altura do gesto.
+
+Então lembrou do que Daniel dissera: *se você nunca usar, continua sendo seu.*
+
+O presente não era uma prova.
+
+Molhou as cerdas e pintou a primeira coisa que viu: a caneca lascada onde guardava os lápis. Nada grandioso. Nada digno de galeria. Só uma caneca azul, torta, comum.
+
+A água espalhou a tinta de um jeito delicado. O pincel segurava mais cor e obedecia ao menor movimento da mão. Camila riu sozinha quando a alça ficou grande demais.
+
+Ela pintou até tarde. E, quando terminou, olhou para o papel e sorriu.
 
 O quadro estava diferente. Mais vivo. Mais solto.
 
@@ -7294,6 +8112,18 @@ O presente do Daniel não foi só o pincel. Foi a prova de que ele tinha escutad
 Camila lavou o pincel, ajeitou a ponta com os dedos e o deixou secando ao lado do quadro.
 
 Ser vista não devia parecer um luxo. Ainda assim, para ela, parecia um mundo novo.
+
+Fotografou a aquarela e enviou para Daniel.
+
+*"Primeira obra do pincel: uma caneca torta."*
+
+Ele respondeu:
+
+*"Minha caneca torta favorita."*
+
+Camila pousou o celular. Ao lado da pintura, abriu o caderno e escreveu uma frase curta:
+
+*Receber sem dever. Treinar isso também.*
 
 ---
 
@@ -7340,6 +8170,74 @@ O almoço foi leve. Dona Lúcia contou histórias do Daniel criança — das art
 
 Camila percebeu, ali, de onde vinha a paciência do Daniel. De uma mulher que tinha criado o filho sozinha, sem amargura, ensinando a ele que sensibilidade não era fraqueza.
 
+Mas Lúcia não demorou a provar que também era humana.
+
+— E vocês pensam em casar? — perguntou enquanto servia o arroz. — Ter mais filhos?
+
+Camila engasgou com a água.
+
+Daniel pousou o garfo.
+
+— Mãe.
+
+— O quê? Só perguntei.
+
+— E ela não precisa responder.
+
+Lúcia olhou de um para o outro e percebeu o desconforto que tinha criado.
+
+— Desculpa, Camila. Eu fico animada e atropelo as coisas. Não é da minha conta.
+
+A desculpa veio limpa, sem aquele complemento que estraga tudo — *mas eu só queria o bem de vocês.*
+
+— Tudo bem — disse Camila. — Eu ainda estou aprendendo a pensar no mês que vem. Casamento parece outra vida.
+
+— Então não pense — respondeu Lúcia. — Coma. O feijão vai esfriar.
+
+O assunto mudou. Ninguém fez cara feia. Ninguém cobrou que Camila aliviasse o desconforto de quem tinha errado.
+
+Era uma família capaz de fazer uma pergunta ruim, pedir desculpa e continuar o almoço.
+
+Parecia uma coisa pequena. Para Camila, era quase revolucionária.
+
+---
+
+Depois, enquanto Daniel lavava a louça, Lúcia chamou Camila para ver as plantas do quintal.
+
+Havia samambaias penduradas, vasos de ervas e uma roseira que parecia sobreviver por teimosia.
+
+— Essa era do pai dele — contou Lúcia, tocando um galho. — O homem esquecia aniversário, deixava toalha na cama e achava que toda discussão se resolvia com churrasco. Mas cuidava dessa roseira como se fosse filha.
+
+Camila sorriu.
+
+— O Daniel fala dele com muita saudade.
+
+— Porque amava o pai. Mas não faça do meu filho um santo só porque ele trata você bem.
+
+Camila a olhou, surpresa.
+
+— Não faço.
+
+— Faz um pouquinho. Dá para ver. — Lúcia arrancou uma folha seca. — Daniel é bom, mas é teimoso. Quando se sente injustiçado, fala como professor dando aula. E demora a admitir que está cansado. Você vai descobrir o resto.
+
+Camila riu, lembrando da primeira briga.
+
+— Já descobri a parte do professor.
+
+— Então está indo bem.
+
+Lúcia ficou séria.
+
+— Eu gosto de ver meu filho feliz. Mas não quero que você ache que precisa fazer a felicidade dele caber nas costas. Ele é adulto. Cuida da parte dele.
+
+A frase tocou Camila num lugar fundo.
+
+— Obrigada.
+
+— E ele também não vai carregar você. Vai caminhar junto. Foi o que tentei ensinar.
+
+Não era a bênção de uma sogra. Era um aviso carinhoso de mulher para mulher: não desapareça de novo.
+
 — A senhora criou um homem muito bom — disse Camila, olhando para Dona Lúcia.
 
 — Ele já era bom. Eu só não atrapalhei. — Dona Lúcia sorriu. — E você, Camila... o Daniel me contou o que você passou. Não é fácil recomeçar com dois filhos. Você tem coragem. E coragem é a coisa que eu mais admiro numa mulher.
@@ -7366,7 +8264,71 @@ Camila olhou para ele. E, enfim, entendeu de verdade.
 
 Amor que a gente tem que conquistar não é amor. É dívida.
 
-E ela estava, por fim, aprendendo a diferença.
+E ela estava, por fim, aprendendo a diferença. Mas a pergunta de Lúcia continuava dentro do carro, mesmo depois de todos terem mudado de assunto.
+
+— Daniel, quando sua mãe perguntou sobre casar e ter filhos, você respondeu por mim. Mas não respondeu por você.
+
+Ele diminuiu a velocidade antes de entrar na rodovia.
+
+— Eu não queria colocar pressão.
+
+— Eu sei. Só quero saber a verdade.
+
+Daniel ficou alguns segundos olhando a pista.
+
+— Eu quero ser pai um dia — disse. — Sempre quis. No meu noivado, a gente falava muito disso. Quando terminou, tentei convencer a mim mesmo de que não importava. Mas importa.
+
+Camila sentiu o coração apertar. Não por medo. Por clareza.
+
+— Eu não quero ter mais filhos.
+
+Daniel a olhou de relance e voltou os olhos para a estrada.
+
+— Tem certeza?
+
+— Tenho. Amo o Léo e a Bia mais do que tudo. Mas não quero começar de novo. Gravidez, bebê, noites sem dormir... não quero. E não seria justo dizer "talvez" só para não perder você.
+
+Ele segurou o volante com as duas mãos.
+
+— Obrigado por não dizer.
+
+Não houve briga. Não houve chantagem. Só um silêncio difícil, desses que aparecem quando duas pessoas boas descobrem que carinho não apaga uma diferença importante.
+
+— E casamento? — perguntou Daniel.
+
+— Hoje eu não consigo imaginar. Talvez seja medo. Talvez seja uma escolha. Ainda não sei. O que eu sei é que não quero prometer uma vida que não tenho certeza de querer.
+
+Daniel assentiu devagar.
+
+— Eu não preciso de uma resposta hoje.
+
+— Mas você merece uma resposta verdadeira quando eu tiver.
+
+Ele estendeu a mão. Camila segurou. O gesto continuava carinhoso, mas não escondia a pergunta entre eles.
+
+Pela primeira vez, ela entendeu que um homem podia ser bom e, ainda assim, talvez não ser o homem certo para o caminho que ela queria seguir. Ninguém precisava virar vilão para uma história mudar de rumo.
+
+O celular vibrou antes que chegassem à rodovia.
+
+Era uma mensagem da professora Paula:
+
+*"Camila, estou escolhendo os trabalhos da exposição de setembro. Quero conversar sobre uma série sua. Três quadros. Pense em algo que conte uma história."*
+
+Camila leu duas vezes.
+
+— Aconteceu alguma coisa? — Daniel perguntou.
+
+Ela virou a tela para ele.
+
+— Acho que aconteceu.
+
+Daniel sorriu e pediu que ela lesse a mensagem em voz alta. Camila leu. Por alguns minutos, falaram de quadros, cores e molduras.
+
+Mas, por baixo da alegria, a pergunta continuou ali.
+
+Não como ameaça.
+
+Como verdade esperando coragem.
 
 ---
 
@@ -7429,7 +8391,7 @@ Camila percebeu, com uma clareza estranha, que não sentia vontade de ajudá-lo 
 
 — Bom, eu tenho que ir — disse ele, depois de um tempo. — A... a minha mãe tá me esperando para o almoço.
 
-— Manda um beijo para ela — disse Camila, e percebeu que era sincero. Não havia veneno na frase. Só a polidez de quem já não tem nada a resolver com aquela família.
+— Manda um beijo para ela — disse Camila, e percebeu que era sincero. Não havia veneno na frase. Só a educação de quem já não tem nada a resolver com aquela família.
 
 Ricardo deu um passo para sair, depois parou. Olhou para ela de novo, como se quisesse dizer algo que não sabia formular.
 
@@ -7437,17 +8399,85 @@ Ricardo deu um passo para sair, depois parou. Olhou para ela de novo, como se qu
 
 — Pode falar.
 
-— Eu acho que... eu por fim entendi algumas coisas. Sobre como eu era. — Ele passou a mão no cabelo. — Foi mal.
+— Você está com alguém?
 
-Foi mal.
+A pergunta não veio agressiva. Ainda assim, Camila percebeu como aquele homem estava acostumado a procurar uma explicação para a mudança dela que não fosse ela mesma.
 
-Onze anos de sobrecarga, de silêncio, de solidão a dois — e as duas palavras que Camila esperou a vida inteira ouvir chegaram agora, tarde, no corredor de congelados, como um eco de uma guerra que já tinha acabado.
+— Estou bem — respondeu.
+
+— Eu vi uma foto. A sua mãe postou. Tinha um cara perto das crianças.
+
+— Daniel. As crianças conhecem ele. Com calma, do jeito que combinamos.
+
+Ricardo apertou a alça da cesta.
+
+— Elas gostam dele?
+
+— Gostam.
+
+Camila esperou o ciúme. A ironia. Alguma frase sobre ela ter seguido em frente rápido demais.
+
+Ricardo apenas assentiu.
+
+— O Léo falou de um professor que é ruim no gol. Então é ele.
+
+— É.
+
+— Ele parece... legal.
+
+Camila quase perguntou se aquilo o incomodava. Não perguntou. Os sentimentos de Ricardo já não eram uma tarefa dela.
+
+— As crianças estão seguras — disse. — É o que importa.
+
+— Eu sei.
+
+Ricardo olhou para as ervilhas na mão dela, depois para a própria cesta. Havia macarrão instantâneo, sabão em pó e uma camisa ainda dentro da embalagem.
+
+— Eu comecei a cozinhar — contou, com um sorriso sem graça. — Quer dizer, três coisas. Arroz, ovo e frango. O Léo disse que meu arroz parece borracha.
+
+Camila riu antes de conseguir impedir.
+
+— Ele tem razão?
+
+— Tem.
+
+Por um instante, conversaram como duas pessoas comuns que tinham dividido uma vida e agora dividiam filhos. Não era amizade. Também já não era guerra.
+
+Então Ricardo ficou sério.
+
+— Morar sozinho me fez perceber umas coisas.
+
+Camila esperou.
+
+— Eu achava que trabalhar e pagar parte das contas era fazer a minha parte. Não via o resto porque... você fazia antes que eu precisasse ver. Roupa, comida, escola, remédio. Até presente para a minha mãe era você que lembrava.
+
+— Era.
+
+— E quando você reclamava, eu achava que estava dizendo que eu não prestava. Então eu me defendia em vez de escutar.
+
+Não era uma desculpa perfeita. Não devolvia os anos. Mas, pela primeira vez, Ricardo nomeava alguma coisa sem obrigá-la a desenhar o mapa inteiro.
+
+— Eu acho que por fim entendi uma parte de como eu era — continuou. — Sinto muito.
+
+Onze anos de sobrecarga, de silêncio, de solidão a dois — e as palavras que Camila esperou a vida inteira ouvir chegaram tarde, no corredor de congelados, como o eco de uma guerra que já tinha acabado.
 
 E o mais surpreendente de tudo: ela não precisava mais delas.
 
-— Obrigada, Ricardo — disse ela, e sorriu. Um sorriso leve, verdadeiro. — Foi mal aceito.
+— Obrigada por reconhecer — disse ela. — Isso não muda o que aconteceu. Mas talvez ajude você a fazer diferente com as crianças.
 
-Era verdade. Ela aceitava. Mas não porque ainda esperasse algo dele. Aceitava porque já tinha se libertado, com ou sem desculpa.
+Ricardo assentiu.
+
+— A apresentação da Bia é quinta, às seis. Eu coloquei dois alarmes.
+
+— Ela vai procurar você na plateia.
+
+— Eu vou estar lá.
+
+Camila desejou que estivesse. Não por ela. Pela filha.
+
+— Então a gente se vê quinta.
+
+Ela não disse que estava tudo perdoado. Não precisava transformar uma desculpa em perdão total. Bastava ouvi-la e continuar andando.
 
 ---
 
@@ -7477,6 +8507,60 @@ Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilh
 
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, por fim, tinha passado.
 
+Na quinta-feira, Ricardo chegou à escola às cinco e cinquenta e dois.
+
+Bia o viu na plateia e abriu um sorriso tão grande que perdeu o primeiro passo da dança.
+
+Camila assistiu à filha, depois olhou para o outro lado do auditório. Ricardo não estava no celular. Estava filmando, com os olhos cheios d'água.
+
+Talvez ele mudasse. Talvez mudasse só um pouco. Já não cabia a ela esperar para descobrir.
+
+Quando as luzes se apagaram e a música começou, Camila voltou os olhos para Bia.
+
+Era para a frente que ela queria olhar agora.
+
+---
+
+Na terapia da semana seguinte, Camila contou sobre o mercado, a apresentação e a conversa no carro com Daniel.
+
+— Ele é um homem bom — repetiu, pela terceira vez.
+
+Dr. Lucas apoiou o caderno no joelho.
+
+— Você está tentando me convencer ou convencer você?
+
+Camila abriu a boca e fechou.
+
+— Eu gosto dele. Ele me respeita. Gosta das crianças. Não fez nada errado.
+
+— Tudo isso pode ser verdade.
+
+— Então por que eu penso em terminar?
+
+— Porque relacionamento não é prêmio por bom comportamento. Duas pessoas podem se respeitar e querer futuros diferentes.
+
+Camila olhou para a janela.
+
+— Parece ingratidão. Como se eu tivesse pedido por um homem bom e, quando encontrei, decidisse que não quero.
+
+— Você pediu para ser tratada com respeito. Isso é o mínimo, não um contrato. Ficar por culpa também seria abandonar você mesma.
+
+A frase doeu de um jeito limpo.
+
+Durante anos, Camila acreditou que só podia sair se juntasse provas suficientes contra o outro. Mentiras. Humilhações. Ausências. Um tribunal inteiro dentro da cabeça. Com Daniel, não havia provas. Havia apenas duas verdades: ele queria construir uma família com mais um filho; ela queria cuidar dos filhos que já tinha e descobrir quem era sem correr para outra vida a dois.
+
+— E se eu me arrepender? — perguntou.
+
+— Pode acontecer. Escolher não elimina a dúvida. Só impede que o medo escolha por você.
+
+Camila ficou em silêncio.
+
+Ela tinha aprendido a deixar um homem ruim. Talvez o passo seguinte fosse ainda mais difícil: não se prender a um homem bom só porque tinha medo de nunca encontrar outro.
+
+Naquela noite, abriu o diário antigo.
+
+Antes de falar com Daniel, precisava falar com a mulher que um dia acreditou que ficar sem um homem era o mesmo que ficar sem futuro.
+
 ---
 
 ﻿# CAPÍTULO 39
@@ -7500,7 +8584,7 @@ Ela continuou lendo, sem conseguir parar. Era como revisitar um acidente em câm
 
 *"Pesquisei 'como saber se meu casamento acabou' no Google, escondida, e apaguei o histórico com o coração acelerado."*
 
-Camila sentiu o rosto arder. Não de vergonha daquela mulher — de compaixão. Aquela mulher não estava louca. Estava tentando sobreviver dentro de uma casa que a silenciava, e a loucura era a única explicação que a deixavam ter.
+Camila sentiu o rosto arder. Não de vergonha daquela mulher — de compaixão. Aquela mulher não estava louca. Estava tentando sobreviver dentro de uma casa que a silenciava, e a loucura era a única explicação que aceitavam dar a ela.
 
 Ela leu a última entrada, escrita uma semana antes de pedir a separação. Uma linha só, tremida:
 
@@ -7510,8 +8594,126 @@ Camila passou o dedo por cima da frase, como se pudesse acariciar a mulher que a
 
 — Você vai descobrir — sussurrou. — Prometo que você vai descobrir.
 
-Camila pegou uma caneta nova.
-Foi para a última página em branco.
+Camila pegou uma caneta nova. Foi para a última página em branco.
+
+Mas a mão parou no ar.
+
+Antes de responder àquela mulher do passado, precisava agir como a mulher que queria ser no presente.
+
+---
+
+No dia seguinte, Camila encontrou Daniel no mesmo café onde os dois tinham tentado conversar pela primeira vez.
+
+Ele chegou antes, como sempre. O livro estava sobre a mesa, mas permanecia fechado.
+
+— Pela sua voz no telefone, eu imaginei que não fosse um café comum — disse.
+
+Camila sentou. As mãos estavam frias. Não porque Daniel desse medo. Porque dizer a verdade a alguém bom doía de outro jeito.
+
+— Eu não quero ter mais filhos — começou. — E não quero casar de novo. Talvez um dia eu mude de ideia sobre casamento, mas não posso pedir que você espere por uma possibilidade. Sobre filhos, eu não vou mudar.
+
+Daniel baixou os olhos para a xícara.
+
+— Eu passei a semana pensando nisso também.
+
+— E?
+
+— E continuo querendo ser pai.
+
+Nenhum dos dois falou por alguns segundos. Na mesa ao lado, uma colher bateu na borda de um copo. A máquina de café soltou vapor. O mundo continuava funcionando, mesmo com uma história mudando de direção.
+
+— Eu gosto muito de você — disse Camila. — Justamente por isso, não quero que um de nós precise abrir mão de uma parte tão grande da vida para manter o outro.
+
+Daniel respirou fundo.
+
+— Você está terminando comigo.
+
+Não havia raiva na voz. Só dor.
+
+— Estou.
+
+Dizer a palavra fez o peito dela queimar. Camila não desviou.
+
+— Eu queria que você tivesse feito alguma coisa errada — confessou. — Seria mais fácil. Mas você não fez. Você foi carinhoso, paciente, respeitou meus filhos, voltou depois da nossa briga. O que a gente viveu foi bom.
+
+— Então por que parece que não foi suficiente?
+
+— Porque ser bom não obriga duas pessoas a quererem o mesmo futuro. E ficar com você só por medo de não encontrar outro homem bom seria transformar carinho em dependência. Eu não quero fazer isso com nós dois.
+
+Daniel passou a mão pelos olhos.
+
+— Parte de mim quer dizer que eu desisto de ter filho.
+
+— E parte de mim quer dizer que talvez eu aceite. Mas seriam duas promessas feitas para impedir a dor de hoje. A conta chegaria depois.
+
+Ele soltou uma risada curta e triste.
+
+— Você ficou muito sensata. É irritante.
+
+Camila riu também, com lágrimas descendo pelo rosto.
+
+— Culpa da terapia.
+
+— Eu devia ter desconfiado daquele Dr. Lucas.
+
+O riso não apagou a tristeza. Apenas lembrou aos dois que o fim não precisava destruir o que tinha sido bonito.
+
+Daniel ficou sério outra vez.
+
+— Eu fui só uma ponte entre o Ricardo e a sua vida nova?
+
+— Não. — Camila respondeu sem hesitar. — Você foi uma história de verdade. Com começo, meio e fim. Me mostrou que eu podia ser tratada com cuidado. E também me ajudou a descobrir que cuidado nenhum vale o preço de eu mentir para ficar.
+
+Ele assentiu, devagar.
+
+— E você me mostrou que uma mulher pode dizer não sem deixar de amar. Acho que eu precisava aprender isso também.
+
+A conta chegou. Como no primeiro café, dividiram.
+
+Do lado de fora, pararam na calçada sem saber se apertavam as mãos, se davam um beijo ou se iam embora depressa.
+
+Daniel abriu os braços.
+
+— Um último abraço?
+
+Camila entrou naquele abraço. Chorou no ombro dele. Daniel chorou no cabelo dela. Nenhum prometeu amizade imediata. Nenhum disse que seria fácil.
+
+Quando se soltaram, ele apontou para a bolsa de Camila.
+
+— Você não vai tentar devolver o pincel, vai?
+
+Ela quase sorriu.
+
+— Pensei nisso.
+
+— Nem tente. Eu falei que era seu, mesmo se a gente terminasse.
+
+— Eu lembro.
+
+— Use na exposição.
+
+— Vou usar por muitos anos.
+
+Daniel colocou as mãos nos bolsos.
+
+— Então é isso.
+
+— É. Obrigada pelo que foi bom.
+
+— Obrigado por não transformar o que foi bom numa vida errada para nós dois.
+
+Ele caminhou para um lado. Camila, para o outro.
+
+Depois de alguns metros, ela olhou para trás. Daniel também tinha olhado. Os dois levantaram a mão num adeus pequeno e continuaram andando.
+
+Camila chorou no carro. Chorou porque perder uma pessoa boa ainda era perda. Chorou sem confundir dor com erro.
+
+Naquela noite, dormiu sozinha.
+
+E acordou em paz.
+
+Abriu o diário. Dessa vez, a mão não parou.
+
 E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
 ---
@@ -7532,15 +8734,20 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
 *Eu queria que você pudesse ver a gente agora.*
 *Você pinta quadros, Cá. Quadros lindos que as pessoas compram.*
-*Você tem um namorado (o Daniel!) que escuta quando você fala e acha sexy quando você está de pijama lendo.*
 *Seus filhos estão felizes. Eles aprenderam a enfrentar dias difíceis.*
+*Você conheceu Daniel, um homem bom que mostrou que carinho pode existir sem controle. O que vocês viveram foi verdadeiro. Mas ele não é o prêmio por você ter sobrevivido.*
+
+*Presta atenção: ninguém salvou você.*
+*Você se levantou. Pediu ajuda. Trabalhou. Criou os filhos. Voltou a pintar. Aprendeu a pagar as contas e a dormir em paz.*
+*E agora sabe uma coisa que antes parecia impossível: pode amar alguém e, mesmo assim, não abandonar o futuro que deseja para manter essa pessoa por perto.*
 
 *Mas o principal:*
 *Você ri.*
 *Não aquele sorriso educado para as visitas. Mas risada de doer a barriga.*
 *Você gosta da sua própria companhia.*
+*Você está solteira por escolha, não por falta de valor. E não sente vergonha disso.*
 
-*Não tenha medo da solidão. A solidão foi o casulo onde a gente renasceu.*
+*Não tenha medo da solidão. Foi no silêncio que a gente voltou a ouvir a própria voz.*
 *Resista. Aguente a dor inicial. Assine aquele papel.*
 
 *A metade que você acha que vai perder não é sua.*
@@ -7562,6 +8769,48 @@ De respeito profundo.
 Pela mulher que precisou deixar para trás para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
+Abriu o diário de novo e escreveu duas palavras abaixo da assinatura:
+
+*Nós conseguimos.*
+
+---
+
+Algumas semanas depois, ela levou o diário para o ateliê.
+
+Sobre a mesa estavam os três trabalhos que Paula escolhera para a exposição. Ela tinha pedido que Camila levasse de novo o quadro azul da primeira mostra e o colocasse ao lado de duas pinturas novas. Juntos, os três contavam a mesma mulher em momentos diferentes. Faltavam apenas os nomes.
+
+Abriu o caderno na primeira frase: *Eu me sinto sozinha mesmo com ele do lado.*
+
+Olhou para o primeiro quadro, todo em azul escuro, com uma figura quase escondida debaixo d'água.
+
+Pegou um lápis e escreveu numa etiqueta:
+
+**Afogamento.**
+
+Folheou até uma entrada feita nos primeiros meses depois da separação: *Hoje consegui pagar tudo. Sobrou pouco. Mas fui eu.*
+
+Olhou para o segundo quadro. A cabeça da mulher surgia acima da água, ainda cansada, puxando ar.
+
+**Superfície.**
+
+Por fim, releu a carta que tinha escrito semanas antes. Aproximou-se da terceira pintura: vermelho, dourado, braços abertos.
+
+**Voo.**
+
+Os nomes sempre estiveram ali. Ela só precisava chegar até aquela noite para reconhecê-los.
+
+O celular vibrou. Paula perguntava se as etiquetas estavam prontas.
+
+Camila fotografou as três e enviou.
+
+Depois abriu o armário. O vestido vermelho pendia sozinho, ainda com a etiqueta da loja presa na manga.
+
+Ela o vestiria no dia seguinte.
+
+Não porque o vermelho escondesse as cicatrizes.
+
+Porque, enfim, ela não queria mais escondê-las.
+
 ---
 
 ﻿# CAPÍTULO 40
@@ -7573,7 +8822,7 @@ Era perfeito.
 
 A professora Paula tinha organizado tudo. Uma exposição coletiva dos alunos do semestre, com três quadros de cada um. Mas Camila não sabia — porque ninguém a avisou — que a série dela tinha sido escolhida como a principal da mostra. Quando chegou mais cedo para ajudar na montagem e viu seus três quadros ocupando a parede central, a maior, a mais iluminada, sentiu as pernas fraquejarem.
 
-— Paula, eu não posso ficar na parede central. Eu comecei a pintar faz menos de um ano.
+— Paula, eu não posso ficar na parede central. Eu voltei a pintar faz pouco mais de um ano.
 
 A professora a olhou por cima dos óculos redondos.
 
@@ -7600,6 +8849,8 @@ Bonita. Ela estava bonita.
 Não para alguém. Para si mesma.
 
 — Você conseguiu, Cá — sussurrou para o espelho. E dessa vez, diferente de todas as vezes que tinha dito isso antes, a voz não saiu rouca nem insegura. Saiu clara.
+
+Fazia algumas semanas que ela e Daniel tinham terminado. Ainda havia dias de saudade. Ainda havia músicas que apertavam o peito. Mas não havia arrependimento. A paz que sentia diante do espelho não dependia de alguém estar esperando do lado de fora.
 
 ---
 
@@ -7695,7 +8946,7 @@ Uma mulher na plateia levantou a mão. Era mais ou menos da idade de Camila, cab
 
 Camila olhou para os quadros. Olhou para o salão.
 
-Viu sua mãe, de mechas rosa, rindo de algo que Fernanda contava ao seu lado. Viu Léo sentado no chão com o caderno de desenho, desenhando discretamente os quadros dos outros alunos. Viu Bia no colo de Beatriz, com os dedos melecados de brigadeiro. Viu Daniel, encostado na parede do fundo, conversando com alguém — mas lançando um olhar de orgulho para ela do outro lado da sala.
+Viu sua mãe, de mechas rosa, rindo de algo que Fernanda contava ao seu lado. Viu Léo sentado no chão com o caderno de desenho, desenhando discretamente os quadros dos outros alunos. Viu Bia no colo de Beatriz, com os dedos melecados de brigadeiro. E viu Daniel perto da porta. Ele tinha perguntado, dias antes, se a presença dele deixaria a noite mais difícil. Camila respondeu que não. A exposição também guardava uma parte do que tinham aprendido juntos, e terminar bem não exigia apagar o que foi bom.
 
 Todos ali. Todos reais. Todos seus.
 
@@ -7727,13 +8978,57 @@ Aplausos.
 
 Não aqueles aplausos educados de galeria, dados só por obrigação. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma força que Camila nunca tinha visto nela.
 
-Camila olhou para Daniel. Ele estava encostado na parede, braços cruzados, sorrindo. Ele piscou. E naquele piscar havia algo que não era possessão, não era posse, não era "você é minha". Era reconhecimento. Era admiração. Era um inteiro olhando para outro inteiro e dizendo, sem palavras: *eu te vejo. Toda você. E é mais que suficiente.*
+Daniel aplaudia perto da porta. Quando os olhos dos dois se encontraram, ele sorriu. Não havia promessa escondida naquele sorriso. Havia carinho, respeito e a certeza de que uma história podia terminar sem virar fracasso.
 
 ---
 
 A noite foi se esvaziando devagar, como uma maré que se recolhe deixando conchas na areia.
 
-Fernanda foi a última a sair. Abraçou Camila na porta.
+Daniel se aproximou quando ainda havia gente no salão.
+
+— Seu discurso foi incrível — disse. — Principalmente a parte da metade.
+
+— Obrigada. Eu quase desmaiei de nervoso.
+
+— Não pareceu.
+
+Ficaram um instante olhando a série na parede.
+
+— O pincel? — ele perguntou.
+
+— Usei no dourado do último quadro.
+
+Daniel sorriu.
+
+— Então valeu a pena.
+
+— Valeu. Tudo valeu.
+
+Ele olhou para ela. Os olhos estavam úmidos, mas tranquilos.
+
+— Você está feliz, Cá?
+
+Camila não precisou pensar.
+
+— Estou. Sinto saudade às vezes. Mas estou feliz.
+
+— Eu também sinto. E também vou ficar bem.
+
+Não disseram que seriam amigos para sempre. Não marcaram café. Não usaram uma promessa nova para aliviar o fim da antiga.
+
+Daniel abriu os braços, perguntando sem palavras. Camila o abraçou.
+
+Foi um abraço curto. Sem beijo, sem confusão, sem porta entreaberta. Quando se afastaram, os dois sorriam com aquela tristeza mansa de quem aceita que uma coisa pode ter sido bonita mesmo sem durar.
+
+— Cuida de você — disse ele.
+
+— Você também. E obrigada por ter vindo.
+
+— Eu não perderia o seu voo.
+
+Daniel saiu pela porta da galeria e seguiu pela calçada. Camila o observou apenas até ele dobrar a esquina. Depois voltou para dentro.
+
+Fernanda foi a última a sair. As crianças já tinham ido com Dona Sônia para dormir na casa da avó — uma novidade recente que todos adoravam. Antes de ir, a amiga abraçou Camila na porta.
 
 — Cá?
 
@@ -7745,53 +9040,11 @@ Camila riu com os olhos úmidos.
 
 — Nunca mais.
 
-Daniel a esperava na calçada. As crianças tinham ido com Dona Sônia para dormir na avó — uma novidade recente que todos adoravam.
-
-— Quer caminhar um pouco? — perguntou ele.
-
-— Quero.
-
-Caminharam lado a lado pela Vila Madalena. O ar de setembro estava frio, aquele frio gostoso de São Paulo que pede casaco mas não castiga. Os bares estavam cheios, música ao vivo escapando pelas portas abertas, gente rindo nas calçadas.
-
-Daniel segurou a mão dela. Camila não recolheu. Não hesitou. Não esperou a sabotagem.
-
-Apenas... deixou.
-
-— Seu discurso foi incrível — disse ele, depois de um silêncio confortável. — A parte da metade.
-
-— Obrigada. Eu quase desmaiei de nervoso.
-
-— Não pareceu.
-
-— Eu sei fingir bem. Aprendi em onze anos de casamento.
-
-Ele riu. Ela riu também. E havia leveza naquele riso. Leveza de quem já não precisa explicar cada cicatriz.
-
-— Daniel?
-
-— Hm?
-
-— Obrigada por não tentar ser minha metade.
-
-Ele parou. Olhou para ela.
-
-— Nunca. Eu quero andar do seu lado. Não dentro de você.
-
-Camila apertou a mão dele. Sentia o calor dos dedos dele, a textura da palma — real, presente, simples.
-
-— Eu sei — disse ela.
-
-E sabia.
-
 ---
 
-Daniel foi embora num Uber, depois de um beijo na testa e um "até amanhã" sussurrado que era mais promessa do que despedida.
+Quando todos foram embora, Camila voltou ao centro da galeria. A professora Paula tinha deixado a chave com ela para que fechasse a porta.
 
-Camila voltou à galeria. A professora Paula tinha deixado a porta encostada para ela poder pegar a bolsa que esqueceu.
-
-Mas quando entrou, não foi à bolsa que ela foi.
-
-Foi aos quadros.
+Antes de buscar a bolsa, foi até os quadros.
 
 A galeria estava em penumbra agora. Apenas os spots da parede central ainda acesos, banhando os três quadros numa luz dourada e solitária. O silêncio era completo — aquele silêncio de depois, quando tudo já aconteceu e só resta o eco.
 
@@ -7825,9 +9078,9 @@ Um sorriso dela. Para ela.
 
 E enquanto caminhava pela calçada irregular da Vila Madalena, com o barulho dos bares ao fundo e o vento de setembro nos cabelos soltos, Camila percebeu algo com uma clareza que quase doeu de tão bonita:
 
-Ela não estava sozinha.
+Ela estava sozinha naquela calçada.
 
-Mas pela primeira vez na vida, se estivesse, estaria tudo bem.
+E, pela primeira vez na vida, isso não era uma ameaça. Era liberdade.
 
 Porque a metade que ela passou a vida procurando em outras pessoas, em casamentos, em validações, em listas de compras e noites em claro e sorrisos forçados e olheiras de cansaço — a metade que parecia sempre faltar, sempre escapar, sempre pertencer a outro alguém —
 
@@ -7839,7 +9092,15 @@ Dentro dela.
 
 Esperando, com paciência infinita, que Camila por fim se encontrasse.
 
-E agora que se encontrou, esse fogo — esse fogo silencioso e imenso e indestrutível — nunca mais, nunca mais se apagaria.
+E agora que se encontrou, esse fogo — esse fogo silencioso, imenso e firme — nunca mais se apagaria.
+
+Camila seguiu andando, sem pressa de chegar a ninguém.
+
+Estava solteira.
+
+Estava feliz.
+
+Estava inteira.
 
 **FIM**
 

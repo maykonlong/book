@@ -229,7 +229,7 @@ Fernanda percebeu.
 
 Foi Dr. Lucas que ajudou a dar direção:
 
-— Camila, você está com medo do vazio. E eu entendo. Mas vazio não é necessariamente ruim. Vazio é espaço. E você pode preencher esse espaço com o que você quiser.
+— Camila, você está com medo do vazio. E eu entendo. Mas vazio nem sempre é ruim. Vazio é espaço. E você pode preencher esse espaço com o que quiser.
 
 — Mas eu não sei o que eu quero.
 

@@ -16,7 +16,7 @@ O material que deve ser enviado está em `PACOTE_PUBLICACAO/AMAZON_KDP/`.
 | Descrição | `metadados/descricao-amazon.html` ou `.txt` |
 | Conferência de envio | `metadados/CHECKLIST_UPLOAD.md` |
 
-O EPUB foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo tem 278 páginas e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria.
+O EPUB foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo tem 316 páginas e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria.
 
 ## 2. Antes de entrar no KDP
 
@@ -42,7 +42,7 @@ O EPUB foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo tem 278 p
 1. Crie uma edição **brochura** vinculada ao mesmo título.
 2. Configure: **5,5 × 8,5 pol.**, interior **preto e branco**, papel **creme** e **sem sangria**.
 3. Envie o miolo PDF e a capa completa PDF da pasta `impresso/`.
-4. Abra o Previewer de impressão e verifique todas as páginas, especialmente as sete aberturas ilustradas, margens internas, páginas em branco e lombada.
+4. Abra o Previewer de impressão e verifique todas as páginas, especialmente as dez aberturas ilustradas, margens internas, páginas em branco e lombada.
 5. Se a KDP recalcular o número de páginas ou alterar o tipo de papel, não force esta capa: gere outra com a nova largura de lombada.
 6. Solicite uma prova física antes de liberar a venda. Confira cor, corte, contraste, legibilidade e alinhamento da lombada.
 
@@ -51,7 +51,7 @@ O EPUB foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo tem 278 p
 - [ ] Nome da autora, título e subtítulo idênticos em eBook, impresso e metadados.
 - [ ] EPUB e capa Kindle enviados das pastas corretas.
 - [ ] Configuração impressa exatamente em 5,5 × 8,5 pol., creme e sem sangria.
-- [ ] Miolo com 278 páginas no Previewer.
+- [ ] Miolo com 316 páginas no Previewer.
 - [ ] Capa sem alertas de corte, lombada ou área segura.
 - [ ] Artes geradas por IA declaradas corretamente.
 - [ ] Descrição, palavras-chave e categorias revisadas no painel.

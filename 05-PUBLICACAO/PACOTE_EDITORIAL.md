@@ -12,9 +12,9 @@
 | **Subtítulo** | A jornada de uma mulher que cansou de ser a única a tentar |
 | **Autor(a)** | Mariana Duarte (pseudônimo) |
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
-| **Palavras** | ~54.600 nos capítulos (~55.200 com textos iniciais e finais) |
+| **Palavras** | ~61.700 nos capítulos (~62.500 com textos iniciais e finais) |
 | **Capítulos** | 40 (4 atos) |
-| **Páginas da edição preparada** | 278 (5,5 × 8,5 pol.) |
+| **Páginas da edição preparada** | 316 (5,5 × 8,5 pol.) |
 | **Narração** | 3ª pessoa íntima + diálogo direto com a leitora |
 | **Público-alvo** | Mulheres adultas, especialmente mães e mulheres casadas, separadas ou divorciadas |
 | **Sensibilidade** | Sem cenas explícitas; temas de sobrecarga mental, divórcio e recomeço |
@@ -35,9 +35,9 @@ O fim não veio com uma traição de novela. Veio com uma poça de leite derrama
 
 Então ela pediu o divórcio. Não para encontrar outra pessoa — para se encontrar de novo.
 
-Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta, que respeita, que não precisa ser ensinado a ser parceiro.
+Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta e respeita — mas que deseja um futuro diferente do seu.
 
-Mas como confiar de novo quando o coração aprendeu a se proteger de tudo?
+Como amar de novo sem trocar uma dependência por outra? E como escolher a si mesma quando ninguém fez nada errado?
 
 *"A Metade Que Me Faltava Era Eu" é para toda mulher que carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
 
@@ -82,7 +82,7 @@ Uma mulher que cansou de carregar tudo sozinha aprende que a metade que faltava 
 - Ficção > Romance > Contemporâneo
 
 **Palavras-chave / SEO:**
-ficção feminina · autodescoberta · empoderamento feminino · divórcio · recomeço · amor saudável · maternidade · carga mental · amor-próprio · relacionamento tóxico · superação
+ficção feminina · autodescoberta · empoderamento feminino · divórcio · recomeço · independência emocional · maternidade · carga mental · amor-próprio · relacionamento tóxico · superação
 
 **"Para leitores de":** Marian Keyes · Taylor Jenkins Reid · Colleen Hoover (vertente emocional) · Lia Beltrão · Thalita Rebouças (adulto)
 
@@ -101,8 +101,8 @@ Sozinha, Camila enfrenta o processo burocrático, o medo financeiro, a pressão 
 ### Ato III — Fechar o passado e abrir espaço (Cap. 22–30)
 Camila atravessa o primeiro Natal sozinha, o aniversário de Léo, as perguntas dos filhos e o contraste com a vida de Ricardo. Expõe a própria arte, conhece Daniel, recusa a volta ao casamento e conclui o divórcio.
 
-### Ato IV — Amor sem perder a si mesma (Cap. 31–40)
-Camila apresenta Daniel aos filhos com cuidado, amplia a ideia de família e aprende que conflito não precisa significar abandono. No reencontro com Ricardo, percebe que ele já não controla suas emoções. Na exposição final, vestida de vermelho, entende a verdade central do livro: **a metade que lhe faltava nunca esteve fora — sempre esteve dentro dela.**
+### Ato IV — Amar sem depender (Cap. 31–40)
+Camila apresenta Daniel aos filhos com cuidado e aprende que conflito não precisa significar abandono. Quando descobre que ele quer ser pai e ela não quer mais filhos, entende que ninguém precisa virar vilão para uma relação terminar. Na exposição final, vestida de vermelho e solteira por escolha, reconhece a verdade central do livro: **a metade que lhe faltava nunca esteve fora — sempre esteve dentro dela.**
 
 ---
 

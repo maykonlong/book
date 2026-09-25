@@ -131,7 +131,7 @@ Camila decidiu fazer a festa no salão do prédio. Era mais barato que um buffet
 
 Ela passava sua hora de almoço no centro da cidade, comprando descartáveis na 25 de Março, escolhendo lembrancinhas, negociando com a boleira. À noite, depois que as crianças dormiam e Ricardo roncava, ela colava etiquetas nos tubetes de doces, enrolava guardanapos e montava as sacolinhas surpresa.
 
-Suas mãos ficaram ásperas de cola quente e glitter. Suas costas doíam permanentemente.
+Suas mãos ficaram ásperas de cola quente e glitter. Suas costas doíam o tempo todo.
 
 Ricardo? Perguntou duas vezes: "Tá tudo certo pra festa?" e "Quanto ficou o total pra eu transferir?".
 

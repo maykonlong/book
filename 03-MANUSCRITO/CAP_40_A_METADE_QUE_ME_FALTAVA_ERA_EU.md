@@ -7,7 +7,7 @@ Era perfeito.
 
 A professora Paula tinha organizado tudo. Uma exposição coletiva dos alunos do semestre, com três quadros de cada um. Mas Camila não sabia — porque ninguém a avisou — que a série dela tinha sido escolhida como a principal da mostra. Quando chegou mais cedo para ajudar na montagem e viu seus três quadros ocupando a parede central, a maior, a mais iluminada, sentiu as pernas fraquejarem.
 
-— Paula, eu não posso ficar na parede central. Eu comecei a pintar faz menos de um ano.
+— Paula, eu não posso ficar na parede central. Eu voltei a pintar faz pouco mais de um ano.
 
 A professora a olhou por cima dos óculos redondos.
 
@@ -34,6 +34,8 @@ Bonita. Ela estava bonita.
 Não para alguém. Para si mesma.
 
 — Você conseguiu, Cá — sussurrou para o espelho. E dessa vez, diferente de todas as vezes que tinha dito isso antes, a voz não saiu rouca nem insegura. Saiu clara.
+
+Fazia algumas semanas que ela e Daniel tinham terminado. Ainda havia dias de saudade. Ainda havia músicas que apertavam o peito. Mas não havia arrependimento. A paz que sentia diante do espelho não dependia de alguém estar esperando do lado de fora.
 
 ---
 
@@ -129,7 +131,7 @@ Uma mulher na plateia levantou a mão. Era mais ou menos da idade de Camila, cab
 
 Camila olhou para os quadros. Olhou para o salão.
 
-Viu sua mãe, de mechas rosa, rindo de algo que Fernanda contava ao seu lado. Viu Léo sentado no chão com o caderno de desenho, desenhando discretamente os quadros dos outros alunos. Viu Bia no colo de Beatriz, com os dedos melecados de brigadeiro. Viu Daniel, encostado na parede do fundo, conversando com alguém — mas lançando um olhar de orgulho para ela do outro lado da sala.
+Viu sua mãe, de mechas rosa, rindo de algo que Fernanda contava ao seu lado. Viu Léo sentado no chão com o caderno de desenho, desenhando discretamente os quadros dos outros alunos. Viu Bia no colo de Beatriz, com os dedos melecados de brigadeiro. E viu Daniel perto da porta. Ele tinha perguntado, dias antes, se a presença dele deixaria a noite mais difícil. Camila respondeu que não. A exposição também guardava uma parte do que tinham aprendido juntos, e terminar bem não exigia apagar o que foi bom.
 
 Todos ali. Todos reais. Todos seus.
 
@@ -161,13 +163,57 @@ Aplausos.
 
 Não aqueles aplausos educados de galeria, dados só por obrigação. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma força que Camila nunca tinha visto nela.
 
-Camila olhou para Daniel. Ele estava encostado na parede, braços cruzados, sorrindo. Ele piscou. E naquele piscar havia algo que não era possessão, não era posse, não era "você é minha". Era reconhecimento. Era admiração. Era um inteiro olhando para outro inteiro e dizendo, sem palavras: *eu te vejo. Toda você. E é mais que suficiente.*
+Daniel aplaudia perto da porta. Quando os olhos dos dois se encontraram, ele sorriu. Não havia promessa escondida naquele sorriso. Havia carinho, respeito e a certeza de que uma história podia terminar sem virar fracasso.
 
 ---
 
 A noite foi se esvaziando devagar, como uma maré que se recolhe deixando conchas na areia.
 
-Fernanda foi a última a sair. Abraçou Camila na porta.
+Daniel se aproximou quando ainda havia gente no salão.
+
+— Seu discurso foi incrível — disse. — Principalmente a parte da metade.
+
+— Obrigada. Eu quase desmaiei de nervoso.
+
+— Não pareceu.
+
+Ficaram um instante olhando a série na parede.
+
+— O pincel? — ele perguntou.
+
+— Usei no dourado do último quadro.
+
+Daniel sorriu.
+
+— Então valeu a pena.
+
+— Valeu. Tudo valeu.
+
+Ele olhou para ela. Os olhos estavam úmidos, mas tranquilos.
+
+— Você está feliz, Cá?
+
+Camila não precisou pensar.
+
+— Estou. Sinto saudade às vezes. Mas estou feliz.
+
+— Eu também sinto. E também vou ficar bem.
+
+Não disseram que seriam amigos para sempre. Não marcaram café. Não usaram uma promessa nova para aliviar o fim da antiga.
+
+Daniel abriu os braços, perguntando sem palavras. Camila o abraçou.
+
+Foi um abraço curto. Sem beijo, sem confusão, sem porta entreaberta. Quando se afastaram, os dois sorriam com aquela tristeza mansa de quem aceita que uma coisa pode ter sido bonita mesmo sem durar.
+
+— Cuida de você — disse ele.
+
+— Você também. E obrigada por ter vindo.
+
+— Eu não perderia o seu voo.
+
+Daniel saiu pela porta da galeria e seguiu pela calçada. Camila o observou apenas até ele dobrar a esquina. Depois voltou para dentro.
+
+Fernanda foi a última a sair. As crianças já tinham ido com Dona Sônia para dormir na casa da avó — uma novidade recente que todos adoravam. Antes de ir, a amiga abraçou Camila na porta.
 
 — Cá?
 
@@ -179,53 +225,11 @@ Camila riu com os olhos úmidos.
 
 — Nunca mais.
 
-Daniel a esperava na calçada. As crianças tinham ido com Dona Sônia para dormir na avó — uma novidade recente que todos adoravam.
-
-— Quer caminhar um pouco? — perguntou ele.
-
-— Quero.
-
-Caminharam lado a lado pela Vila Madalena. O ar de setembro estava frio, aquele frio gostoso de São Paulo que pede casaco mas não castiga. Os bares estavam cheios, música ao vivo escapando pelas portas abertas, gente rindo nas calçadas.
-
-Daniel segurou a mão dela. Camila não recolheu. Não hesitou. Não esperou a sabotagem.
-
-Apenas... deixou.
-
-— Seu discurso foi incrível — disse ele, depois de um silêncio confortável. — A parte da metade.
-
-— Obrigada. Eu quase desmaiei de nervoso.
-
-— Não pareceu.
-
-— Eu sei fingir bem. Aprendi em onze anos de casamento.
-
-Ele riu. Ela riu também. E havia leveza naquele riso. Leveza de quem já não precisa explicar cada cicatriz.
-
-— Daniel?
-
-— Hm?
-
-— Obrigada por não tentar ser minha metade.
-
-Ele parou. Olhou para ela.
-
-— Nunca. Eu quero andar do seu lado. Não dentro de você.
-
-Camila apertou a mão dele. Sentia o calor dos dedos dele, a textura da palma — real, presente, simples.
-
-— Eu sei — disse ela.
-
-E sabia.
-
 ---
 
-Daniel foi embora num Uber, depois de um beijo na testa e um "até amanhã" sussurrado que era mais promessa do que despedida.
+Quando todos foram embora, Camila voltou ao centro da galeria. A professora Paula tinha deixado a chave com ela para que fechasse a porta.
 
-Camila voltou à galeria. A professora Paula tinha deixado a porta encostada para ela poder pegar a bolsa que esqueceu.
-
-Mas quando entrou, não foi à bolsa que ela foi.
-
-Foi aos quadros.
+Antes de buscar a bolsa, foi até os quadros.
 
 A galeria estava em penumbra agora. Apenas os spots da parede central ainda acesos, banhando os três quadros numa luz dourada e solitária. O silêncio era completo — aquele silêncio de depois, quando tudo já aconteceu e só resta o eco.
 
@@ -259,9 +263,9 @@ Um sorriso dela. Para ela.
 
 E enquanto caminhava pela calçada irregular da Vila Madalena, com o barulho dos bares ao fundo e o vento de setembro nos cabelos soltos, Camila percebeu algo com uma clareza que quase doeu de tão bonita:
 
-Ela não estava sozinha.
+Ela estava sozinha naquela calçada.
 
-Mas pela primeira vez na vida, se estivesse, estaria tudo bem.
+E, pela primeira vez na vida, isso não era uma ameaça. Era liberdade.
 
 Porque a metade que ela passou a vida procurando em outras pessoas, em casamentos, em validações, em listas de compras e noites em claro e sorrisos forçados e olheiras de cansaço — a metade que parecia sempre faltar, sempre escapar, sempre pertencer a outro alguém —
 
@@ -273,7 +277,15 @@ Dentro dela.
 
 Esperando, com paciência infinita, que Camila por fim se encontrasse.
 
-E agora que se encontrou, esse fogo — esse fogo silencioso e imenso e indestrutível — nunca mais, nunca mais se apagaria.
+E agora que se encontrou, esse fogo — esse fogo silencioso, imenso e firme — nunca mais se apagaria.
+
+Camila seguiu andando, sem pressa de chegar a ninguém.
+
+Estava solteira.
+
+Estava feliz.
+
+Estava inteira.
 
 **FIM**
 

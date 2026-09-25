@@ -16,7 +16,7 @@
 ---
 
 ## ✅ ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO (Completo!)
-**Capítulos 10-28**: Camila processa o divórcio, faz terapia, redescobre a si mesma.
+**Capítulos 10-18**: Camila processa o divórcio, faz terapia e começa a se redescobrir.
 
 - ✅ Cap 10: O Vazio Barulhento
 - ✅ Cap 11: O Processo
@@ -27,51 +27,58 @@
 - ✅ Cap 16: Um Sábado Só Minha (NOVO)
 - ✅ Cap 17: Voltando a Pintar
 - ✅ Cap 18: As Pequenas Vitórias
+
+---
+
+## ✅ ATO III - REDE, AUTONOMIA E FECHAMENTO (Completo!)
+**Capítulos 19-30**: Camila amplia sua rede, atravessa datas difíceis, conclui o divórcio e abre espaço para viver algo novo.
+
 - ✅ Cap 19: O Colega do Trabalho (NOVO)
 - ✅ Cap 20: O Grupo de Mulheres
 - ✅ Cap 21: A Culpa da Maternidade
 - ✅ Cap 22: O Primeiro Natal Sozinha (NOVO)
 - ✅ Cap 23: O Aniversário de Léo
 - ✅ Cap 24: O Dia em Que Léo Perguntou Sobre o Pai (NOVO)
-- ✅ Cap 25: O Dia das Mães (NOVO)
-- ✅ Cap 26: As Férias de Julho (NOVO)
-- ✅ Cap 27: O Contraste
-- ✅ Cap 28: O Primeiro Sorriso Real
+- ✅ Cap 25: O Contraste
+- ✅ Cap 26: O Primeiro Sorriso Real
+- ✅ Cap 27: O Encontro
+- ✅ Cap 28: A Resistência
+- ✅ Cap 29: O Fim e o Começo
+- ✅ Cap 30: Um Ano Depois: A Nova Paz
 
 ---
 
-## ✅ ATO III - ABERTURA E ENTREGA (Completo!)
-**Capítulos 29-40**: Camila conhece Daniel, resiste, e finalmente se permite amar de novo.
+## ✅ ATO IV - AMAR SEM DEPENDER (Completo!)
+**Capítulos 31-40**: Camila vive uma relação saudável e escolhe não transformá-la em dependência quando os dois desejam futuros diferentes.
 
-- ✅ Cap 29: O Encontro
-- ✅ Cap 30: A Resistência
-- ✅ Cap 31: O Fim e o Começo
-- ✅ Cap 32: Um Ano Depois: A Nova Paz
+- ✅ Cap 31: O Dia das Mães
+- ✅ Cap 32: As Férias de Julho
 - ✅ Cap 33: As Crianças Conhecem Daniel
 - ✅ Cap 34: A Primeira Viagem a Quatro (NOVO)
 - ✅ Cap 35: A Primeira Briga (NOVO)
 - ✅ Cap 36: O Primeiro Presente (NOVO)
 - ✅ Cap 37: O Encontro com a Mãe do Daniel (NOVO)
 - ✅ Cap 38: O Reencontro (NOVO)
-- ✅ Cap 39: Carta Para Mim Mesma
-- ✅ Cap 40: A Metade Que Me Faltava Era Eu (FINAL)
+- ✅ Cap 39: Carta Para Mim Mesma — término respeitoso com Daniel
+- ✅ Cap 40: A Metade Que Me Faltava Era Eu — solteira, feliz e inteira (FINAL)
 
 ---
 
-## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
+## 📊 Estatísticas (atualizadas em 25/09/2026 — após expansão e revisão final)
 - **Total de capítulos escritos**: 40/40 (100%)
-- **Total de palavras**: **~54.600** nos 40 capítulos após a revisão final (era ~37.300 antes da expansão)
-- **Palavras/capítulo (média)**: ~1.415
-- **Páginas do arquivo final**: 278 (formato 5,5 × 8,5 pol.)
+- **Total de palavras**: **~61.700** nos 40 capítulos após a revisão final (era ~37.300 antes da expansão)
+- **Palavras/capítulo (média)**: ~1.543
+- **Páginas do arquivo final**: 316 (formato 5,5 × 8,5 pol.)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
 
 ### Distribuição por ato
 | Ato | Capítulos | Palavras (aprox.) | % | Alvo |
 |---|---|---|---|---|
-| I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
-| II — Desconstrução e Redescobrimento | 10-28 | ~27.000 | 48% | 50% (~40k) |
-| III — Abertura e Entrega | 29-40 | ~16.200 | 29% | 25% (~20k) |
-| **TOTAL** | 40 | **~54.600** | 100% | ~80k |
+| I — Estagnação e Ruptura | 1-9 | ~14.800 | 24,0% | — |
+| II — Desconstrução e Redescobrimento | 10-18 | ~14.100 | 22,8% | — |
+| III — Rede, autonomia e fechamento | 19-30 | ~18.600 | 30,1% | — |
+| IV — Amar sem depender | 31-40 | ~14.200 | 23,1% | — |
+| **TOTAL** | 40 | **~61.700** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.

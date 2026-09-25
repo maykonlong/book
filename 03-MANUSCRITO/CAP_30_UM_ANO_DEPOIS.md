@@ -59,7 +59,7 @@ Ela só precisava ser mãe.
 
 E naquela noite, com a casa em silêncio de novo, as crianças dormindo limpas e seguras, Camila sentiu uma gratidão imensa.
 Pelo divórcio.
-Porque ele tinha permitido que ela construísse esse santuário.
+Porque ele tinha permitido que ela construísse esse refúgio.
 Um lar onde não havia gritos abafados, nem tensão no ar.
 Apenas paz. E amor. E cheiro de lavanda.
 
@@ -75,7 +75,7 @@ E em cada encontro, Camila testava.
 
 Não de propósito. Era automático.
 
-Projetando Ricardo onde não tinha Ricardo.
+Enxergando Ricardo onde ele não estava.
 
 ---
 
@@ -115,9 +115,9 @@ Respondeu defensiva:
 
 Daniel piscou surpreso:
 
-— Porque... você é mãe? E imagino que seja parte importante da sua vida. Só curiosidade genuína.
+— Porque... você é mãe? E imagino que seja uma parte importante da sua vida. Só queria conhecer melhor você.
 
-O tom dele era gentil. Não interrogativo.
+O tom dele era gentil. Não parecia uma cobrança.
 
 Camila relaxou levemente:
 
@@ -153,7 +153,7 @@ Foto dele na cama. Claramente doente. Termômetro mostrando.
 
 Não era desculpa.
 
-Era genuíno.
+Era verdade.
 
 Camila sentiu culpa imediata:
 
@@ -161,7 +161,7 @@ Camila sentiu culpa imediata:
 
 *"Só tempo. Obrigado por se preocupar comigo :)"*
 
-Três dias depois, assim que melhorou, ele remarcou. Profusamente desculpando-se pelo cancelamento.
+Três dias depois, assim que melhorou, ele remarcou, pedindo desculpas mais de uma vez pelo cancelamento.
 
 No parque, no domingo de sol, Daniel fez uma coisa pequena que quase derrubou Camila. Passaram por um vendedor de algodão-doce, e ela comentou, distraidamente, que adorava o rosa, mas sempre tinha medo de ficar com a boca manchada em público. Ele comprou um. Dividiram. E quando ela percebeu que tinha açúcar na ponta do nariz, ele riu e disse: *"fica. Te deixa com cara de criança feliz"*.
 
@@ -205,7 +205,7 @@ Pausa pesada.
 
 — Como eu separo um perigo de verdade de um medo que ficou do passado?
 
-— Observa o padrão. Uma vez pode ser qualquer coisa. Múltiplas vezes é padrão. E até agora, Daniel só mostrou padrão de: respeito, gentileza, paciência.
+— Olha o que se repete. Uma vez pode ser qualquer coisa. Quando acontece sempre, diz quem a pessoa é. E, até agora, o que Daniel repete é respeito, gentileza e paciência.
 
 Camila sabia que Fernanda tinha razão.
 
@@ -239,9 +239,9 @@ Dr. Lucas continuou:
 
 — Nem todos os homens são seu ex. Daniel não é Ricardo. Eles são pessoas diferentes. Você precisa ver Daniel por QUEM ele é. Não por quem Ricardo foi.
 
-— Como paro de projetar?
+— Como paro de misturar as coisas?
 
-— Conscientemente escolhe confiar até ser dado motivo para não confiar. Ao invés de assumir o pior, assume neutro até provar o contrário. Confiança, Camila, não é o prêmio que você dá quando o outro prova ser perfeito. É a ponte que você constrói — aos poucos, com os olhos abertos — quando decide que merece chegar a algum lugar.
+— Escolha confiar até ter motivo para não confiar. Em vez de assumir o pior, não tire conclusões antes da hora. Confiança, Camila, não é o prêmio que você dá quando o outro prova ser perfeito. É a ponte que você constrói — aos poucos, com os olhos abertos — quando decide que merece chegar a algum lugar.
 
 Fazia sentido.
 
@@ -285,7 +285,7 @@ Mas a nova parte - a parte crescente - queria tentar.
 
 Depois que desligaram, Camila sentou para pensar.
 
-Daniel queria apresentá-la à irmã. Significando que pensava sobre o futuro. Sobre ela sendo parte da vida dele a longo prazo.
+Daniel queria apresentá-la à irmã. Isso mostrava que pensava num futuro em que ela faria parte da vida dele.
 
 Assustador.
 
@@ -303,7 +303,7 @@ Escreveu no diário:
 
 *"Daniel quer me apresentar à irmã.*
 
-*Significando que não está apenas casualmente interessado.*
+*Isso mostra que não é apenas um interesse passageiro.*
 
 *Com medo. Obviamente.*
 
@@ -311,7 +311,7 @@ Escreveu no diário:
 
 *Dr. Lucas está certo: nem todos são o ex.*
 
-*Daniel mostrando consistentemente coisas boas.*
+*Daniel mostrando coisas boas de novo e de novo.*
 
 *Hora de parar de esperar que o outro sapato caia.*
 
@@ -327,7 +327,7 @@ Dar a Daniel uma chance real.
 
 Sem sabotar.
 
-Sem projetar.
+Sem misturar o passado com o presente.
 
 Chance real.
 
@@ -351,7 +351,7 @@ Camila riu até doer a barriga. E percebeu, no meio da risada, que não estava m
 No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
 — Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
 
-Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não era só um namoro. Era uma vida inteira nova se abrindo. E, agora, ela não teve medo de entrar.
+Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não sabia quanto tempo aquela história duraria nem aonde chegaria. Pela primeira vez, isso não a impedia de viver o que era bom no presente.
 
 No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem por fim parou de ensaiar e começou a viver.
 

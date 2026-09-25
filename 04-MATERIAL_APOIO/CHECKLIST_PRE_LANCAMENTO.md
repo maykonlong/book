@@ -8,7 +8,7 @@
 
 | Item | Status |
 |---|---|
-| Manuscrito | ✅ 40 capítulos · ~54.600 palavras de história · completo (FIM no CAP 40) |
+| Manuscrito | ✅ 40 capítulos · ~61.700 palavras de história · completo (FIM no CAP 40) |
 | Revisão de coesão (nomes, idades, cronologia) | ✅ |
 | Revisão ortográfica (varredura) | ✅ |
 | Redução de repetições | ✅ (pela primeira vez 51→2; finalmente→por fim; etc.) |
@@ -57,10 +57,12 @@
 - ✅ Capítulos curtos (leitura no celular/Kindle)
 - 👥 Algum capítulo "parado"? — confirmar com beta readers
 
-### D. Romance (o "fantasy" de ser cuidada)
-- ✅ Daniel parceiro de verdade e crível
+### D. Romance e independência emocional
+- ✅ Daniel é um parceiro respeitoso e crível, sem virar salvador
 - ✅ Contraste Ricardo × Daniel claro
-- 👥 Química suficiente? — confirmar com beta readers
+- ✅ Diferença de futuro (mais filhos) preparada antes do término
+- ✅ Término maduro, sem vilão e sem retorno romântico no final
+- 👥 A despedida emociona sem parecer apressada? — confirmar com beta readers
 
 ### E. Emoção (chora, ri, torce)
 - ✅ Momentos de dor e de catarse
@@ -74,7 +76,7 @@
 ### G. Comercial (título, sinopse, tamanho)
 - ✅ Título/subtítulo alinhados à promessa
 - ✅ Sinopse com gancho ("a poça de leite")
-- ✅ Tamanho (~56 mil) — decisão: manter como romance curto (expansão para 75–85k adiada para o futuro)
+- ✅ Tamanho (~61,7 mil) — decisão: manter como romance de leitura ágil (expansão para 75–85k adiada)
 
 ### H. Sensibilidade (triggers)
 - ✅ Sem violência/traição explícita

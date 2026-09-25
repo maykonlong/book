@@ -12,6 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PACKAGE = ROOT / "PACOTE_PUBLICACAO" / "AMAZON_KDP"
+ILLUSTRATED_CHAPTERS = {1, 8, 12, 17, 22, 27, 31, 34, 39, 40}
 
 
 def fail(message: str) -> None:
@@ -42,6 +43,14 @@ def validate_site_links() -> None:
     if missing:
         fail("Referências locais ausentes: " + ", ".join(sorted(missing)))
 
+    reader = (ROOT / "ler.html").read_text(encoding="utf-8")
+    illustrated = {
+        int(number)
+        for number in re.findall(r"art:\s*'assets/illustrations-v2/cap-(\d{2})-[^']+\.png'", reader)
+    }
+    if illustrated != ILLUSTRATED_CHAPTERS:
+        fail(f"Artes do leitor divergentes: {sorted(illustrated)}")
+
 
 def validate_epub() -> dict[str, int]:
     epub = PACKAGE / "ebook" / "A_Metade_Que_Me_Faltava_Era_Eu.epub"
@@ -52,6 +61,10 @@ def validate_epub() -> dict[str, int]:
         chapter_files = [name for name in archive.namelist() if re.fullmatch(r"OEBPS/text/chapter-\d{2}\.xhtml", name)]
         if len(chapter_files) != 40:
             fail(f"EPUB contém {len(chapter_files)} capítulos em vez de 40")
+        art_files = [name for name in archive.namelist() if re.fullmatch(r"OEBPS/images/chapter-\d{2}\.jpg", name)]
+        art_numbers = {int(re.search(r"chapter-(\d{2})", name).group(1)) for name in art_files}
+        if art_numbers != ILLUSTRATED_CHAPTERS:
+            fail(f"Artes do EPUB divergentes: {sorted(art_numbers)}")
 
     report = json.loads((PACKAGE / "metadados" / "epubcheck-report.json").read_text(encoding="utf-8-sig"))
     checker = report["checker"]
@@ -100,6 +113,7 @@ def main() -> int:
             {
                 "status": "APROVADO",
                 "capitulos": 40,
+                "ilustracoes": len(ILLUSTRATED_CHAPTERS),
                 "links_locais": "OK",
                 "epubcheck": epubcheck,
                 "checksums": "OK",

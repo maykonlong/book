@@ -63,9 +63,33 @@ Camila leu. E releu. E as lágrimas vieram, quentes e silenciosas, escorrendo pe
 
 Fazia meses que ela se perguntava se tinha feito a coisa certa. Se separar tinha sido egoísmo. Se os filhos um dia entenderiam — ou perdoariam.
 
-E ali, naquela cartolina vermelha, estava a resposta.
+— O que você quis dizer com isso? — perguntou, apontando para a frase.
 
-Não era preciso perdão. Era preciso agradecimento.
+Léo encolheu os ombros.
+
+— Que você ficou triste, sem dinheiro e cansada. Mas continuou levando a gente na escola. Continuou fazendo bolo. Continuou aqui.
+
+Não era uma aprovação do divórcio. Criança nenhuma devia carregar a tarefa de absolver a mãe. Era outra coisa, mais simples e mais importante: Léo tinha percebido que, mesmo assustada, ela não desapareceu.
+
+— Eu vou continuar aqui — prometeu.
+
+— Eu sei — disse ele.
+
+Era justamente isso que fez Camila chorar mais.
+
+Bia, preocupada com a quantidade de lágrimas, trouxe um segundo presente: um pote de geleia cheio de papéis dobrados.
+
+— São vales — explicou. — Tem abraço, beijo e arrumar brinquedo.
+
+Camila abriu um.
+
+**VALE UM DIA SEM BRIGA.**
+
+— Esse aqui vale ouro — disse.
+
+— Mas só pode usar uma vez — avisou Léo.
+
+Os três caíram na risada.
 
 ---
 
@@ -73,12 +97,58 @@ Naquele ano, Camila não organizou almoço para ninguém. Não comprou presente 
 
 Foi à padaria com as crianças. Comeram bolo e pão de queijo. Riram das mãos sujas de achocolatado.
 
+Na mesa ao lado, uma família grande tirava fotos. A mãe usava um vestido claro; o marido arrumava as crianças para caberem na imagem. Por um segundo, Camila sentiu a pontada antiga. A fotografia que ela achava que deveria ter.
+
+Então Bia mergulhou o pão de queijo no achocolatado.
+
+— Filha, isso deve estar horrível.
+
+— Quer provar?
+
+Camila provou. Estava mesmo horrível. As duas riram até Léo pedir silêncio, fingindo ser um adulto sério.
+
+Quando olhou outra vez para a mesa vizinha, a pontada tinha passado.
+
+Família não era a fotografia. Era quem sabia que o seu pão de queijo ficava ruim dentro do chocolate e, mesmo assim, provava.
+
+O celular vibrou. Uma mensagem de Daniel:
+
+*"Feliz Dia das Mães. Hoje é de vocês três. Só queria dizer que admiro a mãe que você é."*
+
+Sem flores entregues no meio do café. Sem tentar entrar numa data que não era sobre ele. Só uma frase no momento certo.
+
+Camila mostrou a mensagem a Léo.
+
+— Ele pode vir comer bolo? — o menino perguntou.
+
+— Hoje, não. Hoje é nosso.
+
+— Tá. Mas guarda um pedaço.
+
+Camila guardou.
+
 E, no fim do dia, quando os filhos dormiram, Camila pegou o cartão de cartolina e o pendurou na porta da geladeira, no lugar de honra.
 
 Depois, fez algo que nunca tinha feito em onze anos de Dia das Mães: deu um presente para si mesma.
 
 Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses esperando na estante, e ficou ali, em silêncio, sem culpa, sem pressa.
 
-E pensou: *hoje eu me celebro. Porque eu também fui mãe de mim mesma este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
+Pegou o pote dos vales e abriu outro.
+
+**VALE ESCOLHER O PRÓXIMO PASSEIO.**
+
+Camila sorriu. Na estante, havia uma lata onde guardava dinheiro para uma viagem curta. Ainda faltava bastante, mas já não parecia impossível.
+
+Ela escreveu no verso do vale: **praia**.
+
+Depois pensou: *hoje eu me celebro. Porque eu também aprendi a cuidar de mim este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
 
 E, enfim, o Dia das Mães fez sentido.
+
+Na manhã seguinte, Bia encontrou o papel sobre a mesa.
+
+— A gente vai ver o mar?
+
+Camila olhou para a lata de viagem.
+
+— Vai — respondeu, antes que o medo fizesse as contas. — Nem que seja do jeito mais simples do mundo.

@@ -80,7 +80,7 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 **Exemplo**:
 > Acordar. Café. Uniforme. Lancheira. Escola. Trabalho. Lição. Jantar. Banho. Dormir. Repetir. A vida de Camila era uma lista infinita que nunca era riscada por completo.
 
-#### ATO II (Cap. 10-21): Desconstrução e Redescobrimento
+#### ATO II (Cap. 10-18): Desconstrução e Redescobrimento
 **Tom**: Oscilante - dor e esperança alternadas
 - Frases mais longas, respiração retorna
 - Momentos de introspecção
@@ -90,7 +90,7 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 **Exemplo**:
 > Nos primeiros dias sozinha, o silêncio era ensurdecedor. Camila andava pela casa estranhando a ausência de ruído, de tensão. Era como tirar um sapato apertado depois de horas - dói o alívio.
 
-#### ATO III (Cap. 22-27): Abertura e Entrega
+#### ATO III (Cap. 19-30): Rede, autonomia e fechamento
 **Tom**: Mais leve, esperançoso, presente
 - Frases fluidas
 - Mais descrições sensoriais
@@ -99,6 +99,13 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 
 **Exemplo**:
 > O sorriso de Daniel era do tipo que alcançava os olhos. Camila tinha esquecido que sorrisos podiam ser assim - sem segunda intenção, sem peso, sem cobrança. Apenas... reais.
+
+#### ATO IV (Cap. 31-40): Amar sem depender
+**Tom**: Afetuoso, maduro e firme
+- Relação saudável sem transformar Daniel em salvador
+- Diferenças de futuro tratadas sem criar um novo vilão
+- Dor do término sem confundir sofrimento com erro
+- Encerramento centrado na felicidade de Camila solteira e inteira
 
 ---
 
