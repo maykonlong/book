@@ -58,15 +58,15 @@ O celular vibrou outra vez. Ricardo chamando.
 
 Camila atendeu no primeiro toque, aliviada.
 — Oi, amor! Onde você está? O jantar tá quase...
-— Oi, Cá. — A voz dele estava alta, com barulho de fundo. Risadas. Vidro. Vozes masculinas. — Escuta, esqueci de avisar. O pessoal da firma animou um happy hour aqui no barzinho da esquina do escritório. Tô aqui com o Marcão, o Felipe...
+— Oi, Cá. — A voz dele estava alta, com barulho de fundo. Risadas. Vidro. Vozes masculinas. — Escuta, esqueci de avisar. O pessoal da firma animou um barzinho depois do expediente, aqui na esquina do escritório. Tô aqui com o Marcão, o Felipe...
 
 Camila sentiu o chão abrir.
 
-— Happy hour? — repetiu ela. Sua voz saiu estranha. Oca. — Agora?
+— Barzinho? — repetiu ela. Sua voz saiu estranha. Oca. — Agora?
 
 — É, a gente veio comemorar o fechamento do mês. Tomei umas duas já. Tá bem legal. Você não se importa se eu chegar mais tarde, né? Janta alguma coisa aí com as crianças, não me espera.
 
-Camila olhou para a mesa posta. Para os guardanapos de tecido dobrados em forma de origami (ela tinha visto no YouTube). Para o vinho respirando no decanter. Para o seu próprio reflexo no vidro escuro da janela, vestida e perfumada para ninguém.
+Camila olhou para a mesa posta. Para os guardanapos de tecido dobrados em forma de origami (ela tinha visto no YouTube). Para o vinho aberto numa jarra de vidro. Para o seu próprio reflexo no vidro escuro da janela, vestida e perfumada para ninguém.
 
 — Ricardo... eu fiz jantar.
 
@@ -157,7 +157,7 @@ Camila voltou para a sala. Tirou a mesa. Jogou o resto da comida em potes plást
 
 Apagou as luzes.
 
-Ricardo chegou às 01h30 da manhã.
+Ricardo chegou à uma e meia da manhã.
 Tropeçou no tapete da entrada. Ria sozinho. Cheiro de álcool e cigarro (ele não fumava, mas o bar devia estar cheio).
 
 Camila estava no sofá, no escuro. Ainda de vestido.

@@ -23,7 +23,7 @@ Ela pegou o celular e abriu o bloco de notas. Criou uma lista nova, digitando co
 
 **ANIVERSÁRIO LÉO - 8 ANOS**
 1. *Tema (Homem-Aranha ou Vingadores? Perguntar sutilmente).*
-2. *Local (Casa? Salão do prédio? Buffet é caro demais este ano?).*
+2. *Local (Casa? Salão do prédio? Bufê é caro demais este ano?).*
 3. *Lista de convidados (Escola + Família + Vizinhos).*
 4. *Convites (Digital é mais barato, mas ele gosta de entregar).*
 5. *Bolo (A moça do ano passado subiu o preço. Pesquisar outra).*
@@ -75,9 +75,9 @@ Ricardo olhou para ela com uma expressão confusa, como se ela tivesse sugerido 
 
 Era a armadilha perfeita. O elogio que aprisiona.
 
-— Não é questão de bom gosto, Ricardo. É questão de tempo. Eu estou afogada no escritório. Eu preciso de ajuda para ligar para os buffets, ou pra ir comprar as coisas se for em casa.
+— Não é questão de bom gosto, Ricardo. É questão de tempo. Eu estou afogada no escritório. Eu preciso de ajuda para ligar para os bufês, ou pra ir comprar as coisas se for em casa.
 
-— Tá, mas... eu não tenho tempo pra ficar ligando pra buffet, Camila. Meu chefe tá no meu pé essa semana.
+— Tá, mas... eu não tenho tempo pra ficar ligando pra bufê, Camila. Meu chefe tá no meu pé essa semana.
 
 — E o meu chefe não está no meu?
 
@@ -97,7 +97,7 @@ Ele falou com a satisfação de quem acabara de resolver uma equação complexa.
 
 Para Ricardo, "pagar" era a carta de alforria. O dinheiro comprava sua isenção de pesquisar preços, de encher balões até ficar tonto, de limpar brigadeiro do tapete, de lidar com a birra de pré-festa.
 
-Ele não entendia que "organizar" não era um hobby. Era trabalho. Trabalho não remunerado, invisível e exaustivo.
+Ele não entendia que "organizar" não era um passatempo. Era trabalho. Trabalho não remunerado, invisível e exaustivo.
 
 — Ricardo, não é só dinheiro. É a carga mental. É ter que pensar em tudo, lembrar de tudo...
 
@@ -127,7 +127,7 @@ Porque se ela não fizesse, Léo não teria festa. E Léo não tinha culpa de te
 
 Os quinze dias seguintes foram um borrão de ansiedade e correrias na hora do almoço.
 
-Camila decidiu fazer a festa no salão do prédio. Era mais barato que um buffet e dava menos trabalho que fazer dentro do apartamento. Mas "menos trabalho" era relativo.
+Camila decidiu fazer a festa no salão do prédio. Era mais barato que um bufê e dava menos trabalho que fazer dentro do apartamento. Mas "menos trabalho" era relativo.
 
 Ela passava sua hora de almoço no centro da cidade, comprando descartáveis na 25 de Março, escolhendo lembrancinhas, negociando com a boleira. À noite, depois que as crianças dormiam e Ricardo roncava, ela colava etiquetas nos tubetes de doces, enrolava guardanapos e montava as sacolinhas surpresa.
 
@@ -139,7 +139,7 @@ Ele transferiu o dinheiro. E sentiu que sua parte estava feita.
 
 ---
 
-O dia da festa amanheceu cinza, mas quente. Sábado, 25 de janeiro.
+O dia da festa amanheceu cinza, mas quente. Sábado, no fim de janeiro.
 
 Camila acordou às 05h30. Não conseguia dormir mais. A lista mental estava gritando: *buscar o bolo, encher as bebidas, levar a decoração pro salão, limpar o salão (porque o zelador nunca limpava direito), arrumar as crianças...*
 
@@ -147,7 +147,7 @@ Ela levantou, tomou um café preto em pé e começou.
 
 Às 09h00, ela estava no salão de festas, em cima de uma escada bamba, tentando prender um painel gigante do Homem-Aranha na parede de azulejos.
 
-Ricardo desceu às 09h30, vestindo bermuda e chinelos, segurando sua caneca de café.
+Ricardo desceu às 09h30, vestindo bermuda e calçando chinelos, segurando sua caneca de café.
 
 — Eita, já tá assim? — comentou, olhando a bagunça de balões murchos e caixas.
 
@@ -241,7 +241,7 @@ Nenhuma resposta.
 
 Quatro e meia. Hora do parabéns.
 
-O buffet (na verdade, a vizinha que ela contratou para ajudar a servir) avisou que o bolo estava derretendo com o calor. Precisavam cantar.
+A responsável por servir — na verdade, uma vizinha que ela contratou — avisou que o bolo estava derretendo com o calor. Precisavam cantar.
 
 Camila reuniu as crianças. Apagou as luzes.
 

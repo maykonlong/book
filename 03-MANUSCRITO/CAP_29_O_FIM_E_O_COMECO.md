@@ -134,7 +134,7 @@ Daniel?
 
 Deu risada.
 
-— Ai não! — Pegou guardanapos. Começou a limpar. — Tá tudo bem, moço. Acontece.
+— Ai, não! — Pegou guardanapos. Começou a limpar. — Tá tudo bem, moço. Acontece.
 
 Camila ficou olhando. Não era a reação que ela conhecia. O Ricardo teria bufado, revirado os olhos, mandado chamar o gerente, deixado o resto do encontro nublado por aquela irritação que nunca passava. Daniel simplesmente... limpou. E voltou a sorrir para ela, como se a poça de café fosse apenas uma poça de café — não um teste de caráter que ele tinha acabado de passar sem saber que existia.
 
@@ -270,7 +270,7 @@ Ele disse sem hesitação. Genuíno.
 
 — Claro. — Sorriso caloroso. — Então... me manda mensagem quando quiser a próxima vez. Sem pressa.
 
-Abraçaram-se para despedida. Breve mas gostoso.
+Abraçaram-se para despedida. Breve, mas gostoso.
 
 E Camila caminhou até o carro pensando:
 
@@ -302,7 +302,7 @@ Resposta imediata:
 
 *"Ele foi... gentil. Paciente. Real. E parte de mim continua esperando que o outro sapato caia."*
 
-*"É o passado falando, Cá. Você vai demorar para confiar. Normal. Mas pelo menos você tentou."*
+*"É o passado falando, Cá. Você vai demorar para confiar. Normal. Mas, pelo menos, você tentou."*
 
 *"Eu gostei dele."*
 
@@ -322,7 +322,7 @@ Abriu o diário. Escreveu:
 
 *Quando o café derramou, não irritou. Riu.*
 
-*Coisa pequena mas mostra caráter.*
+*Coisa pequena, mas mostra caráter.*
 
 *Estou com medo. Porque foi bom. E bom é assustador depois de tanto ruim.*
 
@@ -332,7 +332,7 @@ Abriu o diário. Escreveu:
 
 *Ou pode não ser.*
 
-*Mas pelo menos estou tentando.*
+*Mas, pelo menos, estou tentando.*
 
 *E isso é algo."*
 

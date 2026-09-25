@@ -95,7 +95,7 @@ Camila levou os filhos até a parede central.
 
 Os três quadros estavam pendurados lado a lado, emoldurados com simplicidade — molduras de madeira clara, sem vidro, para que a textura da tinta fosse visível.
 
-O primeiro se chamava **"Afogamento"**. Tons de azul escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob camadas de tinta pesada. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
+O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob camadas de tinta pesada. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
 
 O segundo, **"Superfície"**. Azuis mais claros, com rasgos de amarelo. A mesma silhueta, agora com a cabeça acima da linha d'água. Uma mão erguida, alcançando algo. Não era bonito — era cru, honesto, quase doloroso. Era a fase em que respirar já era uma vitória.
 
@@ -153,7 +153,7 @@ Pausa.
 
 Ela olhou para os três quadros.
 
-— A metade que me faltava não era um homem. Não era um status. Não era aprovação.
+— A metade que me faltava não era um homem. Não era um rótulo. Não era aprovação.
 
 Sorriu. Um sorriso que iluminou a sala como o dourado do terceiro quadro.
 
@@ -177,7 +177,7 @@ Daniel se aproximou quando ainda havia gente no salão.
 
 — Não pareceu.
 
-Ficaram um instante olhando a série na parede.
+Ficaram por um instante olhando a série na parede.
 
 — O pincel? — ele perguntou.
 

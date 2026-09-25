@@ -43,7 +43,7 @@ Houve um silêncio. Do tipo que as mães aprendem a respeitar.
 
 Camila sentiu os olhos arderem.
 
-— Pode — disse ela, e a voz saiu firme, mesmo com o nó na garganta. — Você pode amar o seu pai o quanto quiser. Isso não me machuca. Isso não diminui o meu amor por você. Na verdade... — ela engoliu — ...me deixa mais orgulhosa ainda.
+— Pode — disse ela, e a voz saiu firme, mesmo com o nó na garganta. — Você pode amar o seu pai o quanto quiser. Isso não me machuca. Isso não diminui o meu amor por você. Na verdade... — ela engoliu — me deixa mais orgulhosa ainda.
 
 Léo baixou a cabeça, e Camila viu duas lágrimas caírem no tampo da mesa.
 

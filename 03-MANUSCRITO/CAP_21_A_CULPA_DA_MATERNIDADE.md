@@ -63,7 +63,7 @@ Quando chamaram Léo, o lugar ao lado dela ainda estava vazio.
 
 --- 
 
-Léo subiu no palquinho improvisado. Cartolina grande nas mãos. Nervoso mas tentando parecer confiante.
+Léo subiu no palquinho improvisado. Cartolina grande nas mãos. Nervoso, mas tentando parecer confiante.
 
 Camila viu o momento exato em que ele procurou o pai na plateia.
 
@@ -115,7 +115,7 @@ Porque o pai não tinha vindo. De novo.
 
 Final das apresentações. Pais buscando filhos. Elogios. Fotos.
 
-Camila encontrou Léo no corredor. Ele tentou sorrir mas falhou.
+Camila encontrou Léo no corredor. Ele tentou sorrir, mas falhou.
 
 — Você foi ótimo, amor. Muito ótimo.
 

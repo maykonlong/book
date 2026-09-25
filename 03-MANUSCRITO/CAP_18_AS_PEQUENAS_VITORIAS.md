@@ -134,7 +134,7 @@ Ela colocou as mochilas das crianças no carro. Ignorou Ricardo tentando argumen
 
 No caminho para casa, sentiu adrenalina. Confronto ainda a deixava nervosa.
 
-Mas também sentiu...triunfo?
+Mas também sentiu... triunfo?
 
 Ela tinha dito não. E não tinha explicado demais. Não tinha se justificado. Não tinha cedido.
 
@@ -212,7 +212,7 @@ Ela molhou o pincel. Pegou azul. Começou.
 
 Não planejou. Só... sentiu.
 
-Azul profundo. Depois azul claro. Um pouco de branco. Movimento.
+Azul profundo. Depois azul-claro. Um pouco de branco. Movimento.
 
 Água. Ondas.
 

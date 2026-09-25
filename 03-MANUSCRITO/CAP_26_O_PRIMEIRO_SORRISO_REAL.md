@@ -48,7 +48,7 @@ Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só 
 
 A arte dela tinha atravessado a distância entre duas mulheres que nunca se conheceram. E tinha dito: *eu também.*
 
-Isso valia mais que os quinhentos reais. Valia uma vida inteira de "isso não é hobby, é perda de tempo".
+Isso valia mais que os quinhentos reais. Valia uma vida inteira de "isso não é passatempo, é perda de tempo".
 
 — Pode ser — disse Camila, tentando não tremer.
 

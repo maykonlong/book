@@ -33,7 +33,7 @@ Camila olhou para o homem, enfim, de verdade.
 
 Talvez trinta e cinco anos. Altura média. Cabelo castanho levemente bagunçado. Óculos de armação fina. Suéter casual. Sorriso gentil.
 
-— É exatamente isso — ela disse. — Afundando mas vendo caminho para cima.
+— É exatamente isso — ela disse. — Afundando, mas vendo caminho para cima.
 
 — Pessoal?
 
@@ -47,7 +47,7 @@ Ele acenou. Não perguntou mais. Respeitou o espaço dela.
 
 — Camila.
 
-Aperto firme mas não esmagador. Mão quente. Olhos que realmente olhavam quando falava.
+Aperto firme, mas não esmagador. Mão quente. Olhos que realmente olhavam quando falava.
 
 — Você pinta há muito tempo?
 
@@ -175,7 +175,7 @@ Casual demais.
 
 *"Oi Daniel, Camila. Desculpa a demora pra responder. Trabalho louco. Tudo bem?"*
 
-Quase apagou mas ENVIOU antes que pudesse.
+Quase apagou, mas ENVIOU antes que pudesse.
 
 Encarou a tela. Mensagem enviada. Duas marcas de leitura.
 
@@ -189,7 +189,7 @@ Simples. Fácil. Amigável.
 
 Ela exalou.
 
-*"Tive sim. Pintei paisagem hoje. Primeira vez tentando paisagem. Saiu meio torto mas ok haha"*
+*"Tive sim. Pintei paisagem hoje. Primeira vez tentando paisagem. Saiu meio torto, mas ok haha"*
 
 *"Tenho certeza que ficou lindo. Você tem talento real. Vi naquela noite."*
 
@@ -280,7 +280,7 @@ Daniel tentou puxar assunto.
 — Não. Tive muito trabalho no escritório. Fechamento de mês. — Resposta seca. Curta.
 
 Ele tentou de novo.
-— Entendo. Eu também tô corrigindo provas finais. É um pesadelo. Alunos acham que professor adora dar nota baixa, mas na verdade a gente sofre junto.
+— Entendo. Eu também tô corrigindo provas finais. É um pesadelo. Alunos acham que professor adora dar nota baixa, mas, na verdade, a gente sofre junto.
 
 Era uma piada. Camila deveria rir.
 Mas ela só pensou: *Ele vai começar a reclamar do trabalho agora. Igual ao Ricardo.*
@@ -376,7 +376,7 @@ E ele tinha respeitado.
 Isso era uma informação nova e valiosa.
 
 Ela não ia namorar o Daniel.
-Mas saber que existiam "Daniéis" no mundo fazia o futuro parecer muito menos assustador.
+Mas saber que existiam homens como ele no mundo fazia o futuro parecer muito menos assustador.
 
 Ligou o rádio. Estava tocando uma música animada.
 Camila dirigiu para casa cantando.

@@ -4,7 +4,7 @@
 Nove anos.
 O primeiro aniversário do Léo pós-separação.
 
-Camila queria fazer uma festa. Não tinha dinheiro para buffet (o divórcio estava drenando tudo), então decidiu fazer em casa.
+Camila queria fazer uma festa. Não tinha dinheiro para bufê (o divórcio estava drenando tudo), então decidiu fazer em casa.
 Festa das antigas. Bolo de cenoura com cobertura de chocolate. Brigadeiro enrolado na mão (com ajuda da Bia). Sanduíche de carne louca.
 Convidou três amigos da escola e os primos.
 
@@ -19,7 +19,7 @@ A festa estava acontecendo. Léo estava feliz, correndo com os amigos pela sala,
 Camila servia refrigerante, limpava chão, organizava tudo. Exausta, mas contente.
 
 Uma das mães, a do amigo Miguel, se aproximou enquanto Camila recolhia copos descartáveis.
-— Nossa, você fez tudo isso sozinha? Eu terceirizei a festa do Miguel. Buffet, recreador, bolo de confeitaria. Não tive coragem de encarar.
+— Nossa, você fez tudo isso sozinha? Eu terceirizei a festa do Miguel. Bufê, recreador, bolo de confeitaria. Não tive coragem de encarar.
 — É... deu trabalho. — Camila sorriu, sem jeito.
 — Você é uma guerreira. — A mulher apertou o braço dela, num gesto de admiração genuína.
 

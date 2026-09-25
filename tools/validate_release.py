@@ -37,6 +37,19 @@ FORBIDDEN_TEXT = (
     "os snacks",
     "band-aid",
     "stalkeava",
+    "Campeonato Brasileiro",
+    "receita de antibiótico",
+    "Bia dormia no berço",
+    "gerente de projetos",
+    "saiu de casa decidida",
+    "assumiria as parcelas que faltavam",
+    "feed do Instagram",
+    "decanter",
+    "happy hour",
+    "performance",
+    "hobby",
+    "não era um status",
+    "39,2ºC",
 )
 
 
@@ -65,9 +78,36 @@ def validate_chapters() -> int:
     leftovers = [token for token in FORBIDDEN_TEXT if token.casefold() in combined.casefold()]
     if leftovers:
         fail(f"Resíduos linguísticos encontrados: {leftovers}")
+    if "Tipo o quê? eu" in combined:
+        fail("Letra minúscula indevida após interrogação")
 
     if any("Daniel" in text for text in texts[:26]):
         fail("Daniel aparece antes do capítulo 27")
+
+    continuity_markers = {
+        9: "Ricardo voltou para casa tarde",
+        10: "mudança definitiva de Ricardo",
+        11: "gerente comercial",
+        12: "Abril estava no dia 8",
+    }
+    for chapter_number, marker in continuity_markers.items():
+        if marker.casefold() not in texts[chapter_number - 1].casefold():
+            fail(f"Marcador de continuidade ausente no capítulo {chapter_number}: {marker}")
+
+    repeated_sentences: dict[str, set[int]] = {}
+    for chapter_number, text in enumerate(texts, 1):
+        for sentence in re.split(r"(?<=[.!?])\s+", text):
+            normalized = " ".join(re.findall(r"[\wÀ-ÿ]+", sentence.casefold()))
+            if len(normalized.split()) >= 10:
+                repeated_sentences.setdefault(normalized, set()).add(chapter_number)
+    duplicates = {
+        sentence: chapters
+        for sentence, chapters in repeated_sentences.items()
+        if len(chapters) > 1
+    }
+    if duplicates:
+        sample = next(iter(duplicates.items()))
+        fail(f"Frase longa repetida nos capítulos {sorted(sample[1])}: {sample[0]}")
 
     ending = texts[-1]
     for sentence in ("Estava solteira.", "Estava feliz.", "Estava inteira."):

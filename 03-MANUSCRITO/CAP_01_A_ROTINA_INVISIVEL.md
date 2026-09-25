@@ -25,7 +25,7 @@ Mas ela não fez isso.
 
 Claro que não.
 
-Em vez disso, ela realizou sua primeira performance do dia: a saída silenciosa. Deslizou para fora da cama com a leveza de uma bailarina exausta, pisando no chão frio de porcelanato que enviou um choque térmico até sua espinha. Melhor assim. Ajudava a despertar.
+Em vez disso, ela realizou seu primeiro ritual do dia: a saída silenciosa. Deslizou para fora da cama com a leveza de uma bailarina exausta, pisando no chão frio de porcelanato que enviou um choque térmico até sua espinha. Melhor assim. Ajudava a despertar.
 
 Ela recolheu o roupão de seda que estava caído na poltrona do canto — a mesma poltrona onde Ricardo havia jogado a calça do trabalho na noite anterior, ignorando o cesto de roupa suja a dois metros de distância. Camila pegou a calça dele automaticamente. Não pensou. Não reclamou. Apenas pegou e colocou no cesto.
 
@@ -241,7 +241,7 @@ O dia no escritório foi aquele borrão frenético de quem trabalha em agência 
 Tudo era "para ontem". 
 "Camila, precisamos aprovar o layout."
 "Camila, o cliente não gostou da fonte."
-"Camila, o relatório de performance caiu."
+"Camila, o resultado da campanha caiu."
 
 Ela resolveu tudo. Apagou incêndios com a competência de quem faz isso há anos. Ela era boa no que fazia. Muito boa. Organizada, criativa, ágil.
 

@@ -216,7 +216,7 @@ Sobre a mesa estavam os três trabalhos que Paula escolhera para a exposição. 
 
 Abriu o caderno na primeira frase: *Eu me sinto sozinha mesmo com ele do lado.*
 
-Olhou para o primeiro quadro, todo em azul escuro, com uma figura quase escondida debaixo d'água.
+Olhou para o primeiro quadro, todo em azul-escuro, com uma figura quase escondida debaixo d'água.
 
 Pegou um lápis e escreveu numa etiqueta:
 

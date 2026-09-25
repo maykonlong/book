@@ -28,7 +28,7 @@ No caixa, o cartão tremeu na mão.
 
 A lista mental atacou sem piedade. Onze anos de treino a fizeram uma especialista em transformar qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. A conta automática da sobrecarga, sempre ligada, começava antes mesmo de ela decidir.
 
-*Quem você pensa que é? Artista?* A voz da mãe ecoou do passado, pontual como sempre. *Arte é hobby. Hobby sem futuro.*
+*Quem você pensa que é? Artista?* A voz da mãe ecoou do passado, pontual como sempre. *Arte é passatempo. Passatempo sem futuro.*
 
 A culpa buzinou alto.
 Mas ela passou o cartão mesmo assim.
@@ -45,7 +45,7 @@ Era estranho. E, ao mesmo tempo, libertador.
 Camila arrumou a mesa da sala de jantar. Tirou a toalha. Colocou jornais velhos.
 Dispôs as tintas. Encheu um pote de vidro (um pote de geleia reaproveitado) com água limpa.
 
-Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num espaço separado. Ela passou o dedo sobre elas com respeito. Azul cobalto. Vermelho profundo. Amarelo terroso. Verde intenso. Nomes que pareciam feitiços.
+Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num espaço separado. Ela passou o dedo sobre elas com respeito. Azul-cobalto. Vermelho profundo. Amarelo terroso. Verde intenso. Nomes que pareciam feitiços.
 
 Pegou o bloco de papel, arrancou a folha de cima. Encheu o peito de ar.
 
@@ -60,7 +60,7 @@ O medo de ser ruim gritou. O medo de estragar o papel caro gritou junto.
 
 — Só começa — sussurrou para si mesma. — Não precisa ser bonito. Só precisa existir.
 
-Pegou o pincel redondo número 6. Molhou. Pegou um pouco de azul cobalto.
+Pegou o pincel redondo número 6. Molhou. Pegou um pouco de azul-cobalto.
 
 A mão tremia.
 Ela encostou o pincel no papel.
@@ -82,7 +82,7 @@ A água ora obedecia, ora fazia o que queria. E Camila descobriu que não se imp
 
 Não estava pintando "algo". Estava pintando "sentimento".
 
-Pintou a raiva da torneira (vermelho escuro, traços fortes). A raiva de quem pinga, pinga, pinga e ninguém conserta. A raiva de ser a única que conserta.
+Pintou a raiva da torneira (vermelho-escuro, traços fortes). A raiva de quem pinga, pinga, pinga e ninguém conserta. A raiva de ser a única que conserta.
 
 Pintou a saudade das crianças (amarelo pálido, suave). O cheiro do cabelo do Léo depois do banho. A risada da Bia explodindo como bolhas de sabão.
 
@@ -130,7 +130,7 @@ Limpou os pincéis com carinho. Lavou o pote. Guardou as tintas na caixa nova co
 Foi dormir com cheiro de tinta guache (ok, aquarela não tem cheiro, mas a memória olfativa inventou um).
 
 Naquela noite, ela não sonhou com boletos.
-Sonhou que estava nadando em um mar de azul cobalto, e que sabia respirar debaixo d'água.
+Sonhou que estava nadando em um mar de azul-cobalto, e que sabia respirar debaixo d'água.
 
 Na manhã seguinte, Camila acordou e viu as cinco folhas secas espalhadas pela mesa, e a luz da manhã atravessando as cores. Ela ficou um tempo olhando, meio incrédula, como quem acorda e confirma que o sonho era real.
 

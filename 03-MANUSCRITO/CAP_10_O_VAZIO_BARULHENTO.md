@@ -22,7 +22,7 @@ Olhou para o "lugar dele". O canto esquerdo do sofá em L, onde o estofado já t
 
 Estava vazio.
 
-Não tinha ninguém rolando o feed do Instagram. Ninguém reclamando do governo. Ninguém pedindo cerveja. Ninguém ignorando ela.
+Não tinha ninguém rolando o Instagram. Ninguém reclamando do governo. Ninguém pedindo cerveja. Ninguém ignorando ela.
 
 Só o vazio.
 
@@ -119,7 +119,7 @@ Ela já tinha marcado uma consulta com a Dra. Patrícia Alves, uma mulher de qua
 
 Tinha um longo caminho pela frente.
 
-Mas pelo menos agora tinha um caminho.
+Mas, pelo menos, agora tinha um caminho.
 
 ---
 

@@ -62,7 +62,7 @@ Não de deboche. Mas de alívio.
 Ela passara anos achando que *ela* era o problema. Que *ela* não era boa o suficiente. Que *ela* era desorganizada.
 Mas a desordem dele provava o contrário.
 
-Durante onze anos, ela se perguntou por que a casa nunca ficava "perfeita" o suficiente. Por que a louça nunca estava "no lugar". Por que ela nunca conseguia alcançar o padrão que ele parecia exigir.
+Durante onze anos, ela se perguntou por que a casa nunca ficava "perfeita" o suficiente, por que a louça nunca estava "no lugar" e por que ela nunca conseguia alcançar o padrão que ele parecia exigir.
 
 A resposta estava ali, naquela kitnet fedorenta: o padrão não era dele. O padrão era o dela — alto, invisível, autoimposto — e ela o carregava sozinha. Ele só cobrava. Ele nunca construía.
 

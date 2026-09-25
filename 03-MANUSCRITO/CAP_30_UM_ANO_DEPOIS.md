@@ -227,7 +227,7 @@ Terapia seguinte. Dr. Lucas foi mais direto.
 
 — Mas eu preciso me proteger...
 
-— De dano real, sim. Mas não de possibilidade de felicidade. — Firme mas gentil. — Em cada interação que você descreveu, Daniel mostrou respeito, comunicação clara, limites saudáveis. Mas você insiste em encontrar problema.
+— De dano real, sim. Mas não de possibilidade de felicidade. — Firme, mas gentil. — Em cada interação que você descreveu, Daniel mostrou respeito, comunicação clara, limites saudáveis. Mas você insiste em encontrar problema.
 
 — E se eu perdi alguma coisa?
 
@@ -245,7 +245,7 @@ Dr. Lucas continuou:
 
 Fazia sentido.
 
-Assustador mas fazia sentido.
+Assustador, mas fazia sentido.
 
 ---
 
@@ -255,7 +255,7 @@ Naquela noite, Daniel ligou.
 
 — Claro.
 
-— Eu percebo que você está... guardada. Cautelosa. E entendo. Não sei os detalhes do seu passado mas vejo os efeitos. — Pausa. — E quero que você saiba: estou aqui sem pressa. No ritmo que você precisar.
+— Eu percebo que você está... guardada. Cautelosa. E entendo. Não sei os detalhes do seu passado, mas vejo os efeitos. — Pausa. — E quero que você saiba: estou aqui sem pressa. No ritmo que você precisar.
 
 A honestidade dele desarmou as defesas.
 
@@ -277,7 +277,7 @@ Significava que ele estava levando a sério.
 
 Parte de Camila queria entrar em pânico.
 
-Mas a nova parte - a parte crescente - queria tentar.
+Desta vez, a curiosidade falou mais alto que o medo.
 
 — Eu... acho que sim. Seria legal.
 

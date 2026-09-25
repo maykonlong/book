@@ -117,7 +117,7 @@ Dr. Lucas estendeu uma caixa de lenços. Ela pegou um, assoou o nariz sem elegâ
 
 — De onde veio a ideia de que ser artista era perda de tempo? — perguntou Dr. Lucas, inclinando-se.
 Camila piscou. Ninguém nunca tinha perguntado isso.
-— Da minha mãe — respondeu, sem pensar. — Ela dizia que arte era "hobby sem futuro". Que eu precisava de uma carreira "de verdade".
+— Da minha mãe — respondeu, sem pensar. — Ela dizia que arte era "passatempo sem futuro". Que eu precisava de uma carreira "de verdade".
 — E você acreditou.
 — Acreditei. — A voz de Camila ficou pequena. — Troquei a agência de publicidade — que eu amava — por um emprego "estável". Guardei os pincéis. Virei prática.
 — E agora?
@@ -147,7 +147,7 @@ A memória veio como um flash de luz — e, com ela, um cheiro.
 
 Camila aos vinte anos, no quartinho alugado da época da faculdade, sentada no chão com uma caixa de aquarela aberta no colo. O cheiro de tinta, de papel molhado, de café passado na hora. Ela pintava até tarde, quando devia estar estudando. Pintava sem pressa, sem obrigação, sem ninguém olhando o relógio. Só ela e a cor se espalhando no papel.
 
-A mãe dizia que aquilo era "hobby sem futuro". O pai, distante, nem dizia nada. Mas Camila, ali no chão do quartinho, não estava pensando em futuro. Estava pensando em como o azul virava verde quando se misturava com amarelo. Em como o mundo parecia maior quando ela tinha um pincel na mão.
+A mãe dizia que aquilo era "passatempo sem futuro". O pai, distante, nem dizia nada. Mas Camila, ali no chão do quartinho, não estava pensando em futuro. Estava pensando em como o azul virava verde quando se misturava com amarelo. Em como o mundo parecia maior quando ela tinha um pincel na mão.
 
 Ela apertou as pálpebras, tentando segurar a lembrança. Tinha mais: os saraus na Vila Madalena, onde ia com as amigas da agência e recitava poesia com a voz trêmula de vergonha e coragem. Os livros empilhados na cabeceira. Os cadernos onde escrevia contos que nunca mostrou a ninguém.
 

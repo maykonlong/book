@@ -13,7 +13,7 @@ Tateou a mesa de cabeceira, derrubou o copo d'água, achou o termômetro.
 Colocou embaixo do braço. Esperou, tremendo debaixo do edredom, embora estivesse suando frio.
 
 *Pi-pi-pi.*
-39,2ºC.
+39,2 °C.
 
 — Ai, meu Deus — sussurrou. A voz não saiu. Era só um chiado doloroso.
 

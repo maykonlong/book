@@ -16,7 +16,7 @@ Olhou para a caixa de ferramentas que Ricardo tinha deixado para trás (provavel
 
 — Eu dou conta — disse em voz alta para a cozinha vazia.
 
-Abriu o Youtube. *"Como consertar torneira pingando fácil".*
+Abriu o YouTube. *"Como consertar torneira pingando fácil".*
 Vídeo de 5 minutos. Parecia simples. Desligar o registro. Desenroscar não sei o quê. Trocar a "borrachinha".
 
 Camila foi à loja de ferragens. O vendedor olhou para ela com aquele ar de "querida, você sabe o que está fazendo?".
@@ -88,7 +88,7 @@ Ela limpou a cozinha. Secou o chão. Tomou um banho quente.
 
 E naquela noite, quando foi beber água na cozinha antes de dormir, olhou para a torneira com um carinho inédito.
 Ela não precisava de um homem para estancar os vazamentos da sua vida.
-Ela só precisava dela mesma, de um vídeo no Youtube e de teimosia.
+Ela só precisava dela mesma, de um vídeo no YouTube e de teimosia.
 
 Muita teimosia.
 E isso, Camila tinha de sobra.
@@ -223,9 +223,9 @@ Fernanda percebeu.
 
 — Você precisa fazer algo nesses dias, Cá.
 
-— Tipo o quê? eu não tenho nada.
+— Tipo o quê? Eu não tenho nada.
 
-— Então arranja. Hobby. Amigos. Qualquer coisa. Para de ficar sozinha na caverna se martirizando.
+— Então arranja. Um passatempo. Amigos. Qualquer coisa. Para de ficar sozinha na caverna se martirizando.
 
 Foi Dr. Lucas que ajudou a dar direção:
 

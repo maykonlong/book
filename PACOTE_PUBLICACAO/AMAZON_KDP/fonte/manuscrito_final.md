@@ -85,7 +85,7 @@ Mas ela não fez isso.
 
 Claro que não.
 
-Em vez disso, ela realizou sua primeira performance do dia: a saída silenciosa. Deslizou para fora da cama com a leveza de uma bailarina exausta, pisando no chão frio de porcelanato que enviou um choque térmico até sua espinha. Melhor assim. Ajudava a despertar.
+Em vez disso, ela realizou seu primeiro ritual do dia: a saída silenciosa. Deslizou para fora da cama com a leveza de uma bailarina exausta, pisando no chão frio de porcelanato que enviou um choque térmico até sua espinha. Melhor assim. Ajudava a despertar.
 
 Ela recolheu o roupão de seda que estava caído na poltrona do canto — a mesma poltrona onde Ricardo havia jogado a calça do trabalho na noite anterior, ignorando o cesto de roupa suja a dois metros de distância. Camila pegou a calça dele automaticamente. Não pensou. Não reclamou. Apenas pegou e colocou no cesto.
 
@@ -301,7 +301,7 @@ O dia no escritório foi aquele borrão frenético de quem trabalha em agência 
 Tudo era "para ontem".
 "Camila, precisamos aprovar o layout."
 "Camila, o cliente não gostou da fonte."
-"Camila, o relatório de performance caiu."
+"Camila, o resultado da campanha caiu."
 
 Ela resolveu tudo. Apagou incêndios com a competência de quem faz isso há anos. Ela era boa no que fazia. Muito boa. Organizada, criativa, ágil.
 
@@ -456,7 +456,7 @@ Ela pegou o celular e abriu o bloco de notas. Criou uma lista nova, digitando co
 
 **ANIVERSÁRIO LÉO - 8 ANOS**
 1. *Tema (Homem-Aranha ou Vingadores? Perguntar sutilmente).*
-2. *Local (Casa? Salão do prédio? Buffet é caro demais este ano?).*
+2. *Local (Casa? Salão do prédio? Bufê é caro demais este ano?).*
 3. *Lista de convidados (Escola + Família + Vizinhos).*
 4. *Convites (Digital é mais barato, mas ele gosta de entregar).*
 5. *Bolo (A moça do ano passado subiu o preço. Pesquisar outra).*
@@ -508,9 +508,9 @@ Ricardo olhou para ela com uma expressão confusa, como se ela tivesse sugerido 
 
 Era a armadilha perfeita. O elogio que aprisiona.
 
-— Não é questão de bom gosto, Ricardo. É questão de tempo. Eu estou afogada no escritório. Eu preciso de ajuda para ligar para os buffets, ou pra ir comprar as coisas se for em casa.
+— Não é questão de bom gosto, Ricardo. É questão de tempo. Eu estou afogada no escritório. Eu preciso de ajuda para ligar para os bufês, ou pra ir comprar as coisas se for em casa.
 
-— Tá, mas... eu não tenho tempo pra ficar ligando pra buffet, Camila. Meu chefe tá no meu pé essa semana.
+— Tá, mas... eu não tenho tempo pra ficar ligando pra bufê, Camila. Meu chefe tá no meu pé essa semana.
 
 — E o meu chefe não está no meu?
 
@@ -530,7 +530,7 @@ Ele falou com a satisfação de quem acabara de resolver uma equação complexa.
 
 Para Ricardo, "pagar" era a carta de alforria. O dinheiro comprava sua isenção de pesquisar preços, de encher balões até ficar tonto, de limpar brigadeiro do tapete, de lidar com a birra de pré-festa.
 
-Ele não entendia que "organizar" não era um hobby. Era trabalho. Trabalho não remunerado, invisível e exaustivo.
+Ele não entendia que "organizar" não era um passatempo. Era trabalho. Trabalho não remunerado, invisível e exaustivo.
 
 — Ricardo, não é só dinheiro. É a carga mental. É ter que pensar em tudo, lembrar de tudo...
 
@@ -560,7 +560,7 @@ Porque se ela não fizesse, Léo não teria festa. E Léo não tinha culpa de te
 
 Os quinze dias seguintes foram um borrão de ansiedade e correrias na hora do almoço.
 
-Camila decidiu fazer a festa no salão do prédio. Era mais barato que um buffet e dava menos trabalho que fazer dentro do apartamento. Mas "menos trabalho" era relativo.
+Camila decidiu fazer a festa no salão do prédio. Era mais barato que um bufê e dava menos trabalho que fazer dentro do apartamento. Mas "menos trabalho" era relativo.
 
 Ela passava sua hora de almoço no centro da cidade, comprando descartáveis na 25 de Março, escolhendo lembrancinhas, negociando com a boleira. À noite, depois que as crianças dormiam e Ricardo roncava, ela colava etiquetas nos tubetes de doces, enrolava guardanapos e montava as sacolinhas surpresa.
 
@@ -572,7 +572,7 @@ Ele transferiu o dinheiro. E sentiu que sua parte estava feita.
 
 ---
 
-O dia da festa amanheceu cinza, mas quente. Sábado, 25 de janeiro.
+O dia da festa amanheceu cinza, mas quente. Sábado, no fim de janeiro.
 
 Camila acordou às 05h30. Não conseguia dormir mais. A lista mental estava gritando: *buscar o bolo, encher as bebidas, levar a decoração pro salão, limpar o salão (porque o zelador nunca limpava direito), arrumar as crianças...*
 
@@ -580,7 +580,7 @@ Ela levantou, tomou um café preto em pé e começou.
 
 Às 09h00, ela estava no salão de festas, em cima de uma escada bamba, tentando prender um painel gigante do Homem-Aranha na parede de azulejos.
 
-Ricardo desceu às 09h30, vestindo bermuda e chinelos, segurando sua caneca de café.
+Ricardo desceu às 09h30, vestindo bermuda e calçando chinelos, segurando sua caneca de café.
 
 — Eita, já tá assim? — comentou, olhando a bagunça de balões murchos e caixas.
 
@@ -674,7 +674,7 @@ Nenhuma resposta.
 
 Quatro e meia. Hora do parabéns.
 
-O buffet (na verdade, a vizinha que ela contratou para ajudar a servir) avisou que o bolo estava derretendo com o calor. Precisavam cantar.
+A responsável por servir — na verdade, uma vizinha que ela contratou — avisou que o bolo estava derretendo com o calor. Precisavam cantar.
 
 Camila reuniu as crianças. Apagou as luzes.
 
@@ -1045,15 +1045,15 @@ O celular vibrou outra vez. Ricardo chamando.
 
 Camila atendeu no primeiro toque, aliviada.
 — Oi, amor! Onde você está? O jantar tá quase...
-— Oi, Cá. — A voz dele estava alta, com barulho de fundo. Risadas. Vidro. Vozes masculinas. — Escuta, esqueci de avisar. O pessoal da firma animou um happy hour aqui no barzinho da esquina do escritório. Tô aqui com o Marcão, o Felipe...
+— Oi, Cá. — A voz dele estava alta, com barulho de fundo. Risadas. Vidro. Vozes masculinas. — Escuta, esqueci de avisar. O pessoal da firma animou um barzinho depois do expediente, aqui na esquina do escritório. Tô aqui com o Marcão, o Felipe...
 
 Camila sentiu o chão abrir.
 
-— Happy hour? — repetiu ela. Sua voz saiu estranha. Oca. — Agora?
+— Barzinho? — repetiu ela. Sua voz saiu estranha. Oca. — Agora?
 
 — É, a gente veio comemorar o fechamento do mês. Tomei umas duas já. Tá bem legal. Você não se importa se eu chegar mais tarde, né? Janta alguma coisa aí com as crianças, não me espera.
 
-Camila olhou para a mesa posta. Para os guardanapos de tecido dobrados em forma de origami (ela tinha visto no YouTube). Para o vinho respirando no decanter. Para o seu próprio reflexo no vidro escuro da janela, vestida e perfumada para ninguém.
+Camila olhou para a mesa posta. Para os guardanapos de tecido dobrados em forma de origami (ela tinha visto no YouTube). Para o vinho aberto numa jarra de vidro. Para o seu próprio reflexo no vidro escuro da janela, vestida e perfumada para ninguém.
 
 — Ricardo... eu fiz jantar.
 
@@ -1144,7 +1144,7 @@ Camila voltou para a sala. Tirou a mesa. Jogou o resto da comida em potes plást
 
 Apagou as luzes.
 
-Ricardo chegou às 01h30 da manhã.
+Ricardo chegou à uma e meia da manhã.
 Tropeçou no tapete da entrada. Ria sozinho. Cheiro de álcool e cigarro (ele não fumava, mas o bar devia estar cheio).
 
 Camila estava no sofá, no escuro. Ainda de vestido.
@@ -1526,7 +1526,7 @@ Tateou a mesa de cabeceira, derrubou o copo d'água, achou o termômetro.
 Colocou embaixo do braço. Esperou, tremendo debaixo do edredom, embora estivesse suando frio.
 
 *Pi-pi-pi.*
-39,2ºC.
+39,2 °C.
 
 — Ai, meu Deus — sussurrou. A voz não saiu. Era só um chiado doloroso.
 
@@ -2210,7 +2210,7 @@ Olhou para o "lugar dele". O canto esquerdo do sofá em L, onde o estofado já t
 
 Estava vazio.
 
-Não tinha ninguém rolando o feed do Instagram. Ninguém reclamando do governo. Ninguém pedindo cerveja. Ninguém ignorando ela.
+Não tinha ninguém rolando o Instagram. Ninguém reclamando do governo. Ninguém pedindo cerveja. Ninguém ignorando ela.
 
 Só o vazio.
 
@@ -2307,7 +2307,7 @@ Ela já tinha marcado uma consulta com a Dra. Patrícia Alves, uma mulher de qua
 
 Tinha um longo caminho pela frente.
 
-Mas pelo menos agora tinha um caminho.
+Mas, pelo menos, agora tinha um caminho.
 
 ---
 
@@ -3181,7 +3181,7 @@ Dr. Lucas estendeu uma caixa de lenços. Ela pegou um, assoou o nariz sem elegâ
 
 — De onde veio a ideia de que ser artista era perda de tempo? — perguntou Dr. Lucas, inclinando-se.
 Camila piscou. Ninguém nunca tinha perguntado isso.
-— Da minha mãe — respondeu, sem pensar. — Ela dizia que arte era "hobby sem futuro". Que eu precisava de uma carreira "de verdade".
+— Da minha mãe — respondeu, sem pensar. — Ela dizia que arte era "passatempo sem futuro". Que eu precisava de uma carreira "de verdade".
 — E você acreditou.
 — Acreditei. — A voz de Camila ficou pequena. — Troquei a agência de publicidade — que eu amava — por um emprego "estável". Guardei os pincéis. Virei prática.
 — E agora?
@@ -3211,7 +3211,7 @@ A memória veio como um flash de luz — e, com ela, um cheiro.
 
 Camila aos vinte anos, no quartinho alugado da época da faculdade, sentada no chão com uma caixa de aquarela aberta no colo. O cheiro de tinta, de papel molhado, de café passado na hora. Ela pintava até tarde, quando devia estar estudando. Pintava sem pressa, sem obrigação, sem ninguém olhando o relógio. Só ela e a cor se espalhando no papel.
 
-A mãe dizia que aquilo era "hobby sem futuro". O pai, distante, nem dizia nada. Mas Camila, ali no chão do quartinho, não estava pensando em futuro. Estava pensando em como o azul virava verde quando se misturava com amarelo. Em como o mundo parecia maior quando ela tinha um pincel na mão.
+A mãe dizia que aquilo era "passatempo sem futuro". O pai, distante, nem dizia nada. Mas Camila, ali no chão do quartinho, não estava pensando em futuro. Estava pensando em como o azul virava verde quando se misturava com amarelo. Em como o mundo parecia maior quando ela tinha um pincel na mão.
 
 Ela apertou as pálpebras, tentando segurar a lembrança. Tinha mais: os saraus na Vila Madalena, onde ia com as amigas da agência e recitava poesia com a voz trêmula de vergonha e coragem. Os livros empilhados na cabeceira. Os cadernos onde escrevia contos que nunca mostrou a ninguém.
 
@@ -3255,7 +3255,7 @@ Olhou para a caixa de ferramentas que Ricardo tinha deixado para trás (provavel
 
 — Eu dou conta — disse em voz alta para a cozinha vazia.
 
-Abriu o Youtube. *"Como consertar torneira pingando fácil".*
+Abriu o YouTube. *"Como consertar torneira pingando fácil".*
 Vídeo de 5 minutos. Parecia simples. Desligar o registro. Desenroscar não sei o quê. Trocar a "borrachinha".
 
 Camila foi à loja de ferragens. O vendedor olhou para ela com aquele ar de "querida, você sabe o que está fazendo?".
@@ -3327,7 +3327,7 @@ Ela limpou a cozinha. Secou o chão. Tomou um banho quente.
 
 E naquela noite, quando foi beber água na cozinha antes de dormir, olhou para a torneira com um carinho inédito.
 Ela não precisava de um homem para estancar os vazamentos da sua vida.
-Ela só precisava dela mesma, de um vídeo no Youtube e de teimosia.
+Ela só precisava dela mesma, de um vídeo no YouTube e de teimosia.
 
 Muita teimosia.
 E isso, Camila tinha de sobra.
@@ -3462,9 +3462,9 @@ Fernanda percebeu.
 
 — Você precisa fazer algo nesses dias, Cá.
 
-— Tipo o quê? eu não tenho nada.
+— Tipo o quê? Eu não tenho nada.
 
-— Então arranja. Hobby. Amigos. Qualquer coisa. Para de ficar sozinha na caverna se martirizando.
+— Então arranja. Um passatempo. Amigos. Qualquer coisa. Para de ficar sozinha na caverna se martirizando.
 
 Foi Dr. Lucas que ajudou a dar direção:
 
@@ -3849,7 +3849,7 @@ No caixa, o cartão tremeu na mão.
 
 A lista mental atacou sem piedade. Onze anos de treino a fizeram uma especialista em transformar qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. A conta automática da sobrecarga, sempre ligada, começava antes mesmo de ela decidir.
 
-*Quem você pensa que é? Artista?* A voz da mãe ecoou do passado, pontual como sempre. *Arte é hobby. Hobby sem futuro.*
+*Quem você pensa que é? Artista?* A voz da mãe ecoou do passado, pontual como sempre. *Arte é passatempo. Passatempo sem futuro.*
 
 A culpa buzinou alto.
 Mas ela passou o cartão mesmo assim.
@@ -3866,7 +3866,7 @@ Era estranho. E, ao mesmo tempo, libertador.
 Camila arrumou a mesa da sala de jantar. Tirou a toalha. Colocou jornais velhos.
 Dispôs as tintas. Encheu um pote de vidro (um pote de geleia reaproveitado) com água limpa.
 
-Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num espaço separado. Ela passou o dedo sobre elas com respeito. Azul cobalto. Vermelho profundo. Amarelo terroso. Verde intenso. Nomes que pareciam feitiços.
+Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num espaço separado. Ela passou o dedo sobre elas com respeito. Azul-cobalto. Vermelho profundo. Amarelo terroso. Verde intenso. Nomes que pareciam feitiços.
 
 Pegou o bloco de papel, arrancou a folha de cima. Encheu o peito de ar.
 
@@ -3881,7 +3881,7 @@ O medo de ser ruim gritou. O medo de estragar o papel caro gritou junto.
 
 — Só começa — sussurrou para si mesma. — Não precisa ser bonito. Só precisa existir.
 
-Pegou o pincel redondo número 6. Molhou. Pegou um pouco de azul cobalto.
+Pegou o pincel redondo número 6. Molhou. Pegou um pouco de azul-cobalto.
 
 A mão tremia.
 Ela encostou o pincel no papel.
@@ -3903,7 +3903,7 @@ A água ora obedecia, ora fazia o que queria. E Camila descobriu que não se imp
 
 Não estava pintando "algo". Estava pintando "sentimento".
 
-Pintou a raiva da torneira (vermelho escuro, traços fortes). A raiva de quem pinga, pinga, pinga e ninguém conserta. A raiva de ser a única que conserta.
+Pintou a raiva da torneira (vermelho-escuro, traços fortes). A raiva de quem pinga, pinga, pinga e ninguém conserta. A raiva de ser a única que conserta.
 
 Pintou a saudade das crianças (amarelo pálido, suave). O cheiro do cabelo do Léo depois do banho. A risada da Bia explodindo como bolhas de sabão.
 
@@ -3951,7 +3951,7 @@ Limpou os pincéis com carinho. Lavou o pote. Guardou as tintas na caixa nova co
 Foi dormir com cheiro de tinta guache (ok, aquarela não tem cheiro, mas a memória olfativa inventou um).
 
 Naquela noite, ela não sonhou com boletos.
-Sonhou que estava nadando em um mar de azul cobalto, e que sabia respirar debaixo d'água.
+Sonhou que estava nadando em um mar de azul-cobalto, e que sabia respirar debaixo d'água.
 
 Na manhã seguinte, Camila acordou e viu as cinco folhas secas espalhadas pela mesa, e a luz da manhã atravessando as cores. Ela ficou um tempo olhando, meio incrédula, como quem acorda e confirma que o sonho era real.
 
@@ -4099,7 +4099,7 @@ Ela colocou as mochilas das crianças no carro. Ignorou Ricardo tentando argumen
 
 No caminho para casa, sentiu adrenalina. Confronto ainda a deixava nervosa.
 
-Mas também sentiu...triunfo?
+Mas também sentiu... triunfo?
 
 Ela tinha dito não. E não tinha explicado demais. Não tinha se justificado. Não tinha cedido.
 
@@ -4177,7 +4177,7 @@ Ela molhou o pincel. Pegou azul. Começou.
 
 Não planejou. Só... sentiu.
 
-Azul profundo. Depois azul claro. Um pouco de branco. Movimento.
+Azul profundo. Depois azul-claro. Um pouco de branco. Movimento.
 
 Água. Ondas.
 
@@ -4733,7 +4733,7 @@ Quando chamaram Léo, o lugar ao lado dela ainda estava vazio.
 
 ---
 
-Léo subiu no palquinho improvisado. Cartolina grande nas mãos. Nervoso mas tentando parecer confiante.
+Léo subiu no palquinho improvisado. Cartolina grande nas mãos. Nervoso, mas tentando parecer confiante.
 
 Camila viu o momento exato em que ele procurou o pai na plateia.
 
@@ -4785,7 +4785,7 @@ Porque o pai não tinha vindo. De novo.
 
 Final das apresentações. Pais buscando filhos. Elogios. Fotos.
 
-Camila encontrou Léo no corredor. Ele tentou sorrir mas falhou.
+Camila encontrou Léo no corredor. Ele tentou sorrir, mas falhou.
 
 — Você foi ótimo, amor. Muito ótimo.
 
@@ -5206,7 +5206,7 @@ Voltou para o quarto. Camila ficou olhando o corredor vazio, já sabendo que aqu
 Nove anos.
 O primeiro aniversário do Léo pós-separação.
 
-Camila queria fazer uma festa. Não tinha dinheiro para buffet (o divórcio estava drenando tudo), então decidiu fazer em casa.
+Camila queria fazer uma festa. Não tinha dinheiro para bufê (o divórcio estava drenando tudo), então decidiu fazer em casa.
 Festa das antigas. Bolo de cenoura com cobertura de chocolate. Brigadeiro enrolado na mão (com ajuda da Bia). Sanduíche de carne louca.
 Convidou três amigos da escola e os primos.
 
@@ -5221,7 +5221,7 @@ A festa estava acontecendo. Léo estava feliz, correndo com os amigos pela sala,
 Camila servia refrigerante, limpava chão, organizava tudo. Exausta, mas contente.
 
 Uma das mães, a do amigo Miguel, se aproximou enquanto Camila recolhia copos descartáveis.
-— Nossa, você fez tudo isso sozinha? Eu terceirizei a festa do Miguel. Buffet, recreador, bolo de confeitaria. Não tive coragem de encarar.
+— Nossa, você fez tudo isso sozinha? Eu terceirizei a festa do Miguel. Bufê, recreador, bolo de confeitaria. Não tive coragem de encarar.
 — É... deu trabalho. — Camila sorriu, sem jeito.
 — Você é uma guerreira. — A mulher apertou o braço dela, num gesto de admiração genuína.
 
@@ -5398,7 +5398,7 @@ Houve um silêncio. Do tipo que as mães aprendem a respeitar.
 
 Camila sentiu os olhos arderem.
 
-— Pode — disse ela, e a voz saiu firme, mesmo com o nó na garganta. — Você pode amar o seu pai o quanto quiser. Isso não me machuca. Isso não diminui o meu amor por você. Na verdade... — ela engoliu — ...me deixa mais orgulhosa ainda.
+— Pode — disse ela, e a voz saiu firme, mesmo com o nó na garganta. — Você pode amar o seu pai o quanto quiser. Isso não me machuca. Isso não diminui o meu amor por você. Na verdade... — ela engoliu — me deixa mais orgulhosa ainda.
 
 Léo baixou a cabeça, e Camila viu duas lágrimas caírem no tampo da mesa.
 
@@ -5598,7 +5598,7 @@ Não de deboche. Mas de alívio.
 Ela passara anos achando que *ela* era o problema. Que *ela* não era boa o suficiente. Que *ela* era desorganizada.
 Mas a desordem dele provava o contrário.
 
-Durante onze anos, ela se perguntou por que a casa nunca ficava "perfeita" o suficiente. Por que a louça nunca estava "no lugar". Por que ela nunca conseguia alcançar o padrão que ele parecia exigir.
+Durante onze anos, ela se perguntou por que a casa nunca ficava "perfeita" o suficiente, por que a louça nunca estava "no lugar" e por que ela nunca conseguia alcançar o padrão que ele parecia exigir.
 
 A resposta estava ali, naquela kitnet fedorenta: o padrão não era dele. O padrão era o dela — alto, invisível, autoimposto — e ela o carregava sozinha. Ele só cobrava. Ele nunca construía.
 
@@ -5716,7 +5716,7 @@ Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só 
 
 A arte dela tinha atravessado a distância entre duas mulheres que nunca se conheceram. E tinha dito: *eu também.*
 
-Isso valia mais que os quinhentos reais. Valia uma vida inteira de "isso não é hobby, é perda de tempo".
+Isso valia mais que os quinhentos reais. Valia uma vida inteira de "isso não é passatempo, é perda de tempo".
 
 — Pode ser — disse Camila, tentando não tremer.
 
@@ -5835,7 +5835,7 @@ Camila olhou para o homem, enfim, de verdade.
 
 Talvez trinta e cinco anos. Altura média. Cabelo castanho levemente bagunçado. Óculos de armação fina. Suéter casual. Sorriso gentil.
 
-— É exatamente isso — ela disse. — Afundando mas vendo caminho para cima.
+— É exatamente isso — ela disse. — Afundando, mas vendo caminho para cima.
 
 — Pessoal?
 
@@ -5849,7 +5849,7 @@ Ele acenou. Não perguntou mais. Respeitou o espaço dela.
 
 — Camila.
 
-Aperto firme mas não esmagador. Mão quente. Olhos que realmente olhavam quando falava.
+Aperto firme, mas não esmagador. Mão quente. Olhos que realmente olhavam quando falava.
 
 — Você pinta há muito tempo?
 
@@ -5977,7 +5977,7 @@ Casual demais.
 
 *"Oi Daniel, Camila. Desculpa a demora pra responder. Trabalho louco. Tudo bem?"*
 
-Quase apagou mas ENVIOU antes que pudesse.
+Quase apagou, mas ENVIOU antes que pudesse.
 
 Encarou a tela. Mensagem enviada. Duas marcas de leitura.
 
@@ -5991,7 +5991,7 @@ Simples. Fácil. Amigável.
 
 Ela exalou.
 
-*"Tive sim. Pintei paisagem hoje. Primeira vez tentando paisagem. Saiu meio torto mas ok haha"*
+*"Tive sim. Pintei paisagem hoje. Primeira vez tentando paisagem. Saiu meio torto, mas ok haha"*
 
 *"Tenho certeza que ficou lindo. Você tem talento real. Vi naquela noite."*
 
@@ -6082,7 +6082,7 @@ Daniel tentou puxar assunto.
 — Não. Tive muito trabalho no escritório. Fechamento de mês. — Resposta seca. Curta.
 
 Ele tentou de novo.
-— Entendo. Eu também tô corrigindo provas finais. É um pesadelo. Alunos acham que professor adora dar nota baixa, mas na verdade a gente sofre junto.
+— Entendo. Eu também tô corrigindo provas finais. É um pesadelo. Alunos acham que professor adora dar nota baixa, mas, na verdade, a gente sofre junto.
 
 Era uma piada. Camila deveria rir.
 Mas ela só pensou: *Ele vai começar a reclamar do trabalho agora. Igual ao Ricardo.*
@@ -6178,7 +6178,7 @@ E ele tinha respeitado.
 Isso era uma informação nova e valiosa.
 
 Ela não ia namorar o Daniel.
-Mas saber que existiam "Daniéis" no mundo fazia o futuro parecer muito menos assustador.
+Mas saber que existiam homens como ele no mundo fazia o futuro parecer muito menos assustador.
 
 Ligou o rádio. Estava tocando uma música animada.
 Camila dirigiu para casa cantando.
@@ -6474,7 +6474,7 @@ Daniel?
 
 Deu risada.
 
-— Ai não! — Pegou guardanapos. Começou a limpar. — Tá tudo bem, moço. Acontece.
+— Ai, não! — Pegou guardanapos. Começou a limpar. — Tá tudo bem, moço. Acontece.
 
 Camila ficou olhando. Não era a reação que ela conhecia. O Ricardo teria bufado, revirado os olhos, mandado chamar o gerente, deixado o resto do encontro nublado por aquela irritação que nunca passava. Daniel simplesmente... limpou. E voltou a sorrir para ela, como se a poça de café fosse apenas uma poça de café — não um teste de caráter que ele tinha acabado de passar sem saber que existia.
 
@@ -6610,7 +6610,7 @@ Ele disse sem hesitação. Genuíno.
 
 — Claro. — Sorriso caloroso. — Então... me manda mensagem quando quiser a próxima vez. Sem pressa.
 
-Abraçaram-se para despedida. Breve mas gostoso.
+Abraçaram-se para despedida. Breve, mas gostoso.
 
 E Camila caminhou até o carro pensando:
 
@@ -6642,7 +6642,7 @@ Resposta imediata:
 
 *"Ele foi... gentil. Paciente. Real. E parte de mim continua esperando que o outro sapato caia."*
 
-*"É o passado falando, Cá. Você vai demorar para confiar. Normal. Mas pelo menos você tentou."*
+*"É o passado falando, Cá. Você vai demorar para confiar. Normal. Mas, pelo menos, você tentou."*
 
 *"Eu gostei dele."*
 
@@ -6662,7 +6662,7 @@ Abriu o diário. Escreveu:
 
 *Quando o café derramou, não irritou. Riu.*
 
-*Coisa pequena mas mostra caráter.*
+*Coisa pequena, mas mostra caráter.*
 
 *Estou com medo. Porque foi bom. E bom é assustador depois de tanto ruim.*
 
@@ -6672,7 +6672,7 @@ Abriu o diário. Escreveu:
 
 *Ou pode não ser.*
 
-*Mas pelo menos estou tentando.*
+*Mas, pelo menos, estou tentando.*
 
 *E isso é algo."*
 
@@ -6927,7 +6927,7 @@ Terapia seguinte. Dr. Lucas foi mais direto.
 
 — Mas eu preciso me proteger...
 
-— De dano real, sim. Mas não de possibilidade de felicidade. — Firme mas gentil. — Em cada interação que você descreveu, Daniel mostrou respeito, comunicação clara, limites saudáveis. Mas você insiste em encontrar problema.
+— De dano real, sim. Mas não de possibilidade de felicidade. — Firme, mas gentil. — Em cada interação que você descreveu, Daniel mostrou respeito, comunicação clara, limites saudáveis. Mas você insiste em encontrar problema.
 
 — E se eu perdi alguma coisa?
 
@@ -6945,7 +6945,7 @@ Dr. Lucas continuou:
 
 Fazia sentido.
 
-Assustador mas fazia sentido.
+Assustador, mas fazia sentido.
 
 ---
 
@@ -6955,7 +6955,7 @@ Naquela noite, Daniel ligou.
 
 — Claro.
 
-— Eu percebo que você está... guardada. Cautelosa. E entendo. Não sei os detalhes do seu passado mas vejo os efeitos. — Pausa. — E quero que você saiba: estou aqui sem pressa. No ritmo que você precisar.
+— Eu percebo que você está... guardada. Cautelosa. E entendo. Não sei os detalhes do seu passado, mas vejo os efeitos. — Pausa. — E quero que você saiba: estou aqui sem pressa. No ritmo que você precisar.
 
 A honestidade dele desarmou as defesas.
 
@@ -6977,7 +6977,7 @@ Significava que ele estava levando a sério.
 
 Parte de Camila queria entrar em pânico.
 
-Mas a nova parte - a parte crescente - queria tentar.
+Desta vez, a curiosidade falou mais alto que o medo.
 
 — Eu... acho que sim. Seria legal.
 
@@ -7993,7 +7993,7 @@ Onze anos com o Ricardo a tinham ensinado que presentes eram, na melhor das hip�
 
 Por isso, quando o Daniel apareceu com uma caixa embrulhada em papel pardo, sem data especial nenhuma, Camila desconfiou.
 
-— Que dia é hoje? — perguntou ela, tentando lembrar. — Meu aniversário é em março. Dia dos namorados é em junho. O que eu esqueci?
+— Que dia é hoje? — perguntou ela, tentando lembrar. — Meu aniversário é em março. Dia dos Namorados é em junho. O que eu esqueci?
 
 — Nada — disse Daniel, sorrindo. — Não precisa ter data. Eu só vi uma coisa e lembrei de você.
 
@@ -8781,7 +8781,7 @@ Sobre a mesa estavam os três trabalhos que Paula escolhera para a exposição. 
 
 Abriu o caderno na primeira frase: *Eu me sinto sozinha mesmo com ele do lado.*
 
-Olhou para o primeiro quadro, todo em azul escuro, com uma figura quase escondida debaixo d'água.
+Olhou para o primeiro quadro, todo em azul-escuro, com uma figura quase escondida debaixo d'água.
 
 Pegou um lápis e escreveu numa etiqueta:
 
@@ -8910,7 +8910,7 @@ Camila levou os filhos até a parede central.
 
 Os três quadros estavam pendurados lado a lado, emoldurados com simplicidade — molduras de madeira clara, sem vidro, para que a textura da tinta fosse visível.
 
-O primeiro se chamava **"Afogamento"**. Tons de azul escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob camadas de tinta pesada. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
+O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob camadas de tinta pesada. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
 
 O segundo, **"Superfície"**. Azuis mais claros, com rasgos de amarelo. A mesma silhueta, agora com a cabeça acima da linha d'água. Uma mão erguida, alcançando algo. Não era bonito — era cru, honesto, quase doloroso. Era a fase em que respirar já era uma vitória.
 
@@ -8968,7 +8968,7 @@ Pausa.
 
 Ela olhou para os três quadros.
 
-— A metade que me faltava não era um homem. Não era um status. Não era aprovação.
+— A metade que me faltava não era um homem. Não era um rótulo. Não era aprovação.
 
 Sorriu. Um sorriso que iluminou a sala como o dourado do terceiro quadro.
 
@@ -8992,7 +8992,7 @@ Daniel se aproximou quando ainda havia gente no salão.
 
 — Não pareceu.
 
-Ficaram um instante olhando a série na parede.
+Ficaram por um instante olhando a série na parede.
 
 — O pincel? — ele perguntou.
 

@@ -7,7 +7,7 @@ Onze anos com o Ricardo a tinham ensinado que presentes eram, na melhor das hip�
 
 Por isso, quando o Daniel apareceu com uma caixa embrulhada em papel pardo, sem data especial nenhuma, Camila desconfiou.
 
-— Que dia é hoje? — perguntou ela, tentando lembrar. — Meu aniversário é em março. Dia dos namorados é em junho. O que eu esqueci?
+— Que dia é hoje? — perguntou ela, tentando lembrar. — Meu aniversário é em março. Dia dos Namorados é em junho. O que eu esqueci?
 
 — Nada — disse Daniel, sorrindo. — Não precisa ter data. Eu só vi uma coisa e lembrei de você.
 
