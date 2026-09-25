@@ -23,3 +23,12 @@ desktop.ini
 *.mobi
 *.kpf
 *.docx
+
+# Pacote final de publicação (deve permanecer versionado)
+!PACOTE_PUBLICACAO/**/*.pdf
+!PACOTE_PUBLICACAO/**/*.epub
+
+# Saídas temporárias de validação
+__pycache__/
+PACOTE_PUBLICACAO/.qa/
+PACOTE_PUBLICACAO/.qa2/

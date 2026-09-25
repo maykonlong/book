@@ -5,9 +5,9 @@ O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando
 
 Não se tornou.
 
-Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — literal e metaforicamente.
+Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — nem a de dinheiro, nem a da vida.
 
-Você já fez essa conta sozinha? A conta que não fecha, no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. É a conta mais solitária que existe.
+Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
 Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. O mês estava no dia 8.
 
@@ -45,7 +45,7 @@ Camila riu, achando que era piada.
 
 — Não é pra largar o emprego. É pra complementar. — Fernanda deu de ombros. — Eu vendi brigadeiro gourmet no primeiro ano pós-divórcio. Pagava o aluguel. Depois larguei, quando o salário cobriu.
 
-Camila ficou olhando para a amiga, processando. Bolo no pote. Ela, a "coordenadora de marketing", vendendo bolo no pote.
+Camila ficou olhando para a amiga, pensando no que tinha acabado de ouvir. Bolo no pote. Ela, a "coordenadora de marketing", vendendo bolo no pote.
 
 *E daí?* — uma voz dentro dela rebateu. *Orgulho não paga condomínio.*
 
@@ -83,7 +83,7 @@ Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, se
 
 E, aos poucos, a conta que não fechava começou a fechar. Não folgada. Apertada, no limite, mas fechando.
 
-Você já sentiu isso? A dignidade de ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. É uma dignidade que ninguém tira.
+Havia uma dignidade nova em ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. Uma dignidade que ninguém podia tirar.
 
 ---
 

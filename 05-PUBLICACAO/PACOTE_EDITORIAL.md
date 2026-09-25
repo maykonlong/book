@@ -12,11 +12,11 @@
 | **Subtítulo** | A jornada de uma mulher que cansou de ser a única a tentar |
 | **Autor(a)** | Mariana Duarte (pseudônimo) |
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
-| **Palavras** | ~56.600 |
-| **Capítulos** | 40 (3 atos) |
-| **Páginas estimadas** | ~235–280 (papel, ~250 palavras/página) |
+| **Palavras** | ~54.600 nos capítulos (~55.200 com textos iniciais e finais) |
+| **Capítulos** | 40 (4 atos) |
+| **Páginas da edição preparada** | 278 (5,5 × 8,5 pol.) |
 | **Narração** | 3ª pessoa íntima + diálogo direto com a leitora |
-| **Público-alvo** | Mulheres de 28–45 anos |
+| **Público-alvo** | Mulheres adultas, especialmente mães e mulheres casadas, separadas ou divorciadas |
 | **Sensibilidade** | Sem cenas explícitas; temas de sobrecarga mental, divórcio e recomeço |
 
 ---
@@ -92,27 +92,28 @@ ficção feminina · autodescoberta · empoderamento feminino · divórcio · re
 
 ## 7. RESUMO DA HISTÓRIA
 
-### Ato I — Estagnação e Ruptura (Cap. 1–9)
-Camila é uma mulher de 34 anos, mãe de Léo e Bia, casada com Ricardo, que carrega sozinha a casa, os filhos e a carga mental do casamento. Ao longo do Ato I, acompanhamos sua exaustão invisível: o aniversário que o marido não ajudou a organizar, a terapia que ele ridicularizou, as pequenas sabotagens passivo-agressivas. O desabafo com a amiga Fernanda (a metáfora da "planta morta") planta a semente do divórcio. O ponto de ruptura é uma manhã em que Camila está com febre alta e Ricardo a chama de "preguiçosa" — e deixa o leite derramado para ela limpar. Ela sai de casa, pede o divórcio, enfrenta a sogra e conta aos filhos.
+### Ato I — Invisível dentro de casa (Cap. 1–10)
+Camila é uma mulher de 34 anos, mãe de Léo e Bia, casada com Ricardo, que carrega sozinha a casa, os filhos e a carga mental do casamento. O aniversário que o marido não ajuda a organizar, a terapia que ele ridiculariza e as pequenas sabotagens do cotidiano tornam a exaustão impossível de esconder. O ponto de ruptura chega numa manhã de febre e leite derramado. Camila pede o divórcio, conversa com os filhos e atravessa as primeiras horas da casa sem Ricardo.
 
-### Ato II — Desconstrução e Redescobrimento (Cap. 10–28)
-Sozinha, Camila enfrenta o processo burocrático, o medo financeiro (resolve com a venda de bolo no pote), a pressão da família e a culpa materna. Começa a terapia, volta a pintar, aprende a ficar sozinha (o sábado só dela), reconstrói a autoestima no trabalho e encontra uma tribo feminina. Atravessa o primeiro Natal sozinha, o primeiro Dia das Mães e as primeiras férias a três, enquanto os filhos processam a separação. O Ato termina com Camila sorrindo de verdade pela primeira vez — pronta para se abrir de novo.
+### Ato II — Aprender a ficar de pé (Cap. 11–21)
+Sozinha, Camila enfrenta o processo burocrático, o medo financeiro, a pressão da família e a culpa materna. Começa a terapia, cria renda com bolo no pote, aprende a ficar sozinha, volta a pintar e encontra uma rede de mulheres no ateliê. O ato termina quando a ausência de Ricardo numa apresentação escolar obriga mãe, pai e filho a encarar o que a separação ainda dói.
 
-### Ato III — Abertura e Entrega (Cap. 29–40)
-Camila conhece Daniel, resiste por medo, mas se permite viver um amor saudável. As crianças o conhecem, a família se integra (viagem a quatro), o casal enfrenta a primeira briga e aprende que conflito não é abandono. Daniel a presenteia com um pincel (prova de atenção), e ela conhece a mãe dele, que a acolhe. No reencontro casual com Ricardo, Camila percebe que não sente mais nada — "o fogo apagou, a corda se soltou". Ela escreve uma carta à sua versão do passado e, na exposição de arte final, vestida de vermelho, entende a grande verdade do livro: **a metade que lhe faltava nunca esteve fora — sempre esteve dentro dela.**
+### Ato III — Fechar o passado e abrir espaço (Cap. 22–30)
+Camila atravessa o primeiro Natal sozinha, o aniversário de Léo, as perguntas dos filhos e o contraste com a vida de Ricardo. Expõe a própria arte, conhece Daniel, recusa a volta ao casamento e conclui o divórcio.
+
+### Ato IV — Amor sem perder a si mesma (Cap. 31–40)
+Camila apresenta Daniel aos filhos com cuidado, amplia a ideia de família e aprende que conflito não precisa significar abandono. No reencontro com Ricardo, percebe que ele já não controla suas emoções. Na exposição final, vestida de vermelho, entende a verdade central do livro: **a metade que lhe faltava nunca esteve fora — sempre esteve dentro dela.**
 
 ---
 
 ## 8. PRÓXIMOS PASSOS (para publicar)
 
-1. [ ] Preencher nome/bio da autora (Seção 5)
-2. [ ] Primeira revisão de estrutura (fluxo dos 40 capítulos)
-3. [ ] Revisão de personagens e diálogos
-4. [ ] Revisão ortográfica e gramatical
-5. [ ] Definir se expande para 75–85k (aprofundando capítulos médios)
-6. [ ] Formatação (ebook + papel) e capa
-7. [ ] Ficha catalográfica / ISBN (se impresso)
-8. [ ] Publicação (Amazon KDP e/ou editora)
+1. [x] Revisão de estrutura, continuidade, personagens e linguagem
+2. [x] Formatação de EPUB, miolo, capa Kindle e capa impressa
+3. [x] Metadados, descrição e checklist de envio
+4. [ ] Leitura humana final e prova física
+5. [ ] Definir ISBN, preço, categorias e territórios
+6. [ ] Publicar na Amazon KDP e ligar o botão de compra no site
 
 ---
 

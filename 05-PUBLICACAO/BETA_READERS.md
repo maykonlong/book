@@ -14,7 +14,7 @@
 
 ## 2. Perfil ideal (para este livro)
 
-- Mulheres de **28–45 anos**
+- Mulheres adultas, especialmente mães e mulheres casadas, separadas ou divorciadas
 - **Casadas, separadas ou divorciadas**
 - **Mães** (idealmente)
 - Leitoras de **ficção feminina / romance contemporâneo**

@@ -1,7 +1,7 @@
 ﻿# CAPÍTULO 16
 ## Um Sábado Só Minha
 
-Foi a primeira vez em nove anos que Camila acordou num sábado sem ninguém para cuidar.
+Foi a primeira vez desde que Léo nasceu que Camila acordou num sábado sem ninguém para cuidar.
 
 As crianças tinham ido passar o fim de semana com o Ricardo — a primeira visita oficial desde a separação — e o apartamento, que sempre fora barulhento, agora estava mergulhado num silêncio tão absoluto que dava para ouvir a geladeira zumbindo.
 
@@ -13,11 +13,11 @@ E, enfim, ela percebeu o quanto a ausência de tarefas podia doer.
 
 *E agora?* — pensou. *O que eu faço com um dia inteiro só meu?*
 
-Era uma pergunta que ela não sabia responder. Porque, durante nove anos, ela tinha sido mãe antes de ser qualquer coisa. E, sem os filhos por perto, não sabia mais quem era.
+Era uma pergunta que ela não sabia responder. Porque, desde que Léo nasceu, ela tinha sido mãe antes de ser qualquer coisa. E, sem os filhos por perto, não sabia mais quem era.
 
 ---
 
-Você já se sentiu assim? De repente sem a agenda cheia, sem o papel que te define, sem ninguém precisando de você — e, no lugar, um vazio que assusta. A gente passa tanto tempo vivendo para os outros que, quando fica sozinha, não sabe mais viver para si.
+De repente, ela estava sem a agenda cheia, sem o papel que a definia, sem ninguém precisando dela — e, no lugar, havia um vazio que assustava. Passara tanto tempo vivendo para os outros que já não sabia viver para si.
 
 Camila levantou, mais no automático do que por vontade. Fez um café. Tomou olhando pela janela. E foi aí que percebeu: fazia anos que não tomava café sentada. Café, para ela, era uma coisa que se bebia de pé, apressada, entre uma tarefa e outra.
 
@@ -57,7 +57,7 @@ Pintou o silêncio. Pintou a rua. Pintou a solidão — e, no processo, descobri
 
 Era uma companhia.
 
-Você já pintou, escreveu, cozinhou ou dançou só por você? Sem plateia, sem objetivo, sem ninguém para aprovar. É um ato revolucionário, num mundo que nos ensina a só fazer o que rende, o que agrada, o que produz. Fazer algo só porque te dá prazer é uma forma de dizer: eu importo. A minha alegria importa.
+Pintar, escrever, cozinhar ou dançar sem plateia, sem objetivo e sem ninguém para aprovar parecia um ato de coragem. Num mundo que ensinava a fazer apenas o que rendia, agradava ou produzia, criar por prazer era uma forma de dizer: *eu importo. A minha alegria importa.*
 
 ---
 

@@ -1,74 +1,39 @@
 # DIRETRIZES DE FORMATAÇÃO E PUBLICAÇÃO
-## Projeto: "A Metade Que Me Faltava Era Eu"
 
-Este documento define as especificações técnicas para a diagramação final do livro, visando um formato impresso profissional.
+## Especificação final
 
-### 1. Especificações Técnicas (Target: Livro Físico A5)
+Esta é a configuração aprovada da primeira edição independente de **A Metade Que Me Faltava Era Eu**.
 
-Estes são os parâmetros alvo para a diagramação no software de editoração (InDesign, Word, ou similar).
+| Item | Especificação |
+|---|---|
+| Formato | Brochura |
+| Tamanho final | 5,5 × 8,5 polegadas (13,97 × 21,59 cm) |
+| Miolo | Preto e branco em papel creme |
+| Sangria | Sem sangria |
+| Extensão | 278 páginas, incluindo página final em branco |
+| Fonte do corpo | Georgia incorporada |
+| Capítulos | 40, sempre iniciados em nova página |
+| Ilustrações | Sete aberturas: capítulos 1, 8, 12, 17, 27, 34 e 40 |
+| Capa Kindle | JPG RGB, 1600 × 2560 px |
+| Capa impressa | PDF de uma página + JPG CMYK de conferência, 300 dpi |
+| Lombada calculada | 0,695 pol. para 278 páginas em papel creme |
 
-*   **Tamanho da Página:** A5 (14,0 cm x 21,0 cm)
-*   **Margens:**
-    *   Superior: 2,0 cm
-    *   Inferior: 2,0 cm
-    *   Externa: 2,0 cm
-    *   Interna (Miolo): 2,5 cm (para compensar a lombada)
-*   **Fonte do Corpo do Texto:**
-    *   Família: Serifada clássica (Times New Roman, Garamond, ou Adobe Caslon Pro).
-    *   Tamanho: 11 pt (ou 11.5 pt dependendo da altura-x da fonte escolhida).
-    *   Entrelinha (Leading): 1.15 (ou exatos 13-14 pt).
-*   **Densidade de Texto (Estimada):**
-    *   Caracteres por página: 1.200 a 1.800 (com espaços).
-    *   Palavras por página: 250 a 320.
-    *   Linhas por página: 28 a 32.
+## Arquivos oficiais
 
-### 2. Estrutura dos Capítulos e Estimativa de Paginação
+- Miolo: `PACOTE_PUBLICACAO/AMAZON_KDP/impresso/miolo-5.5x8.5-creme-sem-sangria.pdf`
+- Capa completa: `PACOTE_PUBLICACAO/AMAZON_KDP/impresso/capa-completa-5.5x8.5-creme.pdf`
+- eBook: `PACOTE_PUBLICACAO/AMAZON_KDP/ebook/A_Metade_Que_Me_Faltava_Era_Eu.epub`
+- Capa Kindle: `PACOTE_PUBLICACAO/AMAZON_KDP/ebook/capa-kindle-1600x2560-v2.jpg`
 
-Baseado no volume de caracteres atual (arquivos Markdown), esta é a estimativa de páginas impressas por capitulo (considerando média de 1.500 caracteres/página).
+## Regras editoriais mantidas
 
-*Nota: esta tabela é o registro histórico do rascunho original (27 capítulos). O livro final tem 40 capítulos — o total atualizado está no fim da seção. Capítulos iniciais (1-3) são propositalmente mais longos para estabelecer a "prisão" da rotina; os finais, mais curtos e poéticos para dar leveza ao desfecho.*
+- Diálogos com travessão.
+- Quebras de cena padronizadas e centralizadas.
+- Itálico reservado a pensamentos, mensagens e ênfases narrativas necessárias.
+- Linguagem direta, afetiva e acessível, sem apagar a personalidade da narração.
+- Ilustrações usadas apenas em viradas importantes, para criar conexão sem interromper o ritmo.
+- Títulos, nomes, idades e cronologia devem seguir `02-ESTRUTURA/CRONOLOGIA.md` e `02-ESTRUTURA/ESTRUTURA_CAPITULOS.md`.
 
-| Capítulo | Arquivo | Tamanho Aprox. (Bytes) | Pág. Estimadas (A5) | Obs. |
-| :--- | :--- | :--- | :--- | :--- |
-| **01** | CAP_01_A_ROTINA_INVISIVEL.md | 18 KB | **12** | Introdução densa |
-| **02** | CAP_02_O_ANIVERSARIO_ESQUECIDO.md | 33 KB | **22** | Capítulo pivô |
-| **03** | CAP_03_A_TENTATIVA_DA_TERAPIA.md | 10 KB | **7** | |
-| **04** | CAP_04_AS_PEQUENAS_SABOTAGENS.md | 8 KB | **5** | |
-| **05** | CAP_05_A_CONVERSA_COM_FERNANDA.md | 6 KB | **4** | Diálogo rápido |
-| **06** | CAP_06_A_ULTIMA_TENTATIVA.md | 7 KB | **5** | |
-| **07** | CAP_07_A_GOTA_DAGUA.md | 7 KB | **5** | Incidente incitante |
-| **08** | CAP_08_EU_QUERO_ME_SEPARAR.md | 16 KB | **11** | Clímax do Ato I |
-| **09** | CAP_09_A_CONVERSA_COM_OS_FILHOS.md | 9 KB | **6** | Emocional |
-| **10** | CAP_10_O_VAZIO_BARULHENTO.md | 12 KB | **8** | Introspectivo |
-| **11** | CAP_11_O_PROCESSO.md | 4.5 KB | **3** | Transição rápida |
-| **12** | CAP_12_A_PRESSAO_DA_FAMILIA.md | 14 KB | **9** | |
-| **13** | CAP_13_A_PRIMEIRA_SESSAO.md | 5 KB | **3** | |
-| **14** | CAP_14_A_NOVA_ROTINA.md | 13 KB | **9** | Cena da furadeira |
-| **15** | CAP_15_VOLTANDO_A_PINTAR.md | 3.5 KB | **2-3** | Poético |
-| **16** | CAP_16_AS_PEQUENAS_VITORIAS.md | 12 KB | **8** | |
-| **17** | CAP_17_O_GRUPO_DE_MULHERES.md | 4 KB | **3** | |
-| **18** | CAP_18_A_CULPA_DA_MATERNIDADE.md | 13 KB | **9** | Drama escolar |
-| **19** | CAP_19_O_ANIVERSARIO_DE_LEO.md | 4 KB | **3** | Aniversário de Léo |
-| **20** | CAP_20_O_CONTRASTE.md | 3.5 KB | **2-3** | Visita ao Ex |
-| **21** | CAP_21_O_PRIMEIRO_SORRISO_REAL.md | 3 KB | **2** | Venda do quadro |
-| **22** | CAP_22_O_ENCONTRO.md | 12 KB | **8** | Date com Daniel |
-| **23** | CAP_23_A_RESISTENCIA.md | 4 KB | **3** | Rejeição final |
-| **24** | CAP_24_O_FIM_E_O_COMECO.md | 9 KB | **6** | Divórcio + Primeiro Café |
-| **25** | CAP_25_UM_ANO_DEPOIS.md | 9 KB | **6** | Testes com Daniel |
-| **26** | CAP_26_CARTA_PARA_MIM_MESMA.md | 2 KB | **1-2** | Carta (Epílogo 1) |
-| **27** | CAP_27_A_METADE_QUE_ME_FALTAVA... | 2 KB | **1-2** | Final (Epílogo 2) |
+## Regra para qualquer alteração futura
 
-**Total Estimado de Páginas:** ~240 páginas (A5, 40 capítulos).
-(Romance curto / women's fiction).
-
-### 3. Checklist de Revisão Final
-
-Antes de exportar para PDF/Impressão:
-
-1.  [ ] **Padronização de Diálogos:** Verificar se todos usam travessão (—) e não hífen (-).
-2.  [ ] **Quebras de Cena:** Verificar se os separadores de cena (`---` ou `***`) estão centralizados e consistentes.
-3.  [ ] **Itálicos:** Verificar o uso de itálico para pensamentos internos (usado extensivamente no texto).
-4.  [ ] **Capítulos Curtos:** Garantir que capítulos com menos de 3 páginas comecem sempre em página ímpar (direita) para dar respiro, ou se podem ser contínuos. Recomenda-se começar cada capítulo em nova página.
-
----
-*Gerado automaticamente pelo Assistente de Escrita AI em 10/12/2025.*
+Qualquer mudança no manuscrito exige executar novamente `python tools/build_publication.py` e depois `python tools/validate_release.py`. Se a quantidade de páginas mudar, a largura da lombada muda e a capa impressa deve ser regenerada antes do envio.

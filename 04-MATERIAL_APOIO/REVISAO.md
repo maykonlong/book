@@ -1,6 +1,6 @@
 ﻿# 🔍 RELATÓRIO DE REVISÃO (1ª passada — coesão e continuidade)
 
-> Data: 17/09/2026 · Escopo: revisão estrutural e de personagens do manuscrito (40 capítulos).
+> Atualizado em 24/09/2026 · Escopo: revisão estrutural, linguagem e continuidade do manuscrito (40 capítulos).
 
 ---
 
@@ -14,8 +14,8 @@
 | Terapeuta | **Dr. Lucas** (homem) — consistente nos caps 14, 15, 18, 31, 32… |
 | Médica do PS | **Dra. Helena** (CAP 8) — papel distinto da terapeuta, sem conflito |
 | Mães/avós | Dona Sônia (mãe de Camila), Dona Vera (mãe de Ricardo), Dona Lúcia (mãe de Daniel) — três personagens distintas |
-| "Dois primeiros cafés" | Resolvido: CAP 31 explicita *"era o segundo café deles. O primeiro… tinha sido um desastre silencioso"* |
-| Cronologia das exposições | CAP 29 (exposição do ateliê, onde conhece Daniel) ≠ CAP 40 (exposição maior, final) — ~1 ano de distância |
+| "Dois primeiros cafés" | Resolvido: CAP 29 explicita *"era o segundo café deles. O primeiro… tinha sido um desastre silencioso"* |
+| Cronologia das exposições | CAP 26 (primeira exposição) ≠ CAP 27 (segunda, onde conhece Daniel) ≠ CAP 40 (exposição final) |
 | Idade de Léo | 8 (Ato I) → 9 (Atos II/III) — coerente |
 | Idade de Bia | 4 (Ato I) → 5 (Atos II/III) — coerente |
 | Daniel | Professor universitário de literatura (CAP 29) — coerente com a ficha |
@@ -37,8 +37,8 @@
 ## 📋 Pendências
 
 1. [x] **Revisão ortográfica/gramatical (1ª varredura automática)** — ver "Correções ortográficas" abaixo (recomenda-se ainda uma leitura humana em voz alta)
-2. [ ] **Beta readers** (mulheres 28–45, casadas/separadas, mães) — materiais prontos (`BETA_READERS.md` + `manuscrito_beta.html`); falta recrutar e coletar o feedback
-3. [x] **Expansão para 75–85k adiada** (decisão da autora — manter ~56.600 palavras por enquanto; média atual ~1.415 p/cap)
+2. [ ] **Beta readers** (mulheres adultas, especialmente mães e mulheres casadas/separadas) — materiais prontos (`BETA_READERS.md` + `manuscrito_beta.html`); falta recrutar e coletar o feedback
+3. [x] **Expansão para 75–85k adiada** (decisão da autora — edição final com ~54.600 palavras de história; média ~1.365 por capítulo)
 4. [ ] Preencher **nome/bio da autora** no pacote editorial
 5. [ ] Formatação final + capa
 
@@ -55,7 +55,7 @@
 - Palavras repetidas seguidas: **0**
 - Espaços duplos: **0**
 - Concordância de gênero ("obrigado/obrigada", "sozinho/sozinha"): **todos corretos** (inclusive "a obrigado" no CAP 40, que é particípio com "ter", invariável)
-- "vc" no bilhete do Léo (CAP 21): **mantido** — escrita autêntica de criança de 9 anos
+- "vc" no bilhete do Léo (CAP 21): **mantido** — escrita autêntica de criança de 8 anos
 
 > ⚠️ A varredura automática encontra erros óbvios, mas **não substitui** uma leitura humana em voz alta, que capta repetições de estilo, ritmo e nuances que o script não detecta.
 

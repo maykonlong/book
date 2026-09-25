@@ -2,7 +2,7 @@
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
-Capa preta. Primeira página datada de dois anos atrás.
+Capa preta. Primeira página datada de quase dois anos atrás.
 
 Leu as entradas antigas.
 *"Eu me sinto sozinha mesmo com ele do lado."*
@@ -52,7 +52,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 *Eu queria que você pudesse ver a gente agora.*
 *Você pinta quadros, Cá. Quadros lindos que as pessoas compram.*
 *Você tem um namorado (o Daniel!) que escuta quando você fala e acha sexy quando você está de pijama lendo.*
-*Seus filhos estão felizes. Eles aprenderam resiliência.*
+*Seus filhos estão felizes. Eles aprenderam a enfrentar dias difíceis.*
 
 *Mas o principal:*
 *Você ri.*
@@ -69,7 +69,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 *Com amor,*
 *Sua Camila inteira.*
 
-*PS: Guarde o vestido amarelo. Você vai usá-lo na exposição. E vai chorar de felicidade, não de dor.*
+*PS: Quando encontrar o vestido vermelho, leve. Você vai usá-lo na exposição. E vai chorar de felicidade, não de dor.*
 
 *PS2: A primeira vez que você dormir a noite inteira sem acordar com o coração disparado, saiba: é isso que a paz parece.*
 
@@ -77,8 +77,8 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
 Camila fechou o caderno.
 Uma lágrima caiu na capa. Não de tristeza.
-De reverência.
-Pela mulher que ela teve que matar para que essa pudesse viver.
+De respeito profundo.
+Pela mulher que precisou deixar para trás para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
 

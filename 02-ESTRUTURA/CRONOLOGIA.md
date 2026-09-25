@@ -1,281 +1,97 @@
-# ⏱️ CRONOLOGIA DE EVENTOS
+# CRONOLOGIA OFICIAL
 
-## 📅 LINHA DO TEMPO PRINCIPAL
+Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 
----
+## Antes da história
 
-## PASSADO (11 anos antes do início do livro)
+- Camila conhece Ricardo na juventude.
+- Aos 23 anos, Camila se casa. Ela ainda não está grávida.
+- Aos 26 anos, nasce Léo.
+- Quatro anos depois, nasce Bia.
+- No início do livro, Camila tem 34 anos, Léo está prestes a completar 8 e Bia tem 4.
+- O casamento dura 11 anos.
 
-### Ano -11: Faculdade
-- **Idade**: Camila 23, Ricardo 25
-- Camila grávida de Léo (não planejado)
-- Casamento rápido
-- Mudança para apartamento pequeno
-- Camila deixa emprego dos sonhos em agência criativa
+## Ano 0
 
-### Ano -7: Nascimento de Bia
-- Léo tem 4 anos
-- Camila 27, Ricardo 29
-- Segunda gravidez
-- Mudança para apartamento maior
-- Camila volta ao trabalho (home office parcial)
+### Janeiro — o desgaste fica impossível de ignorar
 
-### Ano -5: Início do Desgaste
-- Camila assume cada vez mais responsabilidades
-- Ricardo se acomoda
-- Primeiro padrão tóxico se estabelece
+- **Cap. 1 — A Rotina Invisível:** Camila carrega sozinha a casa, os filhos e a carga mental da família.
+- **Cap. 2 — O Aniversário Esquecido:** Léo completa 8 anos; Ricardo chega tarde à festa.
+- **Cap. 3 — A Tentativa da Terapia:** Ricardo recusa a terapia de casal.
+- **Cap. 4 — As Pequenas Sabotagens:** mais uma tentativa de aproximação termina em frustração.
+- **Cap. 5 — A Conversa com Fernanda:** Camila admite pela primeira vez que o casamento pode ter acabado.
 
-### Ano -2: Tentativas Fracassadas
-- Camila sugere mudanças (ignorada)
-- Distanciamento emocional aumenta
-- Sobrecarga atinge pico
+### Fevereiro — ruptura
 
----
+- **Cap. 6 — A Última Tentativa:** a viagem antes do Carnaval confirma que Ricardo não pretende mudar.
+- **Cap. 7 — A Gota d'Água:** doente, Camila percebe que nem no limite pode contar com ele.
+- **Cap. 8 — Eu Quero Me Separar:** Camila anuncia a decisão.
+- **Cap. 9 — A Conversa com os Filhos:** os filhos recebem a notícia.
+- **Cap. 10 — O Vazio Barulhento:** depois de duas semanas tensas, Ricardo sai de casa.
 
-## ANO 0: PRESENTE - INÍCIO DO LIVRO
+### Março a maio — sobrevivência e nova rotina
 
-### JANEIRO - "O Despertar"
-**Duração: Cap. 1-3**
+- **Cap. 11 — O Processo:** Camila procura uma advogada e entende guarda, pensão e divisão de bens.
+- **Cap. 12 — O Recomeço Financeiro:** ela reorganiza as contas e cria renda extra.
+- **Cap. 13 — A Pressão da Família:** Dona Sônia enfrenta as parentes e apoia a filha.
+- **Cap. 14 — A Primeira Sessão:** Camila começa a terapia.
+- **Cap. 15 — A Nova Rotina:** dois meses depois da saída de Ricardo, a casa começa a ter um novo ritmo.
+- **Cap. 16 — Um Sábado Só Minha:** primeiro fim de semana sem os filhos; Camila redescobre a própria companhia.
+- **Cap. 17 — Voltando a Pintar:** a arte volta à vida dela.
+- **Cap. 18 — As Pequenas Vitórias:** três meses depois da separação, Camila percebe avanços concretos.
 
-- **Semana 1**: Rotina exaustiva de Camila (Cap. 1)
-- **Semana 3**: Aniversário de Léo (8 anos) - Ricardo esquece (Cap. 2)
-- **Semana 4**: Camila sugere terapia de casal - Ricardo rejeita (Cap. 3)
+### Junho a novembro — reconstrução
 
----
+- **Cap. 19 — O Colega do Trabalho:** Camila volta a se enxergar como mulher, sem começar um romance.
+- **Cap. 20 — O Grupo de Mulheres:** a aula de aquarela vira uma rede de apoio.
+- **Cap. 21 — A Culpa da Maternidade:** a ausência de Ricardo numa apresentação de Léo expõe a dor do menino.
 
-### FEVEREIRO - "As Tentativas"
-**Duração: Cap. 4-5**
+### Dezembro — primeira grande data sozinha
 
-- **Primeira semana**: Jantar romântico sabotado por Ricardo (Cap. 4)
-- **Segunda semana**: Acúmulo de pequenas sabotagens
-- **Terceira semana**: Camila conversa com Fernanda pela primeira vez sobre separação (Cap. 5)
-- **Quarta semana**: Camila oscila entre desistir e tentar mais uma vez
+- **Cap. 22 — O Primeiro Natal Sozinha:** Camila cria um Natal mais simples e verdadeiro com os filhos.
 
----
+## Ano 1
 
-### MARÇO - "A Ruptura"
-**Duração: Cap. 6-9**
+### Janeiro e fevereiro — fechamento do ciclo
 
-- **Primeira semana**: Última conversa séria com Ricardo - ele reage mal (Cap. 6)
-- **Segunda semana**: Camila fica doente, Ricardo não ajuda - gota d'água (Cap. 7)
-- **Terceira semana**: Camila pede divórcio (Cap. 8)
-- **Quarta semana**: Conversa com os filhos / Ricardo sai de casa (Cap. 9)
+- **Cap. 23 — O Aniversário de Léo:** Léo completa 9 anos.
+- **Cap. 24 — O Dia em Que Léo Perguntou Sobre o Pai:** mãe e filho têm uma conversa honesta.
+- **Cap. 25 — O Contraste:** Camila vê como Ricardo vive sem o trabalho invisível dela.
+- **Cap. 26 — O Primeiro Sorriso Real:** na primeira exposição do ateliê, Camila vende um quadro e reconhece a própria alegria.
+- **Cap. 27 — O Encontro:** quase um ano após a separação, uma segunda exposição apresenta Daniel.
+- **Cap. 28 — A Resistência:** depois de onze meses separados, Ricardo tenta voltar; Camila mantém a decisão.
+- **Cap. 29 — O Fim e o Começo:** guarda, pensão, visitas e apartamento já estão resolvidos; o divórcio é concluído e Camila aceita conhecer Daniel.
+- **Cap. 30 — Um Ano Depois:** doze meses após a saída de Ricardo, a nova rotina está firme.
 
----
+### Maio a julho — a família se abre ao novo
 
-### ABRIL - "O Vazio e o Processo"
-**Duração: Cap. 10-11**
+- **Cap. 31 — O Dia das Mães:** primeiro Dia das Mães oficialmente divorciada.
+- **Cap. 32 — As Férias de Julho:** Camila descobre que viajar com os filhos pode ser leve.
+- **Cap. 33 — As Crianças Conhecem Daniel:** apresentação cuidadosa, sem forçar intimidade.
+- **Cap. 34 — A Primeira Viagem a Quatro:** o novo vínculo ganha espaço.
 
-- **Primeira semana**: Primeiros dias sozinha - alívio e pânico (Cap. 10)
-- **Segunda semana**: Primeira consulta com advogada
-- **Terceira semana**: Início do processo de divórcio (Cap. 11)
-- **Quarta semana**: Ricardo tenta manipular para Camila voltar (falha)
+### Agosto e setembro — amor sem apagamento
 
----
+- **Cap. 35 — A Primeira Briga:** Camila e Daniel aprendem a discordar sem medo.
+- **Cap. 36 — O Primeiro Presente:** um gesto atento mostra a diferença entre preço e cuidado.
+- **Cap. 37 — O Encontro com a Mãe do Daniel:** Camila experimenta acolhimento sem precisar merecê-lo.
+- **Cap. 38 — O Reencontro:** ao encontrar Ricardo, ela percebe que ele já não controla suas emoções.
+- **Cap. 39 — Carta Para Mim Mesma:** Camila acolhe a mulher que foi.
+- **Cap. 40 — A Metade Que Me Faltava Era Eu:** em setembro, a exposição final encerra o arco de reconstrução.
 
-### MAIO - "A Pressão e o Início da Terapia"
-**Duração: Cap. 12-13**
+## Idades de referência
 
-- **Primeira semana**: Pressão familiar - Dona Sônia desaprova (Cap. 12)
-- **Segunda semana**: Camila enfrenta julgamentos sociais
-- **Terceira semana**: Primeira sessão de terapia (Cap. 13)
-- **Quarta semana**: Camila começa a desconstruir culpa
+| Momento | Camila | Léo | Bia |
+|---|---:|---:|---:|
+| Início do livro | 34 | 7, quase 8 | 4 |
+| Depois do aniversário do cap. 2 | 34 | 8 | 4 |
+| Ano seguinte | 35 | 9 | 5 |
 
----
+## Pontos de continuidade
 
-### JUNHO - "Adaptação"
-**Duração: Cap. 14-15**
-
-- **Primeira semana**: Guarda compartilhada estabelecida (Cap. 14)
-- **Segunda semana**: Primeiro final de semana sozinha (sem filhos)
-- **Terceira semana**: Camila se inscreve em aula de pintura
-- **Quarta semana**: Primeira aula de arte - redescoberta (Cap. 15)
-
----
-
-### JULHO - "Redescobrimento"
-**Duração: Cap. 16-17**
-
-- **Primeira semana**: Pequenas vitórias - compra algo para si (Cap. 16)
-- **Segunda semana**: Corte de cabelo (mudança sutil)
-- **Terceira semana**: Conhece grupo de mulheres na aula de arte (Cap. 17)
-- **Quarta semana**: Primeira saída social só de amigas (sem culpa)
-
----
-
-### AGOSTO - "Maternidade Consciente"
-**Duração: Cap. 18-19**
-
-- **Primeira semana**: Léo pergunta quando o pai volta - culpa materna (Cap. 18)
-- **Segunda semana**: Conversa com terapeuta sobre maternidade
-- **Terceira semana**: Aniversário do Léo (9 anos) — contraste presença vs. dinheiro (Cap. 19)
-- **Quarta semana**: Camila começa a escrever diário
-
----
-
-### SETEMBRO - "O Contraste"
-**Duração: Cap. 20-21**
-
-- **Primeira semana**: Camila percebe mudanças positivas (Cap. 20)
-- **Segunda semana**: Léo comenta que ela está sorrindo mais
-- **Terceira semana**: Exposição de arte - Camila sorri genuinamente (Cap. 21)
-- **Quarta semana**: Primeira sensação real de "Eu vou ficar bem"
-
----
-
-### OUTUBRO - "O Encontro"
-**Duração: Cap. 22-23**
-
-- **Primeira semana**: Camila conhece Daniel (Cap. 22)
-- **Segunda semana**: Daniel convida para café - ela recusa (Cap. 23)
-- **Terceira semana**: Conversa com Fernanda sobre o medo
-- **Quarta semana**: Camila repensa resistência
-
----
-
-### NOVEMBRO - "Abertura"
-**Duração: Cap. 24-25**
-
-- **Primeira semana**: Assinatura do divórcio no cartório + Primeiro café com Daniel (Cap. 24)
-- **Segunda semana**: Segundo encontro - jantar
-- **Terceira semana**: Camila testa Daniel inconscientemente + Série de encontros (Cap. 25)
-- **Quarta semana**: Daniel se mostra consistente e gentil
-
----
-
-### DEZEMBRO - "Entrega e Integração"
-**Duração: Cap. 26-27**
-
-- **Primeira semana**: Camila escreve carta para si mesma (Cap. 26)
-- **Segunda semana**: Primeiro beijo / entrega emocional
-- **Terceira semana**: Divórcio finalmente concluído (processo de 9 meses)
-- **Quarta semana (Natal)**: Camila com filhos, família reunida de forma diferente mas feliz
-
----
-
-## ANO +1: EPÍLOGO / CENA FINAL
-
-### MARÇO (1 ano após pedir divórcio)
-**Cap. 27 - Cena Final**
-
-- **Pequena exposição de arte**: Quadro de Camila exposto
-- **Dona Sônia presente e apoiadora**
-- **Camila e Daniel**: Relação saudável e estável (6 meses juntos)
-- **Encontro casual com Ricardo**: Indiferença total de Camila
-- **Reflexão final**: "A metade que me faltava era eu"
-
----
-
-## 📊 RESUMO TEMPORAL
-
-| Período | Fase | Capítulos | Eventos-Chave |
-|---------|------|-----------|---------------|
-| **Jan-Mar** | Estagnação e Ruptura | 1-9 | Decisão de separar |
-| **Abr-Jun** | Processo e Início da Cura | 10-15 | Divórcio, terapia, redescoberta |
-| **Jul-Set** | Redescobrimento Profundo | 16-21 | Identidade, grupo, alegria |
-| **Out-Nov** | Abertura ao Novo | 22-25 | Conhece e resiste a Daniel |
-| **Dez-Mar** | Entrega e Integração | 26-27 | Amor saudável, paz consigo |
-
-**Duração total da história**: ~15 meses (1 ano e 3 meses)
-
----
-
-## ⏰ MARCOS TEMPORAIS IMPORTANTES
-
-### Aniversários e Datas Significativas
-
-| Data | Evento | Significado |
-|------|--------|-------------|
-| **Janeiro** | Aniversário de Léo (8 anos) | Gota d'água - Ricardo esquece |
-| **Março** | Pedido de Divórcio | Ponto de virada principal |
-| **Junho** | Primeira aula de arte | Início da redescoberta |
-| **Setembro** | Exposição de arte | Primeiro sorriso genuíno |
-| **Dezembro** | Divórcio finalizado | Encerramento legal |
-| **Março (ano +1)** | 1 ano após divórcio | Cena final - transformação completa |
-
----
-
-## 🔄 ARCOS TEMPORAIS PARALELOS
-
-### Arco Principal: Camila
-- **Mês 0-2**: Exaustão → Decisão
-- **Mês 3-5**: Separação → Culpa
-- **Mês 6-9**: Redescobrimento → Alegria
-- **Mês 10-12**: Abertura → Amor saudável
-- **Mês 13-15**: Integração → Paz
-
-### Arco dos Filhos
-- **Mês 0-3**: Tensão familiar percebida
-- **Mês 4-6**: Adaptação à separação
-- **Mês 7-9**: Nova rotina estabelecida
-- **Mês 10-15**: Felicidade com pais separados mas em paz
-
-### Arco de Ricardo
-- **Mês 0-2**: Negação e vitimização
-- **Mês 3-5**: Raiva e manipulação
-- **Mês 6-9**: Tentativas de dificultar divórcio
-- **Mês 10-15**: Torna-se irrelevante na história
-
-### Arco de Fernanda  
-- **Constante**: Amiga e mentora
-- **Evolução**: De guia a companheira de jornada
-
-### Arco de Dona Sônia
-- **Mês 3-6**: Desaprovação
-- **Mês 7-10**: Questionamento
-- **Mês 11-15**: Apoio total
-
----
-
-## 📝 NOTAS TEMPORAIS PARA ESCRITA
-
-### Ritmo Narrativo
-- **Ato I (Cap. 1-9)**: Ritmo frenético, dias parecem se arrastar mas passam rápido
-- **Ato II (Cap. 10-21)**: Ritmo moderado, meses passam com transformações graduais
-- **Ato III (Cap. 22-27)**: Ritmo suave, tempo parece desacelerar (Camila está presente)
-
-### Passagens de Tempo
-- Usar mudanças de estação para marcar tempo
-- Aniversários das crianças como marcos
-- Sessões de terapia (semanais/quinzenais) como métrica
-- Finais de semana com/sem filhos como estrutura
-
-### Flashbacks
-- Usar com moderação
-- Principalmente para contrastar "antes x agora"
-- Momentos iniciais do relacionamento Camila-Ricardo
-- Camila jovem pintando/escrevendo
-
----
-
-## 🎯 COERÊNCIA TEMPORAL
-
-### Checklist para Consistência
-- [ ] Idades das crianças batem em cada capítulo
-- [ ] Estações do ano condizem com meses
-- [ ] Processo de divórcio tem duração realista (6-12 meses no Brasil)
-- [ ] Progressão da terapia é gradual (não cura instantânea)
-- [ ] Desenvolvimento do relacionamento com Daniel é orgânico
-- [ ] Mudanças em Camila são graduais, não bruscas
-
-### Tempo Realista para Processos
-
-| Processo | Duração Realista | No Livro |
-|----------|------------------|----------|
-| Divórcio consensual no Brasil | 6-12 meses | 9 meses (Mar-Dez) |
-| Terapia para resultados visíveis | 3-6 meses | 7 meses (Mai-Dez) |
-| Luto de relacionamento | 6-12 meses | 9 meses |
-| Construir novo relacionamento | 3-6 meses para início saudável | 5 meses (Out-Mar) |
-| Redescobrir hobbies | 2-4 meses | 4 meses (Jun-Set) |
-
----
-
-## 🌟 SIMBOLISMO TEMPORAL
-
-### Estações como Metáfora
-
-- **Janeiro-Março (Verão/Outono)**: Calor sufocante do casamento, depois a queda
-- **Abril-Junho (Outono/Inverno)**: Frieza inicial, solidão, mas também limpeza
-- **Julho-Setembro (Inverno/Primavera)**: Renascimento, flores começam a brotar
-- **Outubro-Dezembro (Primavera/Verão)**: Florescimento completo, calor do novo amor
-- **Janeiro-Março ano +1 (Verão/Outono)**: Ciclo completo, mas Camila transformada
+- Camila se casou aos 23; Léo nasceu quando ela tinha 26.
+- A separação acontece perto do Carnaval; Ricardo sai de casa duas semanas depois.
+- O primeiro Natal sozinha vem antes do aniversário de 9 anos de Léo.
+- Há duas exposições do ateliê: a primeira marca o sorriso real; a segunda apresenta Daniel.
+- O divórcio é finalizado depois que a Justiça resolve as questões dos filhos e o casal define os bens.
+- A história cobre cerca de 20 meses, de janeiro do Ano 0 a setembro do Ano 1.

@@ -9,7 +9,7 @@ Ela não sabia o que doía mais: montar a árvore sem o Ricardo resmungando que 
 
 Na véspera, Camila acordou com um aperto no peito que não era fome, nem gripe, nem cansaço. Era saudade — não do Ricardo, mas da ideia de Natal que ela tinha passado onze anos tentando construir: a mesa cheia, a família reunida, a ilusão de que tudo estava bem.
 
-Você já passou o Natal sozinha? Não fisicamente sozinha — com os filhos, com a ceia, com os presentes — mas sozinha na alma, sentindo que o mundo inteiro estava em família e você, de algum jeito, tinha ficado de fora. É uma solidão específica, que só existe em dezembro.
+Não era estar fisicamente sozinha — havia os filhos, a ceia, os presentes. Era sentir-se sozinha na alma, como se o mundo inteiro estivesse em família e ela tivesse ficado de fora. Uma solidão que parecia existir apenas em dezembro.
 
 ---
 
@@ -41,7 +41,7 @@ E, enfim, naquele dezembro, a casa não pareceu vazia. Pareceu... deles.
 
 Comeram. Riram do peru seco. Bia derrubou o suco de uva na toalha boa, e Camila, em vez de surtar, riu e disse "faz parte". Léo ajudou a lavar a louça, sem ela pedir.
 
-Você já percebeu que as melhores lembranças não são as perfeitas? São as que a gente sobreviveu juntos, do jeito torto, com o peru seco e o suco derramado. São essas que ficam.
+As melhores lembranças não eram as perfeitas. Eram as que eles construíam juntos, do jeito torto, com o peru seco e o suco derramado. Essas ficavam.
 
 ---
 

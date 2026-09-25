@@ -4,7 +4,7 @@
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
 Não eram vitórias de filme, com música triunfante e fogos de artifício. Eram vitórias silenciosas, invisíveis para o mundo, mas monumentais para ela.
 
-Talvez você tenha as suas. Não as vitórias que dão manchete — as que ninguém aplaude. Acordar sem o peito apertado. Comprar algo para si sem culpa. Dizer não. Você já contou as suas hoje?
+Eram vitórias que não davam manchete e que ninguém aplaudia: acordar sem o peito apertado, comprar algo para si sem culpa, dizer não. Camila começou a contá-las para não esquecer que também estava avançando.
 
 ---
 
@@ -319,7 +319,7 @@ E o menino sorriu, como se entendesse — talvez entendesse — o tamanho daquil
 
 E, na sexta, uma vitória que ela não tinha planejado: foi ao cinema sozinha. Comprou o ingresso, escolheu a poltrona do meio, comeu pipoca sem dividir. No início, sentiu os olhares — ou imaginou que sentia. *Uma mulher sozinha no cinema. Coitada. Deve ter sido largada.* Mas, na metade do filme, ela tinha esquecido do mundo. E, ao sair, percebeu que não tinha se sentido sozinha nem por um segundo. Tinha se sentido... em paz.
 
-Você já foi ao cinema sozinha? Se não, tenta. É um rito de passagem da mulher que está aprendendo a gostar da própria companhia.
+Ir ao cinema sozinha parecia um pequeno rito de passagem: a prova de que a própria companhia também podia ser boa.
 
 E houve uma vitória ainda mais difícil, que ela quase não reconheceu como vitória: pedir ajuda.
 
@@ -378,7 +378,7 @@ De que ia ficar bem.
 
 Não hoje. Não amanhã.
 
-Mas eventualmente.
+Mas um dia.
 
 Camila fechou o caderninho. Olhou para pintura na geladeira. Para casa silenciosa mas não mais tão vazia.
 

@@ -1,52 +1,50 @@
 # GUIA DE CONVERSÃO E DIAGRAMAÇÃO
-## Do Markdown ao ePub / MOBI / PDF
 
-O manuscrito está em 40 arquivos Markdown em **03-MANUSCRITO/**. Para publicar, é preciso unificá-los e convertê-los.
+## Arquivos finais desta edição
 
----
+O projeto inclui um gerador editorial em `tools/build_publication.py`. Ele reúne o manuscrito, trata as artes e cria o pacote de publicação em `PACOTE_PUBLICACAO/AMAZON_KDP/`.
 
-## 1. Unificar o manuscrito (PowerShell)
-
-Os arquivos já estão numerados (CAP_01 a CAP_40), então a ordem alfabética é a ordem correta. Execute a partir da pasta `book`:
+Execute a partir da raiz do repositório:
 
 ```powershell
-$capitulos = Get-ChildItem "03-MANUSCRITO\CAP_*.md" | Sort-Object Name
-$capitulos | Get-Content | Set-Content "manuscrito_completo.md"
+python tools/build_publication.py
 ```
 
-## 2. Converter com Pandoc (recomendado)
+## Arquivos produzidos
 
-### ePub (Kobo, Google Play, Apple Books, etc.)
-```bash
-pandoc manuscrito_completo.md -o livro.epub \
-  --metadata title="A Metade Que Me Faltava Era Eu" \
-  --metadata author="[Seu Nome]" \
-  --metadata lang="pt-BR"
-```
+- `ebook/A_Metade_Que_Me_Faltava_Era_Eu.epub`: EPUB 3 com sumário navegável, capa e sete ilustrações.
+- `ebook/capa-kindle-1600x2560-v2.jpg`: capa RGB para eBook.
+- `impresso/miolo-5.5x8.5-creme-sem-sangria.pdf`: miolo pronto para o formato impresso.
+- `impresso/capa-completa-5.5x8.5-creme.pdf`: contracapa, lombada e capa em um único PDF.
+- `metadados/`: descrição, palavras-chave, categorias sugeridas e checklist de envio.
+- `SHA256SUMS.txt`: assinaturas para confirmar que os arquivos não foram alterados.
 
-### PDF (via LaTeX — exige instalação de um TeX, ex.: MiKTeX)
-```bash
-pandoc manuscrito_completo.md -o livro.pdf \
-  -V geometry:a5paper -V geometry:margin=2cm \
-  -V mainfont="DejaVu Serif" -V lang=pt-BR
-```
+## Configuração usada no impresso
 
-### MOBI (Kindle) — via Calibre
-1. Abra o ePub no **Calibre** (https://calibre-ebook.com).
-2. Selecione o livro → **Converter livros** → formato **MOBI**.
+- Tamanho de corte: 5,5 × 8,5 polegadas.
+- Papel: creme.
+- Interior: preto e branco.
+- Sangria do miolo: não.
+- Total atual: 278 páginas.
+- Lombada atual: 0,695 polegada.
+- Capa: CMYK, 300 dpi, com sangria externa de 0,125 polegada.
 
-## 3. Sem instalar nada (alternativas online)
-- **Amazon Kindle Create** (kindle.amazon.com): importa DOCX/PDF e gera o KPF para a loja.
-- **Reedsy Book Editor** (reedsy.com): editor online grátis que exporta ePub/PDF.
-- **Google Docs → Arquivo → Baixar → EPUB** (exportação nativa).
+Se o texto ou a paginação mudar, gere novamente o miolo e a capa na mesma execução. A lombada depende do total exato de páginas.
 
-## 4. Antes de converter — ajustes no texto
-- [x] Travessões já padronizados ("—").
-- [x] Itálicos de pensamento já aplicados.
-- [ ] Substituir `---` (separadores de cena) por `***` ou `* * *` centralizado, se quiser padronizar.
-- [ ] Conferir que cada capítulo começa em nova página (no Word/InDesign).
+## Kindle
 
-## 5. Especificações alvo (do `DIRETRIZES_PUBLICACAO.md`)
-- Página **A5** (14 × 21 cm); margens 2 cm (interna 2,5 cm).
-- Fonte serifada 11 pt; entrelinha 1,15.
-- Total estimado: ~240 páginas (A5).
+A Amazon aceita EPUB. O formato MOBI não deve ser gerado para um novo envio à KDP. Abra o EPUB no Kindle Previewer e verifique:
+
+- sumário e navegação;
+- início de cada capítulo;
+- tamanho e posição das imagens;
+- itálicos, travessões e separadores de cena;
+- leitura em celular, tablet e e-reader.
+
+## Impresso
+
+No painel da KDP, selecione exatamente 5,5 × 8,5 polegadas, papel creme, interior preto e branco e sem sangria. Envie os dois PDFs do diretório `impresso/`, abra o Previewer e depois peça uma prova física.
+
+## Regra de segurança
+
+Não envie a imagem JPG da capa completa como miolo e não envie a capa Kindle no campo do livro impresso. Os nomes de arquivo deixam claro o destino correto de cada item.

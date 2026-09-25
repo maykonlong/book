@@ -69,7 +69,7 @@ Camila respirou fundo. Contou até três mentalmente. *Não se irrite. Comunique
 
 — Eu não decidi nada ainda, Ricardo. Eu queria decidir *com você*. Queria que a gente organizasse juntos esse ano. Sabe? Dividir as tarefas. É muita coisa para eu ver sozinha com o trabalho do jeito que está.
 
-Ricardo olhou para ela com uma expressão confusa, genuinamente perplexo, como se ela tivesse sugerido que eles construíssem um foguete na varanda.
+Ricardo olhou para ela com uma expressão confusa, como se ela tivesse sugerido que eles construíssem um foguete na varanda.
 
 — Amor, você sabe que eu sou péssimo com essas coisas de festa. Decoração, bolo, convite... isso é a sua cara. Você tem bom gosto. Você sempre faz tudo ficar incrível.
 

@@ -5,7 +5,7 @@ Voltar ao escritório depois do divórcio foi como voltar para a escola depois d
 
 Na primeira semana, ela pegou três pessoas interrompendo a conversa quando ela se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
 
-Você já voltou a um lugar onde todos sabiam da sua vida? É como andar de vestido de noiva no metrô: você não fez nada errado, mas todo mundo olha.
+Voltar a um lugar onde todos sabiam da sua vida era como andar de vestido de noiva no metrô: ela não tinha feito nada errado, mas todo mundo olhava.
 
 ---
 
@@ -85,7 +85,7 @@ Sem medo. Sem dívida. Sem o coração disparado de quem espera o ataque.
 
 ---
 
-Você já se sentiu desejada de novo, depois de muito tempo? Não precisa virar nada. Às vezes é só um café na mesa, um "quer almoçar?", um olhar que demora meio segundo a mais. É o lembrete de que você ainda existe como mulher — além de mãe, além de profissional, além de ex.
+Não precisava virar romance. Às vezes, um café na mesa, um "quer almoçar?" ou um olhar que demorava meio segundo a mais já lembrava que ela ainda existia como mulher — além de mãe, profissional e ex.
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
 

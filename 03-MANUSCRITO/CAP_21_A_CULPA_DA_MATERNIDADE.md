@@ -55,7 +55,7 @@ Uma menina sobre duas mães.
 
 E Ricardo não chegava.
 
-Camila olhava para a porta a cada minuto. Celular no silencioso mas vibrando ocasionalmente - trabalho, provavelmente. Ela ignorou.
+Camila olhava para a porta a cada minuto. O celular estava no silencioso, mas vibrava de vez em quando — trabalho, provavelmente. Ela ignorou.
 
 A cada apresentação que passava, o assento vazio ao lado dela parecia crescer. Camila conferia o corredor, a porta, o relógio. Torcia para ver a silhueta do Ricardo entrando de fininho, se desculpando em silêncio, sentando ao lado dela. Torcia como criança torce. Com aquele resto teimoso de esperança que se recusa a morrer.
 
@@ -95,7 +95,7 @@ A frase caiu pesada.
 
 Tradução de criança de oito anos para: não vem.
 
-Você já traduziu assim o silêncio de quem ama? Já ouviu um "vou tentar" e soube, no fundo, que era "não"? Crianças aprendem cedo essa língua. E isso parte o coração.
+Léo já sabia traduzir o silêncio de quem amava. Já tinha ouvido tantos "vou tentar" que entendia, no fundo, quando aquilo queria dizer "não". Crianças aprendem cedo essa língua. E isso parte o coração.
 
 Camila segurou lágrimas. Sala lotada. Não podia desmoronar.
 
@@ -141,9 +141,7 @@ Camila ajoelhou na frente dele:
 
 Léo abraçou ela. Apertado. Escondendo rosto no ombro dela.
 
-E Camila percebeu horrorizada: ele estava protegendo ELA. Não deixando ela ver que estava magoado para não mago
-
-ar ela também.
+E Camila percebeu, horrorizada: ele estava protegendo ELA. Não deixava que ela visse a mágoa dele para não magoá-la também.
 
 ---
 
@@ -151,7 +149,7 @@ No carro, silêncio pesado.
 
 Bia tagarelava sobre o dia dela na creche. Léo olhava pela janela.
 
-Camila segurou volante com força. Raiva crescendo.
+Camila segurou o volante com força. A raiva crescia.
 
 Quando chegaram em casa, colocou desenho animado para as crianças. Pegou celular. Foi para o quarto.
 
@@ -165,17 +163,17 @@ Ele atendeu no terceiro toque:
 
 — Camila, desculpa. Teve reunião de emergência no trabalho. Eu avisei que ia tentar...
 
-— TENTAR NÃO É O SUFICIENTE! — Ela explodiu. — Você é PAI, Ricardo! Seu filho tinha apresentação importante Ele fez cartolina sobre família NOSSA. E você não apareceu!
+— TENTAR NÃO É O SUFICIENTE! — Ela explodiu. — Você é PAI, Ricardo! Seu filho tinha uma apresentação importante. Ele fez uma cartolina sobre a NOSSA família. E você não apareceu!
 
 — Não grita comigo. Eu trabalho. Diferente de você, eu não posso sair quando quero.
 
 — Eu TAMBÉM trabalho! E mesmo assim eu saí! Porque priorizo meus filhos!
 
-— Nossos filhos tão bem. Param de drama.
+— Nossos filhos tão bem. Para de drama.
 
 *Drama.*
 
-Ali estava palavra de novo. Invalidação automática.
+Ali estava aquela palavra de novo. Um jeito rápido de anular o que ela sentia.
 
 — Você machucou seu filho hoje, Ricardo. Ele procurou você na plateia. E você não estava lá. OUTRA VEZ.
 
@@ -197,19 +195,19 @@ A frase foi tapa.
 
 — É sobre isso? Sobre guarda? Não é sobre SER PAI de verdade?
 
-— Não me enche, Camila. Eu to cansado.
+— Não me enche, Camila. Eu tô cansado.
 
 E desligou.
 
 DESLIGOU.
 
-Camila ficou olhando para tela. Chamada encerrada.
+Camila ficou olhando para a tela. Chamada encerrada.
 
-E começou chorar.
+E começou a chorar.
 
 De raiva. De frustração. De culpa.
 
-Culpa massiva, esmagadora.
+Uma culpa enorme, esmagadora.
 
 Porque ela que tinha feito isso. Ela que tinha separado. Ela que tinha "quebrado família".
 
@@ -255,7 +253,7 @@ Lágrimas escorrendo no rostinho dele, molhando o travesseiro.
 
 — Foi por minha culpa? Sua e do pai?
 
-— NÃO. — Camila puxou ele para abraço feroz. — NUNCA foi sua culpa. Nem sua nem da Bia. Foi entre eu e seu pai. Adultos. Nada que você fez ou deixou de fazer.
+— NÃO. — Camila puxou o filho para um abraço forte. — NUNCA foi sua culpa. Nem sua nem da Bia. Foi entre mim e seu pai. Adultos. Nada que você fez ou deixou de fazer.
 
 — Mas o pai não vem por minha causa?
 
@@ -293,7 +291,7 @@ Atendeu segundo toque:
 
 Meia hora de conversa. Dr. Lucas paciente, gentil, firme.
 
-Desconstruindo culpa. Diferenciando responsabilidade dela de responsabilidade de Ricardo.
+Desmontando a culpa. Separando o que era responsabilidade dela do que era responsabilidade de Ricardo.
 
 — Você não pode controlar ações dele, Camila. Só pode controlar suas.
 
@@ -305,11 +303,11 @@ Camila ficou em silêncio, deixando a pergunta assentar.
 
 — Como eu não confundo? Eu comecei isso!
 
-— Você terminou algo insustentável. Ricardo que escolhe não ser pai presente. Isso é dele. Não você.
+— Você terminou uma relação que não dava mais para sustentar. Ricardo é quem escolhe não ser um pai presente. Isso é dele. Não é culpa sua.
 
 — Mas mãe perfeita...
 
-— Não existe. — Firme. — Mãe perfeita é mentira, Camila. Mãe presente, honesta, que se importa - isso existe. E você É isso. Você estava na apresentação. Você segurou Léo quando ele chorou. Você está aqui, ligando, processando, querendo fazer certo. Isso é ser boa mãe.
+— Não existe. — Firme. — Mãe perfeita é mentira, Camila. Mãe presente, honesta, que se importa — isso existe. E você É isso. Você estava na apresentação. Você segurou Léo quando ele chorou. Você está aqui, pensando no que aconteceu e querendo fazer certo. Isso é ser boa mãe.
 
 — Mas eu me sinto tão culpada...
 

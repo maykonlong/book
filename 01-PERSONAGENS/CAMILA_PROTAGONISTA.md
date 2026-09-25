@@ -163,19 +163,20 @@
 - Fortalecimento da amizade com Fernanda
 - Primeiros sinais de alegria
 
-### Fase 5: Abertura
-**Cap. 19-24**
-- Conhece Daniel
-- Resistência ao novo amor
-- Testes e desconfianças
-- Pequenas aberturas emocionais
+### Fase 5: Rede, autonomia e fechamento
+**Cap. 19-30**
+- Cria vínculos no grupo de aquarela
+- Enfrenta a culpa materna e datas importantes
+- Conclui o divórcio sem voltar ao antigo padrão
+- Conhece Daniel quando já está reconstruindo a própria vida
 
-### Fase 6: Entrega e Integração
-**Cap. 25-27**
-- Permite-se ser vulnerável
-- Aceita amor saudável
-- Integra todas as partes de si (mãe, profissional, mulher, artista)
-- Final esperançoso e completo
+### Fase 6: Abertura e integração
+**Cap. 31-40**
+- Apresenta Daniel aos filhos com cuidado
+- Aprende que conflito não precisa significar abandono
+- Permite-se receber amor sem se apagar
+- Integra mãe, profissional, mulher e artista
+- Reconhece que já é inteira
 
 ---
 

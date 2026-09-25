@@ -4,7 +4,7 @@
 
 > ⏸️ **Expansão adiada** (decisão da autora, 17/09/2026) — o manuscrito permanece em ~56.600 palavras / 40 capítulos. Este plano fica como referência para o futuro.
 
-> **Meta**: transformar "A Metade Que Me Faltava Era Eu" de romance curto (~56.600 palavras) em romance comercial de women's fiction (~75–85 mil palavras), mantendo os **40 capítulos / 3 atos** e a voz narrativa já definida (`00-PLANEJAMENTO/VOZ_NARRATIVA.md`).
+> **Documento histórico, não aplicado à edição atual.** Após a revisão final, a edição preserva cerca de 54.600 palavras de história, 40 capítulos em 4 atos e a voz narrativa definida em `00-PLANEJAMENTO/VOZ_NARRATIVA.md`.
 
 > **Referência de mercado (pesquisa validada em 16/09/2026)**: 70–90 mil palavras · 280–380 páginas · 3 atos · capítulos de 2.000–3.200 palavras.
 

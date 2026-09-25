@@ -9,7 +9,7 @@ Camila conhecia bem esse tipo de cansaço. Ele tinha se tornado seu companheiro 
 
 Eram 05h53 da manhã.
 
-O despertador do celular ainda não tinha tocado — faltavam exatos sete minutos — mas os olhos de Camila se abriram sozinhos. Seu corpo tinha desenvolvido um relógio biológico cruel, treinado pelo cortisol e pela ansiedade, que a acordava antes do alarme apenas para que ela tivesse tempo de *sentir* o peso do dia que estava por vir.
+O despertador do celular ainda não tinha tocado — faltavam exatos sete minutos — mas os olhos de Camila se abriram sozinhos. Seu corpo tinha desenvolvido um relógio biológico cruel, treinado pelo estresse e pela ansiedade, que a acordava antes do alarme apenas para que ela tivesse tempo de *sentir* o peso do dia que estava por vir.
 
 O quarto estava na penumbra azulada da pré-manhã. O ar condicionado zumbia baixinho, um som que costumava relaxá-la, mas que agora parecia apenas mais um ruído branco em uma mente que nunca desligava.
 
@@ -33,7 +33,7 @@ Era um gesto pequeno, invisível. O primeiro de mil que ela faria nas próximas 
 
 Seis minutos para o alarme.
 
-Camila foi para o banheiro e trancou a porta. Aquele clique da fechadura era o som mais reconfortante da sua manhã. Ali, naquele espaço de três metros quadrados, ela podia ser apenas Camila. Não a mãe do Léo e da Bia. Não a esposa do Ricardo. Não a coordenadora de marketing. Apenas uma mulher lavando o rosto.
+Camila foi para o banheiro e trancou a porta. Aquele clique da fechadura era o som mais acolhedor da sua manhã. Ali, naquele espaço de três metros quadrados, ela podia ser apenas Camila. Não a mãe do Léo e da Bia. Não a esposa do Ricardo. Não a coordenadora de marketing. Apenas uma mulher lavando o rosto.
 
 Ela abriu a torneira e jogou água gelada nas bochechas. Olhou-se no espelho.
 
@@ -59,7 +59,7 @@ Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldit
 *2. Uniforme da Bia (verificar se a mancha de tinta saiu).*
 *3. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza outra vez e Ricardo vai reclamar do gasto).*
 *4. Pagar a conta de luz (vence hoje, colocar lembrete).*
-*5. Responder o e-mail do cliente chato sobre a campanha de Natal.*
+*5. Responder o e-mail do cliente chato sobre a campanha de volta às aulas.*
 *6. Marcar o dentista das crianças.*
 *7. Comprar presente para a festa do amiguinho do Léo no sábado.*
 *8. Onde está a lista de compras? O leite acabou. O queijo também.*
@@ -82,7 +82,7 @@ Respirou fundo, enchendo os pulmões de ar e coragem, e se dirigiu ao corredor.
 
 O quarto de Léo cheirava a menino — uma mistura indefinível de lápis de cor, suor noturno e tênis. Ele estava enrolado no cobertor como um casulo, apenas um tufo de cabelo castanho visível.
 
-Camila sentou na beirada da cama. A mão dela, instintivamente, foi fazer um carinho na cabeça dele. Era nesses momentos, observando os filhos dormirem, que a culpa diminuía e o amor transbordava, lembrando-a do porquê de todo aquele esforço.
+Camila sentou na beirada da cama. Sem pensar, fez um carinho na cabeça dele. Era nesses momentos, observando os filhos dormirem, que a culpa diminuía e o amor transbordava, lembrando-a do porquê de todo aquele esforço.
 
 — Bom dia, meu amor. Hora de acordar.
 
@@ -100,7 +100,7 @@ Léo se mexeu, descobrindo o rosto amassado. Ele abriu um olho só, fitou a mãe
 
 Camila travou. O sorriso congelou no rosto.
 
-Era doloroso como as crianças viam tudo. Ricardo podia passar dias sem notar que ela cortou o cabelo ou que estava chorando no chuveiro, mas Léo, com seus oito anos, via as olheiras dela em três segundos.
+Era doloroso como as crianças viam tudo. Ricardo podia passar dias sem notar que ela cortou o cabelo ou que estava chorando no chuveiro, mas Léo, com seus sete anos, quase oito, via as olheiras dela em três segundos.
 
 — É só sono, querido. A mamãe dormiu pouco. Vai, levanta. Uniforme na cadeira.
 
@@ -180,7 +180,7 @@ Ela pegou a xícara e virou o líquido gelado e amargo de uma vez só, como se f
 
 O trânsito da Avenida Rebouças era a representação física do estado mental de Camila: caótico, barulhento e travado.
 
-Bia cantava "Livres Estou" no banco de trás, desafinando com convicção. Léo olhava pela janela, quieto demais para uma criança de oito anos.
+Bia cantava "Livres Estou" no banco de trás, desafinando com convicção. Léo olhava pela janela, quieto demais para uma criança de sete anos, quase oito.
 
 — Tudo bem aí atrás, filho? — perguntou ela, ajustando o retrovisor para ver os olhos dele.
 
@@ -263,7 +263,7 @@ Digitou: *"Mas você disse que ia me ajudar com a lição do Léo hoje."*
 
 Apagou.
 
-Ele não ia lembrar que disse isso. E se lembrasse, diria que o futebol era importante para o "networking".
+Ele não ia lembrar que disse isso. E, se lembrasse, diria que o futebol era importante para fazer contatos de trabalho.
 
 Ela digitou apenas: *"Tá bom."*
 

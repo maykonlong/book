@@ -1,4 +1,4 @@
-﻿# A METADE QUE ME FALTAVA ERA EU
+# A METADE QUE ME FALTAVA ERA EU
 
 *Subtítulo: A jornada de uma mulher que cansou de ser a única a tentar*
 
@@ -56,8 +56,9 @@ Com carinho,
 
 ---
 
+---
 
-# CAPÍTULO 1
+﻿# CAPÍTULO 1
 ## A Rotina Invisível
 
 Você já acordou cansada?
@@ -68,7 +69,7 @@ Camila conhecia bem esse tipo de cansaço. Ele tinha se tornado seu companheiro 
 
 Eram 05h53 da manhã.
 
-O despertador do celular ainda não tinha tocado — faltavam exatos sete minutos — mas os olhos de Camila se abriram sozinhos. Seu corpo tinha desenvolvido um relógio biológico cruel, treinado pelo cortisol e pela ansiedade, que a acordava antes do alarme apenas para que ela tivesse tempo de *sentir* o peso do dia que estava por vir.
+O despertador do celular ainda não tinha tocado — faltavam exatos sete minutos — mas os olhos de Camila se abriram sozinhos. Seu corpo tinha desenvolvido um relógio biológico cruel, treinado pelo estresse e pela ansiedade, que a acordava antes do alarme apenas para que ela tivesse tempo de *sentir* o peso do dia que estava por vir.
 
 O quarto estava na penumbra azulada da pré-manhã. O ar condicionado zumbia baixinho, um som que costumava relaxá-la, mas que agora parecia apenas mais um ruído branco em uma mente que nunca desligava.
 
@@ -92,7 +93,7 @@ Era um gesto pequeno, invisível. O primeiro de mil que ela faria nas próximas 
 
 Seis minutos para o alarme.
 
-Camila foi para o banheiro e trancou a porta. Aquele clique da fechadura era o som mais reconfortante da sua manhã. Ali, naquele espaço de três metros quadrados, ela podia ser apenas Camila. Não a mãe do Léo e da Bia. Não a esposa do Ricardo. Não a coordenadora de marketing. Apenas uma mulher lavando o rosto.
+Camila foi para o banheiro e trancou a porta. Aquele clique da fechadura era o som mais acolhedor da sua manhã. Ali, naquele espaço de três metros quadrados, ela podia ser apenas Camila. Não a mãe do Léo e da Bia. Não a esposa do Ricardo. Não a coordenadora de marketing. Apenas uma mulher lavando o rosto.
 
 Ela abriu a torneira e jogou água gelada nas bochechas. Olhou-se no espelho.
 
@@ -118,7 +119,7 @@ Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldit
 *2. Uniforme da Bia (verificar se a mancha de tinta saiu).*
 *3. Descongelar o frango para o jantar (se esquecer, vai ter que pedir pizza outra vez e Ricardo vai reclamar do gasto).*
 *4. Pagar a conta de luz (vence hoje, colocar lembrete).*
-*5. Responder o e-mail do cliente chato sobre a campanha de Natal.*
+*5. Responder o e-mail do cliente chato sobre a campanha de volta às aulas.*
 *6. Marcar o dentista das crianças.*
 *7. Comprar presente para a festa do amiguinho do Léo no sábado.*
 *8. Onde está a lista de compras? O leite acabou. O queijo também.*
@@ -141,7 +142,7 @@ Respirou fundo, enchendo os pulmões de ar e coragem, e se dirigiu ao corredor.
 
 O quarto de Léo cheirava a menino — uma mistura indefinível de lápis de cor, suor noturno e tênis. Ele estava enrolado no cobertor como um casulo, apenas um tufo de cabelo castanho visível.
 
-Camila sentou na beirada da cama. A mão dela, instintivamente, foi fazer um carinho na cabeça dele. Era nesses momentos, observando os filhos dormirem, que a culpa diminuía e o amor transbordava, lembrando-a do porquê de todo aquele esforço.
+Camila sentou na beirada da cama. Sem pensar, fez um carinho na cabeça dele. Era nesses momentos, observando os filhos dormirem, que a culpa diminuía e o amor transbordava, lembrando-a do porquê de todo aquele esforço.
 
 — Bom dia, meu amor. Hora de acordar.
 
@@ -159,7 +160,7 @@ Léo se mexeu, descobrindo o rosto amassado. Ele abriu um olho só, fitou a mãe
 
 Camila travou. O sorriso congelou no rosto.
 
-Era doloroso como as crianças viam tudo. Ricardo podia passar dias sem notar que ela cortou o cabelo ou que estava chorando no chuveiro, mas Léo, com seus oito anos, via as olheiras dela em três segundos.
+Era doloroso como as crianças viam tudo. Ricardo podia passar dias sem notar que ela cortou o cabelo ou que estava chorando no chuveiro, mas Léo, com seus sete anos, quase oito, via as olheiras dela em três segundos.
 
 — É só sono, querido. A mamãe dormiu pouco. Vai, levanta. Uniforme na cadeira.
 
@@ -239,7 +240,7 @@ Ela pegou a xícara e virou o líquido gelado e amargo de uma vez só, como se f
 
 O trânsito da Avenida Rebouças era a representação física do estado mental de Camila: caótico, barulhento e travado.
 
-Bia cantava "Livres Estou" no banco de trás, desafinando com convicção. Léo olhava pela janela, quieto demais para uma criança de oito anos.
+Bia cantava "Livres Estou" no banco de trás, desafinando com convicção. Léo olhava pela janela, quieto demais para uma criança de sete anos, quase oito.
 
 — Tudo bem aí atrás, filho? — perguntou ela, ajustando o retrovisor para ver os olhos dele.
 
@@ -322,7 +323,7 @@ Digitou: *"Mas você disse que ia me ajudar com a lição do Léo hoje."*
 
 Apagou.
 
-Ele não ia lembrar que disse isso. E se lembrasse, diria que o futebol era importante para o "networking".
+Ele não ia lembrar que disse isso. E, se lembrasse, diria que o futebol era importante para fazer contatos de trabalho.
 
 Ela digitou apenas: *"Tá bom."*
 
@@ -428,8 +429,9 @@ Invisível.
 Imprescindível.
 E completamente só.
 
+---
 
-# CAPÍTULO 2
+﻿# CAPÍTULO 2
 ## O Aniversário Esquecido
 
 Quinze dias.
@@ -500,7 +502,7 @@ Camila respirou fundo. Contou até três mentalmente. *Não se irrite. Comunique
 
 — Eu não decidi nada ainda, Ricardo. Eu queria decidir *com você*. Queria que a gente organizasse juntos esse ano. Sabe? Dividir as tarefas. É muita coisa para eu ver sozinha com o trabalho do jeito que está.
 
-Ricardo olhou para ela com uma expressão confusa, genuinamente perplexo, como se ela tivesse sugerido que eles construíssem um foguete na varanda.
+Ricardo olhou para ela com uma expressão confusa, como se ela tivesse sugerido que eles construíssem um foguete na varanda.
 
 — Amor, você sabe que eu sou péssimo com essas coisas de festa. Decoração, bolo, convite... isso é a sua cara. Você tem bom gosto. Você sempre faz tudo ficar incrível.
 
@@ -776,15 +778,16 @@ Naquela noite, ela sonhou que estava em um barco furado no meio do oceano, tiran
 Ela acordou decidida a comprar um balde maior.
 Mas, no fundo, sabia que o que precisava mesmo era de outro barco.
 
+---
 
-# CAPÍTULO 3
+﻿# CAPÍTULO 3
 ## A Tentativa da Terapia
 
 Três dias depois do aniversário de Léo, o gosto amargo da decepção ainda não tinha saído da boca de Camila. Era como se ela tivesse mordido uma fruta podre e o sabor persistisse, contaminando tudo o que ela comia, bebia ou falava.
 
 Quarta-feira à noite.
 
-A casa estava por fim quieta. As crianças dormiam. A máquina de lavar louça zumbia monotonamente na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
+A casa estava por fim quieta. As crianças dormiam. A máquina de lavar louça fazia seu zumbido sem parar na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
 
 Ela estava no banheiro, encarando seu reflexo no espelho iluminado pela luz branca e impiedosa.
 
@@ -816,7 +819,7 @@ Sempre as crianças. Como se fosse a única catástrofe possível. O casamento d
 
 — Não. É com a gente.
 
-Ele suspirou. Não foi um suspiro alto, teatral. Foi sutil. Uma exalação curta pelo nariz e um leve revirar de olhos imperceptível para leigos, mas gritante para uma esposa de onze anos. *Lá vem ela.*
+Ele suspirou. Não foi um suspiro alto, teatral. Foi curto: soltou o ar pelo nariz e revirou os olhos. Quase ninguém perceberia, mas, para uma esposa de onze anos, o recado era claro. *Lá vem ela.*
 
 — Tá. Pode falar.
 
@@ -966,7 +969,7 @@ Camila olhou para ele. Para o hospedeiro saudável sugando a vida dela.
 
 — Passou — mentiu ela.
 
-Mas não tinha passado. Tinha mudado. A tristeza tinha coagulado e virado algo mais duro. Algo que começava a parecer, perigosamente, com indiferença.
+Mas não tinha passado. Tinha mudado. A tristeza tinha endurecido e virado outra coisa. Algo que começava a parecer com indiferença.
 
 — Que bom. Pedi pizza, tá? De preguiça hoje.
 
@@ -980,8 +983,9 @@ Camila foi para o quarto tirar os sapatos. Olhou para o espelho.
 
 Mas a semente estava lá. Regada com lágrimas e café ruim, mas estava lá. Esperando para romper o concreto.
 
+---
 
-# CAPÍTULO 4
+﻿# CAPÍTULO 4
 ## As Pequenas Sabotagens
 
 Há um tipo específico de loucura que acomete mulheres casadas e exaustas: a crença teimosa de que *mais esforço* gerará *mais amor*.
@@ -1184,8 +1188,9 @@ Foi a primeira "pequena sabotagem" consciente dela.
 Ela parou de tentar agradar.
 E quando a mulher para de tentar agradar, o casamento começa a mostrar suas verdadeiras fundações podres.
 
+---
 
-# CAPÍTULO 5
+﻿# CAPÍTULO 5
 ## A Conversa com Fernanda
 
 Segunda-feira. O dia internacional do arrependimento por não ter vivido o fim de semana que se sonhou.
@@ -1256,13 +1261,13 @@ A metáfora bateu em Camila como um tapa físico.
 
 *Regando planta morta.*
 
-Era isso. Era exatamente isso. Todo o esforço dela. Todo o cansaço. Toda a elaboração de jantares, conversas, planos. Era tudo água derramada em terra morta.
+Era isso. Era exatamente isso. Todo o esforço dela. Todo o cansaço. Todos os jantares, conversas e planos que preparava. Era tudo água derramada em terra morta.
 
 — Mas como eu sei? — perguntou Camila, a voz trêmula. — Como eu tenho certeza de que morreu? E se estiver só... dormindo?
 
-— Você sabe — disse Fernanda, suavemente. — Você sabe porque você está sozinha nela. Uma relação viva tem troca. Tem dois jardineiros. Se só você está segurando o regador enquanto o outro reclama que a sombra tá pouca... isso não é casamento. É parasitismo.
+— Você sabe — disse Fernanda, suavemente. — Você sabe porque está sozinha nela. Uma relação viva tem troca. Tem dois jardineiros. Se só você segura o regador enquanto o outro reclama que a sombra tá pouca... isso não é parceria. É uma relação em que só um lado cuida.
 
-*Parasitismo.*
+*Só um lado cuida.*
 
 Camila fechou os olhos. A imagem de Ricardo no sofá, com o celular na mão, enquanto ela corria com a casa, veio à mente. Ele não era um parceiro. Ele era um hóspede vip.
 
@@ -1313,8 +1318,9 @@ O som do vaso batendo no fundo da lixeira foi o único ruído na sala.
 Fim. Acabou.
 Ela não ia mais regar cadáveres.
 
+---
 
-# CAPÍTULO 6
+﻿# CAPÍTULO 6
 ## A Última Tentativa
 
 Apesar da conversa com Fernanda — e da suculenta no lixo —, o peso de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
@@ -1503,11 +1509,12 @@ O hotel era lindo.
 A feijoada devia ser ótima.
 Mas o casamento tinha ficado em algum lugar na Fernão Dias, abandonado no acostamento, debaixo de chuva.
 
+---
 
-# CAPÍTULO 7
+﻿# CAPÍTULO 7
 ## A Gota D'água
 
-Camila não sabia, mas seu corpo estava contando os dias. O estresse crônico corrói o sistema imunológico silenciosamente, até que uma brecha mínima aparece.
+Camila não sabia, mas seu corpo vinha dando sinais. O estresse de tantos meses tinha enfraquecido as defesas do corpo, até que uma brecha apareceu.
 
 A brecha apareceu numa terça-feira pós-feriado.
 
@@ -1713,8 +1720,9 @@ Sozinha.
 Como sempre.
 Mas agora, para sempre.
 
+---
 
-# CAPÍTULO 8
+﻿# CAPÍTULO 8
 ## Eu Quero Me Separar
 
 O pronto-socorro estava com aquele cheiro específico de éter e desinfetante barato que embrulha o estômago.
@@ -1901,8 +1909,9 @@ Tinha falado. Tinha enfrentado.
 
 E, enfim, o ar que entrava em seus pulmões parecia puramente seu.
 
+---
 
-# CAPÍTULO 9
+﻿# CAPÍTULO 9
 ## A Conversa com os Filhos
 
 A parte mais difícil não foi enfrentar Ricardo.
@@ -1923,9 +1932,9 @@ Incluindo as crianças.
 
 Ricardo saiu de casa naquela noite.
 
-Depois do confronto com Dona Vera, depois de Camila se trancar no quarto, ele bateu na porta e gritou mais algumas coisas (você vai se arrepender, você está sendo egoísta, você está destruindo essa família). Camila não respondeu. Eventualmente, ele cansou. Pegou as chaves. Saiu batendo a porta.
+Depois do confronto com Dona Vera, depois de Camila se trancar no quarto, ele bateu na porta e gritou mais algumas coisas (você vai se arrepender, você está sendo egoísta, você está destruindo essa família). Camila não respondeu. Por fim, ele cansou. Pegou as chaves. Saiu batendo a porta.
 
-Foi para a casa da mãe, presumivelmente.
+Provavelmente foi para a casa da mãe.
 
 Tanto melhor.
 
@@ -1971,7 +1980,7 @@ Camila puxou os dois para perto. Abraçou. Forte.
 
 — Mas por quê? — Léo perguntou, a voz tremendo. — Por que vocês não podem ficar juntos?
 
-Como explicar para uma criança de oito anos conceitos complexos como parceria, carga mental, toxicidade emocional?
+Como explicar para uma criança de oito anos coisas de adulto como falta de parceria, o peso de cuidar de tudo e uma relação que fazia mal?
 
 Camila tentou simplificar:
 
@@ -2033,7 +2042,7 @@ Ele parou ao vê-la.
 
 — Contei. Eles mereciam saber direto da gente.
 
-Ricardo passou a mão no rosto. Pareceu genuinamente afetado.
+Ricardo passou a mão no rosto. Pareceu abalado de verdade.
 
 — Eles ficaram mal?
 
@@ -2175,8 +2184,9 @@ E o começo de outra coisa.
 
 O começo de Camila. Que não sabia para onde ia, mas sabia de onde estava saindo. E isso, por enquanto, já era direção suficiente.
 
+---
 
-# CAPÍTULO 10
+﻿# CAPÍTULO 10
 ## O Vazio Barulhento
 
 A primeira noite sem Ricardo em casa não foi silenciosa.
@@ -2263,7 +2273,7 @@ Camila esticou as pernas. Ocupou o centro da cama. Abriu os braços, fazendo um 
 O vazio era barulhento, sim. Gritava solidão.
 Mas, enfim, o barulho era *dela*.
 
-Você já sentiu isso? Aquele vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também pode ser seu. E ele, aos poucos, vira paz.
+Era o vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também podia ser dela. Aos poucos, podia até virar paz.
 
 E ela podia lidar com o próprio barulho. O que ela não aguentava mais era o barulho dele silenciando a música dela.
 
@@ -2293,7 +2303,7 @@ Camila respirou fundo. Controlou a raiva.
 
 — A gente conversa sobre isso com os advogados.
 
-Ela já tinha ido em um. Dra. Patrícia Alves. Mulher de quarenta e poucos anos, firme mas gentil. Tinha explicado tudo: divórcio consensual vs. litigioso, guarda compartilhada, pensão, divisão de bens.
+Ela já tinha ido a um. Dra. Patrícia Alves. Mulher de quarenta e poucos anos, firme mas gentil. Tinha explicado tudo: divórcio por acordo ou com disputa, guarda compartilhada, pensão e divisão de bens.
 
 Tinha um longo caminho pela frente.
 
@@ -2315,7 +2325,7 @@ Ricardo parou. Olhou para a filha.
 
 — Eu não vou voltar para morar aqui, princesa. Mas você vai me ver sempre. Fim de semana, a gente vai se divertir muito.
 
-Promessa vazia. Camila sabia. Ela conhecia o Ricardo. Nas primeiras semanas ele ia tentar. Ia buscar as crianças, ia fazer programas. Mas eventualmente, ia cansar. Ia ter outros compromissos. Ia aparecer cada vez menos.
+Promessa vazia. Camila sabia. Ela conhecia o Ricardo. Nas primeiras semanas ele ia tentar. Ia buscar as crianças, ia fazer programas. Mas, com o tempo, ia cansar. Ia ter outros compromissos. Ia aparecer cada vez menos.
 
 Mas ela não disse nada. Deixou ele prometer. Porque as crianças precisavam daquela esperança, mesmo que falsa.
 
@@ -2635,13 +2645,14 @@ A Camila que ela tinha perdido há onze anos.
 
 E estava na hora de reencontrar.
 
+---
 
-# CAPÍTULO 11
+﻿# CAPÍTULO 11
 ## O Processo
 
 Se a dor emocional do divórcio é um tsunami, a dor burocrática é areia movediça. Lenta, pegajosa, sufocante.
 
-Você já tentou transformar o fim de um amor em papelada? Documentar o que era só sentimento. Assinar o que era só dor. Talvez você conheça esse frio na espinha.
+Transformar o fim de um amor em papelada era uma crueldade própria: documentar o que tinha sido sentimento e assinar o que ainda era dor.
 
 Camila descobriu isso na segunda-feira seguinte, no escritório da Dra. Patrícia Alves.
 
@@ -2663,7 +2674,7 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — Não. A gente dividia as contas da casa, mas cada um cuidava do seu salário.
 
-— Erro clássico número um — murmurou a advogada, anotando algo. — Vamos pedir quebra de sigilo bancário se formos para o litigioso. Mas primeiro, vamos tentar o acordo. Quanto ele ganha?
+— Erro clássico número um — murmurou a advogada, anotando algo. — Se ele não aceitar um acordo, podemos pedir ao juiz acesso às contas bancárias. Mas primeiro vamos tentar resolver sem briga. Quanto ele ganha?
 
 — Acho que uns doze mil líquido. Ele é gerente de projetos.
 
@@ -2711,11 +2722,11 @@ Pensou no cheiro daquele lugar. Cheiro de bolo assando nas tardes de domingo. Ch
 
 Vender a casa não era vender tijolos. Era vender a história inteira de uma família. E ela não tinha dinheiro para impedir.
 
-Camila fechou os olhos por um segundo. O escritório, com suas pilhas de processos de capa parda, pareceu subitamente um cemitério de sonhos de outras mulheres — mulheres que também tinham entrado ali achando que o amor bastava, e saído descobrindo que amor não paga condomínio.
+Camila fechou os olhos por um segundo. De repente, o escritório, com suas pilhas de processos de capa parda, pareceu um cemitério de sonhos de outras mulheres — mulheres que também tinham entrado ali achando que o amor bastava, e saído descobrindo que amor não paga condomínio.
 
 — E se... e se eu abrir mão da pensão para mim? E ficar com a casa como compensação? — sugeriu Camila.
 
-— Pensão para ex-cônjuge é rara hoje em dia, Camila. Você trabalha, é jovem. Dificilmente o juiz daria. O que estamos falando é pensão para os filhos. E disso você *não pode* abrir mão. É direito deles, não seu.
+— Pensão para ex-marido ou ex-esposa é rara hoje em dia, Camila. Você trabalha, é jovem. Dificilmente o juiz daria. O que estamos falando é pensão para os filhos. E disso você *não pode* abrir mão. É direito deles, não seu.
 
 Camila saiu do escritório com uma lista de documentos para providenciar que parecia uma enciclopédia.
 
@@ -2772,17 +2783,18 @@ Arrancou com o carro. O barulho do motor engasgou um pouco, mas foi.
 Assim como ela.
 Engasgando, mas indo.
 
+---
 
-# CAPÍTULO 12
+﻿# CAPÍTULO 12
 ## O Recomeço Financeiro
 
 O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando ele, como se o papel pudesse, de alguma forma, se tornar menos assustador se ela o encarasse por tempo suficiente.
 
 Não se tornou.
 
-Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — literal e metaforicamente.
+Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — nem a de dinheiro, nem a da vida.
 
-Você já fez essa conta sozinha? A conta que não fecha, no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. É a conta mais solitária que existe.
+Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
 Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. O mês estava no dia 8.
 
@@ -2820,7 +2832,7 @@ Camila riu, achando que era piada.
 
 — Não é pra largar o emprego. É pra complementar. — Fernanda deu de ombros. — Eu vendi brigadeiro gourmet no primeiro ano pós-divórcio. Pagava o aluguel. Depois larguei, quando o salário cobriu.
 
-Camila ficou olhando para a amiga, processando. Bolo no pote. Ela, a "coordenadora de marketing", vendendo bolo no pote.
+Camila ficou olhando para a amiga, pensando no que tinha acabado de ouvir. Bolo no pote. Ela, a "coordenadora de marketing", vendendo bolo no pote.
 
 *E daí?* — uma voz dentro dela rebateu. *Orgulho não paga condomínio.*
 
@@ -2858,7 +2870,7 @@ Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, se
 
 E, aos poucos, a conta que não fechava começou a fechar. Não folgada. Apertada, no limite, mas fechando.
 
-Você já sentiu isso? A dignidade de ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. É uma dignidade que ninguém tira.
+Havia uma dignidade nova em ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. Uma dignidade que ninguém podia tirar.
 
 ---
 
@@ -2880,11 +2892,12 @@ O bolo no pote pagava as contas do mês. Mas não pagava a parte do Ricardo no i
 
 E o prazo, Camila sabia, estava correndo.
 
+---
 
-# CAPÍTULO 13
+﻿# CAPÍTULO 13
 ## A Pressão da Família
 
-Domingo é o dia oficial da família. E, consequentemente, o dia oficial da cobrança para quem quebrou a família.
+Domingo é o dia oficial da família. Por isso, também era o dia oficial da cobrança para quem, segundo os outros, tinha quebrado a família.
 
 O telefone tocou às 09h da manhã. O nome "MÃE" brilhava na tela como um letreiro de néon perigoso.
 
@@ -2949,14 +2962,14 @@ Dona Sônia, na cabeceira, continuava comendo devagar.
 
 — Mas Camila — insistiu Bete, a voz mansa de quem explica o óbvio para uma criança. — Homem é assim mesmo. Eles não têm esse jeito pra coisa doméstica. Cabe à mulher orientar. Com jeitinho. Você sempre foi meio... estourada.
 
-Você já ouviu isso? "Homem é assim mesmo." Como se o descuido fosse cromossomo. Como se cuidar da própria casa fosse dom — que eles não têm e a gente, por obrigação, tem.
+*Homem é assim mesmo.* A frase era repetida como se o descuido viesse de nascença. Como se cuidar da própria casa fosse um dom que eles não tinham e as mulheres, por obrigação, tinham.
 
 — Estourada? — Camila sentiu as lágrimas virem. — Eu aguentei onze anos, tia! Onze anos pedindo ajuda. Onze anos me sentindo sozinha acompanhada. Isso é ser estourada?
 
 — Ah, mas ele não bebia, não batia... — começou Vilma.
 
 FOI AÍ.
-Foi aí que Dona Sônia, a mãe quieta, a viúva padrão, a mulher que sempre serviu a todos em silêncio, largou o garfo no prato.
+Foi aí que Dona Sônia, a mãe quieta, a viúva sempre discreta, a mulher que servia a todos em silêncio, largou o garfo no prato.
 O barulho foi alto. *Cim!*
 
 Todas olharam para ela.
@@ -3047,8 +3060,9 @@ Não estava mais sozinha. Tinha a mãe. E tinha a si mesma.
 
 E isso, descobriu ela, era um exército e tanto.
 
+---
 
-# CAPÍTULO 14
+﻿# CAPÍTULO 14
 ## A Primeira Sessão
 
 Camila quase não foi.
@@ -3144,7 +3158,7 @@ Sem os filhos? Sem o Ricardo? Sem o crachá da empresa?
 
 A resposta não veio. E foi a ausência dela que assustou mais. Camila vasculhou a própria cabeça como quem procura uma chave no fundo da bolsa: tinha papel, tinha cartão, tinha recibo antigo — mas a chave não estava lá. Ela sabia que um dia esteve. Só não lembrava onde tinha guardado.
 
-Você já tentou se descrever sem os papéis que te definem? Mãe. Esposa. Funcionária. Tira os rótulos e, para muita mulher, sobra um silêncio assustador. Um eco. Um "eu não sei" que bate no peito e não responde.
+Sem os papéis de mãe, esposa e funcionária, sobrava um silêncio assustador. Um eco. Um "eu não sei" que batia no peito e não respondia.
 
 — Eu... eu não sei — sussurrou ela. O pânico voltou. — Eu não sei. Eu sou a mãe do Léo e da Bia. Eu organizo a casa. Eu cuido das coisas.
 
@@ -3159,7 +3173,7 @@ Lágrimas silenciosas, quentes.
 
 Dr. Lucas estendeu uma caixa de lenços. Ela pegou um, assoou o nariz sem elegância nenhuma.
 
-— Isso é normal, Camila. É o que chamamos de fusão. Você se fundiu aos papéis que desempenhava. E agora que um desses papéis (o de esposa) acabou, você sente que sumiu.
+— Isso é normal, Camila. Você se misturou tanto com os papéis de mãe, esposa e profissional que deixou de enxergar quem era além deles. Agora que o papel de esposa acabou, parece que uma parte sua sumiu.
 
 — Eu vou achar ela de novo?
 
@@ -3221,8 +3235,9 @@ Ela guardou o papel na carteira.
 
 Ligou o carro e dirigiu de volta para o vazio barulhento de sua casa, mas agora com uma pequena, minúscula, missão secreta no bolso.
 
+---
 
-# CAPÍTULO 15
+﻿# CAPÍTULO 15
 ## A Nova Rotina
 
 A casa tem uma maneira cruel de lembrar a mulher divorciada de que ela está sozinha.
@@ -3269,7 +3284,7 @@ E a vontade de chorar veio. Forte. Avassaladora.
 *Eu não consigo. Eu sou uma fraude. Eu preciso de um homem. Eu preciso de ajuda.*
 
 Ela pegou o celular para ligar para o Ricardo. O dedo pairou sobre o nome dele.
-Seria tão fácil. "Ricardo, socorro, fiz merda na cozinha". Ele viria. Consertaria. E olharia para ela com aquele olhar de superioridade condescendente: *"Viu? Você não consegue sem mim."*
+Seria tão fácil. "Ricardo, socorro, fiz merda na cozinha". Ele viria. Consertaria. E olharia para ela com aquele ar de superioridade: *"Viu? Você não consegue sem mim."*
 
 Camila olhou para o telefone.
 Olhou para a torneira assassina.
@@ -3305,7 +3320,7 @@ Ela começou a rir. Uma risada histérica, sozinha na cozinha molhada.
 
 Não era sobre a torneira. Nunca é sobre a torneira.
 
-Você já consertou algo que te dava medo? Não falo de encanamento. Falo daquele medo de descobrir que você dá conta — porque, se der, o mundo inteiro que te dizia "você precisa de um homem" desaba.
+Não era só o encanamento. Era o medo de descobrir que dava conta — porque, se desse, o mundo inteiro que dizia "você precisa de um homem" desabaria.
 Era sobre saber que ela podia sobreviver ao caos. Que ela podia se molhar, errar, fazer bagunça, e depois limpar e consertar. Sozinha.
 
 Ela limpou a cozinha. Secou o chão. Tomou um banho quente.
@@ -3533,7 +3548,7 @@ Ela entrou no salão. Mostrou foto para a cabeleireira:
 
 E cortou.
 
-Mechas caindo no chão. Peso sendo tirado. Literalmente e metaforicamente.
+Mechas caindo no chão. Peso sendo tirado. Do cabelo e da vida.
 
 Quando a cabeleireira terminou e virou a cadeira para o espelho, Camila ofegou.
 
@@ -3545,7 +3560,7 @@ Não era a Camila de vinte anos. Era uma Camila nova. Mais velha, mas também ma
 
 — Adorei — a cabeleireira disse. — Ficou lindo em você.
 
-Camila sorriu. Genuinamente.
+Camila sorriu. De verdade.
 
 E quando saiu do salão, parou na vitrine de uma loja. Se olhou.
 
@@ -3569,7 +3584,7 @@ Camila abraçou os filhos.
 
 E percebeu: eles estavam se adaptando à nova vida. Do jeito deles. No tempo deles.
 
-Bia estava mais grudada, mais carente. Precisava de mais afeto, mais validação.
+Bia estava mais grudada, mais carente. Precisava de mais afeto, de ouvir que seus sentimentos importavam.
 
 Léo estava mais grave, mais observador. Fazia perguntas. Checava se ela estava bem.
 
@@ -3579,7 +3594,7 @@ Mas também tinha risadas. Tinha abraços. Tinha noites de filme com pipoca os t
 
 E Camila percebeu: ela estava mais presente.
 
-Porque não estava mais distraída pelo ressentimento. Pela raiva. Pela sobrecarga.
+Porque não estava mais distraída pela mágoa. Pela raiva. Pelo cansaço de carregar tudo sozinha.
 
 Agora, quando tinha os filhos, realmente OS TINHA.
 
@@ -3649,11 +3664,12 @@ E movimento era vida.
 
 E ela estava por fim vivendo de novo.
 
+---
 
-# CAPÍTULO 16
+﻿# CAPÍTULO 16
 ## Um Sábado Só Minha
 
-Foi a primeira vez em nove anos que Camila acordou num sábado sem ninguém para cuidar.
+Foi a primeira vez desde que Léo nasceu que Camila acordou num sábado sem ninguém para cuidar.
 
 As crianças tinham ido passar o fim de semana com o Ricardo — a primeira visita oficial desde a separação — e o apartamento, que sempre fora barulhento, agora estava mergulhado num silêncio tão absoluto que dava para ouvir a geladeira zumbindo.
 
@@ -3665,11 +3681,11 @@ E, enfim, ela percebeu o quanto a ausência de tarefas podia doer.
 
 *E agora?* — pensou. *O que eu faço com um dia inteiro só meu?*
 
-Era uma pergunta que ela não sabia responder. Porque, durante nove anos, ela tinha sido mãe antes de ser qualquer coisa. E, sem os filhos por perto, não sabia mais quem era.
+Era uma pergunta que ela não sabia responder. Porque, desde que Léo nasceu, ela tinha sido mãe antes de ser qualquer coisa. E, sem os filhos por perto, não sabia mais quem era.
 
 ---
 
-Você já se sentiu assim? De repente sem a agenda cheia, sem o papel que te define, sem ninguém precisando de você — e, no lugar, um vazio que assusta. A gente passa tanto tempo vivendo para os outros que, quando fica sozinha, não sabe mais viver para si.
+De repente, ela estava sem a agenda cheia, sem o papel que a definia, sem ninguém precisando dela — e, no lugar, havia um vazio que assustava. Passara tanto tempo vivendo para os outros que já não sabia viver para si.
 
 Camila levantou, mais no automático do que por vontade. Fez um café. Tomou olhando pela janela. E foi aí que percebeu: fazia anos que não tomava café sentada. Café, para ela, era uma coisa que se bebia de pé, apressada, entre uma tarefa e outra.
 
@@ -3709,7 +3725,7 @@ Pintou o silêncio. Pintou a rua. Pintou a solidão — e, no processo, descobri
 
 Era uma companhia.
 
-Você já pintou, escreveu, cozinhou ou dançou só por você? Sem plateia, sem objetivo, sem ninguém para aprovar. É um ato revolucionário, num mundo que nos ensina a só fazer o que rende, o que agrada, o que produz. Fazer algo só porque te dá prazer é uma forma de dizer: eu importo. A minha alegria importa.
+Pintar, escrever, cozinhar ou dançar sem plateia, sem objetivo e sem ninguém para aprovar parecia um ato de coragem. Num mundo que ensinava a fazer apenas o que rendia, agradava ou produzia, criar por prazer era uma forma de dizer: *eu importo. A minha alegria importa.*
 
 ---
 
@@ -3747,15 +3763,16 @@ E, enquanto colocava as crianças para dormir, ela pensou no sábado que tinha p
 
 Não porque não amasse os filhos. Mas porque, para amá-los inteira, ela precisava se lembrar — todo dia, se possível — de quem ela era quando ninguém estava olhando.
 
+---
 
-# CAPÍTULO 17
+﻿# CAPÍTULO 17
 ## Voltando a Pintar
 
 A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer algo só por você.*
 
 Camila tinha comprado os materiais na quinta-feira à tarde, saindo do trabalho mais cedo — e quase não saiu. A reunião estourou o horário, o trânsito estava um caos, e a voz prática dentro dela sussurrou: *vai pra casa, Cá. Descansa. Tinta pode esperar.* Tinta podia esperar, sim. Tinta esperou onze anos. Foi exatamente esse o argumento que a fez virar o carro na direção contrária, em direção à loja.
 
-Entrar na papelaria especializada foi como entrar em uma igreja. Um silêncio reverente, a luz suave sobre as prateleiras, e aquele cheiro — papel, grafite, madeira, algo úmido e antigo — que a transportou instantaneamente para os 20 anos de idade.
+Entrar na papelaria especializada foi como entrar em uma igreja. Um silêncio respeitoso, a luz suave sobre as prateleiras, e aquele cheiro — papel, grafite, madeira, algo úmido e antigo — que a levou de volta aos 20 anos de idade.
 
 Ela caminhou pelos corredores devagar, como quem revisita um lugar sagrado que jurou que nunca mais pisaria. Os tubos de tinta alinhados como um arco-íris. Os pincéis em potes de vidro, redondos e chatos, macios e duros. Os blocos de papel de algodão empilhados, grossos, prometendo absorver água e cor com generosidade.
 
@@ -3776,7 +3793,7 @@ No caixa, o cartão tremeu na mão.
 
 *Isso é dinheiro de mercado. Isso é meia mensalidade da natação do Léo. Isso é quase o botijão de gás. Isso é...*
 
-A lista mental atacou sem piedade. Onze anos de treino a fizeram uma expert em converter qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. O algoritmo da sobrecarga, sempre ligado, fazia as contas antes mesmo dela decidir.
+A lista mental atacou sem piedade. Onze anos de treino a fizeram uma especialista em transformar qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. A conta automática da sobrecarga, sempre ligada, começava antes mesmo de ela decidir.
 
 *Quem você pensa que é? Artista?* A voz da mãe ecoou do passado, pontual como sempre. *Arte é hobby. Hobby sem futuro.*
 
@@ -3795,7 +3812,7 @@ Era estranho. E, ao mesmo tempo, libertador.
 Camila arrumou a mesa da sala de jantar. Tirou a toalha. Colocou jornais velhos.
 Dispôs as tintas. Encheu um pote de vidro (um pote de geleia reaproveitado) com água limpa.
 
-Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num poço separado. Ela passou o dedo sobre elas, reverente. Azul cobalto. Carmesim. Amarelo ocre. Verde viridiana. Nomes que pareciam feitiços.
+Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num espaço separado. Ela passou o dedo sobre elas com respeito. Azul cobalto. Vermelho profundo. Amarelo terroso. Verde intenso. Nomes que pareciam feitiços.
 
 Pegou o bloco de papel, arrancou a folha de cima. Encheu o peito de ar.
 
@@ -3820,7 +3837,7 @@ A tinta se espalhou na água do papel úmido. Uma explosão azulada, como uma nu
 Camila prendeu a respiração.
 Era lindo.
 
-Era como andar de bicicleta. O corpo lembrava. A mão lembrava o quanto de água, o ângulo do pincel, a paciência de esperar a cor assentar. Vinte anos depois, e ainda estava tudo lá, guardado no músculo, esperando permissão para voltar.
+Era como andar de bicicleta. O corpo lembrava. A mão lembrava o quanto de água, o ângulo do pincel, a paciência de esperar a cor assentar. Quatorze anos depois, e ainda estava tudo lá, guardado no músculo, esperando permissão para voltar.
 
 Ela não sabia o que pintar. Flores? Paisagem? O apartamento vazio?
 
@@ -3890,14 +3907,15 @@ E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mu
 
 Ela pegou o celular e, antes de qualquer outra coisa, ligou para a aula de aquarela e se matriculou para o semestre inteiro.
 
+---
 
-# CAPÍTULO 18
+﻿# CAPÍTULO 18
 ## As Pequenas Vitórias
 
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
 Não eram vitórias de filme, com música triunfante e fogos de artifício. Eram vitórias silenciosas, invisíveis para o mundo, mas monumentais para ela.
 
-Talvez você tenha as suas. Não as vitórias que dão manchete — as que ninguém aplaude. Acordar sem o peito apertado. Comprar algo para si sem culpa. Dizer não. Você já contou as suas hoje?
+Eram vitórias que não davam manchete e que ninguém aplaudia: acordar sem o peito apertado, comprar algo para si sem culpa, dizer não. Camila começou a contá-las para não esquecer que também estava avançando.
 
 ---
 
@@ -4212,7 +4230,7 @@ E o menino sorriu, como se entendesse — talvez entendesse — o tamanho daquil
 
 E, na sexta, uma vitória que ela não tinha planejado: foi ao cinema sozinha. Comprou o ingresso, escolheu a poltrona do meio, comeu pipoca sem dividir. No início, sentiu os olhares — ou imaginou que sentia. *Uma mulher sozinha no cinema. Coitada. Deve ter sido largada.* Mas, na metade do filme, ela tinha esquecido do mundo. E, ao sair, percebeu que não tinha se sentido sozinha nem por um segundo. Tinha se sentido... em paz.
 
-Você já foi ao cinema sozinha? Se não, tenta. É um rito de passagem da mulher que está aprendendo a gostar da própria companhia.
+Ir ao cinema sozinha parecia um pequeno rito de passagem: a prova de que a própria companhia também podia ser boa.
 
 E houve uma vitória ainda mais difícil, que ela quase não reconheceu como vitória: pedir ajuda.
 
@@ -4271,7 +4289,7 @@ De que ia ficar bem.
 
 Não hoje. Não amanhã.
 
-Mas eventualmente.
+Mas um dia.
 
 Camila fechou o caderninho. Olhou para pintura na geladeira. Para casa silenciosa mas não mais tão vazia.
 
@@ -4289,15 +4307,16 @@ E por cada pequena vitória que provava:
 
 Ela tinha feito certo.
 
+---
 
-# CAPÍTULO 19
+﻿# CAPÍTULO 19
 ## O Colega do Trabalho
 
 Voltar ao escritório depois do divórcio foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
 
 Na primeira semana, ela pegou três pessoas interrompendo a conversa quando ela se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
 
-Você já voltou a um lugar onde todos sabiam da sua vida? É como andar de vestido de noiva no metrô: você não fez nada errado, mas todo mundo olha.
+Voltar a um lugar onde todos sabiam da sua vida era como andar de vestido de noiva no metrô: ela não tinha feito nada errado, mas todo mundo olhava.
 
 ---
 
@@ -4377,14 +4396,15 @@ Sem medo. Sem dívida. Sem o coração disparado de quem espera o ataque.
 
 ---
 
-Você já se sentiu desejada de novo, depois de muito tempo? Não precisa virar nada. Às vezes é só um café na mesa, um "quer almoçar?", um olhar que demora meio segundo a mais. É o lembrete de que você ainda existe como mulher — além de mãe, além de profissional, além de ex.
+Não precisava virar romance. Às vezes, um café na mesa, um "quer almoçar?" ou um olhar que demorava meio segundo a mais já lembrava que ela ainda existia como mulher — além de mãe, profissional e ex.
 
 Camila não ia namorar o Marcos. Mas naquela semana, ele fez um favor que nem sabia que estava fazendo: devolveu a ela o espelho.
 
 E, enfim, ela gostou do que viu.
 
+---
 
-# CAPÍTULO 20
+﻿# CAPÍTULO 20
 ## O Grupo de Mulheres
 
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
@@ -4398,9 +4418,9 @@ Havia um grupo peculiar naquela sala de ateliê.
 
 **Júlia:** 32 anos, publicitária, ligada no 220v. Pintava quadros abstratos violentos e coloridíssimos. Falava alto, ria alto e tinha uma energia caótica que Camila adorava. Júlia era o tipo de pessoa que entrava na sala e, em dez minutos, já sabia da vida de todo mundo — e todo mundo sabia da dela.
 
-**Beatriz:** 55 anos, recém-viúva. Pintava flores com uma delicadeza cirúrgica. Tinha uma tristeza nos olhos que Camila reconhecia, mas também uma doçura infinita. Falava pouco e ouvia muito, do jeito de quem aprendeu cedo que a solidão ensina a escutar.
+**Beatriz:** 55 anos, recém-viúva. Pintava flores com uma delicadeza impressionante. Tinha uma tristeza nos olhos que Camila reconhecia, mas também uma doçura infinita. Falava pouco e ouvia muito, do jeito de quem aprendeu cedo que a solidão ensina a escutar.
 
-**Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era a personificação da resiliência. Quando Clara chegava, sempre trazia alguma história de perrengue contada com um humor seco que fazia todo mundo rir de alívio, de identificação.
+**Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era um exemplo vivo de força. Quando Clara chegava, sempre trazia alguma história de perrengue contada com um humor seco que fazia todo mundo rir de alívio, de identificação.
 
 Numa quinta-feira chuvosa, Paula, a professora, sugeriu:
 — Gente, a chuva está triste. Vamos encerrar meia hora mais cedo e ir na padaria da esquina? Eu pago o pão de queijo.
@@ -4457,7 +4477,7 @@ Todas riram.
 Camila olhou para aquelas mulheres.
 Tão diferentes. Unidas por nada além de uma aula de pintura e pela experiência universal de ser mulher num mundo que exige demais.
 
-Você já encontrou as suas? Aquelas mulheres que te olham e, sem dizer nada, entendem. Que te fazem rir da própria desgraça. Se ainda não, procure. Elas existem. E salvam.
+Camila tinha encontrado as suas: mulheres que olhavam e, sem dizer nada, entendiam. Que faziam umas às outras rir da própria desgraça. Elas existiam. E salvavam.
 
 Ela sentiu uma onda de calor no peito.
 Dra. Lucas tinha dito para ela encontrar "sua tribo".
@@ -4479,7 +4499,7 @@ Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulhe
 
 E então, como acontece quando a guarda baixa, as histórias ficaram mais fundas. Clara, a mãe solo dos gêmeos, contou como, na semana anterior, tinha chorado escondida no banheiro do trabalho porque o ex mandou mensagem dizendo que não ia buscar as crianças no fim de semana — "e eu tinha uma reunião de madrugada no sábado, e precisei remarcar tudo, e a minha chefe me olhou torto, e eu só queria dormir oito horas seguidas uma única vez".
 
-Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho invisível": fez as contas de quanto gastaria contratando cozinheira, motorista, babá e personal organizer — e o total dava mais que o salário de muita gente. "E a gente faz tudo isso de graça, todo santo dia, e ainda ouve que 'não faz nada'".
+Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho invisível": fez as contas de quanto gastaria contratando cozinheira, motorista, babá e organizadora profissional — e o total dava mais que o salário de muita gente. "E a gente faz tudo isso de graça, todo santo dia, e ainda ouve que 'não faz nada'".
 
 Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só assentiram. Só passaram o pão de queijo e encheram o café.
 
@@ -4514,8 +4534,9 @@ Antes de dormir, ela puxou o caderno e anotou uma única linha:
 
 Depois apagou a luz e dormiu sem peso no peito, em meses.
 
+---
 
-# CAPÍTULO 21
+﻿# CAPÍTULO 21
 ## A Culpa da Maternidade
 
 Léo tinha apresentação na escola.
@@ -4572,7 +4593,7 @@ Uma menina sobre duas mães.
 
 E Ricardo não chegava.
 
-Camila olhava para a porta a cada minuto. Celular no silencioso mas vibrando ocasionalmente - trabalho, provavelmente. Ela ignorou.
+Camila olhava para a porta a cada minuto. O celular estava no silencioso, mas vibrava de vez em quando — trabalho, provavelmente. Ela ignorou.
 
 A cada apresentação que passava, o assento vazio ao lado dela parecia crescer. Camila conferia o corredor, a porta, o relógio. Torcia para ver a silhueta do Ricardo entrando de fininho, se desculpando em silêncio, sentando ao lado dela. Torcia como criança torce. Com aquele resto teimoso de esperança que se recusa a morrer.
 
@@ -4612,7 +4633,7 @@ A frase caiu pesada.
 
 Tradução de criança de oito anos para: não vem.
 
-Você já traduziu assim o silêncio de quem ama? Já ouviu um "vou tentar" e soube, no fundo, que era "não"? Crianças aprendem cedo essa língua. E isso parte o coração.
+Léo já sabia traduzir o silêncio de quem amava. Já tinha ouvido tantos "vou tentar" que entendia, no fundo, quando aquilo queria dizer "não". Crianças aprendem cedo essa língua. E isso parte o coração.
 
 Camila segurou lágrimas. Sala lotada. Não podia desmoronar.
 
@@ -4658,9 +4679,7 @@ Camila ajoelhou na frente dele:
 
 Léo abraçou ela. Apertado. Escondendo rosto no ombro dela.
 
-E Camila percebeu horrorizada: ele estava protegendo ELA. Não deixando ela ver que estava magoado para não mago
-
-ar ela também.
+E Camila percebeu, horrorizada: ele estava protegendo ELA. Não deixava que ela visse a mágoa dele para não magoá-la também.
 
 ---
 
@@ -4668,7 +4687,7 @@ No carro, silêncio pesado.
 
 Bia tagarelava sobre o dia dela na creche. Léo olhava pela janela.
 
-Camila segurou volante com força. Raiva crescendo.
+Camila segurou o volante com força. A raiva crescia.
 
 Quando chegaram em casa, colocou desenho animado para as crianças. Pegou celular. Foi para o quarto.
 
@@ -4682,17 +4701,17 @@ Ele atendeu no terceiro toque:
 
 — Camila, desculpa. Teve reunião de emergência no trabalho. Eu avisei que ia tentar...
 
-— TENTAR NÃO É O SUFICIENTE! — Ela explodiu. — Você é PAI, Ricardo! Seu filho tinha apresentação importante Ele fez cartolina sobre família NOSSA. E você não apareceu!
+— TENTAR NÃO É O SUFICIENTE! — Ela explodiu. — Você é PAI, Ricardo! Seu filho tinha uma apresentação importante. Ele fez uma cartolina sobre a NOSSA família. E você não apareceu!
 
 — Não grita comigo. Eu trabalho. Diferente de você, eu não posso sair quando quero.
 
 — Eu TAMBÉM trabalho! E mesmo assim eu saí! Porque priorizo meus filhos!
 
-— Nossos filhos tão bem. Param de drama.
+— Nossos filhos tão bem. Para de drama.
 
 *Drama.*
 
-Ali estava palavra de novo. Invalidação automática.
+Ali estava aquela palavra de novo. Um jeito rápido de anular o que ela sentia.
 
 — Você machucou seu filho hoje, Ricardo. Ele procurou você na plateia. E você não estava lá. OUTRA VEZ.
 
@@ -4714,19 +4733,19 @@ A frase foi tapa.
 
 — É sobre isso? Sobre guarda? Não é sobre SER PAI de verdade?
 
-— Não me enche, Camila. Eu to cansado.
+— Não me enche, Camila. Eu tô cansado.
 
 E desligou.
 
 DESLIGOU.
 
-Camila ficou olhando para tela. Chamada encerrada.
+Camila ficou olhando para a tela. Chamada encerrada.
 
-E começou chorar.
+E começou a chorar.
 
 De raiva. De frustração. De culpa.
 
-Culpa massiva, esmagadora.
+Uma culpa enorme, esmagadora.
 
 Porque ela que tinha feito isso. Ela que tinha separado. Ela que tinha "quebrado família".
 
@@ -4772,7 +4791,7 @@ Lágrimas escorrendo no rostinho dele, molhando o travesseiro.
 
 — Foi por minha culpa? Sua e do pai?
 
-— NÃO. — Camila puxou ele para abraço feroz. — NUNCA foi sua culpa. Nem sua nem da Bia. Foi entre eu e seu pai. Adultos. Nada que você fez ou deixou de fazer.
+— NÃO. — Camila puxou o filho para um abraço forte. — NUNCA foi sua culpa. Nem sua nem da Bia. Foi entre mim e seu pai. Adultos. Nada que você fez ou deixou de fazer.
 
 — Mas o pai não vem por minha causa?
 
@@ -4810,7 +4829,7 @@ Atendeu segundo toque:
 
 Meia hora de conversa. Dr. Lucas paciente, gentil, firme.
 
-Desconstruindo culpa. Diferenciando responsabilidade dela de responsabilidade de Ricardo.
+Desmontando a culpa. Separando o que era responsabilidade dela do que era responsabilidade de Ricardo.
 
 — Você não pode controlar ações dele, Camila. Só pode controlar suas.
 
@@ -4822,11 +4841,11 @@ Camila ficou em silêncio, deixando a pergunta assentar.
 
 — Como eu não confundo? Eu comecei isso!
 
-— Você terminou algo insustentável. Ricardo que escolhe não ser pai presente. Isso é dele. Não você.
+— Você terminou uma relação que não dava mais para sustentar. Ricardo é quem escolhe não ser um pai presente. Isso é dele. Não é culpa sua.
 
 — Mas mãe perfeita...
 
-— Não existe. — Firme. — Mãe perfeita é mentira, Camila. Mãe presente, honesta, que se importa - isso existe. E você É isso. Você estava na apresentação. Você segurou Léo quando ele chorou. Você está aqui, ligando, processando, querendo fazer certo. Isso é ser boa mãe.
+— Não existe. — Firme. — Mãe perfeita é mentira, Camila. Mãe presente, honesta, que se importa — isso existe. E você É isso. Você estava na apresentação. Você segurou Léo quando ele chorou. Você está aqui, pensando no que aconteceu e querendo fazer certo. Isso é ser boa mãe.
 
 — Mas eu me sinto tão culpada...
 
@@ -4894,8 +4913,9 @@ Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da expos
 
 E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou em silêncio.
 
+---
 
-# CAPÍTULO 22
+﻿# CAPÍTULO 22
 ## O Primeiro Natal Sozinha
 
 Dezembro chegou sem pedir licença, e Camila descobriu que o Natal tinha um peso que as outras datas não tinham.
@@ -4906,7 +4926,7 @@ Ela não sabia o que doía mais: montar a árvore sem o Ricardo resmungando que 
 
 Na véspera, Camila acordou com um aperto no peito que não era fome, nem gripe, nem cansaço. Era saudade — não do Ricardo, mas da ideia de Natal que ela tinha passado onze anos tentando construir: a mesa cheia, a família reunida, a ilusão de que tudo estava bem.
 
-Você já passou o Natal sozinha? Não fisicamente sozinha — com os filhos, com a ceia, com os presentes — mas sozinha na alma, sentindo que o mundo inteiro estava em família e você, de algum jeito, tinha ficado de fora. É uma solidão específica, que só existe em dezembro.
+Não era estar fisicamente sozinha — havia os filhos, a ceia, os presentes. Era sentir-se sozinha na alma, como se o mundo inteiro estivesse em família e ela tivesse ficado de fora. Uma solidão que parecia existir apenas em dezembro.
 
 ---
 
@@ -4938,7 +4958,7 @@ E, enfim, naquele dezembro, a casa não pareceu vazia. Pareceu... deles.
 
 Comeram. Riram do peru seco. Bia derrubou o suco de uva na toalha boa, e Camila, em vez de surtar, riu e disse "faz parte". Léo ajudou a lavar a louça, sem ela pedir.
 
-Você já percebeu que as melhores lembranças não são as perfeitas? São as que a gente sobreviveu juntos, do jeito torto, com o peru seco e o suco derramado. São essas que ficam.
+As melhores lembranças não eram as perfeitas. Eram as que eles construíam juntos, do jeito torto, com o peru seco e o suco derramado. Essas ficavam.
 
 ---
 
@@ -4962,8 +4982,9 @@ E Camila foi dormir sabendo que aquilo, enfim, não era um sonho distante.
 
 Era um plano.
 
+---
 
-# CAPÍTULO 23
+﻿# CAPÍTULO 23
 ## O Aniversário de Léo
 
 Nove anos.
@@ -5083,10 +5104,10 @@ Ele pegou o kit de desenho e foi para o quarto.
 
 Camila ficou na sala.
 Olhou para o papel de presente rasgado no chão.
-O dinheiro compra coisas. Compra barulho. Compra euforia momentânea.
+O dinheiro compra coisas. Compra barulho. Compra uma alegria que dura pouco.
 Mas não compra conexão.
 
-Você já sentiu isso? O presente simples que vale mais que o caro — porque vem com presença. Criança sabe a diferença. No fundo, a gente também.
+O presente simples podia valer mais que o caro porque vinha com presença. Criança sabe a diferença. No fundo, todo mundo sabe.
 
 Ricardo podia ter ganhado a noite com o cheque.
 Mas Camila tinha ganhado o filho com a presença.
@@ -5114,8 +5135,9 @@ O sorriso que abriu no rosto do Léo valia mais do que qualquer PlayStation.
 
 E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha comprado o presente mais barato, mas porque tinha comprado o presente que precisava dela para existir. O presente era só a desculpa. O verdadeiro presente era o sábado juntos.
 
+---
 
-# CAPÍTULO 24
+﻿# CAPÍTULO 24
 ## O Dia em Que Léo Perguntou Sobre o Pai
 
 Foi numa terça-feira à noite, quando Camila estava arrumando a cozinha e Léo apareceu na porta, com aquele jeito de quem ensaiava a pergunta fazia tempo.
@@ -5200,7 +5222,7 @@ E Camila entendeu que aquela conversa, por mais curta que fosse, tinha sido um t
 
 ---
 
-Você já precisou explicar para um filho uma dor que nem você entende direito? É o trabalho mais difícil do mundo. Porque a gente quer proteger, mas não pode mentir. Quer consolar, mas não tem resposta.
+Explicar a um filho uma dor que nem ela entendia direito parecia o trabalho mais difícil do mundo. Camila queria protegê-lo sem mentir, consolar sem inventar uma resposta.
 
 Naquela noite, Camila não tinha todas as respostas. Mas tinha os braços. E, às vezes, é disso que uma criança precisa — de braços que não soltam, mesmo quando o mundo inteiro parece soltar.
 
@@ -5210,160 +5232,9 @@ Naquela noite, Camila não tinha todas as respostas. Mas tinha os braços. E, à
 
 Lá fora, a noite seguia. Mas dentro daquela cozinha, uma ferida pequena começava, devagar, a cicatrizar.
 
+---
 
 # CAPÍTULO 25
-## O Dia das Mães
-
-Camila sempre tinha achado o Dia das Mães a data mais injusta do ano. Porque, na casa dela, "Dia das Mães" significava mais trabalho, não menos: era ela quem organizava o almoço para as duas avós, quem comprava os presentes (inclusive o "dela", que o Ricardo entregava com um "tá aí, escolhe você mesma"), quem arrumava a mesa, quem sorria nas fotos e quem lavava a louça depois.
-
-Mas aquele ano era diferente.
-
-Aquele era o primeiro Dia das Mães em que Camila era, oficialmente, uma mãe divorciada. E ela não sabia muito bem como se sentir sobre isso.
-
----
-
-Na véspera, as crianças chegaram da escola com as mochilas cheias de segredos. Léo guardava uma sacola de mercado embaixo da cama. Bia escondia um papel dobrado dentro da meia.
-
-— Não pode olhar, mãe! — avisou Léo, com o rosto sério. — É surpresa.
-
-— Prometo que não olho — disse Camila, e era verdade. Mas o coração dela já estava apertado de um jeito bom.
-
-Você já recebeu um presente feito por mãos pequenas? Não importa se é um cartão torto ou um colar de macarrão pintado. É o tipo de coisa que a gente guarda para sempre, porque ali tem algo que dinheiro nenhum compra: o esforço de uma criança tentando te dizer "eu te amo" do jeito que sabe.
-
----
-
-No domingo de manhã, Camila acordou com o cheiro de... alguma coisa queimando.
-
-Levantou num pulo. Correu para a cozinha.
-
-E encontrou Léo em cima de um banquinho, mexendo uma panela de leite no fogão, com a testa franzida de concentração. Bia estava ao lado, segurando uma colher enorme, coberta de achocolatado dos pés à cabeça.
-
-— MÃE! — gritaram os dois juntos. — Volta pra cama! É surpresa!
-
-Camila obedeceu, rindo, com lágrimas nos olhos. Voltou para a cama e ficou ali, esperando, ouvindo o barulho da cozinha: o leite borbulhando, uma colher caindo, sussurros de "não, deixa que eu mexo", "cuidado, vai queimar".
-
-Dez minutos depois, Léo entrou no quarto carregando uma bandeja. Bia vinha atrás, segurando o presente embrulhado.
-
-A bandeja tinha: um copo de leite com achocolatado (meio empelotado), uma torrada queimada (de um lado) e uma flor de plástico que Bia tinha tirado de um vaso da sala.
-
-Era o café da manhã mais feio do mundo.
-
-E o mais perfeito.
-
-— Feliz Dia das Mães — disseram os dois, em coro, com os olhos brilhando.
-
-Camila comeu tudo. Até a parte queimada. E disse que era o melhor café da manhã da vida dela.
-
-Porque era.
-
----
-
-Depois do café, Bia entregou o presente embrulhado em papel de jornal.
-
-Camila abriu devagar.
-
-Dentro, havia um cartão de cartolina vermelha, todo enfeitado de cola e purpurina, com um desenho dela e das crianças de mãos dadas. E, em cima, escrito com a letra torta de Bia, uma frase:
-
-*"MAMÃE É A MELHOR DO MUNDO INTEIRO."*
-
-E, embaixo, com a letra mais firme do Léo, outra:
-
-*"Obrigado por não desistir da gente."*
-
-Camila leu. E releu. E as lágrimas vieram, quentes e silenciosas, escorrendo pelo rosto.
-
-*Obrigado por não desistir da gente.*
-
-Fazia meses que ela se perguntava se tinha feito a coisa certa. Se separar tinha sido egoísmo. Se os filhos um dia entenderiam — ou perdoariam.
-
-E ali, naquela cartolina vermelha, estava a resposta.
-
-Não era preciso perdão. Era preciso agradecimento.
-
----
-
-Naquele ano, Camila não organizou almoço para ninguém. Não comprou presente para si mesma "porque o Ricardo esqueceu". Não lavou louça de vinte pessoas.
-
-Foi à padaria com as crianças. Comeram bolo e pão de queijo. Riram das mãos sujas de achocolatado.
-
-E, no fim do dia, quando os filhos dormiram, Camila pegou o cartão de cartolina e o pendurou na porta da geladeira, no lugar de honra.
-
-Depois, fez algo que nunca tinha feito em onze anos de Dia das Mães: deu um presente para si mesma.
-
-Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses esperando na estante, e ficou ali, em silêncio, sem culpa, sem pressa.
-
-E pensou: *hoje eu me celebro. Porque eu também fui mãe de mim mesma este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
-
-E, enfim, o Dia das Mães fez sentido.
-
-
-# CAPÍTULO 26
-## As Férias de Julho
-
-Quando as férias de julho chegaram, Camila teve um momento de pânico.
-
-Onze anos de férias com o Ricardo tinham ensinado a ela que "férias em família" era uma expressão elegante para "mais trabalho, só que em outra cidade". Era ela quem planejava tudo, arrumava as malas das crianças, separava os remédios, dirigia, organizava as refeições — enquanto o Ricardo tirava fotos e reclamava do calor.
-
-Mas agora não havia Ricardo. E, enfim, Camila percebeu que férias podiam ser... dela.
-
-— Pra onde a gente vai, mãe? — perguntou Léo, animado, espalhando mapas pela mesa.
-
-— Pra praia? — sugeriu Bia, que tinha visto um desenho de mar na escola.
-
-Camila olhou para os dois, para o mapa, para o saldo do banco (que ainda não era folgado, mas já não era desesperador). E tomou uma decisão que, um ano atrás, teria achado irresponsável:
-
-— A gente vai pra praia. Só nós três.
-
----
-
-A viagem foi longa. Cinco horas de estrada, com paradas para xixi e para comprar biscoito de polvilho num posto à beira da estrada. Camila dirigiu o tempo todo, cantando as músicas que as crianças pediam, rindo das piadas sem graça do Léo.
-
-E percebeu, no meio do caminho, uma coisa estranha: não estava exausta.
-
-Estava... leve.
-
-Você já reparou que a exaustão da gente, às vezes, não vem do trabalho — vem da companhia? Fazer tudo sozinha, mas sem ninguém reclamando, sem ninguém criticando, sem ninguém fazendo você se sentir um estorvo... era outra coisa. Era cansaço bom, de quem está vivendo a própria vida.
-
----
-
-A pousada era simples. Um quarto com uma cama de casal e uma beliche, cheiro de maresia e uma rede na varanda. Não era o resort que o Ricardo escolhia (e parcelava em doze vezes). Era menor, mais barato, mais... deles.
-
-No primeiro dia, Camila ensinou os filhos a boiar. Léo teve medo no começo, agarrando o braço dela com força, depois soltou e descobriu que conseguia flutuar sozinho.
-
-— MÃE, EU TÔ BOIANDO! — gritou ele, com uma alegria que atravessou a praia inteira.
-
-— Você tá! — Camila riu, aplaudindo. — Tá boiando!
-
-Bia, sentada na areia, construía um castelo com um balde furado. Camila ajudou, cavando o fosso, enchendo o balde, fazendo torres tortas.
-
-E, naquele fim de tarde, com o sol se pondo no mar e os filhos cansados e felizes ao lado dela, Camila sentiu uma paz que não sentia desde... desde antes de casar, talvez.
-
-*É isso*, pensou. *É isso que eu queria. Uma família de três, inteira, feliz, sem medo.*
-
----
-
-À noite, os três deitaram na rede, enrolados numa toalha, olhando as estrelas (que na praia, sem a luz da cidade, pareciam mais perto). Léo contou as constelações que tinha aprendido na escola. Bia dormiu no meio da frase, com a bochecha colada no peito da mãe.
-
-— Mãe — sussurrou Léo, já com sono —, a gente pode voltar aqui nas próximas férias?
-
-— Pode, filho. Pode voltar sempre.
-
-— E o Daniel? Ele vem?
-
-Camila sorriu no escuro.
-
-— Se a gente quiser, ele vem.
-
-— Eu quero — disse Léo, simples. E fechou os olhos.
-
-Camila ficou ali, ouvindo o barulho do mar, sentindo o peso quente dos dois filhos contra o corpo.
-
-E entendeu que tinha chegado num lugar novo. Não era um lugar no mapa. Era um lugar dentro dela — onde as férias não eram mais uma obrigação a cumprir, mas um tempo a ser vivido.
-
-Ela tinha aprendido a ser feliz. Com eles. Por ela.
-
-
-# CAPÍTULO 27
 ## O Contraste
 
 Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
@@ -5392,11 +5263,11 @@ O mesmo homem que um dia apontou para um brinquedo no chão e disse, com aquela 
 
 E ali estava ele, morando sozinho, cercado de pizza velha e tênis espalhados. Sem ela para recolher. Sem ela para passar a camisa. Sem ela para transformar o caos em lar.
 
-— Você está morando assim? — perguntou ela, genuinamente surpresa.
+— Você está morando assim? — perguntou ela, surpresa de verdade.
 
 — A diarista vem na segunda — ele desconversou, defensivo. — E eu tô trabalhando muito, não tenho tempo pra frescura.
 
-Camila olhou para a pia da kitchinette. Pilha de louça.
+Camila olhou para a pia da cozinha pequena. Pilha de louça.
 Olhou para a camisa dele. Amarrotada nas costas.
 
 E, pela porta entreaberta da geladeira, viu o interior: uma caixa de pizza, duas cervejas e um pote de maionese aberto. Nenhuma fruta. Nenhum legume. Nada que lembrasse lar. A geladeira de quem sobrevive, não de quem vive.
@@ -5405,16 +5276,16 @@ Na prateleira da estante, atrás de um carregador velho, Camila viu a ponta de u
 
 Ela olhou para aquela foto por um longo momento. Para a noiva radiante que acreditava, de fato, que o amor era suficiente. Para o noivo que prometia cuidar dela. Nenhum dos dois sabia, naquele dia, o que o cotidiano faria com eles.
 
-Camila recolocou a moldura no lugar. Sem raiva. Sem saudade. Só com uma espécie de reverência triste pela inocência daquelas duas pessoas.
+Camila recolocou a moldura no lugar. Sem raiva. Sem saudade. Só com um respeito triste pela inocência daquelas duas pessoas.
 
-E teve uma epifania.
+E então caiu a ficha.
 Clara. Cristalina.
 
 Ricardo não era organizado. Ricardo não era exigente.
 Ricardo era *cuidado*.
 Por ela.
 
-A frase não chegou com raiva. Chegou com uma clareza que a deixou tonta. Durante onze anos, ela acreditou que ele era o parceiro meticuloso e ela a desleixada que nunca alcançava o padrão. Mas a verdade era outra: o padrão não era dele. Era dela. Ele só cobrava — e ela, exausta, atendia. Ele nunca construiu uma casa organizada; ele morou numa, às custas dela.
+A frase não chegou com raiva. Chegou com uma clareza que a deixou tonta. Durante onze anos, ela acreditou que ele era o parceiro detalhista e ela a desleixada que nunca alcançava o padrão. Mas a verdade era outra: o padrão não era dele. Era dela. Ele só cobrava — e ela, exausta, atendia. Ele nunca construiu uma casa organizada; ele morou numa, às custas dela.
 
 Durante onze anos, ela foi a gerente da vida dele. A que garantia que a camisa estava passada, que a casa cheirava a lavanda, que a comida estava na mesa.
 Ela era o andaime que sustentava a fachada de "homem de sucesso organizado".
@@ -5446,7 +5317,7 @@ O mito do Ricardo Perfeito tinha caído.
 E com ele, a última ponta de admiração que ainda a prendia.
 Ela não tinha perdido um parceiro incrível. Tinha se livrado de um projeto de reabilitação vitalício.
 
-Você já teve esse dia de clareza? Aquele em que por fim entende que a bagunça, a culpa, a exaustão — nada daquilo era seu. Esse dia é um dos mais libertadores da vida.
+Era um dia de clareza: ela enfim entendia que a bagunça, a culpa e a exaustão não eram defeitos dela. Havia liberdade naquela descoberta.
 
 ---
 
@@ -5493,8 +5364,9 @@ Camila riu. E, agora, olhar para o próprio passado não doeu.
 
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
+---
 
-# CAPÍTULO 28
+# CAPÍTULO 26
 ## O Primeiro Sorriso Real
 
 A exposição no ateliê.
@@ -5502,10 +5374,7 @@ Sábado à noite.
 
 Camila estava nervosa. Tinha escolhido o vestido azul (o que ela gostava, não o que ela achava que devia usar).
 
-Seus três quadros estavam lá.
-1. *Afogamento* (a mulher na água com a luz).
-2. *Caos* (o abstrato colorido que ela fez no dia da raiva da torneira).
-3. *Silêncio* (uma paisagem calma, de uma sala vazia com sol entrando).
+Seus três quadros estavam lá: *Afogamento*, a mulher sob a água procurando luz; *Caos*, o abstrato colorido que ela fez no dia da raiva da torneira; e *Silêncio*, uma sala vazia recebendo o sol da manhã.
 
 As pessoas circulavam. Bebiam vinho barato em copos de plástico. Comiam amendoim.
 Mas olhavam.
@@ -5539,11 +5408,9 @@ Camila fez a conta rápida. Era o valor da mensalidade da natação. Era metade 
 Mas não era pelo dinheiro.
 Era pelo valor.
 
-Alguém via valor naquilo que ela criou a partir da sua dor.
+Alguém via valor naquilo que ela criou a partir da própria dor.
 
-Por onze anos, a única coisa que "vendiam" a Camila era a utilidade: o que ela fazia pelos outros, o que ela produzia, o que ela limpava, o que ela organizava. Ninguém nunca tinha pago para olhar para dentro dela. E agora uma estranha, com dinheiro próprio, escolhia *comprar* um pedaço da dor de Camila transformada em cor. Como quem compra um espelho.
-
-Não era elogio vazio. Não era a mãe dizendo "ficou lindo" para qualquer rabisco. Era uma estranha, com dinheiro próprio, escolhendo *comprar* um pedaço da dor de Camila transformada em cor.
+Por onze anos, o valor de Camila tinha sido medido pelo que fazia pelos outros: o que produzia, limpava, lembrava e organizava. Agora uma desconhecida escolhia levar para casa algo que existia porque Camila tinha sentido e criado. Como quem compra um espelho.
 
 Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só uma aquarela. Era o retrato de uma manhã qualquer em que Camila por fim tinha conseguido respirar. E uma desconhecida tinha olhado para aquilo e sentido paz.
 
@@ -5566,7 +5433,7 @@ Paula veio colocar uma bolinha vermelha adesiva ao lado do quadro. *Vendido.*
 Camila olhou para aquela bolinha vermelha.
 Parecia um diploma. Uma medalha olímpica.
 
-— Eu sabia — disse Paula, aproximando-se, os olhos brilhando de um orgulho que não era dela. — Desde a primeira aula, eu via nos seus traços uma coisa que você não via em si mesma. Você não estava só voltando a pintar, Camila. Você estava voltando a se ver.
+— Eu sabia — disse Paula, aproximando-se, com os olhos brilhando de orgulho. — Desde a primeira aula, eu via nos seus traços uma coisa que você não via em si mesma. Você não estava só voltando a pintar, Camila. Você estava voltando a se ver.
 — Eu nem sabia se conseguiria chegar até aqui — confessou Camila, a voz embargada.
 — Conseguiu. E isso é só o começo. Eu quero três quadros seus na próxima exposição do ateliê. No mínimo.
 
@@ -5606,15 +5473,13 @@ Camila abriu os olhos e olhou para o próprio reflexo no vidro escuro do ateliê
 — Eu voltei — sussurrou para o próprio reflexo.
 
 E sorriu.
-
-E sorriu.
 Não para alguém.
 Para ela mesma.
 
 Foi um sorriso que veio das entranhas, subiu pelo estômago, aqueceu o peito e explodiu no rosto.
 Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito bem, obrigada.
 
-Você já sentiu isso? Aquele sorriso que ninguém vê, que vem de dentro e não pede plateia. O sorriso de quem se salvou. Guarde o seu. É o mais precioso que existe.
+Era um sorriso que ninguém precisava ver, que vinha de dentro e não pedia plateia. O sorriso de quem tinha se salvado. O mais precioso que existia.
 
 E Camila percebeu a diferença entre aquele sorriso e o que ela usava há onze anos. O sorriso de antes era de vitrine: medido, ensaiado, calculado para agradar. Era o sorriso da esposa que ria da piada sem graça, da funcionária que concordava sem concordar, da mulher que sorria para não chorar.
 
@@ -5633,15 +5498,16 @@ E, enfim, o futuro não parecia um túnel escuro.
 Parecia uma tela em branco.
 E ela tinha acabado de descobrir que tinha tintas de sobra.
 
+---
 
-# CAPÍTULO 29
+# CAPÍTULO 27
 ## O Encontro
 
-Quase um ano depois de Ricardo sair de casa.
+Quase um ano depois de Ricardo sair de casa, o ateliê organizou uma segunda exposição. Dessa vez, numa pequena galeria em Pinheiros.
 
-Camila estava na exposição do ateliê, nervosa, suando frio mesmo com ar-condicionado ligado, tentando parecer casual enquanto observava pessoas olhando seus quadros.
+Camila estava nervosa, suando frio mesmo com o ar-condicionado ligado, tentando parecer casual enquanto observava pessoas olhando seus quadros.
 
-Seus. Dela. Camila Ferreira Santos, 34 anos, mãe de dois, divorciando, sobrevivente.
+Seus. Dela. Camila Ferreira Santos, 35 anos, mãe de dois, quase divorciada, sobrevivente.
 
 Artista.
 
@@ -5689,9 +5555,9 @@ Aperto firme mas não esmagador. Mão quente. Olhos que realmente olhavam quando
 
 Camila hesitou. Pensou em mentir. Dizer "sim, sempre". Mas algo nele a fez querer verdade.
 
-— Na verdade, parei por mais de dez anos. Voltei há quatro meses.
+— Na verdade, parei por mais de dez anos. Voltei há quase um ano.
 
-— Sério? — Ele pareceu genuinamente impressionado. — Não dá para ver. Você tem muita técnica.
+— Sério? — Ele pareceu impressionado de verdade. — Não dá para ver. Você tem muita técnica.
 
 — Obrigada. Ainda estou... redescobrindo.
 
@@ -5707,17 +5573,15 @@ As palavras ficaram suspensas no ar.
 
 — Não. Não tenho talento nenhum para artes visuais. Mas aprecio demais. — Ele olhou para os outros quadros na parede. — E eu trabalho com arte de outro tipo. Palavra. Literatura. Sou professor universitário.
 
-Professor. Literatura.
-
-Mente criativa. Alma de arte.
+Professor de literatura. Talvez fosse por isso que ele olhava para imagens como quem procurava uma história.
 
 — Que legal — Camila disse, e realmente achou.
 
-— É. Adoro. Apesar de alunos às vezes me fazerem questionar escolhas de vida. — Ele riu. Autodepreciação sem ser patética.
+— É. Adoro. Apesar de os alunos às vezes me fazerem questionar minhas escolhas. — Ele riu de si mesmo, sem se diminuir.
 
 Camila riu também. Facilidade natural.
 
-Conversaram mais alguns minutos. Sobre arte. Sobre literatura. Sobre como a exposição era legal. Superficial mas genuíno.
+Conversaram mais alguns minutos. Sobre arte. Sobre literatura. Sobre a exposição. Uma conversa leve, mas verdadeira.
 
 — Qual é o seu, afinal? — Daniel perguntou, apontando para os quadros. — Quero dizer, o que te atravessou.
 Camila hesitou. Ninguém nunca tinha perguntado assim — não sobre técnica, mas sobre o que a atravessava.
@@ -5733,15 +5597,15 @@ Até Paula chamar atenção de Camila para apresentá-la a alguém.
 
 — Obrigada.
 
-Ela foi falar com outras pessoas. Mas voltava o olhar ocasionalmente para ele.
+Ela foi falar com outras pessoas. Mas, de vez em quando, voltava o olhar para ele.
 
-Daniel passou mais meia hora na galeria. Olhou todos os quadros. Fez perguntas inteligentes para Paula. Tomou suco. Eventualmente foi embora.
+Daniel passou mais meia hora na galeria. Olhou todos os quadros. Fez perguntas inteligentes para Paula. Tomou suco. Depois foi embora.
 
 E Camila achou que era isso.
 
 Encontro casual. Agradável. Descartável.
 
-Até no final da noite, quando estava ajudando Paula a desmontar, encontrou um bilhetinho debaixo do seu quadro:
+Até que, no fim da noite, quando ajudava Paula a desmontar a exposição, encontrou um bilhetinho debaixo do seu quadro:
 
 *"Camila,*
 
@@ -5767,7 +5631,7 @@ Guardou o bilhete na bolsa. Tentou não pensar mais nisso.
 
 Não conseguiu.
 
-Pelo resto da noite, enquanto ajudava a desmontar a exposição, o bilhete pareceu queimar no fundo da bolsa. Cada vez que Camila mexia para pegar algo, seus dedos roçavam o papel dobrado, e o coração dava um salto — pequeno, involuntário, irritante.
+Pelo resto da noite, enquanto ajudava a desmontar a exposição, o bilhete pareceu queimar no fundo da bolsa. Cada vez que Camila mexia para pegar algo, seus dedos roçavam o papel dobrado, e o coração dava um salto — pequeno, sem querer, irritante.
 
 Ela se pegou pensando no que havia de tão desconcertante naquele gesto. Não era a cantada. Era a ausência de pressão. *"Sem pressão. Só se você quiser."* Onze anos de casamento a tinham ensinado que todo gesto de homem vinha com cobrança embutida. E aquele bilhete — aquele bilhete simples, educado, que pedia nada — tinha desmontado uma crença que ela nem sabia que carregava.
 
@@ -5833,7 +5697,7 @@ Ela exalou.
 
 Elogio genuíno sem tentar demais.
 
-Conversaram por mais meia hora. Literatura, arte, cafés favoritos, trivialidades sobre o tempo.
+Conversaram por mais meia hora. Literatura, arte, cafés favoritos, assuntos do dia a dia e até sobre o tempo.
 
 No final:
 
@@ -5869,7 +5733,7 @@ Ela merecia uma chance de pelo menos tentar.
 
 Digitou:
 
-*"Café parece bom. Mas vamos devagar, ok? Eu estou... ainda processando algumas coisas."*
+*"Café parece bom. Mas vamos devagar, ok? Eu ainda estou tentando entender algumas coisas."*
 
 Honesta. Com limite. Mas sim.
 
@@ -5936,7 +5800,7 @@ Camila sendo um muro de concreto, interpretando cada frase dele como um sinal de
 
 Ele perguntou dos filhos. *Quer saber se sou mãe solteira desesperada.*
 Ele perguntou dos livros. *Quer testar minha intelectualidade.*
-Ele elogiou a blusa dela. *Quer me objetificar.*
+Ele elogiou a blusa dela. *Só está olhando para o meu corpo.*
 
 A mente de Camila era um tribunal militar julgando um civil inocente.
 
@@ -5953,7 +5817,7 @@ Olhou para ela com olhos calmos, mas cansados.
 Camila piscou.
 — Como assim?
 
-— É que... parece que você está odiando estar aqui. Você está tensa, defensiva, responde monossilabicamente. Se eu fiz algo errado ou se você não queria ter vindo, pode falar. A gente encerra, sem ressentimentos.
+— É que... parece que você está odiando estar aqui. Você está tensa, na defensiva, responde com frases curtas. Se eu fiz algo errado ou se você não queria ter vindo, pode falar. A gente encerra, sem mágoa.
 
 A honestidade dele foi um balde de água fria no tribunal da cabeça dela.
 Ricardo nunca teria percebido. Ricardo teria continuado falando de si mesmo, ignorando o desconforto dela.
@@ -5986,10 +5850,10 @@ Ela queria estar pronta. Queria muito.
 Mas não estava.
 O coração dela ainda estava em obras. O reboco estava fresco. Se alguém entrasse agora, ia sujar o pé e estragar o piso.
 
-— Eu acho que não estou — admitiu ela. — Eu ainda estou aprendendo a ficar sozinha. Se eu começar algo agora, vou acabar usando você como muleta. E você não merece ser muleta.
+— Eu acho que não estou — admitiu ela. — Eu ainda estou aprendendo a ficar sozinha. Se eu começar algo agora, posso acabar usando você como apoio para não encarar o que ainda dói. E você não merece isso.
 
 Daniel sorriu. Um sorriso triste, mas bonito.
-— Justo. Ninguém merece ser muleta. E ninguém merece ser fantasma.
+— Justo. Ninguém merece carregar uma história que não viveu. E ninguém merece ser tratado como fantasma.
 
 Ele chamou o garçom. Pediu a conta.
 — Eu pago o meu — disse Camila, rápido.
@@ -6020,8 +5884,9 @@ Ligou o rádio. Estava tocando uma música animada.
 Camila dirigiu para casa cantando.
 Sozinha. E muito bem acompanhada de si mesma.
 
+---
 
-# CAPÍTULO 30
+# CAPÍTULO 28
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
@@ -6058,7 +5923,7 @@ Ricardo sentou no sofá sem ser convidado. Olhou para a sala.
 — São meus. Eu pintei.
 — Ah, é. A fase artista. Ficaram bons.
 
-*Fase artista.* Condescendência sutil.
+*Fase artista.* Aquele tom de quem se achava superior.
 
 — Ricardo, fala logo.
 
@@ -6171,13 +6036,17 @@ Levantou, fez café, e ficou um tempo na janela, vendo a cidade acordar. Pensou 
 
 E sorriu. Não um sorriso de vitória. Um sorriso de alívio. De quem fechou uma porta e, em vez de sentir o eco, sentiu o vento entrando pela janela.
 
+---
 
-# CAPÍTULO 31
+# CAPÍTULO 29
 ## O Fim e o Começo
 
 O divórcio saiu numa terça-feira cinzenta.
-Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata.
-Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
+Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata. As decisões sobre os filhos já tinham sido aprovadas pela Justiça: guarda compartilhada, casa principal com Camila, fins de semana alternados com Ricardo, pensão, escola e plano de saúde.
+
+O apartamento também tinha deixado de ser uma ameaça sem resposta. Camila ficaria ali com as crianças, assumiria as parcelas que faltavam e pagaria a parte de Ricardo aos poucos, como ficou no acordo. Não era fácil, mas agora cabia no papel — e no orçamento que ela tinha aprendido a controlar.
+
+Com os filhos e os bens resolvidos, faltava o ato final. Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
 
 Ricardo estava lá. Usava o terno azul de sempre.
 Ele não olhou nos olhos dela. Falou com o advogado dele, assinou os papéis rápido, como se estivesse assinando uma multa de trânsito que queria esquecer.
@@ -6287,7 +6156,7 @@ Daniel contava sobre a universidade onde lecionava. Alunos engraçados. Departam
 
 Camila ria. De verdade. Não forçado.
 
-Ele tinha um bom timing cômico. Autodepreciativo sem ser patético.
+Ele sabia fazer graça e rir de si mesmo sem se diminuir.
 
 Mas parte dela estava esperando. Aguardando pelo sinal de alerta. Pelo momento onde ele mostraria as verdadeiras cores.
 
@@ -6321,7 +6190,7 @@ Apenas... lidou com o problema como adulto funcional.
 
 E Camila percebeu: ele era diferente.
 
-Genuinamente diferente.
+Diferente de verdade.
 
 ---
 
@@ -6333,7 +6202,7 @@ Ele contou sobre literatura. Ela adorou ouvir o entusiasmo dele sobre livros.
 
 E, num momento de silêncio confortável, Daniel disse algo que Camila não esperava:
 — Posso te confessar uma coisa? Eu também saí de um relacionamento difícil. Há três anos. Terminei um noivado. — Ele girou a xícara entre os dedos. — Não vou fingir que sei o que você passou. Cada dor é uma dor. Mas eu entendo o medo de confiar de novo. Eu tive esse medo.
-Camila ficou quieta, processando. Ele não estava competindo. Não estava comparando dores. Estava só... se abrindo. Mostrando que também tinha cicatrizes.
+Camila ficou quieta, absorvendo aquilo. Ele não estava competindo. Não estava comparando dores. Estava só... se abrindo. Mostrando que também tinha cicatrizes.
 — E como você superou? — perguntou ela, baixinho.
 — Ainda estou superando. A gente não "supera" de verdade, eu acho. A gente aprende a carregar de um jeito que não pesa tanto. — Ele sorriu, sem amargura. — E aprende a reconhecer o que não aceita mais.
 
@@ -6353,7 +6222,7 @@ Camila ficou tensa. Instinto.
 
 *Ele está avaliando se eu "sirvo"? Se sou complicada demais com filhos?*
 
-Mas o tom dele era genuinamente curioso. Não julgador.
+Mas o tom dele era curioso de verdade. Não julgador.
 
 — Pode.
 
@@ -6379,7 +6248,7 @@ Sinal positivo.
 
 Continuaram conversando.
 
-Eventualmente, inevitavelmente, o tópico do ex surgiu.
+Em algum momento, como era de esperar, o assunto do ex surgiu.
 
 — Você é divorciada recentemente, né?
 
@@ -6431,7 +6300,7 @@ Parte de Camila queria correr. Criar desculpa. Manter distância segura.
 
 Mas a nova parte - a parte crescente - queria tentar.
 
-— Eu gostaria. Mas... — Honestidade. Vulnerabilidade. — Eu preciso ir devagar. Saí de algo muito difícil. E ainda estou... descobrindo coisas.
+— Eu gostaria. Mas... — Era hora de abrir o coração. — Eu preciso ir devagar. Saí de algo muito difícil. E ainda estou... descobrindo coisas.
 
 — Totalmente compreensível. Sem pressão. No ritmo que você precisar.
 
@@ -6473,7 +6342,7 @@ Resposta imediata:
 
 *"Ele foi... gentil. Paciente. Real. E parte de mim continua esperando que o outro sapato caia."*
 
-*"É resposta ao trauma, Cá. Você vai demorar para confiar. Normal. Mas pelo menos você tentou."*
+*"É o passado falando, Cá. Você vai demorar para confiar. Normal. Mas pelo menos você tentou."*
 
 *"Eu gostei dele."*
 
@@ -6523,12 +6392,13 @@ Ela ficou deitada no escuro, repassando a noite: o café derramado, a risada de 
 
 Ansiedade boa. Borboletas. Aquele frio na barriga de quem está prestes a começar algo que pode dar certo.
 
-Ela riu sozinha no travesseiro. Trinta e quatro anos, dois filhos, um divórcio recém-assinado — e ali estava ela, com borboletas no estômago, como uma adolescente.
+Ela riu sozinha no travesseiro. Trinta e cinco anos, dois filhos, um divórcio recém-assinado — e ali estava ela, com borboletas no estômago, como uma adolescente.
 
 Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
 
+---
 
-# CAPÍTULO 32
+# CAPÍTULO 30
 ## Um Ano Depois: A Nova Paz
 
 Um ano.
@@ -6538,7 +6408,7 @@ A rotina agora era outra. Não era perfeita, mas era *dela*.
 
 Domingo à noite. O interfone tocou. Ricardo devolvendo as crianças.
 
-Antigamente, esse momento causava taquicardia em Camila. Ela ficava ansiosa para saber se eles comeram, se fizeram lição, se Ricardo tinha falado mal dela.
+Antigamente, esse momento fazia o coração de Camila disparar. Ela ficava ansiosa para saber se eles comeram, se fizeram lição, se Ricardo tinha falado mal dela.
 
 Hoje?
 Camila estava no sofá, terminando um livro, com uma taça de vinho na mão.
@@ -6603,7 +6473,7 @@ Café. Almoço rápido. Caminhada no parque. Cinema. Outro café.
 
 E em cada encontro, Camila testava.
 
-Não conscientemente. Mas instintivamente.
+Não de propósito. Era automático.
 
 Projetando Ricardo onde não tinha Ricardo.
 
@@ -6707,7 +6577,7 @@ Mas Camila continuava esperando que ele mostrasse a verdadeira face.
 
 ---
 
-Fernanda eventualmente interveio.
+Depois de um tempo, Fernanda interveio.
 
 Encontro delas para café. Terça à tarde.
 
@@ -6731,9 +6601,9 @@ Fernanda olhou séria:
 
 Pausa pesada.
 
-— Cá, escuta. Você pode se proteger sem sabotar tudo de bom. Dá uma chance. Para de projetar.
+— Cá, escuta. Você pode se proteger sem estragar tudo que é bom. Dá uma chance. Para de colocar no Daniel os medos que o Ricardo deixou.
 
-— Como distinguir entre sinal de alerta real e projeção de trauma?
+— Como eu separo um perigo de verdade de um medo que ficou do passado?
 
 — Observa o padrão. Uma vez pode ser qualquer coisa. Múltiplas vezes é padrão. E até agora, Daniel só mostrou padrão de: respeito, gentileza, paciência.
 
@@ -6813,7 +6683,7 @@ Mas a nova parte - a parte crescente - queria tentar.
 
 — Ótimo! Sem pressão. Só um jantar casual. Ela vai adorar você.
 
-Depois que desligaram, Camila sentou processando.
+Depois que desligaram, Camila sentou para pensar.
 
 Daniel queria apresentá-la à irmã. Significando que pensava sobre o futuro. Sobre ela sendo parte da vida dele a longo prazo.
 
@@ -6823,7 +6693,7 @@ Mas também... bom.
 
 Talvez pudesse parar de testar constantemente.
 
-Talvez pudesse começar a confiar cautelosamente.
+Talvez pudesse começar a confiar, devagar.
 
 Talvez Daniel realmente fosse diferente.
 
@@ -6845,7 +6715,7 @@ Escreveu no diário:
 
 *Hora de parar de esperar que o outro sapato caia.*
 
-*Hora de confiar cautelosamente.*
+*Hora de confiar, devagar.*
 
 *Porque se nunca confiar, nunca vou realmente me conectar.*
 
@@ -6891,8 +6761,163 @@ Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha 
 
 E essa era, talvez, a maior vitória de todas.
 
+---
 
-# CAPÍTULO 33
+# CAPÍTULO 31
+## O Dia das Mães
+
+Camila sempre tinha achado o Dia das Mães a data mais injusta do ano. Porque, na casa dela, "Dia das Mães" significava mais trabalho, não menos: era ela quem organizava o almoço para as duas avós, quem comprava os presentes (inclusive o "dela", que o Ricardo entregava com um "tá aí, escolhe você mesma"), quem arrumava a mesa, quem sorria nas fotos e quem lavava a louça depois.
+
+Mas aquele ano era diferente.
+
+Aquele era o primeiro Dia das Mães em que Camila era, oficialmente, uma mãe divorciada. E ela não sabia muito bem como se sentir sobre isso.
+
+---
+
+Na véspera, as crianças chegaram da escola com as mochilas cheias de segredos. Léo guardava uma sacola de mercado embaixo da cama. Bia escondia um papel dobrado dentro da meia.
+
+— Não pode olhar, mãe! — avisou Léo, com o rosto sério. — É surpresa.
+
+— Prometo que não olho — disse Camila, e era verdade. Mas o coração dela já estava apertado de um jeito bom.
+
+Um presente feito por mãos pequenas podia ser um cartão torto ou um colar de macarrão pintado. Era o tipo de coisa que se guarda para sempre, porque traz algo que dinheiro nenhum compra: o esforço de uma criança tentando dizer "eu te amo" do jeito que sabe.
+
+---
+
+No domingo de manhã, Camila acordou com o cheiro de... alguma coisa queimando.
+
+Levantou num pulo. Correu para a cozinha.
+
+E encontrou Léo em cima de um banquinho, mexendo uma panela de leite no fogão, com a testa franzida de concentração. Bia estava ao lado, segurando uma colher enorme, coberta de achocolatado dos pés à cabeça.
+
+— MÃE! — gritaram os dois juntos. — Volta pra cama! É surpresa!
+
+Camila obedeceu, rindo, com lágrimas nos olhos. Voltou para a cama e ficou ali, esperando, ouvindo o barulho da cozinha: o leite borbulhando, uma colher caindo, sussurros de "não, deixa que eu mexo", "cuidado, vai queimar".
+
+Dez minutos depois, Léo entrou no quarto carregando uma bandeja. Bia vinha atrás, segurando o presente embrulhado.
+
+A bandeja tinha: um copo de leite com achocolatado (meio empelotado), uma torrada queimada (de um lado) e uma flor de plástico que Bia tinha tirado de um vaso da sala.
+
+Era o café da manhã mais feio do mundo.
+
+E o mais perfeito.
+
+— Feliz Dia das Mães — disseram os dois, em coro, com os olhos brilhando.
+
+Camila comeu tudo. Até a parte queimada. E disse que era o melhor café da manhã da vida dela.
+
+Porque era.
+
+---
+
+Depois do café, Bia entregou o presente embrulhado em papel de jornal.
+
+Camila abriu devagar.
+
+Dentro, havia um cartão de cartolina vermelha, todo enfeitado de cola e purpurina, com um desenho dela e das crianças de mãos dadas. E, em cima, escrito com a letra torta de Bia, uma frase:
+
+*"MAMÃE É A MELHOR DO MUNDO INTEIRO."*
+
+E, embaixo, com a letra mais firme do Léo, outra:
+
+*"Obrigado por não desistir da gente."*
+
+Camila leu. E releu. E as lágrimas vieram, quentes e silenciosas, escorrendo pelo rosto.
+
+*Obrigado por não desistir da gente.*
+
+Fazia meses que ela se perguntava se tinha feito a coisa certa. Se separar tinha sido egoísmo. Se os filhos um dia entenderiam — ou perdoariam.
+
+E ali, naquela cartolina vermelha, estava a resposta.
+
+Não era preciso perdão. Era preciso agradecimento.
+
+---
+
+Naquele ano, Camila não organizou almoço para ninguém. Não comprou presente para si mesma "porque o Ricardo esqueceu". Não lavou louça de vinte pessoas.
+
+Foi à padaria com as crianças. Comeram bolo e pão de queijo. Riram das mãos sujas de achocolatado.
+
+E, no fim do dia, quando os filhos dormiram, Camila pegou o cartão de cartolina e o pendurou na porta da geladeira, no lugar de honra.
+
+Depois, fez algo que nunca tinha feito em onze anos de Dia das Mães: deu um presente para si mesma.
+
+Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses esperando na estante, e ficou ali, em silêncio, sem culpa, sem pressa.
+
+E pensou: *hoje eu me celebro. Porque eu também fui mãe de mim mesma este ano inteiro. Eu me acolhi, eu me salvei, eu me recriei.*
+
+E, enfim, o Dia das Mães fez sentido.
+
+---
+
+# CAPÍTULO 32
+## As Férias de Julho
+
+Quando as férias de julho chegaram, Camila teve um momento de pânico.
+
+Onze anos de férias com o Ricardo tinham ensinado a ela que "férias em família" era uma expressão elegante para "mais trabalho, só que em outra cidade". Era ela quem planejava tudo, arrumava as malas das crianças, separava os remédios, dirigia, organizava as refeições — enquanto o Ricardo tirava fotos e reclamava do calor.
+
+Mas agora não havia Ricardo. E, enfim, Camila percebeu que férias podiam ser... dela.
+
+— Pra onde a gente vai, mãe? — perguntou Léo, animado, espalhando mapas pela mesa.
+
+— Pra praia? — sugeriu Bia, que tinha visto um desenho de mar na escola.
+
+Camila olhou para os dois, para o mapa, para o saldo do banco (que ainda não era folgado, mas já não era desesperador). E tomou uma decisão que, um ano atrás, teria achado irresponsável:
+
+— A gente vai pra praia. Só nós três.
+
+---
+
+A viagem foi longa. Cinco horas de estrada, com paradas para xixi e para comprar biscoito de polvilho num posto à beira da estrada. Camila dirigiu o tempo todo, cantando as músicas que as crianças pediam, rindo das piadas sem graça do Léo.
+
+E percebeu, no meio do caminho, uma coisa estranha: não estava exausta.
+
+Estava... leve.
+
+Camila percebeu que, às vezes, a exaustão não vinha do trabalho, mas da companhia. Fazer tudo sozinha, sem reclamação, crítica ou alguém fazendo-a se sentir um estorvo, era diferente. Era o cansaço bom de quem vivia a própria vida.
+
+---
+
+A pousada era simples. Um quarto com uma cama de casal e uma beliche, cheiro de maresia e uma rede na varanda. Não era o resort que o Ricardo escolhia (e parcelava em doze vezes). Era menor, mais barato, mais... deles.
+
+No primeiro dia, Camila ensinou os filhos a boiar. Léo teve medo no começo, agarrando o braço dela com força, depois soltou e descobriu que conseguia flutuar sozinho.
+
+— MÃE, EU TÔ BOIANDO! — gritou ele, com uma alegria que atravessou a praia inteira.
+
+— Você tá! — Camila riu, aplaudindo. — Tá boiando!
+
+Bia, sentada na areia, construía um castelo com um balde furado. Camila ajudou, cavando o fosso, enchendo o balde, fazendo torres tortas.
+
+E, naquele fim de tarde, com o sol se pondo no mar e os filhos cansados e felizes ao lado dela, Camila sentiu uma paz que não sentia desde... desde antes de casar, talvez.
+
+*É isso*, pensou. *É isso que eu queria. Uma família de três, inteira, feliz, sem medo.*
+
+---
+
+À noite, os três deitaram na rede, enrolados numa toalha, olhando as estrelas (que na praia, sem a luz da cidade, pareciam mais perto). Léo contou as constelações que tinha aprendido na escola. Bia dormiu no meio da frase, com a bochecha colada no peito da mãe.
+
+— Mãe — sussurrou Léo, já com sono —, a gente pode voltar aqui nas próximas férias?
+
+— Pode, filho. Pode voltar sempre.
+
+— E o Daniel? Ele vem?
+
+Camila sorriu no escuro.
+
+— Se a gente quiser, ele vem.
+
+— Eu quero — disse Léo, simples. E fechou os olhos.
+
+Camila ficou ali, ouvindo o barulho do mar, sentindo o peso quente dos dois filhos contra o corpo.
+
+E entendeu que tinha chegado num lugar novo. Não era um lugar no mapa. Era um lugar dentro dela — onde as férias não eram mais uma obrigação a cumprir, mas um tempo a ser vivido.
+
+Ela tinha aprendido a ser feliz. Com eles. Por ela.
+
+---
+
+﻿# CAPÍTULO 33
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -6921,7 +6946,7 @@ Léo não respondeu. Bia, sem cerimônia, foi checar a caixa de pizza.
 
 Bia abriu um sorriso. Primeiro fio de esperança.
 
-O jantar foi tenso, como Camila previra. Léo respondeu às perguntas gentis de Daniel com monossílabos. Bia tagarelou sobre desenho animado, a boneca nova, o cachorro da vizinha. Daniel ouviu tudo com paciência genuína.
+O jantar foi tenso, como Camila imaginava. Léo respondeu às perguntas gentis de Daniel com poucas palavras. Bia tagarelou sobre desenho animado, a boneca nova, o cachorro da vizinha. Daniel ouviu tudo com paciência de verdade.
 
 — E você, Léo? — Daniel tentou. — Joga futebol, né? Sua mãe disse que você é bom.
 
@@ -6983,7 +7008,7 @@ Bia perguntava todo dia se "o amigo da mãe" ia voltar. Léo, mais discreto, faz
 
 Camila respondia tudo, com paciência. Porque sabia que, por trás de cada pergunta, havia uma pergunta maior: *esse homem vai ser bom pra minha mãe? Vai ser bom pra gente? Vai ficar?*
 
-E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Lembrou do dia da prova do Léo. Mandou mensagem de boa sorte na apresentação de dança da Bia. Apareceu, sem ser chamado, para ajudar a montar a estante nova.
+E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Lembrou do dia da prova do Léo. Mandou mensagem de boa sorte na apresentação de dança da Bia. Quando Camila comentou que precisava montar uma estante nova, ofereceu ajuda e só apareceu depois que ela aceitou.
 
 Uma tarde, Camila flagrou o Léo no quarto, desenhando. Ele desenhava sempre — mas desta vez o desenho era diferente: quatro figuras de mãos dadas, de tamanhos diferentes, embaixo de um sol grande e torto.
 
@@ -7007,8 +7032,9 @@ Naquela noite, deitada, Camila deixou a felicidade assentar no peito. Não era m
 
 E, agora, ela não teve medo de sonhar grande de novo.
 
+---
 
-# CAPÍTULO 34
+﻿# CAPÍTULO 34
 ## A Primeira Viagem a Quatro
 
 O carro estava quieto demais.
@@ -7101,20 +7127,17 @@ E ficaram ali, os quatro, em silêncio, olhando para cima. Sem pressa. Sem medo.
 
 Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
 
-E Camila, dirigindo, percebeu que aquele era o som que ela tinha procurado a vida inteira.
+Camila dirigia com as mãos firmes no volante. Pelo retrovisor, viu Bia adormecida no ombro do irmão e Daniel ajeitando o casaco sobre os dois sem acordá-los.
+
+Não era uma família que apagava a anterior. Era uma forma nova, ainda aprendendo a caber.
+
+Camila aumentou o rádio. Daniel começou a cantar errado, Léo protestou do banco de trás e ela riu tão alto que perdeu a entrada da rodovia.
+
+Ninguém reclamou.
 
 ---
 
-Você já teve medo de "misturar" as pessoas que ama? De achar que o novo não combina com o que você já tem? Eu sei que eu tive. Mas aprendi que o amor não divide — ele multiplica. E que o coração, quando a gente deixa, abre espaço para todo mundo que a gente escolhe.
-
-Naquela noite, os quatro fizeram um jantar improvisado, sentados no chão da sala, rindo de nada e de tudo.
-
-E Camila, olhando para aquela mesa torta, pensou:
-
-*É isso. É disso que era feita a felicidade o tempo todo.*
-
-
-# CAPÍTULO 35
+﻿# CAPÍTULO 35
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.
@@ -7193,16 +7216,15 @@ E sentiu, enfim, que esperar alguém podia ser uma coisa boa.
 
 ---
 
-Você já percebeu que a gente não briga com quem está na nossa frente? A gente briga com todos que vieram antes. A primeira briga de um amor novo é, na verdade, a última briga de um amor velho, pedindo para ser ouvida.
+Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve uma ferida de onze anos em uma conversa. Mas ele ficou, ela falou e os dois combinaram um jeito simples de cuidar do que havia doído.
 
-Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve. Mas ele ficou.
+Camila releu a mensagem das sete e meia e deixou o celular sobre a mesa.
 
-E ela aprendeu, aos poucos, que conflito não é abandono. Que brigar não é o fim. Que uma pessoa pode discordar de você e continuar te amando no minuto seguinte.
+Pela primeira vez, uma briga não parecia o começo do fim. Parecia apenas uma conversa que ainda podia continuar.
 
-O Ricardo nunca tinha ensinado isso. O Daniel, sim.
+---
 
-
-# CAPÍTULO 36
+﻿# CAPÍTULO 36
 ## O Primeiro Presente
 
 Camila não esperava presentes.
@@ -7239,7 +7261,7 @@ Não por causa do pincel. Por causa de tudo o que ele representava: atenção. M
 
 ---
 
-Você já percebeu que presente bom não é o que custa caro? É o que prova que alguém te escutou. Que alguém te viu. Que, no meio de um mundo barulhento, alguém guardou uma frase sua numa anotação de celular e esperou o momento certo.
+Presente bom não era o que custava caro. Era o que provava que alguém tinha escutado. Que alguém tinha visto. Que, no meio de um mundo barulhento, guardou uma frase numa anotação do celular e esperou o momento certo.
 
 — Desculpa — disse Camila, enxugando o rosto, rindo de si mesma. — Eu sou péssima em receber. Não estou acostumada.
 
@@ -7267,14 +7289,15 @@ Ela também estava.
 
 ---
 
-O presente do Daniel não foi o pincel. Foi a lembrança de que ser vista, ser lembrada, ser amada nos detalhes — isso não era luxo. Era o mínimo.
+O presente do Daniel não foi só o pincel. Foi a prova de que ele tinha escutado uma frase pequena e guardado o sonho que existia dentro dela.
 
-E, enfim, Camila entendeu que merecia o mínimo.
+Camila lavou o pincel, ajeitou a ponta com os dedos e o deixou secando ao lado do quadro.
 
-Merecia o mínimo todos os dias.
+Ser vista não devia parecer um luxo. Ainda assim, para ela, parecia um mundo novo.
 
+---
 
-# CAPÍTULO 37
+﻿# CAPÍTULO 37
 ## O Encontro com a Mãe do Daniel
 
 Camila estava mais nervosa do que no dia do divórcio.
@@ -7345,8 +7368,9 @@ Amor que a gente tem que conquistar não é amor. É dívida.
 
 E ela estava, por fim, aprendendo a diferença.
 
+---
 
-# CAPÍTULO 38
+﻿# CAPÍTULO 38
 ## O Reencontro
 
 Aconteceu num sábado de manhã, no corredor de congelados do mercado do bairro. Camila estava escolhendo entre duas marcas de ervilha — a mais barata ou a que as crianças realmente comiam — quando ouviu a voz.
@@ -7373,7 +7397,7 @@ Sentiu... nada.
 
 Era como olhar para um colega de trabalho distante, de uma empresa onde ela não trabalhava mais.
 
-Ela se lembrou, de repente, da última vez que tinha visto o Ricardo — no dia em que ele saiu de casa, com as malas na calçada, gritando que ela tinha estragado tudo. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
+Ela se lembrou, de repente, da última vez que tinha ficado a sós com Ricardo — no cartório, no dia em que assinaram o divórcio. E também do dia em que ele saiu de casa, com as malas na calçada, gritando que ela tinha estragado tudo. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
 
 E agora, ali, no corredor de congelados, o estômago estava quieto.
 
@@ -7383,7 +7407,7 @@ Onze anos de tempestade. E o mar, por fim, tinha virado um lago.
 
 — Oi, Ricardo — disse ela, com a voz calma. — Tudo bem?
 
-Ele pareceu surpreso com a calma dela. Talvez esperasse hostilidade. Ou lágrimas. Ou aquela tensão que costumava morar entre eles como uma terceira pessoa.
+Ele pareceu surpreso com a calma dela. Talvez esperasse raiva. Ou lágrimas. Ou aquela tensão que costumava morar entre eles como uma terceira pessoa.
 
 — Tudo. Tudo certo. — Ele hesitou. — Você tá... bem? Tá bonita.
 
@@ -7433,9 +7457,7 @@ Camila ficou parada no corredor de congelados, com a ervilha na mão, olhando o 
 
 E então, para a própria surpresa, ela começou a rir. Baixinho, sozinha, no meio do mercado, segurando um pacote de ervilha congelada como se fosse o troféu de uma batalha vencida.
 
-Você já sentiu isso? Aquele momento em que você reencontra alguém que te fez sofrer e descobre, com um alívio que beira a euforia, que aquela pessoa não tem mais poder nenhum sobre você. Que o fogo apagou. Que a corda se soltou.
-
-É um dos momentos mais livres da vida.
+Era um alívio enorme reencontrar alguém que a fez sofrer e descobrir que aquela pessoa não tinha mais poder sobre ela. O fogo tinha apagado. A corda tinha se soltado.
 
 Camila colocou a ervilha no carrinho e seguiu para o caixa, assobiando baixinho uma música que não sabia o nome.
 
@@ -7455,12 +7477,13 @@ Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilh
 
 E, no fim das contas, era exatamente isso que a cura parecia: não um grande evento dramático, mas a descoberta simples e silenciosa de que o passado, por fim, tinha passado.
 
+---
 
-# CAPÍTULO 39
+﻿# CAPÍTULO 39
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
-Capa preta. Primeira página datada de dois anos atrás.
+Capa preta. Primeira página datada de quase dois anos atrás.
 
 Leu as entradas antigas.
 *"Eu me sinto sozinha mesmo com ele do lado."*
@@ -7510,7 +7533,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 *Eu queria que você pudesse ver a gente agora.*
 *Você pinta quadros, Cá. Quadros lindos que as pessoas compram.*
 *Você tem um namorado (o Daniel!) que escuta quando você fala e acha sexy quando você está de pijama lendo.*
-*Seus filhos estão felizes. Eles aprenderam resiliência.*
+*Seus filhos estão felizes. Eles aprenderam a enfrentar dias difíceis.*
 
 *Mas o principal:*
 *Você ri.*
@@ -7527,7 +7550,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 *Com amor,*
 *Sua Camila inteira.*
 
-*PS: Guarde o vestido amarelo. Você vai usá-lo na exposição. E vai chorar de felicidade, não de dor.*
+*PS: Quando encontrar o vestido vermelho, leve. Você vai usá-lo na exposição. E vai chorar de felicidade, não de dor.*
 
 *PS2: A primeira vez que você dormir a noite inteira sem acordar com o coração disparado, saiba: é isso que a paz parece.*
 
@@ -7535,15 +7558,16 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
 Camila fechou o caderno.
 Uma lágrima caiu na capa. Não de tristeza.
-De reverência.
-Pela mulher que ela teve que matar para que essa pudesse viver.
+De respeito profundo.
+Pela mulher que precisou deixar para trás para que essa pudesse viver.
 E pela mulher que ela teve a coragem de se tornar.
 
+---
 
-# CAPÍTULO 40
+﻿# CAPÍTULO 40
 ## A Metade Que Me Faltava Era Eu
 
-A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.
+A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia um chá artesanal fermentado. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por luzes quentes que faziam as telas brilharem como janelas para outro mundo.
 
 Era perfeito.
 
@@ -7583,7 +7607,7 @@ Não para alguém. Para si mesma.
 
 Não lotada como uma festa de aniversário infantil — não era esse tipo de evento. Mas havia umas sessenta, setenta pessoas circulando entre as paredes, segurando taças de vinho barato e copinhos de água com gás, olhando as telas com aquela mistura de curiosidade e respeito que as pessoas têm em espaços artísticos.
 
-Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação de TCC na faculdade. As mãos suavam. Ela as enxugava discretamente na lateral do vestido vermelho.
+Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação do trabalho final da faculdade. As mãos suavam. Ela as enxugava discretamente na lateral do vestido vermelho.
 
 Fernanda chegou primeiro, claro. Usando uma jaqueta de couro e batom vinho, como uma versão paulistana de uma rockstar.
 
@@ -7593,7 +7617,7 @@ Fernanda chegou primeiro, claro. Usando uma jaqueta de couro e batom vinho, como
 
 — Não paro. Estou orgulhosa e vou ser inconveniente a noite inteira.
 
-Depois vieram Júlia e Beatriz, do grupo de arte. Beatriz, que tinha começado as aulas quatro meses depois de Camila, parecia tão nervosa quanto ela.
+Depois vieram Júlia e Beatriz, do grupo de arte. Beatriz, que estava na turma desde as primeiras semanas de Camila, parecia tão nervosa quanto ela.
 
 — Cá, seus quadros são os melhores da exposição — disse Beatriz, apertando a mão dela. — Os meus parecem que foram feitos por uma criança.
 
@@ -7607,7 +7631,7 @@ Então a porta abriu de novo e Camila viu algo que fez seu coração apertar de 
 
 Dona Sônia entrou na galeria.
 
-Sua mãe. A mulher que tinha dito "pensa nas crianças" quando Camila pediu o divórcio. A mulher que chorou de vergonha quando soube da separação. A mulher que ficou meses fria, distante, desaprovando cada escolha da filha em silêncio pesado.
+Sua mãe. A mulher que primeiro pediu que ela pensasse nas crianças, porque tinha medo do que viria depois. A mulher que, pouco tempo mais tarde, enfrentou a própria família para defender a filha e passou a caminhar ao lado dela.
 
 Aquela mulher estava ali, de cabelo curtinho — e com mechas cor-de-rosa que ela tinha ousado fazer no mês passado, numa tarde em que Camila a levou ao salão e disse "mãe, faz algo louco, só uma vez". E Dona Sônia, para espanto de todas, tinha topado.
 
@@ -7621,7 +7645,7 @@ Sônia segurou o rosto de Camila entre as mãos enrugadas.
 
 Camila engoliu o choro. Não de tristeza. De reconciliação.
 
-De saber que, às vezes, o amor que mais cura é o amor que demora para chegar — mas chega.
+De saber que, às vezes, o amor que mais cura é o amor que vence o medo e escolhe ficar ao nosso lado.
 
 ---
 
@@ -7677,13 +7701,13 @@ Todos ali. Todos reais. Todos seus.
 
 Ela respirou fundo.
 
-— A mensagem é sobre completude — respondeu Camila. A voz saiu mais firme do que ela esperava. — A gente cresce ouvindo que precisa encontrar a "metade da laranja". Que somos incompletos até achar um parceiro. Que sozinha você é só metade de alguma coisa.
+— A mensagem é sobre ser inteira — respondeu Camila. A voz saiu mais firme do que ela esperava. — A gente cresce ouvindo que precisa encontrar a "metade da laranja". Que somos incompletos até achar um parceiro. Que sozinha você é só metade de alguma coisa.
 
 Ela fez uma pausa. O salão silenciou.
 
 — Eu passei anos procurando essa metade. No meu casamento. Nos meus filhos. No meu trabalho. Tentei me encaixar em metades de outras pessoas. Me cortei, me diminuí, me silenciei para caber. E quanto mais eu tentava caber no espaço que outros definiam para mim, mais eu perdia pedaços de quem eu era.
 
-Outro silêncio. Ela viu a mulher que tinha feito a pergunta assentir quase imperceptivelmente, como se reconhecesse algo.
+Outro silêncio. Ela viu a mulher que tinha feito a pergunta balançar a cabeça bem de leve, como se reconhecesse algo.
 
 — Mas o segredo — continuou Camila, e a voz quebrou levemente, mas ela deixou — o grande segredo que ninguém conta... é que nós já nascemos inteiras.
 
@@ -7701,7 +7725,7 @@ Sorriu. Um sorriso que iluminou a sala como o dourado do terceiro quadro.
 
 Aplausos.
 
-Não aqueles aplausos educados de galeria, polidos e protocolares. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma intensidade que Camila nunca tinha visto nela.
+Não aqueles aplausos educados de galeria, dados só por obrigação. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma força que Camila nunca tinha visto nela.
 
 Camila olhou para Daniel. Ele estava encostado na parede, braços cruzados, sorrindo. Ele piscou. E naquele piscar havia algo que não era possessão, não era posse, não era "você é minha". Era reconhecimento. Era admiração. Era um inteiro olhando para outro inteiro e dizendo, sem palavras: *eu te vejo. Toda você. E é mais que suficiente.*
 
@@ -7773,13 +7797,13 @@ A galeria estava em penumbra agora. Apenas os spots da parede central ainda aces
 
 Camila parou diante do terceiro quadro. "Voo".
 
-Levantou a mão e tocou a tela com as pontas dos dedos. Sentiu a tinta seca sob a pele. A textura dos relevos que o pincel tinha criado. Cada camada de cor era uma camada de dor transformada. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou solitude.
+Levantou a mão e tocou a tela com as pontas dos dedos. Sentiu a tinta seca sob a pele. A textura dos relevos que o pincel tinha criado. Cada camada de cor era uma camada de dor transformada. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
 
-Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e reconquistado, condensado numa tela de algodão de sessenta por oitenta centímetros.
+Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e reconquistado, reunido numa tela de algodão de sessenta por oitenta centímetros.
 
 — Conseguimos — sussurrou.
 
-Não disse "consegui". Disse "conseguimos". Porque havia mais de uma Camila naquela sala. Havia a Camila de vinte anos que pintava aquarelas e sonhava. Havia a Camila de vinte e três que casou grávida e engoliu os sonhos. Havia a Camila de trinta e dois que chorava no chuveiro. A de trinta e três que dormia sete minutos antes do despertador e carregava listas mentais infinitas. A de trinta e quatro que sentou no escuro da sala e se perguntou quanto tempo Ricardo demoraria para notar que o papel higiênico não se repunha sozinho.
+Não disse "consegui". Disse "conseguimos". Porque havia mais de uma Camila naquela sala. Havia a Camila de vinte anos que pintava aquarelas e sonhava. Havia a Camila de vinte e três que se casou e foi guardando os sonhos. Havia a Camila de vinte e seis que segurou Léo nos braços pela primeira vez. Havia a Camila de trinta e quatro que acordava sete minutos antes do despertador, carregava listas mentais infinitas e, um dia, sentou no escuro da sala pensando quanto tempo Ricardo demoraria para notar que o papel higiênico não se repunha sozinho.
 
 E havia a Camila de agora. De vestido vermelho. Com tinta na alma e fogo no peito.
 
@@ -7789,7 +7813,7 @@ Camila pegou a bolsa. Apagou as luzes. Trancou a porta.
 
 Saiu para a noite de São Paulo.
 
-O ar estava frio, mas ela não sentiu frio. Havia um calor dentro dela — não de febre, não de raiva, não de ansiedade. Um calor de presença. De certeza. De completude.
+O ar estava frio, mas ela não sentiu frio. Havia um calor dentro dela — não de febre, não de raiva, não de ansiedade. Um calor de presença. De certeza. De se sentir inteira.
 
 Ela olhou para cima. As estrelas eram poucas — São Paulo é generosa em tudo menos em céu estrelado — mas as que havia brilhavam com força, como se compensassem a escassez com intensidade.
 
@@ -7819,6 +7843,7 @@ E agora que se encontrou, esse fogo — esse fogo silencioso e imenso e indestru
 
 **FIM**
 
+---
 
 ## AGRADECIMENTOS
 
@@ -7841,5 +7866,16 @@ A quem ainda está no meio do caminho, segurando as pontas com as unhas: você n
 **Autora:** Mariana Duarte
 **Gênero:** Ficção feminina (women's fiction)
 
-© 2026 Mariana Duarte. Todos os direitos reservados. Nenhuma parte deste livro pode ser reproduzida, armazenada ou transmitida sem autorização da autora.
+**Primeira edição independente — 2026**
 
+© 2026 Mariana Duarte. Todos os direitos reservados. Nenhuma parte deste livro pode ser reproduzida, armazenada ou transmitida, por qualquer meio, sem autorização prévia da autora, exceto em breves citações para resenhas.
+
+Esta é uma obra de ficção. Nomes, personagens, lugares e acontecimentos foram criados para a narrativa ou usados de forma fictícia. Qualquer semelhança com pessoas ou fatos reais é coincidência.
+
+---
+
+## UMA ÚLTIMA PALAVRA
+
+Se esta história encontrou alguma parte de você, conte a outra leitora. Uma indicação ou uma avaliação sincera ajuda este livro a chegar a mulheres que também precisam lembrar que não estão sozinhas.
+
+Obrigada por caminhar com Camila até aqui.

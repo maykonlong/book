@@ -1,8 +1,10 @@
 # 📋 VISÃO GERAL DO PROJETO
 
 ## Status Atual
-✅ **Manuscrito completo** — 40 capítulos, ~56.600 palavras (ver `04-MATERIAL_APOIO/PROGRESSO.md` e `05-PUBLICACAO/PACOTE_EDITORIAL.md`)
-✅ **Site profissional no ar** — landing page (`index.html`) + leitor online (`ler.html`), com FAQ de 12 perguntas e layout mobile-first (ver `05-PUBLICACAO/SEO_GEO.md`)
+✅ **Manuscrito completo** — 40 capítulos, ~54.600 palavras de história (~55.200 com textos iniciais e finais)
+✅ **Site e leitor atualizados** — landing page (`index.html`) + leitor online ilustrado (`ler.html`), com FAQ, JSON-LD e layout mobile-first (ver `05-PUBLICACAO/SEO_GEO.md`)
+
+✅ **Pacote KDP gerado** — EPUB 3, capa Kindle, miolo de 278 páginas, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`
 
 ---
 
@@ -70,7 +72,7 @@ Fazer a leitora se sentir **vista**, **compreendida** e **empoderada** para faze
 Contar uma história íntima e realista sobre autodescoberta sem cair em clichês ou julgamentos.
 
 ### Objetivo Comercial
-Criar um livro que ressoe com mulheres brasileiras de 28-45 anos, casadas ou separadas, que buscam identificação e inspiração.
+Criar um livro que ressoe com mulheres brasileiras adultas, especialmente mães, casadas, separadas ou divorciadas, que buscam identificação e esperança.
 
 ---
 

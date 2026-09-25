@@ -12,9 +12,9 @@ Havia um grupo peculiar naquela sala de ateliê.
 
 **Júlia:** 32 anos, publicitária, ligada no 220v. Pintava quadros abstratos violentos e coloridíssimos. Falava alto, ria alto e tinha uma energia caótica que Camila adorava. Júlia era o tipo de pessoa que entrava na sala e, em dez minutos, já sabia da vida de todo mundo — e todo mundo sabia da dela.
 
-**Beatriz:** 55 anos, recém-viúva. Pintava flores com uma delicadeza cirúrgica. Tinha uma tristeza nos olhos que Camila reconhecia, mas também uma doçura infinita. Falava pouco e ouvia muito, do jeito de quem aprendeu cedo que a solidão ensina a escutar.
+**Beatriz:** 55 anos, recém-viúva. Pintava flores com uma delicadeza impressionante. Tinha uma tristeza nos olhos que Camila reconhecia, mas também uma doçura infinita. Falava pouco e ouvia muito, do jeito de quem aprendeu cedo que a solidão ensina a escutar.
 
-**Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era a personificação da resiliência. Quando Clara chegava, sempre trazia alguma história de perrengue contada com um humor seco que fazia todo mundo rir de alívio, de identificação.
+**Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era um exemplo vivo de força. Quando Clara chegava, sempre trazia alguma história de perrengue contada com um humor seco que fazia todo mundo rir de alívio, de identificação.
 
 Numa quinta-feira chuvosa, Paula, a professora, sugeriu:
 — Gente, a chuva está triste. Vamos encerrar meia hora mais cedo e ir na padaria da esquina? Eu pago o pão de queijo.
@@ -71,7 +71,7 @@ Todas riram.
 Camila olhou para aquelas mulheres.
 Tão diferentes. Unidas por nada além de uma aula de pintura e pela experiência universal de ser mulher num mundo que exige demais.
 
-Você já encontrou as suas? Aquelas mulheres que te olham e, sem dizer nada, entendem. Que te fazem rir da própria desgraça. Se ainda não, procure. Elas existem. E salvam.
+Camila tinha encontrado as suas: mulheres que olhavam e, sem dizer nada, entendiam. Que faziam umas às outras rir da própria desgraça. Elas existiam. E salvavam.
 
 Ela sentiu uma onda de calor no peito.
 Dra. Lucas tinha dito para ela encontrar "sua tribo".
@@ -93,7 +93,7 @@ Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulhe
 
 E então, como acontece quando a guarda baixa, as histórias ficaram mais fundas. Clara, a mãe solo dos gêmeos, contou como, na semana anterior, tinha chorado escondida no banheiro do trabalho porque o ex mandou mensagem dizendo que não ia buscar as crianças no fim de semana — "e eu tinha uma reunião de madrugada no sábado, e precisei remarcar tudo, e a minha chefe me olhou torto, e eu só queria dormir oito horas seguidas uma única vez".
 
-Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho invisível": fez as contas de quanto gastaria contratando cozinheira, motorista, babá e personal organizer — e o total dava mais que o salário de muita gente. "E a gente faz tudo isso de graça, todo santo dia, e ainda ouve que 'não faz nada'".
+Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho invisível": fez as contas de quanto gastaria contratando cozinheira, motorista, babá e organizadora profissional — e o total dava mais que o salário de muita gente. "E a gente faz tudo isso de graça, todo santo dia, e ainda ouve que 'não faz nada'".
 
 Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só assentiram. Só passaram o pão de queijo e encheram o café.
 

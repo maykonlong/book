@@ -25,7 +25,7 @@ Sentiu... nada.
 
 Era como olhar para um colega de trabalho distante, de uma empresa onde ela não trabalhava mais.
 
-Ela se lembrou, de repente, da última vez que tinha visto o Ricardo — no dia em que ele saiu de casa, com as malas na calçada, gritando que ela tinha estragado tudo. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
+Ela se lembrou, de repente, da última vez que tinha ficado a sós com Ricardo — no cartório, no dia em que assinaram o divórcio. E também do dia em que ele saiu de casa, com as malas na calçada, gritando que ela tinha estragado tudo. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
 
 E agora, ali, no corredor de congelados, o estômago estava quieto.
 
@@ -35,7 +35,7 @@ Onze anos de tempestade. E o mar, por fim, tinha virado um lago.
 
 — Oi, Ricardo — disse ela, com a voz calma. — Tudo bem?
 
-Ele pareceu surpreso com a calma dela. Talvez esperasse hostilidade. Ou lágrimas. Ou aquela tensão que costumava morar entre eles como uma terceira pessoa.
+Ele pareceu surpreso com a calma dela. Talvez esperasse raiva. Ou lágrimas. Ou aquela tensão que costumava morar entre eles como uma terceira pessoa.
 
 — Tudo. Tudo certo. — Ele hesitou. — Você tá... bem? Tá bonita.
 
@@ -85,9 +85,7 @@ Camila ficou parada no corredor de congelados, com a ervilha na mão, olhando o 
 
 E então, para a própria surpresa, ela começou a rir. Baixinho, sozinha, no meio do mercado, segurando um pacote de ervilha congelada como se fosse o troféu de uma batalha vencida.
 
-Você já sentiu isso? Aquele momento em que você reencontra alguém que te fez sofrer e descobre, com um alívio que beira a euforia, que aquela pessoa não tem mais poder nenhum sobre você. Que o fogo apagou. Que a corda se soltou.
-
-É um dos momentos mais livres da vida.
+Era um alívio enorme reencontrar alguém que a fez sofrer e descobrir que aquela pessoa não tinha mais poder sobre ela. O fogo tinha apagado. A corda tinha se soltado.
 
 Camila colocou a ervilha no carrinho e seguiu para o caixa, assobiando baixinho uma música que não sabia o nome.
 

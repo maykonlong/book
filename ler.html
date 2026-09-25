@@ -5,18 +5,25 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>A Metade Que Me Faltava Era Eu — Leitor</title>
 <meta name="description" content="Leia online grátis o romance completo A Metade Que Me Faltava Era Eu, de Mariana Duarte.">
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="https://SEU-DOMINIO.com.br/ler.html">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#13283b">
+<link rel="canonical" href="https://maykonlong.github.io/book/ler.html">
 <meta property="og:type" content="book">
 <meta property="og:title" content="Ler A Metade Que Me Faltava Era Eu — Mariana Duarte">
 <meta property="og:description" content="Leia online grátis o romance completo.">
-<meta property="og:url" content="https://SEU-DOMINIO.com.br/ler.html">
-<meta name="twitter:card" content="summary">
+<meta property="og:url" content="https://maykonlong.github.io/book/ler.html">
+<meta property="og:image" content="https://maykonlong.github.io/book/assets/og-livro.png">
+<meta property="og:image:alt" content="Mulher de vestido vermelho diante do espelho, em uma pintura azul e dourada">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://maykonlong.github.io/book/assets/og-livro.png">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Book","name":"A Metade Que Me Faltava Era Eu","author":{"@type":"Person","name":"Mariana Duarte"},"inLanguage":"pt-BR","isAccessibleForFree":true,"numberOfPages":278,"url":"https://maykonlong.github.io/book/ler.html","potentialAction":{"@type":"ReadAction","target":"https://maykonlong.github.io/book/ler.html?cap=1"}}
+</script>
 <style>
 :root {
   --bg: #fbf6ee;
   --fg: #292521;
-  --muted: #8a8378;
+  --muted: #625b54;
   --accent: #b0432e;
   --line: #e8e0d2;
   --header-bg: rgba(251, 246, 238, .92);
@@ -25,7 +32,7 @@
 body.dark {
   --bg: #171513;
   --fg: #d9d2c5;
-  --muted: #6f695f;
+  --muted: #aaa39a;
   --line: #2c2823;
   --header-bg: rgba(23, 21, 19, .92);
 }
@@ -73,6 +80,9 @@ main hr::before { content: '* * *'; color: var(--muted); letter-spacing: .6em; }
 main blockquote { font-style: italic; color: var(--muted); margin: 1.6em 2em; }
 main em { font-style: italic; }
 main strong { font-weight: bold; }
+.chapter-art { margin: .8em 0 2em; }
+.chapter-art img { display: block; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 16px 42px rgba(19,40,59,.16); }
+.chapter-art figcaption { max-width: 32rem; margin: .7em auto 0; color: var(--muted); font-size: .76em; font-style: italic; line-height: 1.45; text-align: center; }
 footer {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 50;
   display: flex; align-items: center; justify-content: space-between;
@@ -112,6 +122,16 @@ footer button:disabled { opacity: .35; cursor: default; }
 #toast.show { opacity: 1; }
 .loading { color: var(--muted); text-align: center; padding-top: 40px; }
 .error { color: var(--accent); text-align: center; padding: 30px 10px; line-height: 1.6; }
+@media (max-width: 620px) {
+  header { gap: 7px; padding-inline: 10px; }
+  header button, header a { padding: 6px 8px; }
+  #title { display: none; }
+  main { padding: 30px 18px 108px; line-height: 1.72; text-align: left; }
+  main h1 { font-size: 1.65em; }
+  main h2 { font-size: 1.25em; }
+  footer { padding-inline: 10px; }
+  footer button { padding: 8px 11px; }
+}
 </style>
 </head>
 <body>
@@ -126,7 +146,7 @@ footer button:disabled { opacity: .35; cursor: default; }
     <button id="btnTheme" title="Modo claro/escuro">🌙</button>
   </div>
 </header>
-<main id="content"><p class="loading">Carregando…</p></main>
+<main id="content" aria-live="polite"><p class="loading">Carregando…</p></main>
 <footer>
   <button id="btnPrev">← Anterior</button>
   <span id="pos"></span>
@@ -142,23 +162,23 @@ footer button:disabled { opacity: .35; cursor: default; }
 // ===== MANIFESTO DE CAPÍTULOS (lê os arquivos .md direto do repositório) =====
 const CHAPTERS = [
   { file: '00-PLANEJAMENTO/FRONT_MATTER.md', title: 'Capa / Início' },
-  { file: '03-MANUSCRITO/CAP_01_A_ROTINA_INVISIVEL.md', title: 'Capítulo 1 — A Rotina Invisível' },
+  { file: '03-MANUSCRITO/CAP_01_A_ROTINA_INVISIVEL.md', title: 'Capítulo 1 — A Rotina Invisível', art: 'assets/illustrations-v2/cap-01-rotina-invisivel.png', alt: 'Camila prepara a rotina da família antes do amanhecer.' },
   { file: '03-MANUSCRITO/CAP_02_O_ANIVERSARIO_ESQUECIDO.md', title: 'Capítulo 2 — O Aniversário Esquecido' },
   { file: '03-MANUSCRITO/CAP_03_A_TENTATIVA_DA_TERAPIA.md', title: 'Capítulo 3 — A Tentativa da Terapia' },
   { file: '03-MANUSCRITO/CAP_04_AS_PEQUENAS_SABOTAGENS.md', title: 'Capítulo 4 — As Pequenas Sabotagens' },
   { file: '03-MANUSCRITO/CAP_05_A_CONVERSA_COM_FERNANDA.md', title: 'Capítulo 5 — A Conversa com Fernanda' },
   { file: '03-MANUSCRITO/CAP_06_A_ULTIMA_TENTATIVA.md', title: 'Capítulo 6 — A Última Tentativa' },
   { file: '03-MANUSCRITO/CAP_07_A_GOTA_DAGUA.md', title: "Capítulo 7 — A Gota D'água" },
-  { file: '03-MANUSCRITO/CAP_08_EU_QUERO_ME_SEPARAR.md', title: 'Capítulo 8 — Eu Quero Me Separar' },
+  { file: '03-MANUSCRITO/CAP_08_EU_QUERO_ME_SEPARAR.md', title: 'Capítulo 8 — Eu Quero Me Separar', art: 'assets/illustrations-v2/cap-08-separacao.png', alt: 'Camila observa Ricardo partir e sustenta a decisão de se separar.' },
   { file: '03-MANUSCRITO/CAP_09_A_CONVERSA_COM_OS_FILHOS.md', title: 'Capítulo 9 — A Conversa com os Filhos' },
   { file: '03-MANUSCRITO/CAP_10_O_VAZIO_BARULHENTO.md', title: 'Capítulo 10 — O Vazio Barulhento' },
   { file: '03-MANUSCRITO/CAP_11_O_PROCESSO.md', title: 'Capítulo 11 — O Processo' },
-  { file: '03-MANUSCRITO/CAP_12_O_RECOMECO_FINANCEIRO.md', title: 'Capítulo 12 — O Recomeço Financeiro' },
+  { file: '03-MANUSCRITO/CAP_12_O_RECOMECO_FINANCEIRO.md', title: 'Capítulo 12 — O Recomeço Financeiro', art: 'assets/illustrations-v2/cap-12-recomeco-financeiro.png', alt: 'Camila organiza as contas ao lado dos bolos que começou a vender.' },
   { file: '03-MANUSCRITO/CAP_13_A_PRESSAO_DA_FAMILIA.md', title: 'Capítulo 13 — A Pressão da Família' },
   { file: '03-MANUSCRITO/CAP_14_A_PRIMEIRA_SESSAO.md', title: 'Capítulo 14 — A Primeira Sessão' },
   { file: '03-MANUSCRITO/CAP_15_A_NOVA_ROTINA.md', title: 'Capítulo 15 — A Nova Rotina' },
   { file: '03-MANUSCRITO/CAP_16_UM_SABADO_SO_MINHA.md', title: 'Capítulo 16 — Um Sábado Só Minha' },
-  { file: '03-MANUSCRITO/CAP_17_VOLTANDO_A_PINTAR.md', title: 'Capítulo 17 — Voltando a Pintar' },
+  { file: '03-MANUSCRITO/CAP_17_VOLTANDO_A_PINTAR.md', title: 'Capítulo 17 — Voltando a Pintar', art: 'assets/illustrations-v2/cap-17-voltando-a-pintar.png', alt: 'Camila volta a pintar aquarelas depois de muitos anos.' },
   { file: '03-MANUSCRITO/CAP_18_AS_PEQUENAS_VITORIAS.md', title: 'Capítulo 18 — As Pequenas Vitórias' },
   { file: '03-MANUSCRITO/CAP_19_O_COLEGA_DO_TRABALHO.md', title: 'Capítulo 19 — O Colega do Trabalho' },
   { file: '03-MANUSCRITO/CAP_20_O_GRUPO_DE_MULHERES.md', title: 'Capítulo 20 — O Grupo de Mulheres' },
@@ -166,22 +186,22 @@ const CHAPTERS = [
   { file: '03-MANUSCRITO/CAP_22_O_PRIMEIRO_NATAL_SOZINHA.md', title: 'Capítulo 22 — O Primeiro Natal Sozinha' },
   { file: '03-MANUSCRITO/CAP_23_O_ANIVERSARIO_DE_LEO.md', title: 'Capítulo 23 — O Aniversário de Léo' },
   { file: '03-MANUSCRITO/CAP_24_O_DIA_EM_QUE_LEO_PERGUNTOU_SOBRE_O_PAI.md', title: 'Capítulo 24 — O Dia em Que Léo Perguntou Sobre o Pai' },
-  { file: '03-MANUSCRITO/CAP_25_O_DIA_DAS_MAES.md', title: 'Capítulo 25 — O Dia das Mães' },
-  { file: '03-MANUSCRITO/CAP_26_AS_FERIAS_DE_JULHO.md', title: 'Capítulo 26 — As Férias de Julho' },
-  { file: '03-MANUSCRITO/CAP_27_O_CONTRASTE.md', title: 'Capítulo 27 — O Contraste' },
-  { file: '03-MANUSCRITO/CAP_28_O_PRIMEIRO_SORRISO_REAL.md', title: 'Capítulo 28 — O Primeiro Sorriso Real' },
-  { file: '03-MANUSCRITO/CAP_29_O_ENCONTRO.md', title: 'Capítulo 29 — O Encontro' },
-  { file: '03-MANUSCRITO/CAP_30_A_RESISTENCIA.md', title: 'Capítulo 30 — A Resistência' },
-  { file: '03-MANUSCRITO/CAP_31_O_FIM_E_O_COMECO.md', title: 'Capítulo 31 — O Fim e o Começo' },
-  { file: '03-MANUSCRITO/CAP_32_UM_ANO_DEPOIS.md', title: 'Capítulo 32 — Um Ano Depois' },
+  { file: '03-MANUSCRITO/CAP_25_O_CONTRASTE.md', title: 'Capítulo 25 — O Contraste' },
+  { file: '03-MANUSCRITO/CAP_26_O_PRIMEIRO_SORRISO_REAL.md', title: 'Capítulo 26 — O Primeiro Sorriso Real' },
+  { file: '03-MANUSCRITO/CAP_27_O_ENCONTRO.md', title: 'Capítulo 27 — O Encontro', art: 'assets/illustrations-v2/cap-27-o-encontro.png', alt: 'Camila e Daniel se conhecem diante de uma aquarela na exposição.' },
+  { file: '03-MANUSCRITO/CAP_28_A_RESISTENCIA.md', title: 'Capítulo 28 — A Resistência' },
+  { file: '03-MANUSCRITO/CAP_29_O_FIM_E_O_COMECO.md', title: 'Capítulo 29 — O Fim e o Começo' },
+  { file: '03-MANUSCRITO/CAP_30_UM_ANO_DEPOIS.md', title: 'Capítulo 30 — Um Ano Depois' },
+  { file: '03-MANUSCRITO/CAP_31_O_DIA_DAS_MAES.md', title: 'Capítulo 31 — O Dia das Mães' },
+  { file: '03-MANUSCRITO/CAP_32_AS_FERIAS_DE_JULHO.md', title: 'Capítulo 32 — As Férias de Julho' },
   { file: '03-MANUSCRITO/CAP_33_AS_CRIANCAS_CONHECEM_DANIEL.md', title: 'Capítulo 33 — As Crianças Conhecem Daniel' },
-  { file: '03-MANUSCRITO/CAP_34_A_PRIMEIRA_VIAGEM_A_QUATRO.md', title: 'Capítulo 34 — A Primeira Viagem a Quatro' },
+  { file: '03-MANUSCRITO/CAP_34_A_PRIMEIRA_VIAGEM_A_QUATRO.md', title: 'Capítulo 34 — A Primeira Viagem a Quatro', art: 'assets/illustrations-v2/cap-34-viagem-a-quatro.png', alt: 'Camila, Daniel, Léo e Bia observam as estrelas na primeira viagem juntos.' },
   { file: '03-MANUSCRITO/CAP_35_A_PRIMEIRA_BRIGA.md', title: 'Capítulo 35 — A Primeira Briga' },
   { file: '03-MANUSCRITO/CAP_36_O_PRIMEIRO_PRESENTE.md', title: 'Capítulo 36 — O Primeiro Presente' },
   { file: '03-MANUSCRITO/CAP_37_O_ENCONTRO_COM_A_MAE_DO_DANIEL.md', title: 'Capítulo 37 — O Encontro com a Mãe do Daniel' },
   { file: '03-MANUSCRITO/CAP_38_O_REENCONTRO.md', title: 'Capítulo 38 — O Reencontro' },
   { file: '03-MANUSCRITO/CAP_39_CARTA_PARA_MIM_MESMA.md', title: 'Capítulo 39 — Carta Para Mim Mesma' },
-  { file: '03-MANUSCRITO/CAP_40_A_METADE_QUE_ME_FALTAVA_ERA_EU.md', title: 'Capítulo 40 — A Metade Que Me Faltava Era Eu' },
+  { file: '03-MANUSCRITO/CAP_40_A_METADE_QUE_ME_FALTAVA_ERA_EU.md', title: 'Capítulo 40 — A Metade Que Me Faltava Era Eu', art: 'assets/illustrations-v2/cap-40-inteira.png', alt: 'Camila contempla a série Renascimento na galeria vazia.' },
   { file: '00-PLANEJAMENTO/POS_TEXTUAIS.md', title: 'Agradecimentos & Sobre a Autora' }
 ];
 
@@ -237,7 +257,16 @@ async function loadChapter(i, scrollY) {
     const resp = await fetch(CHAPTERS[i].file);
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const md = await resp.text();
-    content.innerHTML = mdToHtml(md);
+    const art = CHAPTERS[i].art
+      ? '<figure class="chapter-art"><img src="' + CHAPTERS[i].art + '" alt="' + CHAPTERS[i].alt + '" width="1536" height="1024"><figcaption>Ilustração do capítulo</figcaption></figure>'
+      : '';
+    const rendered = mdToHtml(md);
+    if (art) {
+      const h2End = rendered.indexOf('</h2>');
+      content.innerHTML = h2End >= 0 ? rendered.slice(0, h2End + 5) + art + rendered.slice(h2End + 5) : art + rendered;
+    } else {
+      content.innerHTML = rendered;
+    }
   } catch (e) {
     content.innerHTML = '<div class="error"><strong>Não foi possível carregar o capítulo.</strong><br><br>' +
       'Este leitor precisa ser servido por <strong>HTTP</strong> — não funciona abrindo o arquivo direto (duplo clique).<br><br>' +
@@ -251,12 +280,18 @@ async function loadChapter(i, scrollY) {
   }
   updateUI();
   saveProgress();
+  const cap = i >= 1 && i <= 40 ? i : 0;
+  const url = new URL(window.location.href);
+  if (cap) url.searchParams.set('cap', String(cap)); else url.searchParams.delete('cap');
+  history.replaceState(null, '', url.pathname + url.search + url.hash);
+  document.title = CHAPTERS[i].title + ' | A Metade Que Me Faltava Era Eu';
 }
 
 function updateUI() {
   $('btnPrev').disabled = (current <= 0);
   $('btnNext').disabled = (current >= CHAPTERS.length - 1);
-  $('pos').textContent = 'Capítulo ' + current + ' de ' + (CHAPTERS.length - 1);
+  $('pos').textContent = current === 0 ? 'Início' : current === CHAPTERS.length - 1 ? 'Fim' : current + ' / 40';
+  $('title').textContent = CHAPTERS[current] ? CHAPTERS[current].title : 'A Metade Que Me Faltava Era Eu';
   document.querySelectorAll('#tocList a').forEach(a => {
     a.classList.toggle('current', parseInt(a.dataset.i, 10) === current);
   });
@@ -339,8 +374,11 @@ document.addEventListener('keydown', (ev) => {
     }
   } catch (e) {}
   applyFont();
+  const requested = Number(new URLSearchParams(window.location.search).get('cap'));
   const saved = loadProgress();
-  if (saved && typeof saved.c === 'number' && saved.c > 0) {
+  if (Number.isInteger(requested) && requested >= 1 && requested <= 40) {
+    loadChapter(requested);
+  } else if (saved && typeof saved.c === 'number' && saved.c > 0) {
     loadChapter(saved.c, saved.y || 0);
     toast('Continuando de onde você parou…');
   } else {

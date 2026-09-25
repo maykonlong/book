@@ -5,7 +5,7 @@ Três dias depois do aniversário de Léo, o gosto amargo da decepção ainda n�
 
 Quarta-feira à noite.
 
-A casa estava por fim quieta. As crianças dormiam. A máquina de lavar louça zumbia monotonamente na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
+A casa estava por fim quieta. As crianças dormiam. A máquina de lavar louça fazia seu zumbido sem parar na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
 
 Ela estava no banheiro, encarando seu reflexo no espelho iluminado pela luz branca e impiedosa.
 
@@ -37,7 +37,7 @@ Sempre as crianças. Como se fosse a única catástrofe possível. O casamento d
 
 — Não. É com a gente.
 
-Ele suspirou. Não foi um suspiro alto, teatral. Foi sutil. Uma exalação curta pelo nariz e um leve revirar de olhos imperceptível para leigos, mas gritante para uma esposa de onze anos. *Lá vem ela.*
+Ele suspirou. Não foi um suspiro alto, teatral. Foi curto: soltou o ar pelo nariz e revirou os olhos. Quase ninguém perceberia, mas, para uma esposa de onze anos, o recado era claro. *Lá vem ela.*
 
 — Tá. Pode falar.
 
@@ -187,7 +187,7 @@ Camila olhou para ele. Para o hospedeiro saudável sugando a vida dela.
 
 — Passou — mentiu ela.
 
-Mas não tinha passado. Tinha mudado. A tristeza tinha coagulado e virado algo mais duro. Algo que começava a parecer, perigosamente, com indiferença.
+Mas não tinha passado. Tinha mudado. A tristeza tinha endurecido e virado outra coisa. Algo que começava a parecer com indiferença.
 
 — Que bom. Pedi pizza, tá? De preguiça hoje.
 

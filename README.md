@@ -26,7 +26,7 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 │   └── PERSONAGENS_SECUNDARIOS.md # Personagens de apoio
 │
 ├── 📁 02-ESTRUTURA/               # Estrutura narrativa
-│   ├── ESTRUTURA_CAPITULOS.md    # 40 capítulos em 3 atos
+│   ├── ESTRUTURA_CAPITULOS.md    # 40 capítulos em 4 atos
 │   └── CRONOLOGIA.md             # Linha do tempo de eventos
 │
 ├── 📁 03-MANUSCRITO/              # 40 capítulos escritos (rascunho completo)
@@ -47,7 +47,7 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
     ├── SINOPSE_COMERCIAL.md      # Sinopse e palavras-chave
     ├── BETA_READERS.md           # Questionário para leitoras-teste
     ├── PASSO_A_PASSO_AMAZON_KDP.md # Publicação na Amazon KDP
-    ├── GUIA_CONVERSAO_EBOOK.md   # Markdown → ePub/MOBI/PDF
+    ├── GUIA_CONVERSAO_EBOOK.md   # Fonte → EPUB/PDF para KDP
     ├── BRIEFING_CAPA.md          # Briefing do design de capa
     └── GUIA_ISBN_DIRETOS_AUTORAIS.md # Registro da obra
 ```
@@ -64,9 +64,9 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 
 **Mensagem Central**: A parceria que você procura pode começar com você mesma
 
-**Público-Alvo**: Mulheres brasileiras de 28-45 anos (casadas, separadas, mães)
+**Público-Alvo**: Mulheres brasileiras adultas, especialmente mães, casadas, separadas ou divorciadas
 
-**Dimensões**: ~240 páginas | 40 capítulos | 3 atos
+**Dimensões**: 278 páginas na edição 5,5 × 8,5 pol. | 40 capítulos | 4 atos
 
 ---
 
@@ -88,7 +88,7 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 ### ✅ Concluído
 - [x] Conceito e proposta inicial
 - [x] Desenvolvimento de personagens principais
-- [x] Estrutura de capítulos (40 capítulos em 3 atos)
+- [x] Estrutura de capítulos (40 capítulos em 4 atos)
 - [x] Cronologia de eventos
 - [x] Definição de temas e mensagens
 - [x] Guia de voz narrativa
@@ -96,15 +96,20 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Primeiro rascunho completo (40 capítulos)
 - [x] Revisão estrutural, de continuidade e ortográfica
 - [x] Site profissional (landing page + leitor online)
-- [x] SEO/GEO completo (JSON-LD, FAQ com 12 perguntas, sitemap, llms.txt)
+- [x] SEO, GEO e AEO (JSON-LD, FAQ, sitemap, robots e llms.txt)
 - [x] Layout mobile-first (menu hamburguer, tipografia fluida)
+- [x] Sete ilustrações narrativas integradas ao leitor, EPUB e miolo
+- [x] EPUB 3 validado estruturalmente
+- [x] Miolo de 278 páginas em 5,5 × 8,5 pol., sem sangria
+- [x] Capa Kindle 1600 × 2560 e capa impressa CMYK a 300 dpi
+- [x] Pacote Amazon KDP com metadados, checklist e checksums
 
 ### ⏳ Próximos Passos
-1. ⏳ Beta readers (guia pronto em `05-PUBLICACAO/BETA_READERS.md`)
-2. ⏳ Diagramação e conversão para eBook/impresso (`05-PUBLICACAO/PASSO_A_PASSO_AMAZON_KDP.md`)
-3. ⏳ Capa final, sinopse comercial e ISBN (materiais em `05-PUBLICACAO/`)
-4. ⏳ Publicar na Amazon KDP e linkar o botão de compra no site
-5. ⏳ Criar perfis nas redes (Instagram, TikTok) e linkar no rodapé
+1. ⏳ Rodada externa de leitoras beta e leitura de prova
+2. ⏳ Enviar os arquivos de `PACOTE_PUBLICACAO/AMAZON_KDP/` ao Previewer da KDP
+3. ⏳ Pedir uma prova física e conferir cor, corte e lombada
+4. ⏳ Publicar na Amazon KDP e adicionar o link de compra ao site
+5. ⏳ Definir ISBN, preço, categorias, territórios e dados fiscais no painel
 
 ---
 
@@ -196,9 +201,9 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Capítulos**: 40 (completos)
-- **Palavras totais**: ~56.600 (miolo) · ~57.000 com front/back matter
+- **Palavras totais**: ~54.600 (40 capítulos) · ~55.200 com textos iniciais e finais
 - **Palavras por capítulo (média)**: ~1.415
-- **Páginas estimadas (A5, 14×21 cm)**: ~240
+- **Páginas do arquivo final (5,5 × 8,5 pol.)**: 278
 - **Meta futura (expansão adiada)**: 75.000–85.000 palavras (~280–320 páginas)
 
 ### Cronograma Estimado
@@ -208,11 +213,12 @@ Como uma amiga contando sua história e dizendo:
 | Pesquisa | 1-2 semanas | ✅ Concluído |
 | Primeiro rascunho | 8-12 semanas | ✅ Concluído |
 | Revisões | 4-6 semanas | ✅ Concluído |
-| Finalização | 2 semanas | ⏳ Em andamento |
+| Finalização editorial e arquivos | 2 semanas | ✅ Concluído |
+| Prova física e publicação | Conforme a KDP | ⏳ Pendente |
 
 **Total estimado**: 4-6 meses
 
-> *Finalização* em andamento: site e leitor online já prontos; faltam beta readers, capa final e publicação na Amazon KDP.
+> Os arquivos digitais estão prontos. Permanecem a leitura humana final, a prova física e as decisões comerciais dentro da conta KDP.
 
 ---
 
@@ -270,7 +276,7 @@ Frases que capturam a essência do livro:
 [Adicionar informações de contato se relevante]
 
 ### Para Beta Readers
-Procurando mulheres de 28-45 anos, preferencialmente:
+Procurando mulheres adultas, preferencialmente:
 - Casadas ou separadas
 - Mães
 - Que se identifiquem com o tema de sobrecarga e parceria
@@ -280,12 +286,12 @@ Procurando mulheres de 28-45 anos, preferencialmente:
 ## 🆕 Atualizações
 
 ### 17/09/2026 — Site profissional + mobile-first
-- ✅ FAQ enriquecida (6 → 12 perguntas) no HTML visível e no JSON-LD
+- ✅ FAQ com respostas diretas no HTML visível e no JSON-LD
 - ✅ Landing page reestruturada (nav fixa, temas, trechos, autora, CTA, rodapé em colunas)
 - ✅ Layout mobile-first (menu hamburguer, tipografia fluida, botões full-width)
 
 ### 16/09/2026 — Manuscrito completo
-- ✅ 40 capítulos (~56.600 palavras) + 1ª e 2ª passadas de expansão
+- ✅ 40 capítulos (~54.600 palavras após a revisão final) + 1ª e 2ª passadas de expansão
 - ✅ Revisão de coesão, ortografia, repetições e vocabulário
 
 ### Versão 1.0

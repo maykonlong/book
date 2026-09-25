@@ -85,7 +85,7 @@ Camila esticou as pernas. Ocupou o centro da cama. Abriu os braços, fazendo um 
 O vazio era barulhento, sim. Gritava solidão.
 Mas, enfim, o barulho era *dela*.
 
-Você já sentiu isso? Aquele vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também pode ser seu. E ele, aos poucos, vira paz.
+Era o vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também podia ser dela. Aos poucos, podia até virar paz.
 
 E ela podia lidar com o próprio barulho. O que ela não aguentava mais era o barulho dele silenciando a música dela.
 
@@ -115,7 +115,7 @@ Camila respirou fundo. Controlou a raiva.
 
 — A gente conversa sobre isso com os advogados.
 
-Ela já tinha ido em um. Dra. Patrícia Alves. Mulher de quarenta e poucos anos, firme mas gentil. Tinha explicado tudo: divórcio consensual vs. litigioso, guarda compartilhada, pensão, divisão de bens.
+Ela já tinha ido a um. Dra. Patrícia Alves. Mulher de quarenta e poucos anos, firme mas gentil. Tinha explicado tudo: divórcio por acordo ou com disputa, guarda compartilhada, pensão e divisão de bens.
 
 Tinha um longo caminho pela frente.
 
@@ -137,7 +137,7 @@ Ricardo parou. Olhou para a filha.
 
 — Eu não vou voltar para morar aqui, princesa. Mas você vai me ver sempre. Fim de semana, a gente vai se divertir muito.
 
-Promessa vazia. Camila sabia. Ela conhecia o Ricardo. Nas primeiras semanas ele ia tentar. Ia buscar as crianças, ia fazer programas. Mas eventualmente, ia cansar. Ia ter outros compromissos. Ia aparecer cada vez menos.
+Promessa vazia. Camila sabia. Ela conhecia o Ricardo. Nas primeiras semanas ele ia tentar. Ia buscar as crianças, ia fazer programas. Mas, com o tempo, ia cansar. Ia ter outros compromissos. Ia aparecer cada vez menos.
 
 Mas ela não disse nada. Deixou ele prometer. Porque as crianças precisavam daquela esperança, mesmo que falsa.
 

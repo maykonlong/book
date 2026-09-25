@@ -11,7 +11,7 @@ Livro de ficção contemporânea focado na jornada de autodescoberta de uma mulh
 |----------|----------|
 | **Gênero** | Ficção Contemporânea, Drama, Romance (Feminino) |
 | **Tom** | Íntimo, Conversacional, Realista, Esperançoso |
-| **Público-Alvo** | Mulheres de 28 a 45 anos (casadas, separadas, mães) |
+| **Público-Alvo** | Mulheres adultas, especialmente mães, casadas, separadas ou divorciadas |
 | **Dimensões** | 180 a 250 páginas |
 | **Capítulos** | 20 a 30 capítulos |
 | **Tamanho/Capítulo** | 5 a 10 páginas (7-15 minutos de leitura) |

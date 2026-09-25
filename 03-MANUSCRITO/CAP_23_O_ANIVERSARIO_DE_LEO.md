@@ -118,10 +118,10 @@ Ele pegou o kit de desenho e foi para o quarto.
 
 Camila ficou na sala.
 Olhou para o papel de presente rasgado no chão.
-O dinheiro compra coisas. Compra barulho. Compra euforia momentânea.
+O dinheiro compra coisas. Compra barulho. Compra uma alegria que dura pouco.
 Mas não compra conexão.
 
-Você já sentiu isso? O presente simples que vale mais que o caro — porque vem com presença. Criança sabe a diferença. No fundo, a gente também.
+O presente simples podia valer mais que o caro porque vinha com presença. Criança sabe a diferença. No fundo, todo mundo sabe.
 
 Ricardo podia ter ganhado a noite com o cheque.
 Mas Camila tinha ganhado o filho com a presença.

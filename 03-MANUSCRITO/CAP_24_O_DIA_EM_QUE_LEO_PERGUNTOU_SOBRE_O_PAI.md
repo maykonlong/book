@@ -83,7 +83,7 @@ E Camila entendeu que aquela conversa, por mais curta que fosse, tinha sido um t
 
 ---
 
-Você já precisou explicar para um filho uma dor que nem você entende direito? É o trabalho mais difícil do mundo. Porque a gente quer proteger, mas não pode mentir. Quer consolar, mas não tem resposta.
+Explicar a um filho uma dor que nem ela entendia direito parecia o trabalho mais difícil do mundo. Camila queria protegê-lo sem mentir, consolar sem inventar uma resposta.
 
 Naquela noite, Camila não tinha todas as respostas. Mas tinha os braços. E, às vezes, é disso que uma criança precisa — de braços que não soltam, mesmo quando o mundo inteiro parece soltar.
 

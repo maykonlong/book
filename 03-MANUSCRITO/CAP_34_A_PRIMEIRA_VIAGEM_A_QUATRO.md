@@ -91,17 +91,13 @@ E ficaram ali, os quatro, em silêncio, olhando para cima. Sem pressa. Sem medo.
 
 Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
 
-E Camila, dirigindo, percebeu que aquele era o som que ela tinha procurado a vida inteira.
+Camila dirigia com as mãos firmes no volante. Pelo retrovisor, viu Bia adormecida no ombro do irmão e Daniel ajeitando o casaco sobre os dois sem acordá-los.
 
----
+Não era uma família que apagava a anterior. Era uma forma nova, ainda aprendendo a caber.
 
-Você já teve medo de "misturar" as pessoas que ama? De achar que o novo não combina com o que você já tem? Eu sei que eu tive. Mas aprendi que o amor não divide — ele multiplica. E que o coração, quando a gente deixa, abre espaço para todo mundo que a gente escolhe.
+Camila aumentou o rádio. Daniel começou a cantar errado, Léo protestou do banco de trás e ela riu tão alto que perdeu a entrada da rodovia.
 
-Naquela noite, os quatro fizeram um jantar improvisado, sentados no chão da sala, rindo de nada e de tudo.
-
-E Camila, olhando para aquela mesa torta, pensou:
-
-*É isso. É disso que era feita a felicidade o tempo todo.*
+Ninguém reclamou.
 
 
 

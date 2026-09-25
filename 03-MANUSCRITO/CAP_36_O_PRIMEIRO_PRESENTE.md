@@ -35,7 +35,7 @@ Não por causa do pincel. Por causa de tudo o que ele representava: atenção. M
 
 ---
 
-Você já percebeu que presente bom não é o que custa caro? É o que prova que alguém te escutou. Que alguém te viu. Que, no meio de um mundo barulhento, alguém guardou uma frase sua numa anotação de celular e esperou o momento certo.
+Presente bom não era o que custava caro. Era o que provava que alguém tinha escutado. Que alguém tinha visto. Que, no meio de um mundo barulhento, guardou uma frase numa anotação do celular e esperou o momento certo.
 
 — Desculpa — disse Camila, enxugando o rosto, rindo de si mesma. — Eu sou péssima em receber. Não estou acostumada.
 
@@ -63,8 +63,8 @@ Ela também estava.
 
 ---
 
-O presente do Daniel não foi o pincel. Foi a lembrança de que ser vista, ser lembrada, ser amada nos detalhes — isso não era luxo. Era o mínimo.
+O presente do Daniel não foi só o pincel. Foi a prova de que ele tinha escutado uma frase pequena e guardado o sonho que existia dentro dela.
 
-E, enfim, Camila entendeu que merecia o mínimo.
+Camila lavou o pincel, ajeitou a ponta com os dedos e o deixou secando ao lado do quadro.
 
-Merecia o mínimo todos os dias.
+Ser vista não devia parecer um luxo. Ainda assim, para ela, parecia um mundo novo.

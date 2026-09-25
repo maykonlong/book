@@ -20,13 +20,19 @@ A metade que falta não está em outra pessoa — está dentro de cada mulher.
 - Empoderamento feminino
 
 ## Público
-Mulheres de 28 a 45 anos, casadas, separadas ou divorciadas.
+Leitoras adultas, especialmente mulheres que vivem ou viveram sobrecarga familiar, maternidade, separação ou um período de recomeço. A linguagem é direta e acessível.
 
 ## Citações marcantes
 - "A metade que me faltava era eu."
-- "Ela não ia mais regar cadáveres."
 - "Amor que a gente tem que conquistar não é amor. É dívida."
 
+## Estrutura e formatos
+- 40 capítulos em 4 atos
+- Cerca de 56,5 mil palavras
+- Edição impressa preparada com 278 páginas em 5,5 × 8,5 polegadas
+- Sete ilustrações narrativas em aquarela editorial
+
 ## Links
-- Página principal: https://SEU-DOMINIO.com.br/
-- Leitor online: https://SEU-DOMINIO.com.br/ler.html
+- Página oficial: https://maykonlong.github.io/book/
+- Leitura online gratuita: https://maykonlong.github.io/book/ler.html?cap=1
+- Índice para buscadores: https://maykonlong.github.io/book/sitemap.xml

@@ -19,9 +19,9 @@ Incluindo as crianças.
 
 Ricardo saiu de casa naquela noite.
 
-Depois do confronto com Dona Vera, depois de Camila se trancar no quarto, ele bateu na porta e gritou mais algumas coisas (você vai se arrepender, você está sendo egoísta, você está destruindo essa família). Camila não respondeu. Eventualmente, ele cansou. Pegou as chaves. Saiu batendo a porta.
+Depois do confronto com Dona Vera, depois de Camila se trancar no quarto, ele bateu na porta e gritou mais algumas coisas (você vai se arrepender, você está sendo egoísta, você está destruindo essa família). Camila não respondeu. Por fim, ele cansou. Pegou as chaves. Saiu batendo a porta.
 
-Foi para a casa da mãe, presumivelmente.
+Provavelmente foi para a casa da mãe.
 
 Tanto melhor.
 
@@ -67,7 +67,7 @@ Camila puxou os dois para perto. Abraçou. Forte.
 
 — Mas por quê? — Léo perguntou, a voz tremendo. — Por que vocês não podem ficar juntos?
 
-Como explicar para uma criança de oito anos conceitos complexos como parceria, carga mental, toxicidade emocional?
+Como explicar para uma criança de oito anos coisas de adulto como falta de parceria, o peso de cuidar de tudo e uma relação que fazia mal?
 
 Camila tentou simplificar:
 
@@ -129,7 +129,7 @@ Ele parou ao vê-la.
 
 — Contei. Eles mereciam saber direto da gente.
 
-Ricardo passou a mão no rosto. Pareceu genuinamente afetado.
+Ricardo passou a mão no rosto. Pareceu abalado de verdade.
 
 — Eles ficaram mal?
 

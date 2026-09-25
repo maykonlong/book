@@ -27,7 +27,7 @@ Léo não respondeu. Bia, sem cerimônia, foi checar a caixa de pizza.
 
 Bia abriu um sorriso. Primeiro fio de esperança.
 
-O jantar foi tenso, como Camila previra. Léo respondeu às perguntas gentis de Daniel com monossílabos. Bia tagarelou sobre desenho animado, a boneca nova, o cachorro da vizinha. Daniel ouviu tudo com paciência genuína.
+O jantar foi tenso, como Camila imaginava. Léo respondeu às perguntas gentis de Daniel com poucas palavras. Bia tagarelou sobre desenho animado, a boneca nova, o cachorro da vizinha. Daniel ouviu tudo com paciência de verdade.
 
 — E você, Léo? — Daniel tentou. — Joga futebol, né? Sua mãe disse que você é bom.
 
@@ -89,7 +89,7 @@ Bia perguntava todo dia se "o amigo da mãe" ia voltar. Léo, mais discreto, faz
 
 Camila respondia tudo, com paciência. Porque sabia que, por trás de cada pergunta, havia uma pergunta maior: *esse homem vai ser bom pra minha mãe? Vai ser bom pra gente? Vai ficar?*
 
-E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Lembrou do dia da prova do Léo. Mandou mensagem de boa sorte na apresentação de dança da Bia. Apareceu, sem ser chamado, para ajudar a montar a estante nova.
+E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Lembrou do dia da prova do Léo. Mandou mensagem de boa sorte na apresentação de dança da Bia. Quando Camila comentou que precisava montar uma estante nova, ofereceu ajuda e só apareceu depois que ela aceitou.
 
 Uma tarde, Camila flagrou o Léo no quarto, desenhando. Ele desenhava sempre — mas desta vez o desenho era diferente: quatro figuras de mãos dadas, de tamanhos diferentes, embaixo de um sol grande e torto.
 

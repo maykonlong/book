@@ -45,7 +45,7 @@ E a vontade de chorar veio. Forte. Avassaladora.
 *Eu não consigo. Eu sou uma fraude. Eu preciso de um homem. Eu preciso de ajuda.*
 
 Ela pegou o celular para ligar para o Ricardo. O dedo pairou sobre o nome dele.
-Seria tão fácil. "Ricardo, socorro, fiz merda na cozinha". Ele viria. Consertaria. E olharia para ela com aquele olhar de superioridade condescendente: *"Viu? Você não consegue sem mim."*
+Seria tão fácil. "Ricardo, socorro, fiz merda na cozinha". Ele viria. Consertaria. E olharia para ela com aquele ar de superioridade: *"Viu? Você não consegue sem mim."*
 
 Camila olhou para o telefone.
 Olhou para a torneira assassina.
@@ -81,7 +81,7 @@ Ela começou a rir. Uma risada histérica, sozinha na cozinha molhada.
 
 Não era sobre a torneira. Nunca é sobre a torneira.
 
-Você já consertou algo que te dava medo? Não falo de encanamento. Falo daquele medo de descobrir que você dá conta — porque, se der, o mundo inteiro que te dizia "você precisa de um homem" desaba.
+Não era só o encanamento. Era o medo de descobrir que dava conta — porque, se desse, o mundo inteiro que dizia "você precisa de um homem" desabaria.
 Era sobre saber que ela podia sobreviver ao caos. Que ela podia se molhar, errar, fazer bagunça, e depois limpar e consertar. Sozinha.
 
 Ela limpou a cozinha. Secou o chão. Tomou um banho quente.
@@ -309,7 +309,7 @@ Ela entrou no salão. Mostrou foto para a cabeleireira:
 
 E cortou.
 
-Mechas caindo no chão. Peso sendo tirado. Literalmente e metaforicamente.
+Mechas caindo no chão. Peso sendo tirado. Do cabelo e da vida.
 
 Quando a cabeleireira terminou e virou a cadeira para o espelho, Camila ofegou.
 
@@ -321,7 +321,7 @@ Não era a Camila de vinte anos. Era uma Camila nova. Mais velha, mas também ma
 
 — Adorei — a cabeleireira disse. — Ficou lindo em você.
 
-Camila sorriu. Genuinamente.
+Camila sorriu. De verdade.
 
 E quando saiu do salão, parou na vitrine de uma loja. Se olhou.
 
@@ -345,7 +345,7 @@ Camila abraçou os filhos.
 
 E percebeu: eles estavam se adaptando à nova vida. Do jeito deles. No tempo deles.
 
-Bia estava mais grudada, mais carente. Precisava de mais afeto, mais validação.
+Bia estava mais grudada, mais carente. Precisava de mais afeto, de ouvir que seus sentimentos importavam.
 
 Léo estava mais grave, mais observador. Fazia perguntas. Checava se ela estava bem.
 
@@ -355,7 +355,7 @@ Mas também tinha risadas. Tinha abraços. Tinha noites de filme com pipoca os t
 
 E Camila percebeu: ela estava mais presente.
 
-Porque não estava mais distraída pelo ressentimento. Pela raiva. Pela sobrecarga.
+Porque não estava mais distraída pela mágoa. Pela raiva. Pelo cansaço de carregar tudo sozinha.
 
 Agora, quando tinha os filhos, realmente OS TINHA.
 

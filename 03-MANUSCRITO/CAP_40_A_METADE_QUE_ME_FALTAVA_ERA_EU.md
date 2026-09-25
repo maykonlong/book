@@ -1,7 +1,7 @@
 ﻿# CAPÍTULO 40
 ## A Metade Que Me Faltava Era Eu
 
-A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia kombucha artesanal. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por spots quentes que faziam as telas brilharem como janelas para outro mundo.
+A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia um chá artesanal fermentado. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por luzes quentes que faziam as telas brilharem como janelas para outro mundo.
 
 Era perfeito.
 
@@ -41,7 +41,7 @@ Não para alguém. Para si mesma.
 
 Não lotada como uma festa de aniversário infantil — não era esse tipo de evento. Mas havia umas sessenta, setenta pessoas circulando entre as paredes, segurando taças de vinho barato e copinhos de água com gás, olhando as telas com aquela mistura de curiosidade e respeito que as pessoas têm em espaços artísticos.
 
-Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação de TCC na faculdade. As mãos suavam. Ela as enxugava discretamente na lateral do vestido vermelho.
+Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação do trabalho final da faculdade. As mãos suavam. Ela as enxugava discretamente na lateral do vestido vermelho.
 
 Fernanda chegou primeiro, claro. Usando uma jaqueta de couro e batom vinho, como uma versão paulistana de uma rockstar.
 
@@ -51,7 +51,7 @@ Fernanda chegou primeiro, claro. Usando uma jaqueta de couro e batom vinho, como
 
 — Não paro. Estou orgulhosa e vou ser inconveniente a noite inteira.
 
-Depois vieram Júlia e Beatriz, do grupo de arte. Beatriz, que tinha começado as aulas quatro meses depois de Camila, parecia tão nervosa quanto ela.
+Depois vieram Júlia e Beatriz, do grupo de arte. Beatriz, que estava na turma desde as primeiras semanas de Camila, parecia tão nervosa quanto ela.
 
 — Cá, seus quadros são os melhores da exposição — disse Beatriz, apertando a mão dela. — Os meus parecem que foram feitos por uma criança.
 
@@ -65,7 +65,7 @@ Então a porta abriu de novo e Camila viu algo que fez seu coração apertar de 
 
 Dona Sônia entrou na galeria.
 
-Sua mãe. A mulher que tinha dito "pensa nas crianças" quando Camila pediu o divórcio. A mulher que chorou de vergonha quando soube da separação. A mulher que ficou meses fria, distante, desaprovando cada escolha da filha em silêncio pesado.
+Sua mãe. A mulher que primeiro pediu que ela pensasse nas crianças, porque tinha medo do que viria depois. A mulher que, pouco tempo mais tarde, enfrentou a própria família para defender a filha e passou a caminhar ao lado dela.
 
 Aquela mulher estava ali, de cabelo curtinho — e com mechas cor-de-rosa que ela tinha ousado fazer no mês passado, numa tarde em que Camila a levou ao salão e disse "mãe, faz algo louco, só uma vez". E Dona Sônia, para espanto de todas, tinha topado.
 
@@ -79,7 +79,7 @@ Sônia segurou o rosto de Camila entre as mãos enrugadas.
 
 Camila engoliu o choro. Não de tristeza. De reconciliação.
 
-De saber que, às vezes, o amor que mais cura é o amor que demora para chegar — mas chega.
+De saber que, às vezes, o amor que mais cura é o amor que vence o medo e escolhe ficar ao nosso lado.
 
 ---
 
@@ -135,13 +135,13 @@ Todos ali. Todos reais. Todos seus.
 
 Ela respirou fundo.
 
-— A mensagem é sobre completude — respondeu Camila. A voz saiu mais firme do que ela esperava. — A gente cresce ouvindo que precisa encontrar a "metade da laranja". Que somos incompletos até achar um parceiro. Que sozinha você é só metade de alguma coisa.
+— A mensagem é sobre ser inteira — respondeu Camila. A voz saiu mais firme do que ela esperava. — A gente cresce ouvindo que precisa encontrar a "metade da laranja". Que somos incompletos até achar um parceiro. Que sozinha você é só metade de alguma coisa.
 
 Ela fez uma pausa. O salão silenciou.
 
 — Eu passei anos procurando essa metade. No meu casamento. Nos meus filhos. No meu trabalho. Tentei me encaixar em metades de outras pessoas. Me cortei, me diminuí, me silenciei para caber. E quanto mais eu tentava caber no espaço que outros definiam para mim, mais eu perdia pedaços de quem eu era.
 
-Outro silêncio. Ela viu a mulher que tinha feito a pergunta assentir quase imperceptivelmente, como se reconhecesse algo.
+Outro silêncio. Ela viu a mulher que tinha feito a pergunta balançar a cabeça bem de leve, como se reconhecesse algo.
 
 — Mas o segredo — continuou Camila, e a voz quebrou levemente, mas ela deixou — o grande segredo que ninguém conta... é que nós já nascemos inteiras.
 
@@ -159,7 +159,7 @@ Sorriu. Um sorriso que iluminou a sala como o dourado do terceiro quadro.
 
 Aplausos.
 
-Não aqueles aplausos educados de galeria, polidos e protocolares. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma intensidade que Camila nunca tinha visto nela.
+Não aqueles aplausos educados de galeria, dados só por obrigação. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma força que Camila nunca tinha visto nela.
 
 Camila olhou para Daniel. Ele estava encostado na parede, braços cruzados, sorrindo. Ele piscou. E naquele piscar havia algo que não era possessão, não era posse, não era "você é minha". Era reconhecimento. Era admiração. Era um inteiro olhando para outro inteiro e dizendo, sem palavras: *eu te vejo. Toda você. E é mais que suficiente.*
 
@@ -231,13 +231,13 @@ A galeria estava em penumbra agora. Apenas os spots da parede central ainda aces
 
 Camila parou diante do terceiro quadro. "Voo".
 
-Levantou a mão e tocou a tela com as pontas dos dedos. Sentiu a tinta seca sob a pele. A textura dos relevos que o pincel tinha criado. Cada camada de cor era uma camada de dor transformada. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou solitude.
+Levantou a mão e tocou a tela com as pontas dos dedos. Sentiu a tinta seca sob a pele. A textura dos relevos que o pincel tinha criado. Cada camada de cor era uma camada de dor transformada. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
 
-Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e reconquistado, condensado numa tela de algodão de sessenta por oitenta centímetros.
+Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e reconquistado, reunido numa tela de algodão de sessenta por oitenta centímetros.
 
 — Conseguimos — sussurrou.
 
-Não disse "consegui". Disse "conseguimos". Porque havia mais de uma Camila naquela sala. Havia a Camila de vinte anos que pintava aquarelas e sonhava. Havia a Camila de vinte e três que casou grávida e engoliu os sonhos. Havia a Camila de trinta e dois que chorava no chuveiro. A de trinta e três que dormia sete minutos antes do despertador e carregava listas mentais infinitas. A de trinta e quatro que sentou no escuro da sala e se perguntou quanto tempo Ricardo demoraria para notar que o papel higiênico não se repunha sozinho.
+Não disse "consegui". Disse "conseguimos". Porque havia mais de uma Camila naquela sala. Havia a Camila de vinte anos que pintava aquarelas e sonhava. Havia a Camila de vinte e três que se casou e foi guardando os sonhos. Havia a Camila de vinte e seis que segurou Léo nos braços pela primeira vez. Havia a Camila de trinta e quatro que acordava sete minutos antes do despertador, carregava listas mentais infinitas e, um dia, sentou no escuro da sala pensando quanto tempo Ricardo demoraria para notar que o papel higiênico não se repunha sozinho.
 
 E havia a Camila de agora. De vestido vermelho. Com tinta na alma e fogo no peito.
 
@@ -247,7 +247,7 @@ Camila pegou a bolsa. Apagou as luzes. Trancou a porta.
 
 Saiu para a noite de São Paulo.
 
-O ar estava frio, mas ela não sentiu frio. Havia um calor dentro dela — não de febre, não de raiva, não de ansiedade. Um calor de presença. De certeza. De completude.
+O ar estava frio, mas ela não sentiu frio. Havia um calor dentro dela — não de febre, não de raiva, não de ansiedade. Um calor de presença. De certeza. De se sentir inteira.
 
 Ela olhou para cima. As estrelas eram poucas — São Paulo é generosa em tudo menos em céu estrelado — mas as que havia brilhavam com força, como se compensassem a escassez com intensidade.
 

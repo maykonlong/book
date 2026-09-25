@@ -77,13 +77,11 @@ E sentiu, enfim, que esperar alguém podia ser uma coisa boa.
 
 ---
 
-Você já percebeu que a gente não briga com quem está na nossa frente? A gente briga com todos que vieram antes. A primeira briga de um amor novo é, na verdade, a última briga de um amor velho, pedindo para ser ouvida.
+Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve uma ferida de onze anos em uma conversa. Mas ele ficou, ela falou e os dois combinaram um jeito simples de cuidar do que havia doído.
 
-Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve. Mas ele ficou.
+Camila releu a mensagem das sete e meia e deixou o celular sobre a mesa.
 
-E ela aprendeu, aos poucos, que conflito não é abandono. Que brigar não é o fim. Que uma pessoa pode discordar de você e continuar te amando no minuto seguinte.
-
-O Ricardo nunca tinha ensinado isso. O Daniel, sim.
+Pela primeira vez, uma briga não parecia o começo do fim. Parecia apenas uma conversa que ainda podia continuar.
 
 
 

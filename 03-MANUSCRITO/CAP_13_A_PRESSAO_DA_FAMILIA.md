@@ -1,7 +1,7 @@
 ﻿# CAPÍTULO 13
 ## A Pressão da Família
 
-Domingo é o dia oficial da família. E, consequentemente, o dia oficial da cobrança para quem quebrou a família.
+Domingo é o dia oficial da família. Por isso, também era o dia oficial da cobrança para quem, segundo os outros, tinha quebrado a família.
 
 O telefone tocou às 09h da manhã. O nome "MÃE" brilhava na tela como um letreiro de néon perigoso.
 
@@ -66,14 +66,14 @@ Dona Sônia, na cabeceira, continuava comendo devagar.
 
 — Mas Camila — insistiu Bete, a voz mansa de quem explica o óbvio para uma criança. — Homem é assim mesmo. Eles não têm esse jeito pra coisa doméstica. Cabe à mulher orientar. Com jeitinho. Você sempre foi meio... estourada.
 
-Você já ouviu isso? "Homem é assim mesmo." Como se o descuido fosse cromossomo. Como se cuidar da própria casa fosse dom — que eles não têm e a gente, por obrigação, tem.
+*Homem é assim mesmo.* A frase era repetida como se o descuido viesse de nascença. Como se cuidar da própria casa fosse um dom que eles não tinham e as mulheres, por obrigação, tinham.
 
 — Estourada? — Camila sentiu as lágrimas virem. — Eu aguentei onze anos, tia! Onze anos pedindo ajuda. Onze anos me sentindo sozinha acompanhada. Isso é ser estourada?
 
 — Ah, mas ele não bebia, não batia... — começou Vilma.
 
 FOI AÍ.
-Foi aí que Dona Sônia, a mãe quieta, a viúva padrão, a mulher que sempre serviu a todos em silêncio, largou o garfo no prato.
+Foi aí que Dona Sônia, a mãe quieta, a viúva sempre discreta, a mulher que servia a todos em silêncio, largou o garfo no prato.
 O barulho foi alto. *Cim!*
 
 Todas olharam para ela.

@@ -69,13 +69,13 @@ A metáfora bateu em Camila como um tapa físico.
 
 *Regando planta morta.*
 
-Era isso. Era exatamente isso. Todo o esforço dela. Todo o cansaço. Toda a elaboração de jantares, conversas, planos. Era tudo água derramada em terra morta.
+Era isso. Era exatamente isso. Todo o esforço dela. Todo o cansaço. Todos os jantares, conversas e planos que preparava. Era tudo água derramada em terra morta.
 
 — Mas como eu sei? — perguntou Camila, a voz trêmula. — Como eu tenho certeza de que morreu? E se estiver só... dormindo?
 
-— Você sabe — disse Fernanda, suavemente. — Você sabe porque você está sozinha nela. Uma relação viva tem troca. Tem dois jardineiros. Se só você está segurando o regador enquanto o outro reclama que a sombra tá pouca... isso não é casamento. É parasitismo.
+— Você sabe — disse Fernanda, suavemente. — Você sabe porque está sozinha nela. Uma relação viva tem troca. Tem dois jardineiros. Se só você segura o regador enquanto o outro reclama que a sombra tá pouca... isso não é parceria. É uma relação em que só um lado cuida.
 
-*Parasitismo.*
+*Só um lado cuida.*
 
 Camila fechou os olhos. A imagem de Ricardo no sofá, com o celular na mão, enquanto ela corria com a casa, veio à mente. Ele não era um parceiro. Ele era um hóspede vip.
 

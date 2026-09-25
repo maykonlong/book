@@ -20,7 +20,7 @@
 - Hoje é independente, feliz, namora casualmente
 
 ### Relacionamento com Camila
-- **Como se conheceram**: Colegas de trabalho OU amigas de longa data
+- **Como se conheceram**: Colegas de trabalho; a amizade cresce quando Fernanda percebe o que Camila está vivendo
 - **Papel na história**: Mentora, guia, voz da razão
 - **O que oferece**: Perspectiva de quem já passou por isso
 - **Função narrativa**: Mostrar que há vida (e felicidade) após o divórcio
@@ -53,7 +53,7 @@
 ### Informações Básicas
 | Campo | Informação |
 |-------|------------|
-| **Nome** | Dr. Lucas Mendes ou Dra. Helena Ribeiro |
+| **Nome** | Dr. Lucas Mendes |
 | **Idade** | 45 anos |
 | **Profissão** | Psicólogo(a) / Terapeuta |
 | **Especialidade** | Relacionamentos, traumas, autoestima |
@@ -89,7 +89,7 @@
 | **Nome Completo** | Daniel Almeida |
 | **Idade** | 35 anos |
 | **Estado Civil** | Solteiro (ou divorciado sem filhos) |
-| **Profissão** | Professor universitário / Designer / Artista |
+| **Profissão** | Professor universitário |
 | **Personalidade** | Gentil, paciente, empático, respeitoso |
 
 ### Aparência
@@ -106,11 +106,10 @@
 - **Presente**: Genuinamente interessado na vida dela
 
 ### Como Conheceu Camila
-Opções:
-1. Aula de arte/pintura que Camila começou a frequentar
-2. Através de Fernanda
-3. Vizinho do novo apartamento
-4. Evento cultural/exposição
+
+- Paula os apresenta na segunda exposição do ateliê.
+- Daniel se interessa primeiro pelo quadro e depois pela história de Camila.
+- A aproximação começa por mensagens e cafés, sem pressa.
 
 ### Evolução do Relacionamento
 1. **Amizade inicial**: Conversas leves, sem pressão
@@ -162,7 +161,7 @@ Opções:
 |-------|------------|
 | **Nome** | Sônia Ferreira |
 | **Idade** | 60 anos |
-| **Estado Civil** | Viúva ou casada há 35 anos |
+| **Estado Civil** | Viúva |
 | **Personalidade** | Tradicional, preocupada com aparências |
 
 ### Visão de Mundo

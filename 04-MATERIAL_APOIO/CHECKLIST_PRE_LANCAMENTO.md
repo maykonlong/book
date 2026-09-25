@@ -1,6 +1,6 @@
 # ✅ CHECKLIST PRÉ-LANÇAMENTO — "A Metade Que Me Faltava Era Eu"
 
-> Guia consolidado para verificar se o livro está pronto para o público-alvo (mulheres de 28–45, casadas/separadas/divorciadas, mães). Atualizado em 17/09/2026.
+> Guia consolidado para verificar se o livro está pronto para o público-alvo (mulheres adultas, especialmente mães e mulheres casadas/separadas/divorciadas). Atualizado em 24/09/2026.
 
 ---
 
@@ -8,12 +8,13 @@
 
 | Item | Status |
 |---|---|
-| Manuscrito | ✅ 40 capítulos · ~56.600 palavras · completo (FIM no CAP 40) |
+| Manuscrito | ✅ 40 capítulos · ~54.600 palavras de história · completo (FIM no CAP 40) |
 | Revisão de coesão (nomes, idades, cronologia) | ✅ |
 | Revisão ortográfica (varredura) | ✅ |
 | Redução de repetições | ✅ (pela primeira vez 51→2; finalmente→por fim; etc.) |
-| Vocabulário leve (sem "dicionário") | ✅ (mantidos parasitismo, reverência, invalidação, solitude) |
+| Vocabulário leve (sem "dicionário") | ✅ (termos necessários aparecem em contexto claro; frases excessivamente formais foram simplificadas) |
 | Pacote editorial + sinopse + guia Amazon + beta readers + leitor online | ✅ |
+| Arquivos finais para Amazon KDP | ✅ EPUB validado + miolo e capa impressa em PDF + capas em JPG |
 
 ---
 
@@ -23,10 +24,10 @@
 > "Você já acordou cansada?" (CAP 1) · "A primeira noite sem Ricardo não foi silenciosa." (CAP 10) · "Camila quase não foi." (CAP 14) · "Ricardo apareceu na quarta-feira à noite. Sem avisar." (CAP 30) · "O carro estava quieto demais." (CAP 34)
 
 ### 2.2 Fechos de capítulo — ✅ Excelentes (puxam para o próximo)
-> "Ela não ia mais regar cadáveres." (CAP 5) · "…o casamento tinha ficado abandonado no acostamento, debaixo de chuva." (CAP 6) · "E o prazo, Camila sabia, estava correndo." (CAP 12) · "O Ricardo nunca tinha ensinado isso. O Daniel, sim." (CAP 35)
+> "Ela não ia mais regar cadáveres." (CAP 5) · "…o casamento tinha ficado abandonado no acostamento, debaixo de chuva." (CAP 6) · "E o prazo, Camila sabia, estava correndo." (CAP 12) · "Pela primeira vez, uma briga não parecia o começo do fim. Parecia apenas uma conversa que ainda podia continuar." (CAP 35)
 
-### 2.3 Diálogo com a leitora ("você já…?") — ✅ Bem dosado
-- **31 ocorrências em 40 capítulos** (~0,75/cap) — cria intimidade sem enjoar.
+### 2.3 Diálogo com a leitora — ✅ Bem dosado
+- Mantido nos pontos em que aumenta a identificação; retirado quando interrompia a cena ou soava como lição.
 
 ### 2.4 Bugs encontrados e corrigidos
 | Bug | Correção |

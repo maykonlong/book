@@ -3,7 +3,7 @@
 
 Se a dor emocional do divórcio é um tsunami, a dor burocrática é areia movediça. Lenta, pegajosa, sufocante.
 
-Você já tentou transformar o fim de um amor em papelada? Documentar o que era só sentimento. Assinar o que era só dor. Talvez você conheça esse frio na espinha.
+Transformar o fim de um amor em papelada era uma crueldade própria: documentar o que tinha sido sentimento e assinar o que ainda era dor.
 
 Camila descobriu isso na segunda-feira seguinte, no escritório da Dra. Patrícia Alves.
 
@@ -25,7 +25,7 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — Não. A gente dividia as contas da casa, mas cada um cuidava do seu salário.
 
-— Erro clássico número um — murmurou a advogada, anotando algo. — Vamos pedir quebra de sigilo bancário se formos para o litigioso. Mas primeiro, vamos tentar o acordo. Quanto ele ganha?
+— Erro clássico número um — murmurou a advogada, anotando algo. — Se ele não aceitar um acordo, podemos pedir ao juiz acesso às contas bancárias. Mas primeiro vamos tentar resolver sem briga. Quanto ele ganha?
 
 — Acho que uns doze mil líquido. Ele é gerente de projetos.
 
@@ -73,11 +73,11 @@ Pensou no cheiro daquele lugar. Cheiro de bolo assando nas tardes de domingo. Ch
 
 Vender a casa não era vender tijolos. Era vender a história inteira de uma família. E ela não tinha dinheiro para impedir.
 
-Camila fechou os olhos por um segundo. O escritório, com suas pilhas de processos de capa parda, pareceu subitamente um cemitério de sonhos de outras mulheres — mulheres que também tinham entrado ali achando que o amor bastava, e saído descobrindo que amor não paga condomínio.
+Camila fechou os olhos por um segundo. De repente, o escritório, com suas pilhas de processos de capa parda, pareceu um cemitério de sonhos de outras mulheres — mulheres que também tinham entrado ali achando que o amor bastava, e saído descobrindo que amor não paga condomínio.
 
 — E se... e se eu abrir mão da pensão para mim? E ficar com a casa como compensação? — sugeriu Camila.
 
-— Pensão para ex-cônjuge é rara hoje em dia, Camila. Você trabalha, é jovem. Dificilmente o juiz daria. O que estamos falando é pensão para os filhos. E disso você *não pode* abrir mão. É direito deles, não seu.
+— Pensão para ex-marido ou ex-esposa é rara hoje em dia, Camila. Você trabalha, é jovem. Dificilmente o juiz daria. O que estamos falando é pensão para os filhos. E disso você *não pode* abrir mão. É direito deles, não seu.
 
 Camila saiu do escritório com uma lista de documentos para providenciar que parecia uma enciclopédia.
 

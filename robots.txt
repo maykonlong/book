@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SEU-DOMINIO.com.br/sitemap.xml
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://maykonlong.github.io/book/sitemap.xml

@@ -5,7 +5,7 @@ A tarefa do Dr. Lucas ecoava na cabeça dela como um mantra perigoso: *fazer alg
 
 Camila tinha comprado os materiais na quinta-feira à tarde, saindo do trabalho mais cedo — e quase não saiu. A reunião estourou o horário, o trânsito estava um caos, e a voz prática dentro dela sussurrou: *vai pra casa, Cá. Descansa. Tinta pode esperar.* Tinta podia esperar, sim. Tinta esperou onze anos. Foi exatamente esse o argumento que a fez virar o carro na direção contrária, em direção à loja.
 
-Entrar na papelaria especializada foi como entrar em uma igreja. Um silêncio reverente, a luz suave sobre as prateleiras, e aquele cheiro — papel, grafite, madeira, algo úmido e antigo — que a transportou instantaneamente para os 20 anos de idade.
+Entrar na papelaria especializada foi como entrar em uma igreja. Um silêncio respeitoso, a luz suave sobre as prateleiras, e aquele cheiro — papel, grafite, madeira, algo úmido e antigo — que a levou de volta aos 20 anos de idade.
 
 Ela caminhou pelos corredores devagar, como quem revisita um lugar sagrado que jurou que nunca mais pisaria. Os tubos de tinta alinhados como um arco-íris. Os pincéis em potes de vidro, redondos e chatos, macios e duros. Os blocos de papel de algodão empilhados, grossos, prometendo absorver água e cor com generosidade.
 
@@ -26,7 +26,7 @@ No caixa, o cartão tremeu na mão.
 
 *Isso é dinheiro de mercado. Isso é meia mensalidade da natação do Léo. Isso é quase o botijão de gás. Isso é...*
 
-A lista mental atacou sem piedade. Onze anos de treino a fizeram uma expert em converter qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. O algoritmo da sobrecarga, sempre ligado, fazia as contas antes mesmo dela decidir.
+A lista mental atacou sem piedade. Onze anos de treino a fizeram uma especialista em transformar qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. A conta automática da sobrecarga, sempre ligada, começava antes mesmo de ela decidir.
 
 *Quem você pensa que é? Artista?* A voz da mãe ecoou do passado, pontual como sempre. *Arte é hobby. Hobby sem futuro.*
 
@@ -45,7 +45,7 @@ Era estranho. E, ao mesmo tempo, libertador.
 Camila arrumou a mesa da sala de jantar. Tirou a toalha. Colocou jornais velhos.
 Dispôs as tintas. Encheu um pote de vidro (um pote de geleia reaproveitado) com água limpa.
 
-Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num poço separado. Ela passou o dedo sobre elas, reverente. Azul cobalto. Carmesim. Amarelo ocre. Verde viridiana. Nomes que pareciam feitiços.
+Abriu a caixinha de tintas com cuidado, como quem abre um estojo de joias. Doze pastilhas coloridas, cada uma num espaço separado. Ela passou o dedo sobre elas com respeito. Azul cobalto. Vermelho profundo. Amarelo terroso. Verde intenso. Nomes que pareciam feitiços.
 
 Pegou o bloco de papel, arrancou a folha de cima. Encheu o peito de ar.
 
@@ -70,7 +70,7 @@ A tinta se espalhou na água do papel úmido. Uma explosão azulada, como uma nu
 Camila prendeu a respiração.
 Era lindo.
 
-Era como andar de bicicleta. O corpo lembrava. A mão lembrava o quanto de água, o ângulo do pincel, a paciência de esperar a cor assentar. Vinte anos depois, e ainda estava tudo lá, guardado no músculo, esperando permissão para voltar.
+Era como andar de bicicleta. O corpo lembrava. A mão lembrava o quanto de água, o ângulo do pincel, a paciência de esperar a cor assentar. Quatorze anos depois, e ainda estava tudo lá, guardado no músculo, esperando permissão para voltar.
 
 Ela não sabia o que pintar. Flores? Paisagem? O apartamento vazio?
 

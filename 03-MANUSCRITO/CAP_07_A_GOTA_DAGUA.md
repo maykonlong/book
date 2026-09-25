@@ -1,7 +1,7 @@
 ﻿# CAPÍTULO 7
 ## A Gota D'água
 
-Camila não sabia, mas seu corpo estava contando os dias. O estresse crônico corrói o sistema imunológico silenciosamente, até que uma brecha mínima aparece.
+Camila não sabia, mas seu corpo vinha dando sinais. O estresse de tantos meses tinha enfraquecido as defesas do corpo, até que uma brecha apareceu.
 
 A brecha apareceu numa terça-feira pós-feriado.
 

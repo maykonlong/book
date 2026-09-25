@@ -94,7 +94,7 @@ Sem os filhos? Sem o Ricardo? Sem o crachá da empresa?
 
 A resposta não veio. E foi a ausência dela que assustou mais. Camila vasculhou a própria cabeça como quem procura uma chave no fundo da bolsa: tinha papel, tinha cartão, tinha recibo antigo — mas a chave não estava lá. Ela sabia que um dia esteve. Só não lembrava onde tinha guardado.
 
-Você já tentou se descrever sem os papéis que te definem? Mãe. Esposa. Funcionária. Tira os rótulos e, para muita mulher, sobra um silêncio assustador. Um eco. Um "eu não sei" que bate no peito e não responde.
+Sem os papéis de mãe, esposa e funcionária, sobrava um silêncio assustador. Um eco. Um "eu não sei" que batia no peito e não respondia.
 
 — Eu... eu não sei — sussurrou ela. O pânico voltou. — Eu não sei. Eu sou a mãe do Léo e da Bia. Eu organizo a casa. Eu cuido das coisas.
 
@@ -109,7 +109,7 @@ Lágrimas silenciosas, quentes.
 
 Dr. Lucas estendeu uma caixa de lenços. Ela pegou um, assoou o nariz sem elegância nenhuma.
 
-— Isso é normal, Camila. É o que chamamos de fusão. Você se fundiu aos papéis que desempenhava. E agora que um desses papéis (o de esposa) acabou, você sente que sumiu.
+— Isso é normal, Camila. Você se misturou tanto com os papéis de mãe, esposa e profissional que deixou de enxergar quem era além deles. Agora que o papel de esposa acabou, parece que uma parte sua sumiu.
 
 — Eu vou achar ela de novo?
 

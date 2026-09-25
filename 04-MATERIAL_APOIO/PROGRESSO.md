@@ -60,9 +60,9 @@
 
 ## 📊 Estatísticas (atualizadas em 16/09/2026 — após 1ª + 2ª passadas de expansão)
 - **Total de capítulos escritos**: 40/40 (100%)
-- **Total de palavras**: **~56.600** (era ~37.300 antes da expansão)
+- **Total de palavras**: **~54.600** nos 40 capítulos após a revisão final (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.415
-- **Páginas estimadas**: ~240 (formato A5 14×21 cm)
+- **Páginas do arquivo final**: 278 (formato 5,5 × 8,5 pol.)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
 
 ### Distribuição por ato
@@ -71,7 +71,7 @@
 | I — Estagnação e Ruptura | 1-9 | ~15.200 | 35% | 25% (~20k) |
 | II — Desconstrução e Redescobrimento | 10-28 | ~27.000 | 48% | 50% (~40k) |
 | III — Abertura e Entrega | 29-40 | ~16.200 | 29% | 25% (~20k) |
-| **TOTAL** | 40 | **~56.600** | 100% | ~80k |
+| **TOTAL** | 40 | **~54.600** | 100% | ~80k |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.
@@ -119,7 +119,7 @@
 
 ## 🌐 Progresso do Site (Landing Page) — 17/09/2026
 
-- ✅ **FAQ enriquecida**: 12 perguntas (antes 6) no HTML visível + JSON-LD `FAQPage` casando perfeitamente
+- ✅ **FAQ otimizada**: perguntas e respostas diretas no HTML visível + JSON-LD `FAQPage`
 - ✅ **Landing page profissional**: nav fixa, seções (Sobre → Temas → Trechos → Autora → FAQ), chamada final (CTA) e rodapé em colunas
 - ✅ **Layout mobile-first**: menu hamburguer (☰), tipografia fluida (`clamp`), botões full-width no celular
 - ✅ **SEO/GEO**: JSON-LD (`Book` + `Person` + `WebSite` + `FAQPage`), Open Graph, Twitter Card, `llms.txt`, `sitemap.xml`, `robots.txt`, `manifest.json`
