@@ -95,7 +95,7 @@ Camila piscou. Sentiu um gosto metálico na boca.
 
 Ele falou com a satisfação de quem acabara de resolver uma equação complexa. Sorriu, orgulhoso de sua generosidade.
 
-Para Ricardo, "pagar" era a carta de alforria. O dinheiro comprava sua isenção de pesquisar preços, de encher balões até ficar tonto, de limpar brigadeiro do tapete, de lidar com a birra de pré-festa.
+Para Ricardo, "pagar" era uma desculpa para não fazer mais nada. O dinheiro o livrava de pesquisar preços, de encher balões até ficar tonto, de limpar brigadeiro do tapete, de lidar com a birra de pré-festa.
 
 Ele não entendia que "organizar" não era um passatempo. Era trabalho. Trabalho não remunerado, invisível e exaustivo.
 

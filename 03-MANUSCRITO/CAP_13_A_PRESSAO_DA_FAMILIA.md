@@ -13,7 +13,7 @@ Camila estava na cama, aproveitando o raro luxo de acordar sem despertador (os f
 — Você vem almoçar, né? Não aceito não. As tias vão estar aqui. A Cida, a Bete, a Vilma. Querem te ver.
 
 Camila fechou os olhos.
-Tia Cida, Tia Bete e Tia Vilma. O triunvirato do julgamento. As irmãs de seu pai, que sempre consideraram Ricardo um "santo" por ter casado com a sobrinha delas.
+Tia Cida, Tia Bete e Tia Vilma. As três juízas da família. As irmãs de seu pai, que sempre consideraram Ricardo um "santo" por ter casado com a sobrinha delas.
 
 — Mãe... eu não sei se estou com cabeça.
 — Camila, não foge. Você precisa enfrentar isso uma hora. Vem. Fiz lasanha.

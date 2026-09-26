@@ -4,7 +4,7 @@
 
 | Campo | Informação |
 |-------|------------|
-| **Nome Completo** | Camila Ferreira Santos |
+| **Nome Completo** | Camila Ferreira Santos durante o casamento; Camila Ferreira após o divórcio |
 | **Idade** | 34 anos |
 | **Estado Civil** | Casada → Divorciada (durante a história) |
 | **Profissão** | Coordenadora de Marketing |

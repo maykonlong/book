@@ -13,7 +13,7 @@ Ele não olhou nos olhos dela. Falou com o advogado dele, assinou os papéis rá
 
 Camila assinou também.
 Sua mão não tremeu.
-Sua assinatura saiu firme: *Camila Ferreira Santos*. (Tinha tirado o sobrenome dele. Um ato burocrático, mas que pesava toneladas a menos na alma).
+Sua assinatura saiu firme: *Camila Ferreira Santos*, como ainda constava nos documentos. No acordo, tinha escolhido voltar a usar apenas o nome de antes do casamento: *Camila Ferreira*. O sobrenome de Ricardo sairia dos documentos. A decisão já tinha tirado um peso da alma.
 
 Ela tinha ensaiado esse momento por meses, nas noites de insônia, imaginando que ia desmoronar. Mas quando a caneta tocou o papel, o que veio não foi choro. Foi uma espécie de clareza serena, como se cada letra do próprio nome estivesse devolvendo a ela um pedaço que o casamento tinha ficado.
 

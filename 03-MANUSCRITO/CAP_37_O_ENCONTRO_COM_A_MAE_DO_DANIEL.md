@@ -37,9 +37,9 @@ Camila sentiu o peito aquecer de um jeito que não sabia nomear.
 
 ---
 
-O almoço foi leve. Dona Lúcia contou histórias do Daniel criança — das artes dele, do jeito que sempre foi cuidadoso com os outros, do pai que tinha falecido cedo e de como os dois tinham se virado sozinhos.
+O almoço foi leve. Dona Lúcia contou histórias do Daniel criança — das artes dele, do jeito que sempre foi cuidadoso com os outros, do pai que tinha falecido cedo e de como ela, Daniel e Mariana tinham se virado juntos.
 
-Camila percebeu, ali, de onde vinha a paciência do Daniel. De uma mulher que tinha criado o filho sozinha, sem amargura, ensinando a ele que sensibilidade não era fraqueza.
+Camila percebeu, ali, de onde vinha a paciência do Daniel. De uma mulher que tinha criado os filhos sozinha, sem amargura, ensinando a eles que sensibilidade não era fraqueza.
 
 Mas Lúcia não demorou a provar que também era humana.
 

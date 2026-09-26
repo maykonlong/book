@@ -509,7 +509,7 @@ Camila piscou. Sentiu um gosto metálico na boca.
 
 Ele falou com a satisfação de quem acabara de resolver uma equação complexa. Sorriu, orgulhoso de sua generosidade.
 
-Para Ricardo, "pagar" era a carta de alforria. O dinheiro comprava sua isenção de pesquisar preços, de encher balões até ficar tonto, de limpar brigadeiro do tapete, de lidar com a birra de pré-festa.
+Para Ricardo, "pagar" era uma desculpa para não fazer mais nada. O dinheiro o livrava de pesquisar preços, de encher balões até ficar tonto, de limpar brigadeiro do tapete, de lidar com a birra de pré-festa.
 
 Ele não entendia que "organizar" não era um passatempo. Era trabalho. Trabalho não remunerado, invisível e exaustivo.
 
@@ -2918,7 +2918,7 @@ Camila estava na cama, aproveitando o raro luxo de acordar sem despertador (os f
 — Você vem almoçar, né? Não aceito não. As tias vão estar aqui. A Cida, a Bete, a Vilma. Querem te ver.
 
 Camila fechou os olhos.
-Tia Cida, Tia Bete e Tia Vilma. O triunvirato do julgamento. As irmãs de seu pai, que sempre consideraram Ricardo um "santo" por ter casado com a sobrinha delas.
+Tia Cida, Tia Bete e Tia Vilma. As três juízas da família. As irmãs de seu pai, que sempre consideraram Ricardo um "santo" por ter casado com a sobrinha delas.
 
 — Mãe... eu não sei se estou com cabeça.
 — Camila, não foge. Você precisa enfrentar isso uma hora. Vem. Fiz lasanha.
@@ -4375,11 +4375,11 @@ Ela tinha feito certo.
 # CAPÍTULO 19
 ## O Colega do Trabalho
 
-Voltar ao escritório depois da separação foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
+Três meses depois de Ricardo sair, Camila continuava indo ao escritório todos os dias. Não tinha parado de trabalhar: atravessara reuniões, prazos e entregas no meio da separação. Mesmo assim, havia manhãs em que entrar pela porta parecia voltar para a escola depois de uma doença longa. Todo mundo sabia de alguma coisa, ninguém falava diretamente, e ela sentia os olhares nas costas como alfinetes.
 
-Na primeira semana, ela pegou três pessoas interrompendo a conversa quando ela se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
+Naquela semana, ela pegou três pessoas interrompendo a conversa quando se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
 
-Voltar a um lugar onde todos sabiam da sua vida era como andar de vestido de noiva no metrô: ela não tinha feito nada errado, mas todo mundo olhava.
+Trabalhar num lugar onde todos sabiam da sua vida era como andar de vestido de noiva no metrô: ela não tinha feito nada errado, mas todo mundo olhava. Nem os potes de bolo que levava para vender tinham acabado com a curiosidade dos colegas.
 
 ---
 
@@ -4730,7 +4730,7 @@ Apresentações começaram.
 
 Uma menina falou sobre a família grande — seis irmãos, todos morando na mesma casa com avós.
 
-Um menino sobre pais divorciados que se davam bem — custódia compartilhada harmônica.
+Um menino sobre pais divorciados que dividiam os cuidados sem brigar.
 
 Uma menina sobre duas mães.
 
@@ -6366,7 +6366,7 @@ Ele não olhou nos olhos dela. Falou com o advogado dele, assinou os papéis rá
 
 Camila assinou também.
 Sua mão não tremeu.
-Sua assinatura saiu firme: *Camila Ferreira Santos*. (Tinha tirado o sobrenome dele. Um ato burocrático, mas que pesava toneladas a menos na alma).
+Sua assinatura saiu firme: *Camila Ferreira Santos*, como ainda constava nos documentos. No acordo, tinha escolhido voltar a usar apenas o nome de antes do casamento: *Camila Ferreira*. O sobrenome de Ricardo sairia dos documentos. A decisão já tinha tirado um peso da alma.
 
 Ela tinha ensaiado esse momento por meses, nas noites de insônia, imaginando que ia desmoronar. Mas quando a caneta tocou o papel, o que veio não foi choro. Foi uma espécie de clareza serena, como se cada letra do próprio nome estivesse devolvendo a ela um pedaço que o casamento tinha ficado.
 
@@ -8225,9 +8225,9 @@ Camila sentiu o peito aquecer de um jeito que não sabia nomear.
 
 ---
 
-O almoço foi leve. Dona Lúcia contou histórias do Daniel criança — das artes dele, do jeito que sempre foi cuidadoso com os outros, do pai que tinha falecido cedo e de como os dois tinham se virado sozinhos.
+O almoço foi leve. Dona Lúcia contou histórias do Daniel criança — das artes dele, do jeito que sempre foi cuidadoso com os outros, do pai que tinha falecido cedo e de como ela, Daniel e Mariana tinham se virado juntos.
 
-Camila percebeu, ali, de onde vinha a paciência do Daniel. De uma mulher que tinha criado o filho sozinha, sem amargura, ensinando a ele que sensibilidade não era fraqueza.
+Camila percebeu, ali, de onde vinha a paciência do Daniel. De uma mulher que tinha criado os filhos sozinha, sem amargura, ensinando a eles que sensibilidade não era fraqueza.
 
 Mas Lúcia não demorou a provar que também era humana.
 

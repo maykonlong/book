@@ -20,7 +20,7 @@
 | Idade de Bia | 4 (Ato I) → 5 (Atos II/III) — coerente |
 | Daniel | Professor universitário de literatura (CAP 29) — coerente com a ficha |
 | Passado de Daniel | Solteiro, sem filhos; encerrou um noivado há três anos — sem alternativas em aberto na ficha |
-| Sobrenome de Camila | "Camila Ferreira Santos" (tirou o sobrenome do ex no divórcio) — coerente |
+| Sobrenome de Camila | Camila Ferreira Santos durante o casamento; escolhe voltar a Camila Ferreira no divórcio |
 
 ---
 
@@ -39,9 +39,9 @@
 
 1. [x] **Revisão ortográfica/gramatical (1ª varredura automática)** — ver "Correções ortográficas" abaixo (recomenda-se ainda uma leitura humana em voz alta)
 2. [ ] **Beta readers** (mulheres adultas, especialmente mães e mulheres casadas/separadas) — materiais prontos (`BETA_READERS.md` + `manuscrito_beta.html`); falta recrutar e coletar o feedback
-3. [x] **Expansão para 75–85k adiada** (decisão editorial — edição atual com ~63.500 palavras de história; média ~1.588 por capítulo)
-4. [ ] Preencher **nome/bio da autora** no pacote editorial
-5. [ ] Formatação final + capa
+3. [x] **Expansão para 75–85k adiada** (decisão editorial — edição atual com ~63.600 palavras de história; média ~1.590 por capítulo)
+4. [x] Nome literário e bio da autora preparados no pacote editorial; confirmar dados legais na conta KDP
+5. [x] Formatação final e capa geradas; conferir no Previewer e na prova física
 
 ---
 

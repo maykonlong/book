@@ -1,11 +1,11 @@
 # CAPÍTULO 19
 ## O Colega do Trabalho
 
-Voltar ao escritório depois da separação foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
+Três meses depois de Ricardo sair, Camila continuava indo ao escritório todos os dias. Não tinha parado de trabalhar: atravessara reuniões, prazos e entregas no meio da separação. Mesmo assim, havia manhãs em que entrar pela porta parecia voltar para a escola depois de uma doença longa. Todo mundo sabia de alguma coisa, ninguém falava diretamente, e ela sentia os olhares nas costas como alfinetes.
 
-Na primeira semana, ela pegou três pessoas interrompendo a conversa quando ela se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
+Naquela semana, ela pegou três pessoas interrompendo a conversa quando se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
 
-Voltar a um lugar onde todos sabiam da sua vida era como andar de vestido de noiva no metrô: ela não tinha feito nada errado, mas todo mundo olhava.
+Trabalhar num lugar onde todos sabiam da sua vida era como andar de vestido de noiva no metrô: ela não tinha feito nada errado, mas todo mundo olhava. Nem os potes de bolo que levava para vender tinham acabado com a curiosidade dos colegas.
 
 ---
 

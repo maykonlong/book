@@ -49,7 +49,7 @@ Apresentações começaram.
 
 Uma menina falou sobre a família grande — seis irmãos, todos morando na mesma casa com avós.
 
-Um menino sobre pais divorciados que se davam bem — custódia compartilhada harmônica.
+Um menino sobre pais divorciados que dividiam os cuidados sem brigar.
 
 Uma menina sobre duas mães.
 

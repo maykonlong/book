@@ -12,7 +12,7 @@
 | **Subtítulo** | A jornada de uma mulher que cansou de ser a única a tentar |
 | **Autor(a)** | Mariana Duarte (pseudônimo) |
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
-| **Palavras** | ~63.500 de história nos capítulos (~64.200 no manuscrito completo, com cabeçalhos e textos iniciais e finais) |
+| **Palavras** | ~63.600 de história nos capítulos (~64.200 no manuscrito completo, com cabeçalhos e textos iniciais e finais) |
 | **Capítulos** | 40 (4 atos) |
 | **Páginas da edição preparada** | 324 (5,5 × 8,5 pol.) |
 | **Narração** | 3ª pessoa íntima + diálogo direto com a leitora |

@@ -94,4 +94,6 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - O primeiro Natal sozinha vem antes do aniversário de 9 anos de Léo.
 - Há duas exposições do ateliê: a primeira marca o sorriso real; a segunda apresenta Daniel.
 - O divórcio é finalizado depois que a Justiça resolve as questões dos filhos e o casal define os bens.
+- Camila usa Ferreira Santos durante o casamento e escolhe voltar a Ferreira no divórcio.
+- Daniel tem uma irmã mais velha, Mariana; a mãe Lúcia criou os dois após a morte do pai.
 - A história cobre cerca de 20 meses, de janeiro do Ano 0 a setembro do Ano 1.

@@ -93,6 +93,8 @@ def validate_chapters() -> int:
         10: "mudança definitiva de Ricardo",
         11: "gerente comercial",
         12: "Abril estava no dia 8",
+        19: "Não tinha parado de trabalhar",
+        27: "Camila Ferreira Santos",
         29: "sempre imaginei que seria pai",
         34: "ideia de uma casa cheia",
         37: "Daniel nunca tinha escondido",
@@ -100,6 +102,13 @@ def validate_chapters() -> int:
     for chapter_number, marker in continuity_markers.items():
         if marker.casefold() not in texts[chapter_number - 1].casefold():
             fail(f"Marcador de continuidade ausente no capítulo {chapter_number}: {marker}")
+
+    if "Camila Ferreira Santos" not in texts[28] or "*Camila Ferreira*" not in texts[28]:
+        fail("Mudança de nome de Camila ausente no capítulo 29")
+    if "Daniel e Mariana" not in texts[36] or "criado os filhos sozinha" not in texts[36]:
+        fail("Família de Daniel divergente entre os capítulos 30 e 37")
+    if "Voltar ao escritório depois da separação" in texts[18]:
+        fail("O capítulo 19 sugere uma ausência do trabalho que não ocorreu")
 
     repeated_sentences: dict[str, set[int]] = {}
     for chapter_number, text in enumerate(texts, 1):

@@ -204,8 +204,8 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Capítulos**: 40 (completos)
-- **Palavras totais**: 63.529 de história nos 40 capítulos · 64.169 no manuscrito completo, incluindo cabeçalhos e textos iniciais e finais
-- **Palavras por capítulo (média)**: ~1.588 de história
+- **Palavras totais**: 63.597 de história nos 40 capítulos · 64.237 no manuscrito completo, incluindo cabeçalhos e textos iniciais e finais
+- **Palavras por capítulo (média)**: ~1.590 de história
 - **Páginas do arquivo final (5,5 × 8,5 pol.)**: 324
 - **Expansão futura**: somente se a leitura beta identificar lacunas reais; a edição atual encerra o arco do primeiro volume
 
@@ -294,7 +294,7 @@ Procurando mulheres adultas, preferencialmente:
 - ✅ Layout mobile-first (menu hamburguer, tipografia fluida, botões full-width)
 
 ### 16/09/2026 — Manuscrito completo
-- ✅ 40 capítulos (~63.500 palavras de história) + passadas de expansão, continuidade e linguagem
+- ✅ 40 capítulos (~63.600 palavras de história) + passadas de expansão, continuidade e linguagem
 - ✅ Revisão de coesão, ortografia, repetições e vocabulário
 
 ### Versão 1.0

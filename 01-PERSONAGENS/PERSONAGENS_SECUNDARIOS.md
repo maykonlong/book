@@ -91,6 +91,7 @@
 | **Estado Civil** | Solteiro; encerrou um noivado há três anos e não tem filhos |
 | **Profissão** | Professor universitário |
 | **Personalidade** | Gentil, paciente, empático, respeitoso |
+| **Família** | Mãe Lúcia e irmã mais velha Mariana; o pai morreu quando Daniel era criança |
 
 ### Aparência
 - Altura média (1,75m)

@@ -8,7 +8,7 @@
 **APROVADO para publicação técnica.**
 
 - 40 capítulos em sequência, sem lacunas.
-- 63.760 palavras contando os títulos e cabeçalhos dos capítulos; 63.529 palavras de história.
+- 63.828 palavras contando os títulos e cabeçalhos dos capítulos; 63.597 palavras de história.
 - Nenhum capítulo abaixo de 900 palavras.
 - 10 ilustrações narrativas presentes no leitor e no EPUB.
 - 13 temas femininos presentes na página, no JSON-LD e no `llms.txt`.
@@ -36,6 +36,15 @@
 - Antes da conclusão oficial do divórcio no capítulo 29, referências à condição de Camila nos capítulos 15, 16, 19 e 26 foram corrigidas para "separada".
 - Retirado um emoji da mensagem de Fernanda que virava um glifo vazio no PDF impresso. O validador agora detecta caracteres fora do repertório seguro do miolo.
 - Regenerados manuscrito consolidado, versão beta, EPUB, miolo, capa impressa, metadados e ZIP KDP. EPUBCheck: 0 erros fatais, 0 erros e 0 avisos; checksums e links locais aprovados.
+
+## Nova varredura de continuidade e linguagem
+
+- No capítulo 19, a abertura agora reconhece que Camila continuou trabalhando durante a separação; ela não "volta" ao escritório meses depois como se tivesse se afastado.
+- O nome de Camila fica explícito: Ferreira Santos durante o casamento; no capítulo 29, ela escolhe voltar a Ferreira. A ficha de personagem e a cronologia acompanham essa decisão.
+- No capítulo 37, Lúcia conta a infância de Daniel incluindo Mariana, irmã mais velha apresentada no capítulo 30; a ficha de Daniel também registra essa família.
+- Três expressões que destoavam do público foram simplificadas nos capítulos 2, 13 e 21: "carta de alforria", "triunvirato" e "custódia compartilhada harmônica".
+- Novos marcadores no validador protegem a continuidade do trabalho, do nome de Camila e da família de Daniel.
+- O miolo permanece com 324 páginas; EPUBCheck, links, checksums e ZIP foram validados novamente.
 
 ## Ajustes adicionais de 26/09/2026
 

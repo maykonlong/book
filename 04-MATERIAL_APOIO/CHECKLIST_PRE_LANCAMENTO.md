@@ -8,7 +8,7 @@
 
 | Item | Status |
 |---|---|
-| Manuscrito | ✅ 40 capítulos · ~63.500 palavras de história · completo (FIM no CAP 40) |
+| Manuscrito | ✅ 40 capítulos · ~63.600 palavras de história · completo (FIM no CAP 40) |
 | Revisão de coesão (nomes, idades, cronologia) | ✅ |
 | Revisão ortográfica (varredura) | ✅ |
 | Redução de repetições | ✅ (pela primeira vez 51→2; finalmente→por fim; etc.) |
@@ -76,7 +76,7 @@
 ### G. Comercial (título, sinopse, tamanho)
 - ✅ Título/subtítulo alinhados à promessa
 - ✅ Sinopse com gancho ("a poça de leite")
-- ✅ Tamanho (~63,5 mil palavras de história) — decisão: manter como romance de leitura ágil (expansão para 75–85k adiada)
+- ✅ Tamanho (~63,6 mil palavras de história) — decisão: manter como romance de leitura ágil (expansão para 75–85k adiada)
 
 ### H. Sensibilidade (triggers)
 - ✅ Sem violência/traição explícita
