@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 5
+# CAPÍTULO 5
 ## A Conversa com Fernanda
 
 Segunda-feira. O dia internacional do arrependimento por não ter vivido o fim de semana que se sonhou.

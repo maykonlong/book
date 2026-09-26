@@ -204,11 +204,11 @@ Esperou que ele recuasse. Que dissesse algo como "Nossa, deve ser complicado" co
 
 Mas ao invés:
 
-— Imagino. Ser mãe solo é heroico. Sério.
+— Imagino. Cuidar de tanta coisa quase sozinha deve cansar muito.
 
-Mãe solo. Heroica.
+Ele tinha percebido o peso sem transformá-la numa heroína.
 
-Não "complicada". Não "bagagem".
+Não "complicada". Não "bagagem". Uma pessoa que também precisava de descanso.
 
 Sinal positivo.
 

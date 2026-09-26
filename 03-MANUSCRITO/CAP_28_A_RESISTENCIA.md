@@ -63,7 +63,7 @@ Só... tédio.
 
 Era um tédio quase físico, como assistir a um filme que ela já tinha visto onze vezes e do qual decorara cada fala. Ela sabia exatamente o que viria a seguir: a promessa, a mão estendida, a culpa disfarçada de saudade. Conhecia o roteiro de cor. E descobriu, com um espanto morno, que não tinha mais a menor vontade de assistir ao final.
 
-Ela se lembrou, sem querer, de uma noite específica. Seis anos atrás, quando o Léo era bebê e pegou uma febre que não baixava. Camila tinha passado a madrugada inteira acordada, alternando compressas frias e choro abafado, enquanto Ricardo dormia. De manhã, quando ela mencionou o cansaço, ele respondeu, sem tirar os olhos do celular: *"mas você podia ter me acordado."* Podia. Mas depois de tantos "não", ela tinha aprendido a não pedir. Aquele tinha sido um dos dias em que ela entendeu, sem palavras, que pedir ajuda dava mais trabalho do que carregar tudo sozinha.
+Ela se lembrou, sem querer, de uma noite específica. Oito anos atrás, quando o Léo ainda era bebê e pegou uma febre que não baixava. Camila tinha passado a madrugada inteira acordada, alternando compressas frias e choro abafado, enquanto Ricardo dormia. De manhã, quando ela mencionou o cansaço, ele respondeu, sem tirar os olhos do celular: *"mas você podia ter me acordado."* Podia. Mas depois de tantos "não", ela tinha aprendido a não pedir. Aquele tinha sido um dos dias em que ela entendeu, sem palavras, que pedir ajuda dava mais trabalho do que carregar tudo sozinha.
 
 Ela viu a camisa dele levemente amarrotada (ninguém passava para ele).
 Viu o corte de cabelo meio atrasado.

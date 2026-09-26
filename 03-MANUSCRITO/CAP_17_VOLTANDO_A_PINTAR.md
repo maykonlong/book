@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 17
+# CAPÍTULO 17
 ## Voltando a Pintar
 
 A tarefa do Dr. Lucas voltava à cabeça dela como um desafio perigoso: *fazer algo só por você.*

@@ -6,7 +6,7 @@
 
 ## ✅ Já está pronto (feito)
 
-- **Manuscrito completo**: 40 capítulos + sinopse + dedicatória + epígrafe + carta à leitora + agradecimentos + sobre a autora + ficha técnica
+- **Manuscrito completo**: 40 capítulos + dedicatória + epígrafe + carta à leitora + agradecimentos + sobre a autora; sinopse e ficha técnica ficam no pacote editorial, não antes do capítulo 1
 - **Revisões**: coesão (nomes/idades/cronologia), ortografia, repetições, vocabulário leve
 - **Site profissional**: landing page (`index.html`) com identificação, sinopse, temas, trecho, FAQ, CTA e leitor online (`ler.html`); layout responsivo e acessível
 - **SEO/GEO/AEO**: JSON-LD consistente, respostas objetivas, imagem social, `llms.txt`, sitemap, robots, manifest e URL canônica real
@@ -33,7 +33,7 @@
 
 ### C. Publicação (Amazon)
 10. [ ] **Revisão final em voz alta** (opcional, recomendada)
-11. [ ] **Finalizar a capa para os formatos da Amazon** (a arte-base já existe; ver `BRIEFING_CAPA.md`)
+11. [x] **Preparar as capas para os formatos da Amazon** (JPG do Kindle e PDF do impresso; conferir no Previewer e na prova física)
 12. [ ] **Publicar na Amazon** (seguir `PASSO_A_PASSO_AMAZON_KDP.md`)
 13. [ ] **Adicionar o link da Amazon** no site (trocar o botão "em breve")
 

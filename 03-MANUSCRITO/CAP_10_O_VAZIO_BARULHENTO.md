@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 10
+# CAPÍTULO 10
 ## O Vazio Barulhento
 
 A primeira noite depois da mudança definitiva de Ricardo não foi silenciosa.
@@ -456,3 +456,5 @@ A mulher que existia além de mãe, de esposa, de funcionária.
 A Camila que ela tinha perdido há onze anos.
 
 E estava na hora de reencontrar.
+
+Mas, antes, precisava atravessar a segunda-feira. A advogada explicaria o que aconteceria com a casa, com o dinheiro e com os dias das crianças. Camila apagou a luz sem saber se alguma daquelas respostas lhe daria chão.

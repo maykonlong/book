@@ -1,6 +1,7 @@
 # Checklist final antes de clicar em Publicar
 
 - [ ] Confirmar nome literário e titular dos direitos autorais.
+- [ ] Não selecionar KDP Select enquanto o texto completo estiver disponível no site.
 - [ ] Conferir a descrição, as sete palavras-chave e as categorias no painel.
 - [ ] Informar corretamente o uso de conteúdo gerado por IA.
 - [ ] Escolher ISBN gratuito da KDP ou informar ISBN próprio para o impresso.

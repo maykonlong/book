@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 34
+# CAPÍTULO 34
 ## A Primeira Viagem a Quatro
 
 O carro estava quieto demais.

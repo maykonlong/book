@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 33
+# CAPÍTULO 33
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.

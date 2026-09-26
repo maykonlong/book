@@ -1,6 +1,6 @@
 # Relatório de validação final
 
-**Data:** 25/09/2026  
+**Data:** 26/09/2026
 **Escopo:** manuscrito, continuidade, linguagem, página de apresentação, leitor online e pacote Amazon KDP.
 
 ## Resultado
@@ -8,15 +8,28 @@
 **APROVADO para publicação técnica.**
 
 - 40 capítulos em sequência, sem lacunas.
-- 62.394 palavras contando os títulos e cabeçalhos dos capítulos.
+- 62.615 palavras contando os títulos e cabeçalhos dos capítulos; 62.384 palavras de história.
 - Nenhum capítulo abaixo de 900 palavras.
 - 10 ilustrações narrativas presentes no leitor e no EPUB.
 - 13 temas femininos presentes na página, no JSON-LD e no `llms.txt`.
 - 0 parágrafos longos duplicados entre capítulos.
 - EPUBCheck 5.4.0: 0 erros fatais, 0 erros e 0 avisos.
-- Miolo: 316 páginas em 5,5 × 8,5 polegadas.
+- Miolo: 318 páginas em 5,5 × 8,5 polegadas, com sumário paginado e números conferidos.
 - Links locais, checksums e ZIP final: aprovados.
 - Página testada em desktop e celular, sem rolagem horizontal e sem erros no console.
+
+## Ajustes adicionais de 26/09/2026
+
+- Corrigida a lembrança de Léo bebê: oito anos antes de sua idade atual, não seis.
+- Mantida a aquarela como técnica também na exposição final: papel de algodão protegido por vidro, sem relevos de tinta sobre tela.
+- A fala de Daniel deixou de chamar Camila de "mãe solo" quando o próprio enredo estabelece guarda compartilhada.
+- Fortalecidas as passagens entre capítulos 1–2, 8–9, 10–11, 20–21 e 25–26 com perguntas e decisões ligadas às cenas seguintes, sem acrescentar suspense artificial.
+- A apresentação pública passou a preservar a escolha final de Camila; o trecho destacado agora corresponde literalmente ao capítulo 7.
+- A sinopse comercial foi retirada da abertura do EPUB, do leitor online, do manuscrito consolidado e da versão beta. O EPUB ganhou entradas navegáveis para dedicatória, epígrafe e carta à leitora.
+- O impresso ganhou sumário de 40 capítulos. Miolo e capa foram reconstruídos juntos para manter a lombada correta.
+- Mariana Duarte foi mantida como nome literário. Os agradecimentos e a biografia registram a colaboração de Diana Catarina sem atribuir ao pseudônimo atendimentos ou relatos que não recebeu.
+- Removidas marcas BOM de 32 arquivos de capítulos; o manuscrito beta é gerado automaticamente, com títulos renderizados como cabeçalhos.
+- O site e os guias passaram a explicar que leitura integral gratuita e KDP Select não podem coexistir.
 
 ## Correções editoriais desta passagem
 

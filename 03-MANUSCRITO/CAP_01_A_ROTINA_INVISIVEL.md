@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 1
+# CAPÍTULO 1
 ## A Rotina Invisível
 
 Você já acordou cansada?
@@ -369,3 +369,5 @@ Camila levantou-se, apagou a última luz, e caminhou para o quarto, arrastando o
 Invisível.
 Necessária para tudo.
 E completamente só.
+
+Antes de deitar, o celular acendeu com um lembrete: *Começar os preparativos do aniversário do Léo.* Camila não abriu a lista. Ficou olhando para a tela e se perguntou quem lembraria daquela festa se ela, só por uma vez, não lembrasse.

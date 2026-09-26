@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 9
+# CAPÍTULO 9
 ## A Conversa com os Filhos
 
 A parte mais difícil não foi enfrentar Ricardo.

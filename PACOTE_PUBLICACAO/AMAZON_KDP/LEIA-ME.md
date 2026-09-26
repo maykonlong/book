@@ -1,6 +1,6 @@
 # Pacote de publicação — A Metade Que Me Faltava Era Eu
 
-Arquivos preparados em 25/09/2026 para publicação independente.
+Arquivos preparados em 26/09/2026 para publicação independente.
 
 ## Arquivos para enviar à Amazon KDP
 
@@ -14,8 +14,10 @@ Arquivos preparados em 25/09/2026 para publicação independente.
 - Tamanho: 5,5 × 8,5 polegadas
 - Papel: creme
 - Interior: preto e branco, sem sangria
-- Página total do miolo: 316
-- Lombada calculada: 0.7900 polegada
+- Página total do miolo: 318
+- Lombada calculada: 0.7950 polegada
 - Acabamento sugerido: fosco
 
 Não altere o número de páginas do miolo sem gerar novamente a capa completa, pois a largura da lombada depende desse total. Antes de publicar, substitua ou confirme os dados pessoais, fiscais, bancários, preço, territórios, ISBN e categorias diretamente na conta KDP.
+
+O livro completo está disponível gratuitamente no site oficial. Não inscreva o eBook no KDP Select enquanto essa leitura integral permanecer pública: o programa exige exclusividade digital.

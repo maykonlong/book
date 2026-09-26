@@ -1,28 +1,6 @@
-# A METADE QUE ME FALTAVA ERA EU
+# A Metade Que Me Faltava Era Eu
 
-*Subtítulo: A jornada de uma mulher que cansou de ser a única a tentar*
-
-**Um romance de ficção feminina sobre autodescoberta, recomeço e amor-próprio**
-
----
-
-## SOBRE O LIVRO
-
-Camila faz tudo. A lista mental, a casa, os filhos, o trabalho, o calendário de todo mundo. Ricardo "ajuda" — daquele jeito que a gente "ajuda" quando não quer responsabilidade nenhuma.
-
-Onze anos de casamento. Dois filhos. E uma solidão tão grande que ela já não distingue onde termina o cansaço e começa o vazio.
-
-O fim não veio com uma traição de novela. Veio com uma poça de leite derramado, numa manhã em que Camila estava com febre e percebeu que, mesmo doente, ninguém ia limpar aquilo por ela. Ninguém nunca limpava.
-
-Então ela pediu o divórcio. Não para encontrar outra pessoa — para se encontrar de novo.
-
-Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta e respeita — mas que deseja um futuro diferente do seu.
-
-Como amar de novo sem trocar uma dependência por outra? E como escolher a si mesma quando ninguém fez nada errado?
-
-*"A Metade Que Me Faltava Era Eu" é para toda mulher que carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
-
----
+*A jornada de uma mulher que cansou de ser a única a tentar*
 
 ## DEDICATÓRIA
 
@@ -42,7 +20,7 @@ Como amar de novo sem trocar uma dependência por outra? E como escolher a si me
 
 Querida leitora,
 
-este livro nasceu de uma pergunta que muitas de nós fazem em silêncio, de madrugada, quando a casa finalmente dorme: *"e se eu estivesse sozinha... seria mais leve?"*
+este livro nasceu de uma pergunta que muitas mulheres fazem em silêncio, de madrugada, quando a casa finalmente dorme: *"e se eu estivesse sozinha... seria mais leve?"*
 
 Camila não é uma mulher de verdade — mas poderia ser. Ela é o retrato de milhares de mulheres que carregam a lista mental infinita, que apagam o próprio brilho para caber numa vida que já não as cabe mais.
 
@@ -58,7 +36,7 @@ Com carinho,
 
 ---
 
-﻿# CAPÍTULO 1
+# CAPÍTULO 1
 ## A Rotina Invisível
 
 Você já acordou cansada?
@@ -430,9 +408,11 @@ Invisível.
 Necessária para tudo.
 E completamente só.
 
+Antes de deitar, o celular acendeu com um lembrete: *Começar os preparativos do aniversário do Léo.* Camila não abriu a lista. Ficou olhando para a tela e se perguntou quem lembraria daquela festa se ela, só por uma vez, não lembrasse.
+
 ---
 
-﻿# CAPÍTULO 2
+# CAPÍTULO 2
 ## O Aniversário Esquecido
 
 Quinze dias.
@@ -781,7 +761,7 @@ Mas, no fundo, sabia que o que precisava mesmo era de outro barco.
 
 ---
 
-﻿# CAPÍTULO 3
+# CAPÍTULO 3
 ## A Tentativa da Terapia
 
 Três dias depois do aniversário de Léo, o gosto amargo da decepção ainda não tinha saído da boca de Camila. Era como se ela tivesse mordido uma fruta podre e o sabor persistisse, contaminando tudo o que ela comia, bebia ou falava.
@@ -986,7 +966,7 @@ Mas a semente estava lá. Regada com lágrimas e café ruim, mas estava lá. Esp
 
 ---
 
-﻿# CAPÍTULO 4
+# CAPÍTULO 4
 ## As Pequenas Sabotagens
 
 Há um tipo específico de loucura que acomete mulheres casadas e exaustas: a crença teimosa de que *mais esforço* gerará *mais amor*.
@@ -1191,7 +1171,7 @@ E quando a mulher para de tentar agradar, o casamento começa a mostrar suas ver
 
 ---
 
-﻿# CAPÍTULO 5
+# CAPÍTULO 5
 ## A Conversa com Fernanda
 
 Segunda-feira. O dia internacional do arrependimento por não ter vivido o fim de semana que se sonhou.
@@ -1321,7 +1301,7 @@ Ela não ia mais regar cadáveres.
 
 ---
 
-﻿# CAPÍTULO 6
+# CAPÍTULO 6
 ## A Última Tentativa
 
 Apesar da conversa com Fernanda — e da suculenta no lixo —, o peso de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
@@ -1512,7 +1492,7 @@ Mas o casamento tinha ficado em algum lugar na Fernão Dias, abandonado no acost
 
 ---
 
-﻿# CAPÍTULO 7
+# CAPÍTULO 7
 ## A Gota D'água
 
 Camila não sabia, mas seu corpo vinha dando sinais. O estresse de tantos meses tinha enfraquecido as defesas do corpo, até que uma brecha apareceu.
@@ -1723,7 +1703,7 @@ Mas agora, para sempre.
 
 ---
 
-﻿# CAPÍTULO 8
+# CAPÍTULO 8
 ## Eu Quero Me Separar
 
 O pronto-socorro estava com aquele cheiro específico de éter e desinfetante barato que embrulha o estômago.
@@ -1910,9 +1890,11 @@ Tinha falado. Tinha enfrentado.
 
 E, enfim, o ar que entrava em seus pulmões parecia puramente seu.
 
+Do outro lado da porta, a televisão continuava ligada. Léo e Bia ainda não sabiam o que ia mudar. Camila respirou fundo mais uma vez: dizer a verdade a Ricardo tinha sido difícil. Faltava encontrar as palavras para os filhos.
+
 ---
 
-﻿# CAPÍTULO 9
+# CAPÍTULO 9
 ## A Conversa com os Filhos
 
 A parte mais difícil não foi enfrentar Ricardo.
@@ -2187,7 +2169,7 @@ O começo de Camila. Que não sabia para onde ia, mas sabia de onde estava saind
 
 ---
 
-﻿# CAPÍTULO 10
+# CAPÍTULO 10
 ## O Vazio Barulhento
 
 A primeira noite depois da mudança definitiva de Ricardo não foi silenciosa.
@@ -2646,9 +2628,11 @@ A Camila que ela tinha perdido há onze anos.
 
 E estava na hora de reencontrar.
 
+Mas, antes, precisava atravessar a segunda-feira. A advogada explicaria o que aconteceria com a casa, com o dinheiro e com os dias das crianças. Camila apagou a luz sem saber se alguma daquelas respostas lhe daria chão.
+
 ---
 
-﻿# CAPÍTULO 11
+# CAPÍTULO 11
 ## O Processo
 
 Se a dor emocional do divórcio é um tsunami, a dor burocrática é areia movediça. Lenta, pegajosa, sufocante.
@@ -2786,7 +2770,7 @@ Engasgando, mas indo.
 
 ---
 
-﻿# CAPÍTULO 12
+# CAPÍTULO 12
 ## O Recomeço Financeiro
 
 O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando ele, como se o papel pudesse, de alguma forma, se tornar menos assustador se ela o encarasse por tempo suficiente.
@@ -2895,7 +2879,7 @@ E o prazo, Camila sabia, estava correndo.
 
 ---
 
-﻿# CAPÍTULO 13
+# CAPÍTULO 13
 ## A Pressão da Família
 
 Domingo é o dia oficial da família. Por isso, também era o dia oficial da cobrança para quem, segundo os outros, tinha quebrado a família.
@@ -3063,7 +3047,7 @@ E isso, descobriu ela, era um exército e tanto.
 
 ---
 
-﻿# CAPÍTULO 14
+# CAPÍTULO 14
 ## A Primeira Sessão
 
 Camila quase não foi.
@@ -3238,7 +3222,7 @@ Ligou o carro e dirigiu de volta para o vazio barulhento de sua casa, mas agora 
 
 ---
 
-﻿# CAPÍTULO 15
+# CAPÍTULO 15
 ## A Nova Rotina
 
 A casa tem uma maneira cruel de lembrar a mulher divorciada de que ela está sozinha.
@@ -3667,7 +3651,7 @@ E ela estava por fim vivendo de novo.
 
 ---
 
-﻿# CAPÍTULO 16
+# CAPÍTULO 16
 ## Um Sábado Só Minha
 
 Foi a primeira vez desde que Léo nasceu que Camila acordou num sábado sem ninguém para cuidar.
@@ -3820,7 +3804,7 @@ Então apertou enviar.
 
 ---
 
-﻿# CAPÍTULO 17
+# CAPÍTULO 17
 ## Voltando a Pintar
 
 A tarefa do Dr. Lucas voltava à cabeça dela como um desafio perigoso: *fazer algo só por você.*
@@ -3964,7 +3948,7 @@ Ela pegou o celular e, antes de qualquer outra coisa, ligou para a aula de aquar
 
 ---
 
-﻿# CAPÍTULO 18
+# CAPÍTULO 18
 ## As Pequenas Vitórias
 
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
@@ -4364,7 +4348,7 @@ Ela tinha feito certo.
 
 ---
 
-﻿# CAPÍTULO 19
+# CAPÍTULO 19
 ## O Colega do Trabalho
 
 Voltar ao escritório depois do divórcio foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
@@ -4537,7 +4521,7 @@ Ela respondeu antes que o medo inventasse uma desculpa:
 
 ---
 
-﻿# CAPÍTULO 20
+# CAPÍTULO 20
 ## O Grupo de Mulheres
 
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
@@ -4667,9 +4651,11 @@ Antes de dormir, ela puxou o caderno e anotou uma única linha:
 
 Depois apagou a luz e, pela primeira vez em meses, dormiu sem peso no peito.
 
+Na manhã seguinte, o bilhete da escola voltou para a mesa: apresentação de Léo, quinta-feira, duas da tarde. Ricardo tinha dito que tentaria ir. Camila dobrou o papel e o guardou na bolsa, sem saber qual pergunta do filho doeria mais se o pai faltasse.
+
 ---
 
-﻿# CAPÍTULO 21
+# CAPÍTULO 21
 ## A Culpa da Maternidade
 
 Léo tinha apresentação na escola.
@@ -5048,7 +5034,7 @@ E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "voc�
 
 ---
 
-﻿# CAPÍTULO 22
+# CAPÍTULO 22
 ## O Primeiro Natal Sozinha
 
 Dezembro chegou sem pedir licença, e Camila descobriu que o Natal tinha um peso que as outras datas não tinham.
@@ -5201,7 +5187,7 @@ Voltou para o quarto. Camila ficou olhando o corredor vazio, já sabendo que aqu
 
 ---
 
-﻿# CAPÍTULO 23
+# CAPÍTULO 23
 ## O Aniversário de Léo
 
 Nove anos.
@@ -5354,7 +5340,7 @@ E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha co
 
 ---
 
-﻿# CAPÍTULO 24
+# CAPÍTULO 24
 ## O Dia em Que Léo Perguntou Sobre o Pai
 
 Foi numa terça-feira à noite, quando Camila estava arrumando a cozinha e Léo apareceu na porta, com aquele jeito de quem ensaiava a pergunta fazia tempo.
@@ -5664,6 +5650,8 @@ Fernanda respondeu em segundos:
 Camila riu. E, agora, olhar para o próprio passado não doeu.
 
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
+
+No sábado, três aquarelas suas estariam penduradas no ateliê, à vista de gente que não a conhecia. Camila olhou para as próprias mãos. Estava pronta para ser vista sem poder escolher o que os outros enxergariam?
 
 ---
 
@@ -6252,7 +6240,7 @@ Só... tédio.
 
 Era um tédio quase físico, como assistir a um filme que ela já tinha visto onze vezes e do qual decorara cada fala. Ela sabia exatamente o que viria a seguir: a promessa, a mão estendida, a culpa disfarçada de saudade. Conhecia o roteiro de cor. E descobriu, com um espanto morno, que não tinha mais a menor vontade de assistir ao final.
 
-Ela se lembrou, sem querer, de uma noite específica. Seis anos atrás, quando o Léo era bebê e pegou uma febre que não baixava. Camila tinha passado a madrugada inteira acordada, alternando compressas frias e choro abafado, enquanto Ricardo dormia. De manhã, quando ela mencionou o cansaço, ele respondeu, sem tirar os olhos do celular: *"mas você podia ter me acordado."* Podia. Mas depois de tantos "não", ela tinha aprendido a não pedir. Aquele tinha sido um dos dias em que ela entendeu, sem palavras, que pedir ajuda dava mais trabalho do que carregar tudo sozinha.
+Ela se lembrou, sem querer, de uma noite específica. Oito anos atrás, quando o Léo ainda era bebê e pegou uma febre que não baixava. Camila tinha passado a madrugada inteira acordada, alternando compressas frias e choro abafado, enquanto Ricardo dormia. De manhã, quando ela mencionou o cansaço, ele respondeu, sem tirar os olhos do celular: *"mas você podia ter me acordado."* Podia. Mas depois de tantos "não", ela tinha aprendido a não pedir. Aquele tinha sido um dos dias em que ela entendeu, sem palavras, que pedir ajuda dava mais trabalho do que carregar tudo sozinha.
 
 Ela viu a camisa dele levemente amarrotada (ninguém passava para ele).
 Viu o corte de cabelo meio atrasado.
@@ -6545,11 +6533,11 @@ Esperou que ele recuasse. Que dissesse algo como "Nossa, deve ser complicado" co
 
 Mas ao invés:
 
-— Imagino. Ser mãe solo é heroico. Sério.
+— Imagino. Cuidar de tanta coisa quase sozinha deve cansar muito.
 
-Mãe solo. Heroica.
+Ele tinha percebido o peso sem transformá-la numa heroína.
 
-Não "complicada". Não "bagagem".
+Não "complicada". Não "bagagem". Uma pessoa que também precisava de descanso.
 
 Sinal positivo.
 
@@ -7390,7 +7378,7 @@ Camila olhou para os filhos dormindo e respondeu:
 
 ---
 
-﻿# CAPÍTULO 33
+# CAPÍTULO 33
 ## As Crianças Conhecem Daniel
 
 Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
@@ -7609,7 +7597,7 @@ Camila não apagou.
 
 ---
 
-﻿# CAPÍTULO 34
+# CAPÍTULO 34
 ## A Primeira Viagem a Quatro
 
 O carro estava quieto demais.
@@ -7802,7 +7790,7 @@ Ninguém reclamou.
 
 ---
 
-﻿# CAPÍTULO 35
+# CAPÍTULO 35
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.
@@ -7997,7 +7985,7 @@ Pela primeira vez, uma briga não parecia o começo do fim. Parecia apenas uma c
 
 ---
 
-﻿# CAPÍTULO 36
+# CAPÍTULO 36
 ## O Primeiro Presente
 
 Camila não esperava presentes.
@@ -8140,7 +8128,7 @@ Camila pousou o celular. Ao lado da pintura, abriu o caderno e escreveu uma fras
 
 ---
 
-﻿# CAPÍTULO 37
+# CAPÍTULO 37
 ## O Encontro com a Mãe do Daniel
 
 Camila estava mais nervosa do que no dia do divórcio.
@@ -8347,7 +8335,7 @@ Como verdade esperando coragem.
 
 ---
 
-﻿# CAPÍTULO 38
+# CAPÍTULO 38
 ## O Reencontro
 
 Aconteceu num sábado de manhã, no corredor de congelados do mercado do bairro. Camila estava escolhendo entre duas marcas de ervilha — a mais barata ou a que as crianças realmente comiam — quando ouviu a voz.
@@ -8578,7 +8566,7 @@ Antes de falar com Daniel, precisava falar com a mulher que um dia acreditou que
 
 ---
 
-﻿# CAPÍTULO 39
+# CAPÍTULO 39
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.
@@ -8828,7 +8816,7 @@ Porque, enfim, ela não queria mais escondê-las.
 
 ---
 
-﻿# CAPÍTULO 40
+# CAPÍTULO 40
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia um chá artesanal fermentado. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por luzes quentes que faziam as telas brilharem como janelas para outro mundo.
@@ -8923,9 +8911,9 @@ Léo e Bia entraram correndo, é claro. Bia estava de vestido de princesa (escol
 
 Camila levou os filhos até a parede central.
 
-Os três quadros estavam pendurados lado a lado, emoldurados com simplicidade — molduras de madeira clara, sem vidro, para que a textura da tinta fosse visível.
+Os três quadros estavam pendurados lado a lado, emoldurados com simplicidade — molduras de madeira clara, sob vidro discreto, para proteger o papel sem esconder as cores.
 
-O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob camadas de tinta pesada. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
+O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob várias camadas transparentes de cor. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
 
 O segundo, **"Superfície"**. Azuis mais claros, com rasgos de amarelo. A mesma silhueta, agora com a cabeça acima da linha d'água. Uma mão erguida, alcançando algo. Não era bonito — era cru, honesto, quase doloroso. Era a fase em que respirar já era uma vitória.
 
@@ -9065,9 +9053,9 @@ A galeria estava em penumbra agora. Apenas as luzes da parede central continuava
 
 Camila parou diante do terceiro quadro. "Voo".
 
-Levantou a mão e tocou a tela com as pontas dos dedos. Sentiu a tinta seca sob a pele. A textura dos relevos que o pincel tinha criado. Cada camada de cor era uma camada de dor transformada. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
+Levantou a mão e encostou as pontas dos dedos na moldura. Por trás do vidro, a cor se espalhava pelas fibras do papel. Cada camada de aquarela guardava uma parte da dor que ela tinha transformado. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
 
-Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e recuperado, reunido numa tela de algodão de sessenta por oitenta centímetros.
+Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e recuperado, reunido numa folha de papel de algodão de sessenta por oitenta centímetros.
 
 — Conseguimos — sussurrou.
 
@@ -9123,7 +9111,9 @@ Estava inteira.
 
 ## AGRADECIMENTOS
 
-Às mulheres que confiaram a mim suas histórias — obrigada. Este livro existe porque vocês existem.
+À Diana Catarina, cuja escuta atenta e vivência ajudaram a dar verdade emocional a esta ficção. Em mais de vinte anos na área da beleza, ela ouviu muitas mulheres falarem de cansaço, escolhas e recomeços. Nenhuma história particular foi reproduzida aqui.
+
+Às mulheres que se reconhecerem em Camila: esta história também foi escrita para vocês.
 
 A quem ainda está no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.
 
@@ -9131,22 +9121,7 @@ A quem ainda está no meio do caminho, segurando as pontas com as unhas: você n
 
 ## SOBRE A AUTORA
 
-**Mariana Duarte** escreve sobre mulheres que se recusam a desaparecer dentro da própria vida. "A Metade Que Me Faltava Era Eu" é seu romance de estreia, escrito para toda mulher que já carregou o mundo sozinha — e que, um dia, decidiu se salvar.
-
----
-
-## FICHA TÉCNICA
-
-**Título:** A Metade Que Me Faltava Era Eu
-**Subtítulo:** A jornada de uma mulher que cansou de ser a única a tentar
-**Autora:** Mariana Duarte
-**Gênero:** Ficção feminina (women's fiction)
-
-**Primeira edição independente — 2026**
-
-© 2026 Mariana Duarte. Todos os direitos reservados. Nenhuma parte deste livro pode ser reproduzida, armazenada ou transmitida, por qualquer meio, sem autorização prévia da autora, exceto em breves citações para resenhas.
-
-Esta é uma obra de ficção. Nomes, personagens, lugares e acontecimentos foram criados para a narrativa ou usados de forma fictícia. Qualquer semelhança com pessoas ou fatos reais é coincidência.
+**Mariana Duarte** é o nome literário que assina esta ficção sobre mulheres que se recusam a desaparecer dentro da própria vida. *A Metade Que Me Faltava Era Eu* foi desenvolvido com a colaboração de Diana Catarina, profissional da beleza há mais de vinte anos, e é um romance para quem já carregou o mundo sozinha — e começou a procurar a própria voz.
 
 ---
 

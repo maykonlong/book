@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 8
+# CAPÍTULO 8
 ## Eu Quero Me Separar
 
 O pronto-socorro estava com aquele cheiro específico de éter e desinfetante barato que embrulha o estômago.
@@ -184,3 +184,5 @@ Mas ela estava de pé.
 Tinha falado. Tinha enfrentado.
 
 E, enfim, o ar que entrava em seus pulmões parecia puramente seu.
+
+Do outro lado da porta, a televisão continuava ligada. Léo e Bia ainda não sabiam o que ia mudar. Camila respirou fundo mais uma vez: dizer a verdade a Ricardo tinha sido difícil. Faltava encontrar as palavras para os filhos.

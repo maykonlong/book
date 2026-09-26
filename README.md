@@ -67,7 +67,7 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 
 **Público-Alvo**: Mulheres brasileiras adultas, especialmente mães, casadas, separadas ou divorciadas
 
-**Dimensões**: 316 páginas na edição 5,5 × 8,5 pol. | 40 capítulos | 4 atos
+**Dimensões**: 318 páginas na edição 5,5 × 8,5 pol. | 40 capítulos | 4 atos
 
 ---
 
@@ -103,7 +103,7 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Leitor acessível para celular, tablet e e-reader (fonte ajustável, modos claro/sépia/escuro, retomada automática e artes web otimizadas)
 - [x] Dez ilustrações narrativas integradas ao leitor, EPUB e miolo
 - [x] EPUB 3 validado estruturalmente
-- [x] Miolo de 316 páginas em 5,5 × 8,5 pol., sem sangria
+- [x] Miolo de 318 páginas em 5,5 × 8,5 pol., sem sangria e com sumário
 - [x] Capa Kindle 1600 × 2560 e capa impressa CMYK a 300 dpi
 - [x] Pacote Amazon KDP com metadados, checklist e checksums
 
@@ -204,10 +204,10 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Capítulos**: 40 (completos)
-- **Palavras totais**: ~61.900 (40 capítulos) · ~62.700 com textos iniciais e finais
-- **Palavras por capítulo (média)**: ~1.415
-- **Páginas do arquivo final (5,5 × 8,5 pol.)**: 316
-- **Meta futura (expansão adiada)**: 75.000–85.000 palavras (~280–320 páginas)
+- **Palavras totais**: 62.384 de história nos 40 capítulos · 63.024 no manuscrito completo, incluindo cabeçalhos e textos iniciais e finais
+- **Palavras por capítulo (média)**: ~1.560 de história
+- **Páginas do arquivo final (5,5 × 8,5 pol.)**: 318
+- **Expansão futura**: somente se a leitura beta identificar lacunas reais; a edição atual encerra o arco do primeiro volume
 
 ### Cronograma Estimado
 | Fase | Duração | Status |
@@ -294,7 +294,7 @@ Procurando mulheres adultas, preferencialmente:
 - ✅ Layout mobile-first (menu hamburguer, tipografia fluida, botões full-width)
 
 ### 16/09/2026 — Manuscrito completo
-- ✅ 40 capítulos (~61.900 palavras após a revisão final) + passadas de expansão, continuidade e linguagem
+- ✅ 40 capítulos (~62.400 palavras de história) + passadas de expansão, continuidade e linguagem
 - ✅ Revisão de coesão, ortografia, repetições e vocabulário
 
 ### Versão 1.0

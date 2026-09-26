@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 19
+# CAPÍTULO 19
 ## O Colega do Trabalho
 
 Voltar ao escritório depois do divórcio foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.

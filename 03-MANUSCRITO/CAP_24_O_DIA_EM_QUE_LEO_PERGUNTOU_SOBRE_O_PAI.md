@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 24
+# CAPÍTULO 24
 ## O Dia em Que Léo Perguntou Sobre o Pai
 
 Foi numa terça-feira à noite, quando Camila estava arrumando a cozinha e Léo apareceu na porta, com aquele jeito de quem ensaiava a pergunta fazia tempo.

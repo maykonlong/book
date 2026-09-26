@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 12
+# CAPÍTULO 12
 ## O Recomeço Financeiro
 
 O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando ele, como se o papel pudesse, de alguma forma, se tornar menos assustador se ela o encarasse por tempo suficiente.

@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 20
+# CAPÍTULO 20
 ## O Grupo de Mulheres
 
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
@@ -127,6 +127,8 @@ Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
 Depois apagou a luz e, pela primeira vez em meses, dormiu sem peso no peito.
+
+Na manhã seguinte, o bilhete da escola voltou para a mesa: apresentação de Léo, quinta-feira, duas da tarde. Ricardo tinha dito que tentaria ir. Camila dobrou o papel e o guardou na bolsa, sem saber qual pergunta do filho doeria mais se o pai faltasse.
 
 
 

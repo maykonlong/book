@@ -25,8 +25,8 @@ python tools/build_publication.py
 - Papel: creme.
 - Interior: preto e branco.
 - Sangria do miolo: não.
-- Total atual: 316 páginas.
-- Lombada atual: 0,790 polegada.
+- Total atual: 318 páginas.
+- Lombada atual: 0,795 polegada.
 - Capa: CMYK, 300 dpi, com sangria externa de 0,125 polegada.
 
 Se o texto ou a paginação mudar, gere novamente o miolo e a capa na mesma execução. A lombada depende do total exato de páginas.

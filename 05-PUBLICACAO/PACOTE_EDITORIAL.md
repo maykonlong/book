@@ -12,9 +12,9 @@
 | **Subtítulo** | A jornada de uma mulher que cansou de ser a única a tentar |
 | **Autor(a)** | Mariana Duarte (pseudônimo) |
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
-| **Palavras** | ~61.900 nos capítulos (~62.700 com textos iniciais e finais) |
+| **Palavras** | ~62.400 de história nos capítulos (~63.100 no manuscrito completo, com cabeçalhos e textos iniciais e finais) |
 | **Capítulos** | 40 (4 atos) |
-| **Páginas da edição preparada** | 316 (5,5 × 8,5 pol.) |
+| **Páginas da edição preparada** | 318 (5,5 × 8,5 pol.) |
 | **Narração** | 3ª pessoa íntima + diálogo direto com a leitora |
 | **Público-alvo** | Mulheres adultas, especialmente mães e mulheres casadas, separadas ou divorciadas |
 | **Sensibilidade** | Sem cenas explícitas; temas de sobrecarga mental, divórcio e recomeço |
@@ -35,9 +35,9 @@ O fim não veio com uma traição de novela. Veio com uma poça de leite derrama
 
 Então ela pediu o divórcio. Não para encontrar outra pessoa — para se encontrar de novo.
 
-Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta e respeita — mas que deseja um futuro diferente do seu.
+Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece alguém que a escuta de verdade. Será que ela consegue abrir espaço para um novo amor sem perder a si mesma outra vez?
 
-Como amar de novo sem trocar uma dependência por outra? E como escolher a si mesma quando ninguém fez nada errado?
+Como amar de novo sem trocar uma dependência por outra? E como reconhecer o que se quer quando a vida finalmente volta a ser sua?
 
 *"A Metade Que Me Faltava Era Eu" é para toda mulher que carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
 
@@ -69,7 +69,7 @@ Uma mulher que cansou de carregar tudo sozinha aprende que a metade que faltava 
 
 ## 5. SOBRE A AUTORA
 
-**Mariana Duarte** escreve sobre mulheres que se recusam a desaparecer dentro da própria vida. "A Metade Que Me Faltava Era Eu" é seu romance de estreia, escrito para toda mulher que já carregou o mundo sozinha — e que, um dia, decidiu se salvar.
+**Mariana Duarte** é o nome literário que assina esta ficção sobre mulheres que se recusam a desaparecer dentro da própria vida. *A Metade Que Me Faltava Era Eu* foi desenvolvido com a colaboração de Diana Catarina, profissional da beleza há mais de vinte anos. Nenhuma história particular de cliente foi reproduzida.
 
 ---
 

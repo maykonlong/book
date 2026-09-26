@@ -128,6 +128,8 @@ Camila riu. E, agora, olhar para o próprio passado não doeu.
 
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
+No sábado, três aquarelas suas estariam penduradas no ateliê, à vista de gente que não a conhecia. Camila olhou para as próprias mãos. Estava pronta para ser vista sem poder escolher o que os outros enxergariam?
+
 
 
 

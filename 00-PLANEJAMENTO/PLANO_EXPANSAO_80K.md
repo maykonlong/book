@@ -4,7 +4,7 @@
 
 > ⏸️ **Expansão adiada** (decisão da autora, 17/09/2026) — o manuscrito permanece em ~56.600 palavras / 40 capítulos. Este plano fica como referência para o futuro.
 
-> **Documento histórico, não aplicado à edição atual.** Após a revisão final de 25/09/2026, a edição preserva cerca de 61.900 palavras de história, 40 capítulos em 4 atos e a voz narrativa definida em `00-PLANEJAMENTO/VOZ_NARRATIVA.md`.
+> **Documento histórico, não aplicado à edição atual.** Após a revisão de 26/09/2026, a edição preserva cerca de 62.400 palavras de história, 40 capítulos em 4 atos e a voz narrativa definida em `00-PLANEJAMENTO/VOZ_NARRATIVA.md`. Os números da tabela abaixo pertencem ao plano antigo.
 
 > **Referência de mercado (pesquisa validada em 16/09/2026)**: 70–90 mil palavras · 280–380 páginas · 3 atos · capítulos de 2.000–3.200 palavras.
 

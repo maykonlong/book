@@ -16,9 +16,9 @@ O fim não veio com uma traição de novela. Veio com uma poça de leite derrama
 
 Então ela pediu o divórcio. Não para encontrar outra pessoa — para se encontrar de novo.
 
-Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece Daniel: um homem que escuta e respeita — mas que deseja um futuro diferente do seu.
+Entre advogados, contas apertadas, culpa materna e o medo de recomeçar, Camila redescobre uma mulher que pintava aquarelas, que ria alto, que sonhava. E, quando menos espera, conhece alguém que a escuta de verdade. Será que ela consegue abrir espaço para um novo amor sem perder a si mesma outra vez?
 
-Como amar de novo sem trocar uma dependência por outra? E como escolher a si mesma quando ninguém fez nada errado?
+Como amar de novo sem trocar uma dependência por outra? E como reconhecer o que se quer quando a vida finalmente volta a ser sua?
 
 *"A Metade Que Me Faltava Era Eu" é para toda mulher que carregou o mundo sozinha — e que, um dia, decidiu se salvar.*
 
@@ -42,7 +42,7 @@ Como amar de novo sem trocar uma dependência por outra? E como escolher a si me
 
 Querida leitora,
 
-este livro nasceu de uma pergunta que muitas de nós fazem em silêncio, de madrugada, quando a casa finalmente dorme: *"e se eu estivesse sozinha... seria mais leve?"*
+este livro nasceu de uma pergunta que muitas mulheres fazem em silêncio, de madrugada, quando a casa finalmente dorme: *"e se eu estivesse sozinha... seria mais leve?"*
 
 Camila não é uma mulher de verdade — mas poderia ser. Ela é o retrato de milhares de mulheres que carregam a lista mental infinita, que apagam o próprio brilho para caber numa vida que já não as cabe mais.
 

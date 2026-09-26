@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 7
+# CAPÍTULO 7
 ## A Gota D'água
 
 Camila não sabia, mas seu corpo vinha dando sinais. O estresse de tantos meses tinha enfraquecido as defesas do corpo, até que uma brecha apareceu.

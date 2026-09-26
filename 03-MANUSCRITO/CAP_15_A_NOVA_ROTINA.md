@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 15
+# CAPÍTULO 15
 ## A Nova Rotina
 
 A casa tem uma maneira cruel de lembrar a mulher divorciada de que ela está sozinha.

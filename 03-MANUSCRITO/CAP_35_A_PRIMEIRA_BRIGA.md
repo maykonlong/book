@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 35
+# CAPÍTULO 35
 ## A Primeira Briga
 
 Começou por causa de uma mensagem não respondida.

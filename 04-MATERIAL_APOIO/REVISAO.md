@@ -39,7 +39,7 @@
 
 1. [x] **Revisão ortográfica/gramatical (1ª varredura automática)** — ver "Correções ortográficas" abaixo (recomenda-se ainda uma leitura humana em voz alta)
 2. [ ] **Beta readers** (mulheres adultas, especialmente mães e mulheres casadas/separadas) — materiais prontos (`BETA_READERS.md` + `manuscrito_beta.html`); falta recrutar e coletar o feedback
-3. [x] **Expansão para 75–85k adiada** (decisão da autora — edição final com ~61.900 palavras de história; média ~1.547 por capítulo)
+3. [x] **Expansão para 75–85k adiada** (decisão editorial — edição atual com ~62.400 palavras de história; média ~1.560 por capítulo)
 4. [ ] Preencher **nome/bio da autora** no pacote editorial
 5. [ ] Formatação final + capa
 

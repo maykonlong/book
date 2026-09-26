@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 21
+# CAPÍTULO 21
 ## A Culpa da Maternidade
 
 Léo tinha apresentação na escola.

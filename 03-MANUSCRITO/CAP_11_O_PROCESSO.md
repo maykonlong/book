@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 11
+# CAPÍTULO 11
 ## O Processo
 
 Se a dor emocional do divórcio é um tsunami, a dor burocrática é areia movediça. Lenta, pegajosa, sufocante.

@@ -31,6 +31,8 @@ from reportlab.platypus import (
     PageTemplate,
     Paragraph,
     Spacer,
+    Table,
+    TableStyle,
 )
 
 
@@ -99,6 +101,16 @@ def clean_markdown(md: str) -> str:
     md = md.replace("\ufeff", "")
     md = re.sub(r"\[\^\d+\]", "", md)
     return md.strip()
+
+
+def reading_front_matter(md: str, include_title: bool = True) -> str:
+    """Remove a sinopse comercial from the reader-facing opening."""
+    cleaned = clean_markdown(md)
+    marker = "## DEDICATÓRIA"
+    if marker not in cleaned:
+        raise ValueError("Dedicatória ausente da abertura do livro")
+    title_page = f"# {TITLE}\n\n*{SUBTITLE}*\n\n" if include_title else ""
+    return title_page + marker + cleaned.split(marker, 1)[1]
 
 
 def inline_markup(text: str) -> str:
@@ -245,8 +257,10 @@ def register_fonts() -> None:
 
 
 class BookDocTemplate(BaseDocTemplate):
-    def __init__(self, filename: str, **kwargs):
+    def __init__(self, filename: str, first_chapter_page: int = 7, **kwargs):
         super().__init__(filename, **kwargs)
+        self.first_chapter_page = first_chapter_page
+        self.chapter_pages: dict[int, int] = {}
         page_w, page_h = self.pagesize
         margin = 0.68 * inch
         frame = Frame(margin, 0.70 * inch, page_w - 2 * margin, page_h - 1.38 * inch,
@@ -256,7 +270,7 @@ class BookDocTemplate(BaseDocTemplate):
     def draw_page(self, canvas, doc):
         page = canvas.getPageNumber()
         canvas.saveState()
-        if page > 7:
+        if page > self.first_chapter_page:
             canvas.setFont("Georgia", 7.4)
             canvas.setFillColor(colors.HexColor("#77716a"))
             header = TITLE if page % 2 == 0 else AUTHOR
@@ -266,9 +280,14 @@ class BookDocTemplate(BaseDocTemplate):
             canvas.line(0.68 * inch, self.pagesize[1] - 0.49 * inch,
                         self.pagesize[0] - 0.68 * inch, self.pagesize[1] - 0.49 * inch)
             canvas.setFont("Georgia", 8.5)
-            # The first story page is logical page 1, even though its folio is suppressed.
-            canvas.drawCentredString(self.pagesize[0] / 2, 0.39 * inch, str(page - 6))
+            # The first chapter page is logical page 1, even though its folio is suppressed.
+            canvas.drawCentredString(self.pagesize[0] / 2, 0.39 * inch, str(page - self.first_chapter_page + 1))
         canvas.restoreState()
+
+    def afterFlowable(self, flowable):
+        number = getattr(flowable, "_chapter_number", None)
+        if number is not None:
+            self.chapter_pages[number] = self.page
 
 
 def make_styles() -> dict[str, ParagraphStyle]:
@@ -297,6 +316,10 @@ def make_styles() -> dict[str, ParagraphStyle]:
                              spaceBefore=18, spaceAfter=12),
         "list": ParagraphStyle("List", fontName="Georgia", fontSize=10.2, leading=13.8,
                                leftIndent=18, firstLineIndent=-10, spaceAfter=4),
+        "toc_entry": ParagraphStyle("TocEntry", fontName="Georgia", fontSize=9.4, leading=12.5,
+                                    textColor=colors.HexColor("#211f1c")),
+        "toc_page": ParagraphStyle("TocPage", fontName="Georgia", fontSize=9.4, leading=12.5,
+                                   textColor=colors.HexColor("#211f1c"), alignment=TA_CENTER),
     }
 
 
@@ -331,13 +354,14 @@ def body_flowables(md: str, styles: dict[str, ParagraphStyle], skip_headings: bo
     return out
 
 
-def build_interior(art_paths: dict[int, Path]) -> tuple[Path, int]:
+def render_interior(path: Path, art_paths: dict[int, Path], toc_pages: dict[int, int] | None = None) -> tuple[int, dict[int, int]]:
     register_fonts()
     styles = make_styles()
-    path = PRINT / "miolo-5.5x8.5-creme-sem-sangria.pdf"
+    first_chapter_page = 9 if toc_pages is not None else 7
     doc = BookDocTemplate(str(path), pagesize=(TRIM_W * inch, TRIM_H * inch),
                           title=TITLE, author=AUTHOR, subject=SUBTITLE,
-                          creator="Edição independente de Mariana Duarte")
+                          creator="Edição independente de Mariana Duarte",
+                          first_chapter_page=first_chapter_page)
     story = []
 
     story += [Spacer(1, 1.60 * inch), Paragraph(TITLE.upper(), styles["chapter_title"]), PageBreak()]
@@ -349,8 +373,9 @@ def build_interior(art_paths: dict[int, Path]) -> tuple[Path, int]:
         "Primeira edição independente — 2026.<br/><br/>"
         "Nenhuma parte desta obra pode ser reproduzida ou transmitida sem autorização prévia da autora, "
         "exceto em breves citações para resenhas.<br/><br/>"
-        "Esta é uma obra de ficção. Nomes, personagens, lugares e acontecimentos foram criados para a narrativa "
-        "ou usados de forma fictícia. Qualquer semelhança com pessoas ou fatos reais é coincidência."
+        "Esta é uma obra de ficção. Personagens, diálogos e acontecimentos foram criados para a narrativa. "
+        "O livro se inspira em vivências e sentimentos compartilhados ao longo de muitos anos, "
+        "mas não reproduz a história, a identidade ou o atendimento de nenhuma pessoa em particular."
     )
     story += [Spacer(1, 2.25 * inch), Paragraph(copyright_text, styles["small"]), PageBreak()]
     story += [Spacer(1, 1.55 * inch), Paragraph("DEDICATÓRIA", styles["chapter_no"]),
@@ -358,6 +383,30 @@ def build_interior(art_paths: dict[int, Path]) -> tuple[Path, int]:
               Paragraph("<em>Para as que ainda estão no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.</em>", styles["quote"]), PageBreak()]
     story += [Spacer(1, 1.60 * inch),
               Paragraph("<em>“Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim. Esperando que eu me reencontrasse.”</em>", styles["quote"]), PageBreak()]
+
+    if toc_pages is not None:
+        for group in (range(1, 21), range(21, 41)):
+            title = "SUMÁRIO" if group.start == 1 else "SUMÁRIO — CONTINUAÇÃO"
+            story += [Spacer(1, 0.42 * inch), Paragraph(title, styles["chapter_title"]), Spacer(1, 0.13 * inch)]
+            rows = []
+            for number in group:
+                chapter_path = CHAPTERS[number - 1]
+                _, chapter_name = chapter_title(chapter_path.read_text(encoding="utf-8-sig"), f"Capítulo {number}")
+                rows.append([
+                    Paragraph(f"{number}. {inline_markup(chapter_name)}", styles["toc_entry"]),
+                    Paragraph(str(toc_pages[number]), styles["toc_page"]),
+                ])
+            table = Table(rows, colWidths=[3.57 * inch, 0.57 * inch], hAlign="LEFT")
+            table.setStyle(TableStyle([
+                ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                ("LEFTPADDING", (0, 0), (-1, -1), 0),
+                ("RIGHTPADDING", (0, 0), (0, -1), 8),
+                ("RIGHTPADDING", (1, 0), (1, -1), 0),
+                ("LEFTPADDING", (1, 0), (1, -1), 4),
+                ("TOPPADDING", (0, 0), (-1, -1), 4),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+            ]))
+            story += [table, PageBreak()]
 
     letter = clean_markdown((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8"))
     letter_match = re.search(r"## CARTA À LEITORA\s+(.*)$", letter, re.S)
@@ -371,7 +420,9 @@ def build_interior(art_paths: dict[int, Path]) -> tuple[Path, int]:
         md = ch_path.read_text(encoding="utf-8")
         _, title = chapter_title(md, f"Capítulo {num}")
         story.append(Spacer(1, 0.30 * inch))
-        story.append(Paragraph(f"CAPÍTULO {num}", styles["chapter_no"]))
+        chapter_heading = Paragraph(f"CAPÍTULO {num}", styles["chapter_no"])
+        chapter_heading._chapter_number = num
+        story.append(chapter_heading)
         story.append(Paragraph(inline_markup(title), styles["chapter_title"]))
         if num in art_paths:
             img = RLImage(str(art_paths[num]), width=4.14 * inch, height=2.76 * inch)
@@ -383,8 +434,6 @@ def build_interior(art_paths: dict[int, Path]) -> tuple[Path, int]:
     story.append(PageBreak())
     post = (ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md").read_text(encoding="utf-8")
     story += body_flowables(post, styles, skip_headings=False)
-    story.append(Spacer(1, 0.4 * inch))
-    story.append(Paragraph("www.maykonlong.github.io/book", styles["small"]))
 
     doc.build(story)
     pages = len(PdfReader(str(path)).pages)
@@ -400,6 +449,21 @@ def build_interior(art_paths: dict[int, Path]) -> tuple[Path, int]:
             writer.write(handle)
         temp.replace(path)
         pages = len(PdfReader(str(path)).pages)
+    return pages, doc.chapter_pages
+
+
+def build_interior(art_paths: dict[int, Path]) -> tuple[Path, int]:
+    path = PRINT / "miolo-5.5x8.5-creme-sem-sangria.pdf"
+    preliminary = PRINT / "miolo-preliminar-temporario.pdf"
+    _, physical_pages = render_interior(preliminary, art_paths)
+    if set(physical_pages) != set(range(1, 41)):
+        raise ValueError("Não foi possível localizar todos os capítulos no miolo preliminar")
+    # A abertura do capítulo 1 é a página lógica 1; o sumário acrescenta duas páginas antes dela.
+    toc_pages = {number: physical_pages[number] - 6 for number in range(1, 41)}
+    pages, final_physical_pages = render_interior(path, art_paths, toc_pages)
+    if any(final_physical_pages[number] - 8 != toc_pages[number] for number in range(1, 41)):
+        raise ValueError("As páginas do sumário impresso não correspondem ao miolo final")
+    preliminary.unlink()
     return path, pages
 
 
@@ -472,12 +536,19 @@ def build_epub(front_cover: Path, art_paths: dict[int, Path]) -> Path:
     items.append(('title-page', 'text/title.xhtml', 'application/xhtml+xml', ''))
     spine.append('title-page')
 
-    front_md = (ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8")
+    front_md = reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8"), include_title=False)
     front_body = paragraphs_to_xhtml(front_md)
+    for heading, anchor in (("DEDICATÓRIA", "dedicatoria"), ("EPÍGRAFE", "epigrafe"), ("CARTA À LEITORA", "carta")):
+        front_body = front_body.replace(f"<h2>{heading}</h2>", f'<h2 id="{anchor}">{heading}</h2>')
     (stage / "OEBPS" / "text" / "front.xhtml").write_text(xhtml_page("Início", front_body, "frontmatter"), encoding="utf-8")
     items.append(('front', 'text/front.xhtml', 'application/xhtml+xml', ''))
     spine.append('front')
     nav_points.append(("Início", "text/front.xhtml"))
+    nav_points.extend([
+        ("Dedicatória", "text/front.xhtml#dedicatoria"),
+        ("Epígrafe", "text/front.xhtml#epigrafe"),
+        ("Carta à leitora", "text/front.xhtml#carta"),
+    ])
 
     for ch_path in CHAPTERS:
         num = chapter_number(ch_path)
@@ -654,11 +725,11 @@ def build_print_cover(front_cover: Path, page_count: int) -> tuple[Path, Path, f
 
 def build_source_manuscript() -> Path:
     def read_clean(path: Path) -> str:
-        raw = path.read_text(encoding="utf-8").strip()
+        raw = clean_markdown(path.read_text(encoding="utf-8-sig"))
         return "\n".join(line.rstrip() for line in raw.splitlines())
 
     pieces = [
-        read_clean(ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md"),
+        reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8-sig")),
         *[read_clean(p) for p in CHAPTERS],
         read_clean(ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md"),
     ]
@@ -666,6 +737,32 @@ def build_source_manuscript() -> Path:
     path = SOURCE / "manuscrito_final.md"
     path.write_text(text, encoding="utf-8")
     (ROOT / "manuscrito_completo.md").write_text(text, encoding="utf-8")
+    return path
+
+
+def build_beta_html() -> Path:
+    front = reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8-sig"))
+    parts = [paragraphs_to_xhtml(front)]
+    parts.extend(paragraphs_to_xhtml(path.read_text(encoding="utf-8-sig")) for path in CHAPTERS)
+    parts.append(paragraphs_to_xhtml((ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md").read_text(encoding="utf-8-sig")))
+    body = '\n<div class="section-break" aria-hidden="true">• • •</div>\n'.join(parts)
+    style = (
+        "body{font-family:Georgia,'Times New Roman',serif;max-width:42em;margin:2em auto;padding:0 1.5em;line-height:1.75;color:#1a1a1a}"
+        "h1{font-size:2em;text-align:center;margin:2em 0 .4em;line-height:1.3}"
+        "h2{font-size:1.35em;margin-top:2.4em;margin-bottom:.6em}"
+        "p{margin:0 0 1em;text-align:justify}"
+        ".scene,.section-break{text-align:center;margin:2.2em auto;color:#777;letter-spacing:.5em}"
+        "blockquote{font-style:italic;color:#444;margin:1.6em 2em}"
+        "@media(max-width:600px){body{margin:.5em auto;padding:0 1.1em;font-size:1.08em}}"
+    )
+    result = (
+        '<!DOCTYPE html>\n<html lang="pt-BR">\n<head>\n<meta charset="UTF-8">\n'
+        '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
+        f'<title>{html.escape(TITLE)} — leitura beta</title>\n<style>{style}</style>\n'
+        f'</head>\n<body>\n{body}\n</body>\n</html>\n'
+    )
+    path = ROOT / "05-PUBLICACAO" / "manuscrito_beta.html"
+    path.write_text(result, encoding="utf-8")
     return path
 
 
@@ -691,6 +788,8 @@ Arquivos preparados em {date.today().strftime('%d/%m/%Y')} para publicação ind
 - Acabamento sugerido: fosco
 
 Não altere o número de páginas do miolo sem gerar novamente a capa completa, pois a largura da lombada depende desse total. Antes de publicar, substitua ou confirme os dados pessoais, fiscais, bancários, preço, territórios, ISBN e categorias diretamente na conta KDP.
+
+O livro completo está disponível gratuitamente no site oficial. Não inscreva o eBook no KDP Select enquanto essa leitura integral permanecer pública: o programa exige exclusividade digital.
 '''
     (OUT / "LEIA-ME.md").write_text(readme, encoding="utf-8")
 
@@ -698,7 +797,7 @@ Não altere o número de páginas do miolo sem gerar novamente a capa completa, 
 <p>Há onze anos, ela organiza a casa, os filhos, o trabalho e até as responsabilidades de Ricardo. Ele diz que ajuda — mas nunca vê o que precisa ser feito.</p>
 <p>Até que uma manhã comum, entre febre, lancheiras e leite derramado, mostra o que Camila já não consegue negar: está sozinha, mesmo acompanhada.</p>
 <p>Ao escolher o divórcio, ela não encontra uma saída fácil. Encontra culpa, contas apertadas, medo de ferir os filhos e o julgamento de quem acha que mulher deve aguentar. Mas também reencontra os pincéis, a própria voz e uma vida que ainda pode ser sua.</p>
-<p>Ao conhecer um homem gentil, Camila enfrenta uma pergunta ainda mais difícil: como amar sem transformar carinho em dependência — e como partir quando ninguém precisa ser o vilão?</p>
+<p>Ao conhecer um homem gentil, Camila enfrenta uma pergunta ainda mais difícil: como amar sem transformar carinho em dependência — e continuar ouvindo a própria vontade?</p>
 <p><em>A Metade Que Me Faltava Era Eu</em> é um romance contemporâneo sobre carga mental, maternidade, independência emocional, recomeço e amor-próprio — para toda mulher que já se sentiu invisível dentro da própria casa.</p>
 '''
     (META / "descricao-amazon.html").write_text(description, encoding="utf-8")
@@ -742,13 +841,16 @@ As categorias disponíveis mudam conforme a loja e o formato. Escolha somente as
 
 ## Aviso sobre conteúdo gerado com IA
 
-As ilustrações da capa e dos capítulos foram geradas com inteligência artificial e receberam direção, seleção, composição e tratamento editorial. Responda ao campo de transparência da KDP de acordo com a regra vigente no momento do envio. O texto passou por revisão assistida; confirme a origem do manuscrito conforme o processo real da autora.
+As ilustrações da capa e dos capítulos foram geradas com inteligência artificial e receberam direção, seleção, composição e tratamento editorial. Responda ao campo de transparência da KDP de acordo com a regra vigente no momento do envio. O texto passou por revisão assistida; confirme a origem do manuscrito conforme o processo real de quem o escreveu, independentemente do pseudônimo público.
+
+O livro completo está disponível gratuitamente no site oficial. Enquanto permanecer assim, não selecione KDP Select/exclusividade digital.
 '''
     (META / "METADADOS_KDP.md").write_text(metadata, encoding="utf-8")
 
     checklist = '''# Checklist final antes de clicar em Publicar
 
 - [ ] Confirmar nome literário e titular dos direitos autorais.
+- [ ] Não selecionar KDP Select enquanto o texto completo estiver disponível no site.
 - [ ] Conferir a descrição, as sete palavras-chave e as categorias no painel.
 - [ ] Informar corretamente o uso de conteúdo gerado por IA.
 - [ ] Escolher ISBN gratuito da KDP ou informar ISBN próprio para o impresso.
@@ -803,6 +905,7 @@ def main() -> None:
     front_cover = build_front_cover()
     art_paths = optimize_art()
     manuscript = build_source_manuscript()
+    build_beta_html()
     interior, page_count = build_interior(art_paths)
     epub = build_epub(front_cover, art_paths)
     cover_pdf, preview, spine = build_print_cover(front_cover, page_count)

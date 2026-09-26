@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 18
+# CAPÍTULO 18
 ## As Pequenas Vitórias
 
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.

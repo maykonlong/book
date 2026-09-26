@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 36
+# CAPÍTULO 36
 ## O Primeiro Presente
 
 Camila não esperava presentes.

@@ -16,10 +16,10 @@ O `ler.html` (na raiz do projeto) é um leitor de livro:
 
 ## Recursos
 
-- ☰ **Índice** lateral com os 41 capítulos (capa + 40)
+- ☰ **Índice** lateral com 42 entradas (abertura + 40 capítulos + pós-textos)
 - Navegação **← / →** (botões e setas do teclado)
 - **A− / A+** (tamanho da fonte)
-- 🌙 **modo claro/escuro**
+- 🌙 **modos claro, sépia e escuro**
 - Barra de **progresso de leitura** no topo
 - **"Continuar de onde parou"** automático ao reabrir
 

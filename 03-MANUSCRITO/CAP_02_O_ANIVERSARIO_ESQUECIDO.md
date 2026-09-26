@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 2
+# CAPÍTULO 2
 ## O Aniversário Esquecido
 
 Quinze dias.

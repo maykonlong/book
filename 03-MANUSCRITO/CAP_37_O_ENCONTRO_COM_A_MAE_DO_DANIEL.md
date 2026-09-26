@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 37
+# CAPÍTULO 37
 ## O Encontro com a Mãe do Daniel
 
 Camila estava mais nervosa do que no dia do divórcio.

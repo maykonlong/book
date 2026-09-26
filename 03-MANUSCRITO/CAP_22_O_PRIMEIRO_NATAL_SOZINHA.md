@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 22
+# CAPÍTULO 22
 ## O Primeiro Natal Sozinha
 
 Dezembro chegou sem pedir licença, e Camila descobriu que o Natal tinha um peso que as outras datas não tinham.

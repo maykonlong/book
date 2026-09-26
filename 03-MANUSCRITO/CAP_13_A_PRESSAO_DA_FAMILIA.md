@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 13
+# CAPÍTULO 13
 ## A Pressão da Família
 
 Domingo é o dia oficial da família. Por isso, também era o dia oficial da cobrança para quem, segundo os outros, tinha quebrado a família.

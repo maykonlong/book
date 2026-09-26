@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 40
+# CAPÍTULO 40
 ## A Metade Que Me Faltava Era Eu
 
 A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia um chá artesanal fermentado. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por luzes quentes que faziam as telas brilharem como janelas para outro mundo.
@@ -93,9 +93,9 @@ Léo e Bia entraram correndo, é claro. Bia estava de vestido de princesa (escol
 
 Camila levou os filhos até a parede central.
 
-Os três quadros estavam pendurados lado a lado, emoldurados com simplicidade — molduras de madeira clara, sem vidro, para que a textura da tinta fosse visível.
+Os três quadros estavam pendurados lado a lado, emoldurados com simplicidade — molduras de madeira clara, sob vidro discreto, para proteger o papel sem esconder as cores.
 
-O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob camadas de tinta pesada. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
+O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob várias camadas transparentes de cor. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
 
 O segundo, **"Superfície"**. Azuis mais claros, com rasgos de amarelo. A mesma silhueta, agora com a cabeça acima da linha d'água. Uma mão erguida, alcançando algo. Não era bonito — era cru, honesto, quase doloroso. Era a fase em que respirar já era uma vitória.
 
@@ -235,9 +235,9 @@ A galeria estava em penumbra agora. Apenas as luzes da parede central continuava
 
 Camila parou diante do terceiro quadro. "Voo".
 
-Levantou a mão e tocou a tela com as pontas dos dedos. Sentiu a tinta seca sob a pele. A textura dos relevos que o pincel tinha criado. Cada camada de cor era uma camada de dor transformada. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
+Levantou a mão e encostou as pontas dos dedos na moldura. Por trás do vidro, a cor se espalhava pelas fibras do papel. Cada camada de aquarela guardava uma parte da dor que ela tinha transformado. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
 
-Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e recuperado, reunido numa tela de algodão de sessenta por oitenta centímetros.
+Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e recuperado, reunido numa folha de papel de algodão de sessenta por oitenta centímetros.
 
 — Conseguimos — sussurrou.
 

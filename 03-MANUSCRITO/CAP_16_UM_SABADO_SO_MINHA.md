@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 16
+# CAPÍTULO 16
 ## Um Sábado Só Minha
 
 Foi a primeira vez desde que Léo nasceu que Camila acordou num sábado sem ninguém para cuidar.

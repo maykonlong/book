@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 39
+# CAPÍTULO 39
 ## Carta Para Mim Mesma
 
 Camila encontrou seu diário antigo. Aquele do começo de tudo.

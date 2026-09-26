@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 23
+# CAPÍTULO 23
 ## O Aniversário de Léo
 
 Nove anos.

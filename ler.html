@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://maykonlong.github.io/book/assets/og-livro.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Book","name":"A Metade Que Me Faltava Era Eu","author":{"@type":"Person","name":"Mariana Duarte"},"inLanguage":"pt-BR","isAccessibleForFree":true,"numberOfPages":316,"url":"https://maykonlong.github.io/book/ler.html","potentialAction":{"@type":"ReadAction","target":"https://maykonlong.github.io/book/ler.html?cap=1"}}
+{"@context":"https://schema.org","@type":"Book","name":"A Metade Que Me Faltava Era Eu","author":{"@type":"Person","name":"Mariana Duarte"},"inLanguage":"pt-BR","isAccessibleForFree":true,"url":"https://maykonlong.github.io/book/ler.html","potentialAction":{"@type":"ReadAction","target":"https://maykonlong.github.io/book/ler.html?cap=1"}}
 </script>
 <style>
 :root {
@@ -311,7 +311,11 @@ async function loadChapter(i, scrollY) {
   try {
     const resp = await fetch(CHAPTERS[i].file);
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
-    const md = await resp.text();
+    const raw = (await resp.text()).replace(/\uFEFF/g, '');
+    const dedication = raw.indexOf('## DEDICATÓRIA');
+    const md = i === 0 && dedication >= 0
+      ? '# A METADE QUE ME FALTAVA ERA EU\n\n*A jornada de uma mulher que cansou de ser a única a tentar*\n\n' + raw.slice(dedication)
+      : raw;
     const art = CHAPTERS[i].art
       ? '<figure class="chapter-art"><img src="' + CHAPTERS[i].art + '" alt="' + CHAPTERS[i].alt + '" width="1200" height="800"><figcaption>Ilustração do capítulo</figcaption></figure>'
       : '';

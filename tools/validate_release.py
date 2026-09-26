@@ -200,14 +200,21 @@ def validate_site_content() -> None:
         fail(f"llms.txt contém {len(numbered_themes)} temas numerados")
 
     sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
-    if sitemap.count("<lastmod>2026-09-25</lastmod>") != 2:
-        fail("Datas do sitemap não foram atualizadas")
+    site_modified = next(item for item in graph if item.get("@type") == "WebPage").get("dateModified")
+    if not site_modified or sitemap.count(f"<lastmod>{site_modified}</lastmod>") != 2:
+        fail("Datas do sitemap e da página divergem")
 
     beta_leftovers = [token for token in FORBIDDEN_TEXT if token.casefold() in beta.casefold()]
     if beta_leftovers or "Beatriz, do grupo" in beta or "Um Ano Depois: A Nova Paz" in beta:
         fail(f"Manuscrito beta desatualizado: {beta_leftovers}")
     if "Júlia e Teresa" not in beta:
         fail("Renomeação de Teresa ausente no manuscrito beta")
+    if "\ufeff" in beta or re.search(r"<p>\s*# CAPÍTULO", beta):
+        fail("Títulos com BOM ou Markdown cru no manuscrito beta")
+    if "<h2>SOBRE O LIVRO</h2>" in beta:
+        fail("Sinopse comercial indevida antes do capítulo 1 no manuscrito beta")
+    if "A gota d'água não foi a febre." not in index:
+        fail("Trecho do site não corresponde ao capítulo 7")
 
 
 def validate_epub() -> dict[str, int]:
@@ -223,6 +230,13 @@ def validate_epub() -> dict[str, int]:
         art_numbers = {int(re.search(r"chapter-(\d{2})", name).group(1)) for name in art_files}
         if art_numbers != ILLUSTRATED_CHAPTERS:
             fail(f"Artes do EPUB divergentes: {sorted(art_numbers)}")
+        front = archive.read("OEBPS/text/front.xhtml").decode("utf-8")
+        nav = archive.read("OEBPS/nav.xhtml").decode("utf-8")
+        if "SOBRE O LIVRO" in front or "Subtítulo:" in front:
+            fail("Abertura do EPUB contém sinopse comercial ou rótulo de planejamento")
+        for anchor in ("#dedicatoria", "#epigrafe", "#carta"):
+            if anchor not in nav:
+                fail(f"Entrada de índice ausente no EPUB: {anchor}")
 
     report = json.loads((PACKAGE / "metadados" / "epubcheck-report.json").read_text(encoding="utf-8-sig"))
     checker = report["checker"]

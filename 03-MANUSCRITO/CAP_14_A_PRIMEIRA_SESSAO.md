@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 14
+# CAPÍTULO 14
 ## A Primeira Sessão
 
 Camila quase não foi.
