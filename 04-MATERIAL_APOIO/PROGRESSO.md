@@ -66,7 +66,7 @@
 
 ## 📊 Estatísticas (atualizadas em 26/09/2026 — após revisão e novo pacote)
 - **Total de capítulos escritos**: 40/40 (100%)
-- **Total de palavras**: **62.384** de história nos 40 capítulos (era ~37.300 antes da expansão)
+- **Total de palavras**: **62.391** de história nos 40 capítulos (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.560 de história
 - **Páginas do arquivo final**: 318 (formato 5,5 × 8,5 pol., com sumário)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
@@ -134,11 +134,8 @@
 
 ---
 
-## 🎯 Próximos Passos
-0. **EXPANSÃO — 1ª passada concluída** (Etapas 1-4, +3.650 palavras) — ver `00-PLANEJAMENTO/PLANO_EXPANSAO_80K.md`
-1. Revisão estrutural (coerência entre capítulos)
-2. Revisão de personagens (consistência de voz e comportamento)
-3. Revisão de diálogos (naturalidade)
-4. Beta readers
-5. Revisão ortográfica e gramatical final
-6. Formatação para publicação
+## 🎯 Próximos passos antes da venda
+
+1. Leitura de prova por leitoras do público-alvo, com registro das passagens em que perderam o interesse ou ficaram confusas.
+2. Conferência no Kindle Previewer e pedido de prova física do impresso.
+3. Definição de preço, ISBN, dados fiscais e opções de distribuição na conta KDP.

@@ -8,7 +8,7 @@
 **APROVADO para publicação técnica.**
 
 - 40 capítulos em sequência, sem lacunas.
-- 62.615 palavras contando os títulos e cabeçalhos dos capítulos; 62.384 palavras de história.
+- 62.622 palavras contando os títulos e cabeçalhos dos capítulos; 62.391 palavras de história.
 - Nenhum capítulo abaixo de 900 palavras.
 - 10 ilustrações narrativas presentes no leitor e no EPUB.
 - 13 temas femininos presentes na página, no JSON-LD e no `llms.txt`.
@@ -16,7 +16,17 @@
 - EPUBCheck 5.4.0: 0 erros fatais, 0 erros e 0 avisos.
 - Miolo: 318 páginas em 5,5 × 8,5 polegadas, com sumário paginado e números conferidos.
 - Links locais, checksums e ZIP final: aprovados.
-- Página testada em desktop e celular, sem rolagem horizontal e sem erros no console.
+- Página testada em desktop, tablet e celular, sem rolagem horizontal e sem erros no console.
+
+## Nova passagem editorial e visual de 26/09/2026
+
+- Conferida a abertura do capítulo 1: a amostra no site agora usa 05h53, o horário real do manuscrito, e frases literais da cena.
+- Na cena do Dia das Mães (capítulo 31), as crianças não ficam sozinhas diante de uma panela no fogão: a torradeira já está desligada e o leite está frio. O afeto e o humor do café da manhã foram preservados.
+- O leitor online agora mantém listas numeradas e marcadores do manuscrito em vez de reuni-los num parágrafo corrido; o índice lateral também pode ser fechado com Escape e retorna o foco ao botão.
+- A página de apresentação ganhou direção de arte editorial ligada à capa: fundo azul profundo, papel quente, tipografia de livro, linhas de índice e destaque para três ilustrações sem revelar as cenas finais.
+- A chamada para começar a leitura aparece na primeira tela do celular. O botão fixo só surge depois que a abertura sai de vista, para não cobrir o texto.
+- Foram retiradas promessas genéricas sobre o ritmo da obra e a compatibilidade irrestrita com e-readers. O funcionamento nesses aparelhos depende do navegador.
+- EPUBCheck 5.4.0 foi executado novamente: 0 erros fatais, 0 erros, 0 avisos. O miolo segue com 318 páginas; o trecho alterado e a capa foram renderizados e inspecionados.
 
 ## Ajustes adicionais de 26/09/2026
 

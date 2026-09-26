@@ -100,7 +100,7 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] SEO, GEO e AEO (13 temas visíveis, JSON-LD, FAQ, sitemap, robots e llms.txt)
 - [x] Relatório reproduzível de validação editorial e técnica
 - [x] Layout mobile-first (menu, tipografia fluida, CTA inteligente e áreas seguras)
-- [x] Leitor acessível para celular, tablet e e-reader (fonte ajustável, modos claro/sépia/escuro, retomada automática e artes web otimizadas)
+- [x] Leitor responsivo para celular e tablet (fonte ajustável, modos claro/sépia/escuro, retomada automática e artes web otimizadas). Em e-readers, o resultado depende do navegador do aparelho.
 - [x] Dez ilustrações narrativas integradas ao leitor, EPUB e miolo
 - [x] EPUB 3 validado estruturalmente
 - [x] Miolo de 318 páginas em 5,5 × 8,5 pol., sem sangria e com sumário
@@ -204,7 +204,7 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Capítulos**: 40 (completos)
-- **Palavras totais**: 62.384 de história nos 40 capítulos · 63.024 no manuscrito completo, incluindo cabeçalhos e textos iniciais e finais
+- **Palavras totais**: 62.391 de história nos 40 capítulos · 63.031 no manuscrito completo, incluindo cabeçalhos e textos iniciais e finais
 - **Palavras por capítulo (média)**: ~1.560 de história
 - **Páginas do arquivo final (5,5 × 8,5 pol.)**: 318
 - **Expansão futura**: somente se a leitura beta identificar lacunas reais; a edição atual encerra o arco do primeiro volume
@@ -320,7 +320,7 @@ Se você está revisitando este projeto após um tempo:
 
 ---
 
-**Última atualização**: 17/09/2026  
+**Última atualização**: 26/09/2026
 **Status geral**: ✅ Manuscrito completo (40 capítulos) + revisão + site profissional no ar | Próxima fase: beta readers e publicação
 
 ---

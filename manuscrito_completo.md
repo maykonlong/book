@@ -7079,15 +7079,15 @@ Um presente feito por mãos pequenas podia ser um cartão torto ou um colar de m
 
 ---
 
-No domingo de manhã, Camila acordou com o cheiro de... alguma coisa queimando.
+No domingo de manhã, Camila acordou com o cheiro de pão torrado. Torrado demais.
 
 Levantou num pulo. Correu para a cozinha.
 
-E encontrou Léo em cima de um banquinho, mexendo uma panela de leite no fogão, com a testa franzida de concentração. Bia estava ao lado, segurando uma colher enorme, coberta de achocolatado dos pés à cabeça.
+Encontrou Léo diante da torradeira já desligada, encarando uma fatia escura com a testa franzida. Bia estava ao lado, mexendo achocolatado num copo de leite frio, coberta de pó marrom dos pés à cabeça.
 
 — MÃE! — gritaram os dois juntos. — Volta pra cama! É surpresa!
 
-Camila obedeceu, rindo, com lágrimas nos olhos. Voltou para a cama e ficou ali, esperando, ouvindo o barulho da cozinha: o leite borbulhando, uma colher caindo, sussurros de "não, deixa que eu mexo", "cuidado, vai queimar".
+Camila pôs a torrada num prato e obedeceu, rindo, com lágrimas nos olhos. Voltou para a cama e ficou ali, esperando, ouvindo o barulho da cozinha: uma colher caindo, sussurros de "não, deixa que eu mexo" e passos pequenos indo e vindo pelo corredor.
 
 Dez minutos depois, Léo entrou no quarto carregando uma bandeja. Bia vinha atrás, segurando o presente embrulhado.
 

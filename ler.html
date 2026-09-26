@@ -8,6 +8,7 @@
 <meta name="description" content="Leia online grátis o romance completo A Metade Que Me Faltava Era Eu, de Mariana Duarte.">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <meta name="theme-color" content="#13283b">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%2313283b'/%3E%3Cpath d='M17 15h30v34H17z' fill='%23f4eadc'/%3E%3Cpath d='M23 22h18M23 29h18M23 36h13' stroke='%23ad3f2d' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="canonical" href="https://maykonlong.github.io/book/ler.html">
 <meta property="og:type" content="book">
 <meta property="og:title" content="Ler A Metade Que Me Faltava Era Eu — Mariana Duarte">
@@ -101,6 +102,8 @@ main h1 { font-size: 1.82em; text-align: center; margin: .35em 0 .25em; line-hei
 main h2 { font-size: 1.28em; margin: .2em 0 1.9em; color: var(--accent); text-align: center; font-weight: normal; }
 main p { margin: 0 0 1.08em; hanging-punctuation: first last; }
 main p + p { text-indent: 1.15em; }
+main ol, main ul { margin: 0 0 1.35em; padding-left: 1.65em; }
+main li { margin: .28em 0; padding-left: .15em; }
 main h1 + h2, main h2 + p, main hr + p, main blockquote + p { text-indent: 0; }
 main hr { border: none; text-align: center; margin: 2.4em auto; }
 main hr::before { content: '* * *'; color: var(--muted); letter-spacing: .6em; }
@@ -191,7 +194,7 @@ footer button:disabled { opacity: .35; cursor: default; }
 <div id="pbar"></div>
 <header>
   <a id="btnBack" href="index.html" title="Voltar ao site" aria-label="Voltar ao site">← <span>Voltar</span></a>
-  <button id="btnToc" title="Abrir índice" aria-label="Abrir índice">☰ <span>Índice</span></button>
+  <button id="btnToc" title="Abrir índice" aria-label="Abrir índice" aria-controls="toc" aria-expanded="false">☰ <span>Índice</span></button>
   <div id="title">A Metade Que Me Faltava Era Eu</div>
   <span id="readTime" aria-live="polite"></span>
   <div id="controls">
@@ -208,7 +211,7 @@ footer button:disabled { opacity: .35; cursor: default; }
   <button id="btnNext" aria-label="Próximo capítulo"><span>Próximo</span> →</button>
 </footer>
 <div id="overlay"></div>
-<div id="toc">
+<div id="toc" role="dialog" aria-modal="true" aria-label="Índice de capítulos" inert>
   <div id="tocHead"><span>Capítulos</span><button id="btnClose" aria-label="Fechar índice">✕</button></div>
   <nav id="tocList"></nav>
 </div>
@@ -272,10 +275,24 @@ function mdToHtml(md) {
   const lines = md.split(/\r?\n/);
   let html = '';
   let para = [];
+  let listType = '';
   const flush = () => { if (para.length) { html += '<p>' + inline(para.join(' ')) + '</p>'; para = []; } };
+  const closeList = () => { if (listType) { html += '</' + listType + '>'; listType = ''; } };
   for (const line of lines) {
     const t = line.replace(/\r$/, '').trim();
-    if (t === '') { flush(); continue; }
+    if (t === '') { flush(); closeList(); continue; }
+    const italicNumber = t.match(/^\*(\d+)\.\s+(.+)\*$/);
+    const numbered = t.match(/^(\d+)\.\s+(.+)$/);
+    const bullet = t.match(/^[-+]\s+(.+)$/);
+    if (italicNumber || numbered || bullet) {
+      flush();
+      const type = bullet ? 'ul' : 'ol';
+      if (listType !== type) { closeList(); html += '<' + type + '>'; listType = type; }
+      const item = bullet ? bullet[1] : italicNumber ? '<em>' + inline(italicNumber[2]) + '</em>' : inline(numbered[2]);
+      html += '<li>' + item + '</li>';
+      continue;
+    }
+    closeList();
     if (t === '---') { flush(); html += '<hr>'; continue; }
     if (/^# (.+)$/.test(t)) { flush(); html += '<h1>' + inline(t.slice(2)) + '</h1>'; continue; }
     if (/^## (.+)$/.test(t)) { flush(); html += '<h2>' + inline(t.slice(3)) + '</h2>'; continue; }
@@ -283,6 +300,7 @@ function mdToHtml(md) {
     para.push(t);
   }
   flush();
+  closeList();
   return html;
 }
 
@@ -330,10 +348,8 @@ async function loadChapter(i, scrollY) {
     $('readTime').textContent = '≈ ' + Math.max(1, Math.round(words / 220)) + ' min';
   } catch (e) {
     $('readTime').textContent = '';
-    content.innerHTML = '<div class="error"><strong>Não foi possível carregar o capítulo.</strong><br><br>' +
-      'Este leitor precisa ser servido por <strong>HTTP</strong> — não funciona abrindo o arquivo direto (duplo clique).<br><br>' +
-      'Publique no <strong>GitHub Pages</strong> ou rode um servidor local com <code>npx serve</code>.<br><br>' +
-      '<small>' + e.message + '</small></div>';
+    content.innerHTML = '<div class="error"><strong>Não foi possível abrir este capítulo.</strong><br><br>' +
+      'Confira sua conexão e <a href="' + window.location.href.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '">tente novamente</a>.</div>';
   }
   if (typeof scrollY === 'number') {
     setTimeout(() => window.scrollTo(0, scrollY), 0);
@@ -377,8 +393,21 @@ function buildToc() {
     list.appendChild(a);
   });
 }
-function openToc() { $('toc').classList.add('open'); $('overlay').classList.add('show'); }
-function closeToc() { $('toc').classList.remove('open'); $('overlay').classList.remove('show'); }
+function openToc() {
+  $('toc').removeAttribute('inert');
+  $('toc').classList.add('open');
+  $('overlay').classList.add('show');
+  $('btnToc').setAttribute('aria-expanded', 'true');
+  $('btnClose').focus();
+}
+function closeToc() {
+  const wasOpen = $('toc').classList.contains('open');
+  $('toc').classList.remove('open');
+  $('overlay').classList.remove('show');
+  $('toc').setAttribute('inert', '');
+  $('btnToc').setAttribute('aria-expanded', 'false');
+  if (wasOpen) $('btnToc').focus();
+}
 
 // ===== BARRA DE PROGRESSO (rolagem) =====
 function updatePbar() {
@@ -444,6 +473,9 @@ window.addEventListener('scroll', () => {
   scrollTimer = setTimeout(saveProgress, 400);
 });
 document.addEventListener('keydown', (ev) => {
+  if (ev.key === 'Escape' && $('toc').classList.contains('open')) { closeToc(); return; }
+  if (ev.altKey || ev.ctrlKey || ev.metaKey || $('toc').classList.contains('open')) return;
+  if (ev.target.closest('button, a, input, textarea, select, summary')) return;
   if (ev.key === 'ArrowRight') next();
   if (ev.key === 'ArrowLeft') prev();
 });

@@ -299,19 +299,126 @@
     .reading-benefits li { position: relative; margin: 10px 0; padding-left: 29px; color: var(--navy); font-weight: 700; }
     .reading-benefits li::before { content: "✓"; position: absolute; left: 0; top: 0; color: var(--terracotta); font-weight: 900; }
 
+    /* Direção editorial: páginas, tinta e margens em vez de cartões genéricos. */
+    :root { --navy: #142a39; --terracotta: #a64231; --cream: #f7f2e8; --paper: #fffdf8; --ink: #27231f; --line: #d8cab8; }
+    body { background: var(--cream); }
+    h1, h2, h3 { font-family: Georgia, Cambria, "Times New Roman", serif; }
+    h1, h2 { text-wrap: balance; }
+    section[id] { scroll-margin-top: 82px; }
+    .topbar { border-bottom-color: #d5c9b9; background: rgba(247,242,232,.96); }
+    .brand-mark { width: 32px; height: 32px; border-radius: 2px 11px 2px 2px; }
+    .nav { min-height: 74px; }
+    .menu .nav-cta { border-radius: 5px; }
+    .hero {
+      min-height: min(790px, calc(100svh - 74px));
+      padding: clamp(54px,8vw,100px) 0;
+      color: #f6f0e5;
+      background:
+        radial-gradient(ellipse at 79% 47%, rgba(213,164,89,.20), transparent 31%),
+        radial-gradient(ellipse at 0% 90%, rgba(165,67,49,.16), transparent 37%),
+        #142a39;
+    }
+    .hero::before { width: 45vw; height: 45vw; right: -14vw; top: -22vw; border: 1px solid rgba(223,185,121,.18); background: none; filter: none; }
+    .hero::after { opacity: .15; }
+    .hero-grid { grid-template-columns: minmax(0,1.2fr) minmax(320px,.8fr); gap: clamp(48px,6vw,96px); }
+    .hero .eyebrow { color: #e7bd70; }
+    .hero h1 { max-width: 780px; color: #fffaf1; font-size: clamp(3rem,5.4vw,5.55rem); line-height: 1.01; letter-spacing: -.055em; }
+    .hero-lead { max-width: 580px; color: #dce3e3; font-size: clamp(1.05rem,1.6vw,1.22rem); line-height: 1.7; }
+    .hero-lead strong { color: #fff7e9; }
+    .hero-copy::before { display: none; }
+    .hero-whisper { max-width: 540px; padding: 0 0 0 20px; border: 0; border-left: 2px solid #d2a55e; border-radius: 0; background: none; color: #f4dcc0; font-size: 1.08rem; line-height: 1.5; }
+    .hero-whisper span { display: block; margin: 8px 0 0; color: #bdcbd0; font-family: ui-sans-serif,system-ui,sans-serif; font-size: .7rem; font-style: normal; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; }
+    .hero .button-primary { background: #c45a42; box-shadow: 0 12px 28px rgba(0,0,0,.18); }
+    .hero .button-primary:hover { background: #d36a50; }
+    .hero .button-secondary { border-color: rgba(246,240,229,.42); background: transparent; color: #fff7e9; }
+    .hero .button-secondary:hover { background: rgba(255,255,255,.08); }
+    .hero .trust-line { color: #d5dcdb; }
+    .hero .trust-line li::before { color: #e7bd70; }
+    .book-stage { width: min(100%,370px); padding: 11px 15px 16px 0; }
+    .book-stage::before { inset: 7% -7% 0 12%; border: 1px solid rgba(225,190,130,.35); border-radius: 49% 51% 48% 52%; background: rgba(226,184,114,.09); opacity: 1; transform: rotate(9deg); }
+    .book-cover { border: 1px solid rgba(255,247,232,.26); border-radius: 2px 8px 8px 2px; box-shadow: 16px 26px 65px rgba(0,0,0,.34); transform: perspective(1300px) rotateY(-7deg) rotateZ(1deg); }
+    .book-ribbon { top: auto; bottom: -7px; left: -24px; min-width: 92px; border-radius: 2px; background: #cfad75; color: #1c2b34; box-shadow: 0 7px 18px rgba(0,0,0,.2); transform: rotate(-3deg); }
+    .book-ribbon span { font-size: .61rem; }
+    .reader-invitation { padding: clamp(74px,8vw,120px) 0; }
+    .invitation-grid { grid-template-columns: minmax(0,1.1fr) minmax(0,.9fr); }
+    .invitation-copy h2 { max-width: 700px; font-size: clamp(2.45rem,4vw,4.1rem); }
+    .reading-promises { gap: 0; border-top: 1px solid var(--line); }
+    .reading-promises > div { grid-template-columns: 42px 1fr; padding: 21px 4px; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; background: none; }
+    .reading-promises span { width: 35px; height: 35px; border: 0; border-radius: 0; font-size: .9rem; font-style: italic; }
+    .reading-promises strong { font-size: 1.12rem; }
+    .reading-promises p { font-size: .93rem; }
+    .recognition { padding: clamp(74px,8vw,108px) 0; background: #eaded0; color: var(--ink); }
+    .recognition h2, .recognition h3 { color: var(--navy); }
+    .recognition .section-head p { color: #5c554e; }
+    .signs { gap: 34px; }
+    .sign { padding: 19px 0 0; border: 0; border-top: 2px solid #b5a18c; border-radius: 0; background: none; }
+    .sign span { color: var(--terracotta); font-size: 1.3rem; font-style: italic; }
+    .sign h3 { font-size: 1.35rem; }
+    .sign p { color: #504a44; font-size: 1rem; }
+    #historia { background: var(--paper); }
+    .story-kicker .line { width: 58px; height: 2px; border-radius: 0; }
+    .story-kicker h2 { font-size: clamp(2.3rem,3.6vw,3.7rem); }
+    .story-copy p { font-size: 1.15rem; line-height: 1.78; }
+    .story-copy p:first-child::first-letter { margin-top: 11px; font-size: 4.4rem; }
+    .story-copy .story-close { margin-top: 32px; padding: 19px 24px; border-left-width: 2px; border-radius: 0; background: #f3eadb; font-family: Georgia,serif; font-size: 1.27rem; font-weight: 400; font-style: italic; }
+    .inside { background: #f3ecdf; }
+    .theme-summary { margin-top: -7px; padding: 0 0 0 20px; border-left-width: 2px; border-radius: 0; background: none; color: #504a44; }
+    .inside-grid { grid-template-columns: repeat(2,minmax(0,1fr)); column-gap: 48px; row-gap: 0; border-top: 1px solid #cfbfab; }
+    .inside-card, .inside-card--wide { grid-column: auto; grid-template-columns: 38px 1fr; gap: 10px; align-items: start; min-height: 114px; padding: 18px 4px 18px 0; border: 0; border-bottom: 1px solid #cfbfab; border-radius: 0; background: none; box-shadow: none; }
+    .inside-card--wide { grid-column: 1 / -1; }
+    .inside-number { width: 32px; height: 32px; border-radius: 0; background: none; color: var(--terracotta); font-size: .92rem; font-style: italic; }
+    .inside-card h3 { margin-bottom: 3px; font-size: 1.12rem; }
+    .inside-card p { font-size: .91rem; line-height: 1.5; }
+    .journey { background: var(--paper); }
+    .journey-grid { gap: 26px; }
+    .journey-card { border: 0; border-radius: 0; background: none; box-shadow: none; }
+    .journey-card img { aspect-ratio: 4/3; border-radius: 2px; }
+    .journey-copy { padding: 17px 0 0; }
+    .journey-copy h3 { font-size: 1.38rem; }
+    #trecho { background: #f3ecdf; }
+    .excerpt-art { min-height: 500px; border-radius: 2px; box-shadow: 12px 17px 0 #d9c3a7; }
+    .excerpt blockquote { font-size: clamp(2rem,3.6vw,3.15rem); }
+    .reading-section { background: var(--navy); color: #f7f0e6; }
+    .reading-section::before { border-color: rgba(215,170,95,.22); }
+    .reading-copy h2 { color: #fffaf1; }
+    .reading-copy > p:not(.eyebrow) { color: #d5ddde; }
+    .reading-benefits li { color: #ecede9; }
+    .reading-benefits li::before { color: #e2b66e; }
+    .reading-section .eyebrow { color: #e6b875; }
+    .reading-device { width: min(100%,410px); padding: 0; border: 0; border-radius: 2px 16px 16px 2px; background: #e7d8bf; box-shadow: 15px 24px 0 rgba(0,0,0,.16); transform: rotate(-2deg); }
+    .device-page { min-height: 485px; padding: 52px 40px; border: 1px solid #ded0b9; border-radius: 2px 14px 14px 2px; background: #fffcf5; }
+    .device-page small { color: #a64231; }
+    .device-page strong { margin-bottom: 32px; font-size: 1.9rem; }
+    .device-page p { font-size: 1.08rem; line-height: 1.7; }
+    .author-section { background: #293d43; }
+    .author-monogram { border-radius: 2px 20px 2px 2px; }
+    details { border-radius: 2px; }
+    .cta-panel { border-radius: 2px; background: #a64231; }
+    .button { border-radius: 5px; }
+    .mobile-read { border-radius: 5px; }
+
     @media (hover: hover) {
-      .sign, .reading-promises > div { transition: transform .2s ease, border-color .2s ease, background .2s ease; }
-      .sign:hover { transform: translateY(-3px); background: rgba(255,255,255,.09); border-color: rgba(255,255,255,.25); }
-      .reading-promises > div:hover { transform: translateX(4px); border-color: #cdb99f; background: #fbf7f0; }
+      .sign, .reading-promises > div { transition: border-color .2s ease; }
+      .sign:hover, .reading-promises > div:hover { transform: none; border-color: var(--terracotta); background: none; }
+      .inside-card:hover { transform: none; box-shadow: none; }
+      .journey-card:hover { box-shadow: none; }
     }
 
     @media (max-width: 900px) {
+      .menu-toggle { display: inline-flex; margin-left: auto; width: 42px; height: 42px; align-items: center; justify-content: center; border: 1px solid var(--line); border-radius: 5px; color: var(--navy); background: transparent; font-size: 0; }
+      .menu-toggle::before { content: "☰"; font-size: 1.25rem; }
+      .menu-toggle[aria-expanded="true"]::before { content: "×"; font-size: 1.7rem; }
+      .menu { display: none; position: absolute; left: 20px; right: 20px; top: 78px; flex-direction: column; align-items: stretch; gap: 0; padding: 12px; background: var(--paper); border: 1px solid var(--line); border-radius: 8px; box-shadow: var(--shadow); }
+      .menu.open { display: flex; }
+      .menu a { padding: 12px; border-radius: 4px; }
+      .menu .nav-cta { margin-top: 5px; text-align: center; }
       .hero-grid, .story-grid, .excerpt-wrap { grid-template-columns: 1fr; }
       .invitation-grid, .reading-grid { grid-template-columns: 1fr; }
       .inside-grid { grid-template-columns: repeat(2, 1fr); }
       .inside-card--wide { grid-column: 1 / -1; }
       .hero-copy { text-align: center; }
       .hero-lead { margin-inline: auto; }
+      .hero-whisper { margin-inline: auto; text-align: left; }
       .actions, .trust-line { justify-content: center; }
       .book-stage { width: min(77vw, 360px); margin-top: 10px; }
       .story-kicker { position: static; }
@@ -326,45 +433,43 @@
       .reading-copy { text-align: center; }
       .reading-copy > p:not(.eyebrow) { margin-inline: auto; }
       .reading-benefits { display: inline-block; text-align: left; }
+      .hero-grid { grid-template-columns: 1fr; }
     }
 
     @media (max-width: 760px) {
       .shell { width: min(100% - 28px, 1160px); }
       .nav { min-height: 62px; }
-      .menu-toggle { display: inline-flex; margin-left: auto; width: 42px; height: 42px; align-items: center; justify-content: center; border: 1px solid var(--line); border-radius: 10px; color: var(--navy); background: transparent; font-size: 0; }
-      .menu-toggle::before { content: "☰"; font-size: 1.25rem; }
-      .menu-toggle[aria-expanded="true"]::before { content: "×"; font-size: 1.7rem; }
-      .menu { display: none; position: absolute; left: 14px; right: 14px; top: 68px; flex-direction: column; align-items: stretch; gap: 0; padding: 12px; background: var(--paper); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); }
-      .menu.open { display: flex; }
-      .menu a { padding: 12px; border-radius: 9px; }
-      .menu .nav-cta { margin-top: 5px; text-align: center; }
+      .menu { left: 14px; right: 14px; top: 68px; }
       h1 { font-size: clamp(2.35rem, 12vw, 3.65rem); line-height: 1.01; }
       .signs, .inside-grid, .journey-grid { grid-template-columns: 1fr; }
       .inside-card--wide { grid-column: auto; }
+      .inside-card { min-height: 0; }
       .book-note { right: -8px; }
       .author-card { grid-template-columns: 1fr; }
       .footer-row { flex-direction: column; align-items: flex-start; }
       .reader-invitation { padding-block: 68px; }
-      .book-ribbon { left: -18px; top: 25px; }
+      .book-ribbon { left: -18px; top: auto; }
     }
 
     @media (max-width: 480px) {
       .hero { min-height: auto; padding: 42px 0 72px; }
+      .hero h1 { font-size: clamp(2.5rem,11.5vw,3.55rem); }
       .hero-whisper { margin-top: 18px; text-align: left; }
       .actions { flex-direction: column; }
       .button { width: 100%; }
       .book-stage { width: min(83vw, 330px); }
       .book-note { display: none; }
       .recognition, .section { padding-block: 62px; }
-      .inside-card { grid-template-columns: 1fr; }
+      .inside-card { grid-template-columns: 38px 1fr; }
       .excerpt-art { min-height: 330px; }
-      .mobile-read { display: flex; position: fixed; z-index: 45; left: auto; right: 12px; bottom: max(12px,env(safe-area-inset-bottom)); min-width: 156px; min-height: 50px; padding-inline: 20px; align-items: center; justify-content: center; color: #fff; background: linear-gradient(135deg,var(--terracotta),var(--terracotta-dark)); border: 1px solid rgba(255,255,255,.24); border-radius: 999px; box-shadow: 0 14px 34px rgba(74,22,14,.3); text-decoration: none; font-weight: 850; opacity: 0; pointer-events: none; transform: translateY(calc(100% + 28px)); transition: opacity .2s ease, transform .25s ease; }
+      .mobile-read { display: flex; position: fixed; z-index: 45; left: auto; right: 12px; bottom: max(12px,env(safe-area-inset-bottom)); min-width: 156px; min-height: 50px; padding-inline: 20px; align-items: center; justify-content: center; color: #fff; background: var(--terracotta); border: 1px solid rgba(255,255,255,.24); border-radius: 5px; box-shadow: 0 14px 34px rgba(74,22,14,.3); text-decoration: none; font-weight: 850; opacity: 0; pointer-events: none; transform: translateY(calc(100% + 28px)); transition: opacity .2s ease, transform .25s ease; }
       .mobile-read.visible { opacity: 1; pointer-events: auto; transform: translateY(0); }
       body { padding-bottom: calc(78px + env(safe-area-inset-bottom)); }
       .reading-promises > div { grid-template-columns: 42px 1fr; padding: 16px; }
       .reading-promises span { width: 38px; height: 38px; }
       .reading-device { width: min(88vw,330px); padding: 12px; border-radius: 24px; }
-      .device-page { min-height: 390px; padding: 42px 27px; }
+      .reading-device { padding: 0; border-radius: 2px 14px 14px 2px; }
+      .device-page { min-height: 390px; padding: 40px 29px; }
       .device-page strong { font-size: 1.55rem; }
       .reading-copy .button { width: 100%; }
     }
@@ -372,7 +477,7 @@
     @media (max-width: 370px) {
       .brand span:last-child { font-size: .9rem; }
       .hero-grid { gap: 42px; }
-      h1 { font-size: 2.2rem; }
+      .hero h1 { font-size: 2.2rem; }
       .trust-line { display: grid; justify-content: start; text-align: left; }
       .book-ribbon { left: -8px; }
     }
@@ -406,7 +511,7 @@
         "inLanguage": "pt-BR",
         "copyrightYear": 2026,
         "numberOfPages": 318,
-        "wordCount": 62384,
+        "wordCount": 62391,
         "isAccessibleForFree": true,
         "genre": ["Ficção feminina", "Romance contemporâneo", "Drama familiar"],
         "keywords": ["carga mental feminina", "trabalho doméstico desigual", "solidão no casamento", "identidade feminina", "culpa materna", "divórcio", "independência financeira", "saúde emocional", "amizade feminina", "amor-próprio", "dependência emocional", "coparentalidade", "autonomia feminina"],
@@ -516,7 +621,7 @@
           {
             "@type": "Question",
             "name": "Posso ler no celular, tablet ou e-reader?",
-            "acceptedAnswer": { "@type": "Answer", "text": "Sim. O leitor online se adapta a celulares, tablets e navegadores de e-readers. Ele permite aumentar a fonte, escolher entre os modos claro, sépia e escuro e salva automaticamente o ponto da leitura." }
+            "acceptedAnswer": { "@type": "Answer", "text": "Sim no celular e no tablet. Em e-readers, o funcionamento depende do navegador do aparelho. O leitor permite aumentar a fonte, escolher entre os modos claro, sépia e escuro e salva o avanço neste navegador." }
           },
           {
             "@type": "Question",
@@ -554,17 +659,17 @@
       <div class="hero-grid shell">
         <div class="hero-copy">
           <p class="eyebrow">Um romance de Mariana Duarte</p>
-          <h1>Você cuida de todo mundo. Mas quem cuida de você?</h1>
-          <p class="hero-lead"><strong>A Metade Que Me Faltava Era Eu</strong> é a história de uma mulher que cansou de ser a única a tentar — e encontrou coragem para voltar a existir na própria vida.</p>
-          <p class="hero-whisper"><span aria-hidden="true">✦</span> Talvez você não esteja cansada da vida. Talvez esteja cansada de carregar a vida de todo mundo.</p>
+          <h1>Ela cuidava de tudo. Só não sabia mais quem cuidava dela.</h1>
+          <p class="hero-lead"><strong>A Metade Que Me Faltava Era Eu</strong> acompanha Camila entre as manhãs corridas, um casamento que já não a escuta e a coragem de descobrir o que vem depois.</p>
           <div class="actions">
             <a class="button button-primary" href="./ler.html?cap=1">Começar a ler grátis <span aria-hidden="true">→</span></a>
             <a class="button button-secondary" href="#historia">Conhecer a história</a>
           </div>
+          <p class="hero-whisper">“A pior parte era a solidão. A solidão acompanhada.” <span>— Capítulo 1</span></p>
           <ul class="trust-line" aria-label="Informações da leitura">
-            <li>40 capítulos · edição impressa em preparação</li>
-            <li>10 cenas ilustradas</li>
             <li>Romance completo</li>
+            <li>40 capítulos</li>
+            <li>Leitura gratuita, sem cadastro</li>
           </ul>
         </div>
 
@@ -573,7 +678,6 @@
             <img src="./assets/capa-site.jpg" width="800" height="1280" alt="Capa de A Metade Que Me Faltava Era Eu: uma mulher de vermelho se reconhece diante do espelho" fetchpriority="high">
           </div>
           <div class="book-ribbon"><strong>Livro 1</strong><span>de uma trilogia</span></div>
-          <div class="book-note">Para quem se perdeu cuidando de todo mundo.</div>
         </div>
       </div>
     </section>
@@ -581,14 +685,14 @@
     <section class="reader-invitation" aria-labelledby="convite-titulo">
       <div class="invitation-grid shell">
         <div class="invitation-copy">
-          <p class="eyebrow">Uma história que conversa, não dá sermão</p>
-          <h2 id="convite-titulo">Este livro não vem ensinar você a viver. Vem sentar ao seu lado.</h2>
-          <p>Camila não é uma mulher perfeita. Ela perde a paciência, sente medo, volta atrás e tenta de novo. É por isso que a jornada dela parece tão próxima.</p>
+          <p class="eyebrow">Entre na história</p>
+          <h2 id="convite-titulo">Tudo começa às 5h53. A casa ainda dorme. Camila, não.</h2>
+          <p>O despertador só vai tocar em sete minutos. Ela já está pensando no lanche das crianças, na reunião do trabalho e no leite que acabou. Ricardo dorme ao lado. Camila nunca se sentiu tão sozinha.</p>
         </div>
         <div class="reading-promises" aria-label="Como é a experiência de leitura">
-          <div><span aria-hidden="true">01</span><strong>Linguagem simples</strong><p>Sem palavras difíceis para dizer sentimentos que você conhece bem.</p></div>
-          <div><span aria-hidden="true">02</span><strong>Ritmo que convida</strong><p>Cenas íntimas, viradas claras e capítulos que puxam o próximo.</p></div>
-          <div><span aria-hidden="true">03</span><strong>Dor com esperança</strong><p>Uma história honesta, mas leve o bastante para deixar espaço para respirar.</p></div>
+          <div><span aria-hidden="true">I</span><strong>Uma manhã comum</strong><p>O peso de lembrar de tudo quando ninguém percebe o trabalho.</p></div>
+          <div><span aria-hidden="true">II</span><strong>Uma decisão difícil</strong><p>O que muda quando ela para de chamar solidão de casamento?</p></div>
+          <div><span aria-hidden="true">III</span><strong>Uma vida por descobrir</strong><p>Filhos, contas, amigos, tinta nas mãos — e um futuro que ainda não está escrito.</p></div>
         </div>
       </div>
     </section>
@@ -631,9 +735,9 @@
         </div>
         <div class="story-copy">
           <p>Onze anos de casamento, dois filhos e uma lista mental que nunca terminava. Camila trabalhava, cuidava da casa e mantinha a vida de todos funcionando. Ricardo dizia que ajudava. Na prática, esperava que ela pensasse, pedisse e agradecesse.</p>
-          <p>O fim não veio com uma cena de novela. Veio numa manhã comum, quando Camila estava com febre e percebeu que até doente continuava sozinha. Então disse as palavras que ensaiava havia meses: <em>eu quero me separar</em>.</p>
+          <p>O fim não veio com uma cena de novela. Veio numa manhã comum, quando Camila estava com febre e percebeu que até doente continuava sozinha. Uma coisa pequena na cozinha fez a pergunta que ela vinha adiando ficar impossível de ignorar.</p>
           <p>Depois vieram o medo, as contas apertadas, a culpa pelos filhos e os julgamentos da família. Vieram também a terapia, novas amizades e uma caixa de aquarela que ela não abria havia anos.</p>
-          <p class="story-close">Camila não saiu de um casamento para encontrar outro homem. Saiu para encontrar a mulher que tinha deixado para trás.</p>
+          <p class="story-close">O que acontece quando a pessoa que sustenta a casa inteira decide parar de desaparecer?</p>
         </div>
       </div>
     </section>
@@ -645,7 +749,7 @@
           <h2>13 temas que fazem parte da vida de muitas mulheres.</h2>
           <p>Não são lições de autoajuda. São dores, dúvidas e recomeços vividos por Camila dentro de uma história leve, íntima e cheia de esperança.</p>
         </div>
-        <p class="theme-summary"><strong>Em uma frase:</strong> este é um romance sobre uma mulher que deixa de carregar todos sozinha, reconstrói a própria vida e descobre que estar inteira vale mais do que ter alguém ao lado.</p>
+        <p class="theme-summary">Cada assunto aparece na vida de Camila — numa conversa, numa conta a pagar, num domingo com os filhos. Nenhum deles precisa ser vivido por você para que a história faça sentido.</p>
         <ol class="inside-grid" aria-label="13 temas femininos presentes no romance">
           <li class="inside-card">
             <span class="inside-number" aria-hidden="true">1</span>
@@ -707,21 +811,21 @@
       <div class="shell">
         <div class="section-head">
           <p class="eyebrow">Uma transformação que você sente</p>
-          <h2 id="jornada-titulo">Da mulher que sustentava tudo à mulher que voltou a sustentar a si mesma.</h2>
-          <p>As imagens acompanham as viradas de Camila e abrem espaço para a leitora respirar entre os momentos mais intensos.</p>
+          <h2 id="jornada-titulo">Algumas páginas ficam com a gente também pelas imagens.</h2>
+          <p>As ilustrações acompanham a história sem explicar tudo antes da hora. Estas três mostram apenas o começo do caminho.</p>
         </div>
         <div class="journey-grid">
           <a class="journey-card" href="./ler.html?cap=1">
             <img src="./assets/illustrations-web/cap-01-rotina-invisivel.jpg" width="1200" height="800" loading="lazy" alt="Camila prepara a rotina da família antes do amanhecer">
             <div class="journey-copy"><small>Capítulo 1</small><h3>O peso que ninguém vê</h3><p>A lista mental, o cansaço e a solidão de fazer tudo sem parceria.</p></div>
           </a>
+          <a class="journey-card" href="./ler.html?cap=12">
+            <img src="./assets/illustrations-web/cap-12-recomeco-financeiro.jpg" width="1200" height="800" loading="lazy" alt="Camila organiza as contas ao lado dos bolos que começou a vender">
+            <div class="journey-copy"><small>Capítulo 12</small><h3>As contas do recomeço</h3><p>Uma decisão pode ser certa e ainda assim trazer medo do fim do mês.</p></div>
+          </a>
           <a class="journey-card" href="./ler.html?cap=17">
             <img src="./assets/illustrations-web/cap-17-voltando-a-pintar.jpg" width="1200" height="800" loading="lazy" alt="Camila volta a pintar aquarelas à noite">
             <div class="journey-copy"><small>Capítulo 17</small><h3>A cor volta para a vida</h3><p>Um pincel, cinco folhas e a descoberta de que ela ainda existia ali.</p></div>
-          </a>
-          <a class="journey-card" href="./ler.html?cap=27">
-            <img src="./assets/illustrations-web/cap-27-o-encontro.jpg" width="1200" height="800" loading="lazy" alt="Camila e Daniel se conhecem diante de uma aquarela na exposição">
-            <div class="journey-copy"><small>Capítulo 27</small><h3>Um encontro inesperado</h3><p>Quando a vida volta a ter cor, alguém novo aparece. E Camila já não quer se perder por ninguém.</p></div>
           </a>
         </div>
       </div>
@@ -741,23 +845,23 @@
 
     <section class="section reading-section" aria-labelledby="leitura-titulo">
       <div class="reading-grid shell">
-        <div class="reading-device" aria-hidden="true">
-          <div class="device-top"><span></span><span></span><span></span></div>
+        <div class="reading-device" aria-label="Amostra do início do capítulo 1">
           <div class="device-page">
             <small>CAPÍTULO 1</small>
             <strong>A Rotina Invisível</strong>
-            <p>Às 5h47 da manhã, antes mesmo do despertador tocar, os olhos de Camila se abriram.</p>
-            <i></i><i></i><i></i>
+            <p>Você já acordou cansada?</p>
+            <p>Camila conhecia bem esse tipo de cansaço. Ele tinha se tornado seu companheiro mais fiel, mais constante até que o marido que dormia ao seu lado.</p>
+            <p>Eram 05h53 da manhã.</p>
           </div>
         </div>
         <div class="reading-copy">
           <p class="eyebrow">Leia do seu jeito</p>
-          <h2 id="leitura-titulo">Confortável no celular. Bonito no tablet. Leve até em telas sem cor.</h2>
-          <p>O leitor salva automaticamente o capítulo, permite aumentar a letra e oferece modos claro, sépia e escuro. Você pode parar quando quiser e voltar exatamente de onde saiu.</p>
+          <h2 id="leitura-titulo">Abra o capítulo. O resto do mundo pode esperar um pouco.</h2>
+          <p>O leitor guarda o capítulo e a posição de leitura neste navegador. Você pode aumentar a letra e escolher entre os modos claro, sépia e escuro.</p>
           <ul class="reading-benefits">
             <li>Sem cadastro e sem aplicativo</li>
             <li>Fonte ajustável e índice com 40 capítulos</li>
-            <li>Compatível com navegadores de celulares, tablets e e-readers</li>
+            <li>Feito para celular e tablet; no e-reader, a experiência depende do navegador</li>
           </ul>
           <a class="button button-primary" href="./ler.html?cap=1">Abrir o leitor <span aria-hidden="true">→</span></a>
         </div>
@@ -810,7 +914,7 @@
           </details>
           <details>
             <summary>Posso ler no celular, tablet ou e-reader?</summary>
-            <p>Sim. O leitor se adapta a telas pequenas, permite aumentar a letra e oferece modos claro, sépia e escuro. Seu avanço fica salvo no próprio navegador para você continuar de onde parou.</p>
+            <p>Sim no celular e no tablet. Em e-readers, o funcionamento depende do navegador do aparelho. Você pode aumentar a letra e escolher os modos claro, sépia e escuro; o avanço fica salvo neste navegador.</p>
           </details>
           <details>
             <summary>Onde posso ler? É gratuito?</summary>
@@ -872,15 +976,17 @@
       });
 
       var mobileRead = document.querySelector('.mobile-read');
-      var mainReadButton = document.querySelector('.hero .button-primary');
-      if (mobileRead && mainReadButton) {
+      var hero = document.querySelector('.hero');
+      if (mobileRead && hero) {
         if ('IntersectionObserver' in window) {
           var readObserver = new IntersectionObserver(function (entries) {
-            mobileRead.classList.toggle('visible', !entries[0].isIntersecting);
-          }, { threshold: 0.15 });
-          readObserver.observe(mainReadButton);
+            mobileRead.classList.toggle('visible', !entries[0].isIntersecting && entries[0].boundingClientRect.bottom < 0);
+          }, { threshold: 0 });
+          readObserver.observe(hero);
         } else {
-          mobileRead.classList.add('visible');
+          window.addEventListener('scroll', function () {
+            mobileRead.classList.toggle('visible', hero.getBoundingClientRect().bottom < 0);
+          }, { passive: true });
         }
       }
     }());
