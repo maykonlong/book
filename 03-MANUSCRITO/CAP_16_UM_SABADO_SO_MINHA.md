@@ -67,7 +67,7 @@ Andou quatro quarteirões até uma padaria que sempre via da janela do ônibus. 
 
 — Só você? — perguntou a atendente.
 
-A pergunta atingiu um lugar sensível. Camila quase explicou que tinha filhos, que era divorciada, que aquilo era só uma manhã livre. Como se uma mulher precisasse apresentar defesa para ocupar uma mesa sozinha.
+A pergunta atingiu um lugar sensível. Camila quase explicou que tinha filhos, que estava separada, que aquilo era só uma manhã livre. Como se uma mulher precisasse apresentar defesa para ocupar uma mesa sozinha.
 
 — Só eu — respondeu.
 

@@ -1,7 +1,7 @@
 # CAPÍTULO 15
 ## A Nova Rotina
 
-A casa tem uma maneira cruel de lembrar a mulher divorciada de que ela está sozinha.
+A casa tem uma maneira cruel de lembrar a mulher recém-separada de que a vida mudou.
 
 Não são os grandes vazios. São as pequenas manutenções.
 

@@ -2777,7 +2777,7 @@ O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando
 
 Não se tornou.
 
-Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — nem a de dinheiro, nem a da vida.
+Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Camila recebia seis mil reais por mês. Somou apenas o que não podia deixar de pagar e chegou a quase seis mil e setecentos. Ainda faltavam o mercado e qualquer imprevisto. A matemática não fechava. E, pela primeira vez em onze anos, não havia outro salário para dividir a conta.
 
 Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
@@ -2790,6 +2790,12 @@ Ela fechou o aplicativo. Abriu outra vez, como se esperasse que o número tivess
 E então fez o que nunca tinha feito: sentou e listou. Não a lista mental da casa, das crianças, do Ricardo. A lista do dinheiro. De onde vinha. Para onde ia. O que dava para cortar.
 
 A lista doía mais do que qualquer outra.
+
+Na última linha da planilha, escreveu **pensão das crianças**. Deixou o espaço do valor em branco. Patrícia tinha feito o pedido, mas Ricardo ainda não pagara nada. Camila não podia comprar comida com uma promessa.
+
+Ligou para a escola e perguntou se havia como dividir a mensalidade daquele mês. Foi a primeira vez que precisou dizer em voz alta: "Estou me separando e não consigo pagar tudo na data." A secretária não fez perguntas. Ofereceu duas parcelas, com um acréscimo pequeno. Camila anotou o novo vencimento e agradeceu antes que a voz falhasse.
+
+Não era dinheiro novo. Era só um pouco de tempo. Naquele momento, tempo também ajudava.
 
 ---
 
@@ -2829,6 +2835,8 @@ Depois desligou o celular e foi esconder a cara no travesseiro, morrendo de verg
 
 Quando voltou, havia sete pedidos.
 
+Ela pegou o caderno de receitas e fez outra conta. Sete potes a oito reais: cinquenta e seis reais. Chocolate, leite, farinha, ovos, embalagens — quase metade já tinha sido gasta. E havia o gás, que ela nem sabia calcular direito. Fernanda tinha razão: podia ajudar. Mas sete pedidos não iam salvar o mês.
+
 ---
 
 A primeira entrega foi a pior.
@@ -2847,23 +2855,39 @@ Porque, enfim, alguém tinha reconhecido nela um talento que não era "ser a esp
 
 E, no fundo, era disso que ela mais precisava naquele mês: não só do dinheiro, mas da prova de que ela existia fora daqueles papéis de esposa e mãe.
 
+Na segunda-feira, levou dois potes para o trabalho. Fernanda comprou um; a moça da recepção comprou o outro e pediu o número de Camila. Na quarta, vieram cinco encomendas da agência. Na sexta, Camila chegou em casa com uma lista de nomes anotados atrás de uma pauta de reunião.
+
+Às dez da noite, depois de pôr as crianças para dormir, ainda estava lavando potes na pia. As costas doíam. O forno tinha aquecido a cozinha inteira. Não havia nada de mágico naquele recomeço. Havia uma mulher cansada tentando fazer a conta fechar.
+
 ---
 
-Sete viraram quinze. Quinze viraram uma clientela fixa. Camila descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
+Sete pedidos viraram quinze na semana seguinte. Na outra, Camila fez trinta potes entre o prédio e o trabalho. Descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
+
+Mas ela parou de chamar de ganho tudo o que entrava. Em trinta potes, recebia duzentos e quarenta reais. Depois dos ingredientes e das embalagens, sobrava pouco mais de cem. Para repetir aquilo a cada semana, precisava comprar, assar, vender, entregar e limpar tudo antes de dormir.
+
+Uma noite, Bia apareceu na porta da cozinha arrastando o cobertor.
+
+— Mãe, você ainda tá trabalhando?
+
+Camila olhou para a forma no forno, para a planilha aberta no celular e para a filha sonolenta.
+
+— Tô. Mas agora vou sentar um pouco com você.
+
+Desligou o forno quando o bolo ficou pronto e foi ler a história que tinha prometido. O dinheiro era necessário. Não podia, porém, transformar a casa nova na mesma casa onde ninguém tinha tempo de olhar para ninguém.
 
 Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, sem depender de ninguém, sem esperar o Ricardo cumprir a promessa de pensão que, até agora, não tinha cumprido.
 
-E, aos poucos, a conta que não fechava começou a fechar. Não folgada. Apertada, no limite, mas fechando.
+Os cortes nas contas e o que sobrava dos bolos diminuíram a diferença. Não apagaram as parcelas da escola, nem criaram uma reserva para uma emergência. Naquele abril, Camila pagou o condomínio alguns dias depois do vencimento e precisou telefonar para combinar a data. Desligou com vergonha e alívio misturados.
 
 Havia uma dignidade nova em ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. Uma dignidade que ninguém podia tirar.
 
 ---
 
-Na última quinta-feira do mês, Camila sentou outra vez com a planilha aberta. O saldo agora era outro. Ainda pequeno. Mas as contas estavam pagas. A natação do Léo ainda não tinha voltado. O celular ainda era pré-pago. Mas havia uma diferença crucial:
+Na última quinta-feira do mês, Camila sentou outra vez com a planilha aberta. O saldo continuava pequeno. Parte das contas estava paga; outras tinham data combinada. A natação do Léo ainda não tinha voltado. O celular ainda era pré-pago. Mas havia uma diferença crucial:
 
-Ela não estava mais com medo do dia 8.
+Ela sabia o que venceria no próximo dia 8. Ainda tinha medo, mas agora conseguia olhar para o número sem fechar o aplicativo.
 
-Porque agora ela sabia que, se tudo desabasse, ela tinha as mãos. Tinha o fogão. Tinha a receita do bolo de cenoura.
+Se tudo apertasse outra vez, ela tinha as mãos. Tinha o fogão. Tinha a receita do bolo de cenoura. E tinha uma planilha que não mentia para protegê-la.
 
 E tinha, principalmente, a certeza — dura como uma pedra no peito — de que nunca mais deixaria outra pessoa cuidar do dinheiro da sua vida.
 
@@ -2873,7 +2897,7 @@ Mas a pergunta que ainda não tinha resposta, e que Camila carregava como uma pe
 
 E o apartamento? Aquele que o Ricardo queria vender para pegar a parte dele. Aquele que guardava os tracinhos de lápis na parede da cozinha, a marca da altura do Léo a cada aniversário.
 
-O bolo no pote pagava as contas do mês. Mas não pagava a parte do Ricardo no imóvel.
+O bolo no pote ajudava a pagar as contas do mês. Mas não pagava a parte do Ricardo no imóvel.
 
 E o prazo, Camila sabia, estava correndo.
 
@@ -3225,7 +3249,7 @@ Ligou o carro e dirigiu de volta para o vazio barulhento de sua casa, mas agora 
 # CAPÍTULO 15
 ## A Nova Rotina
 
-A casa tem uma maneira cruel de lembrar a mulher divorciada de que ela está sozinha.
+A casa tem uma maneira cruel de lembrar a mulher recém-separada de que a vida mudou.
 
 Não são os grandes vazios. São as pequenas manutenções.
 
@@ -3720,7 +3744,7 @@ Andou quatro quarteirões até uma padaria que sempre via da janela do ônibus. 
 
 — Só você? — perguntou a atendente.
 
-A pergunta atingiu um lugar sensível. Camila quase explicou que tinha filhos, que era divorciada, que aquilo era só uma manhã livre. Como se uma mulher precisasse apresentar defesa para ocupar uma mesa sozinha.
+A pergunta atingiu um lugar sensível. Camila quase explicou que tinha filhos, que estava separada, que aquilo era só uma manhã livre. Como se uma mulher precisasse apresentar defesa para ocupar uma mesa sozinha.
 
 — Só eu — respondeu.
 
@@ -4351,7 +4375,7 @@ Ela tinha feito certo.
 # CAPÍTULO 19
 ## O Colega do Trabalho
 
-Voltar ao escritório depois do divórcio foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
+Voltar ao escritório depois da separação foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
 
 Na primeira semana, ela pegou três pessoas interrompendo a conversa quando ela se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
 
@@ -4387,7 +4411,7 @@ Ana era casada, quarenta e poucos, mãe de dois, e tinha aquele jeito calmo de q
 
 — Todo mundo ouviu, Cá. Mas o que importa é o que VOCÊ acha da sua vida. E, pelo que eu vejo, você tá mais leve. — Ana olhou para ela, por fim. — Isso assusta quem ficou.
 
-Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para ela de verdade, como pessoa, e não como a "coordenadora" ou a "mãe divorciada".
+Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para ela de verdade, como pessoa, e não como a "coordenadora" ou a "mãe separada".
 
 — Obrigada, Ana — disse ela, e era sincero.
 
@@ -5778,7 +5802,7 @@ Ela entendeu, ali, que a gente pode passar a vida inteira sorrindo para os outro
 
 Enquanto voltava para casa, Camila decidiu o que fazer com os quinhentos reais. Nada de boletos. Nada de supermercado. Aqueles quinhentos reais eram a prova de que a dor dela valia alguma coisa — e mereciam virar algo que a fizesse feliz. Uma moldura nova para o próximo quadro. Um jantar com Fernanda. Talvez, um dia, uma viagem.
 
-Ela estava divorciada.
+Ela estava separada.
 Estava com a conta bancária apertada.
 Estava cansada.
 Mas, puta merda, ela estava *livre*.
@@ -6395,7 +6419,7 @@ Postou nos stories, apenas para ela (melhores amigos):
 
 *"Fim. E começo."*
 
-Fernanda respondeu em segundos: *"ORGULHO DE VOCÊ! 🥂"*
+Fernanda respondeu em segundos: *"ORGULHO DE VOCÊ! Vamos brindar quando eu te encontrar."*
 Daniel (que ela tinha adicionado recentemente) respondeu: *"Parabéns pela coragem. O café parece ótimo."*
 
 Camila sorriu.
@@ -6404,6 +6428,40 @@ Sentiu o sabor cítrico na língua.
 
 A vida tinha gosto de novo.
 E ela estava faminta.
+
+Naquela noite, Camila contou às crianças que o divórcio estava pronto. Escolheu a cozinha, enquanto os três terminavam um macarrão simples. Não queria transformar a notícia numa cerimônia.
+
+— Quer dizer que vocês nunca mais vão morar juntos? — perguntou Bia.
+
+— Quer dizer que o papai vai continuar morando na casa dele e vocês vão continuar tendo uma casa comigo. Isso não muda o amor de nenhum de nós por vocês.
+
+Léo girou o garfo no prato.
+
+— Mas antes também era assim.
+
+— Era. Agora a papelada alcançou a nossa vida — respondeu Camila.
+
+Ele pareceu gostar da resposta sem enfeites. Perguntou se o fim de semana com o pai continuava igual. Continuava. Bia quis saber se podia repetir o macarrão. Podia.
+
+Depois que os dois dormiram, Camila encontrou no armário uma caneca que Ricardo usava aos domingos. Ficou com ela na mão mais tempo do que esperava. Estava feliz com a decisão e, ainda assim, sentiu falta da família que tinha imaginado quando compraram aquela caneca. Uma coisa não desmentia a outra.
+
+Lavou a caneca, guardou-a junto das demais e telefonou para Fernanda.
+
+— Assinei — disse.
+
+— E como você está?
+
+Camila olhou para a mesa, agora sem pratos nem papéis.
+
+— Livre. E um pouco triste. Acho que as duas coisas cabem.
+
+— Cabem, sim.
+
+Na sexta-feira, Daniel escreveu para confirmar o café. Camila começou a digitar que talvez fosse cedo demais. Apagou. Não precisava sair com ele para provar que estava curada; também não precisava recusar só porque ainda sentia o peso daquele fim.
+
+*"Sábado, três horas. Posso ir devagar?"*, enviou.
+
+*"É o único jeito que eu quero ir."*
 
 Sábado. Três da tarde.
 
@@ -8524,7 +8582,45 @@ Era para a frente que ela queria olhar agora.
 
 ---
 
-Na terapia da semana seguinte, Camila contou sobre o mercado, a apresentação e a conversa no carro com Daniel.
+No sábado, Daniel foi buscar uma caixa de livros que tinha emprestado a Léo. Bia o convenceu a ficar para jantar. Os quatro comeram arroz, omelete e tomate cortado depressa, enquanto ela contava a apresentação da escola pela terceira vez.
+
+Daniel riu quando Bia imitou o próprio tropeço na dança. Depois ouviu Léo explicar um desenho novo, sem fingir que entendia as partes que não entendia. Camila gostava daquela cena. O carinho dele pelas crianças era real. Justamente por isso, a conversa que faltava não ficava mais fácil.
+
+Quando os dois foram dormir, ela levou os pratos para a pia. Daniel pegou o pano, como sempre.
+
+— A gente precisa falar sobre o que você disse no carro — começou Camila.
+
+Ele pousou o prato que enxugava.
+
+— Eu sei.
+
+— O Léo e a Bia gostam de você. Você gosta deles. Eu fiquei pensando se, quando fala em ser pai, você imagina fazer parte da vida deles.
+
+— Imagino. E quero, se isso fizer sentido para vocês. Mas eles têm um pai. Não quero ocupar o lugar dele nem usar os dois para fingir que o meu desejo é outro.
+
+Camila encostou na bancada. Era a resposta honesta que tinha pedido e que, mesmo assim, custava ouvir.
+
+— Eu queria acompanhar um filho desde o começo — Daniel continuou. — A gravidez, o bebê, as noites ruins também. Sei que isso não torna o que eu sinto pelo Léo e pela Bia menor. São coisas diferentes.
+
+— E eu já vivi esse começo duas vezes. Amo os meus filhos, mas não quero voltar para ele.
+
+Daniel assentiu. Passou o pano numa parte do prato que já estava seca.
+
+— Pensei em dizer que podia abrir mão. Só que não sei se conseguiria dizer isso daqui a cinco anos sem sentir que perdi alguma coisa.
+
+— Eu também pensei em dizer "talvez". Seria injusto com você. E comigo.
+
+Ficaram em silêncio. Do quarto, Bia pediu um copo de água. Camila foi levar. Quando voltou, Daniel ainda estava na cozinha, o pano dobrado ao lado da pia.
+
+— Não precisamos resolver esta noite? — perguntou ele.
+
+— Não. Mas também não quero esconder a pergunta atrás dos dias bons.
+
+Daniel a abraçou. Ela aceitou o abraço sem transformá-lo numa resposta. Quando ele foi embora, Camila fechou a porta devagar. A casa estava em paz; ela, não. Ainda o amava. Pela primeira vez, deixou as duas verdades existirem sem escolher uma frase bonita para fazer a outra desaparecer.
+
+---
+
+Na terapia da semana seguinte, Camila contou sobre o mercado, a apresentação e as duas conversas com Daniel.
 
 — Ele é um homem bom — repetiu, pela terceira vez.
 

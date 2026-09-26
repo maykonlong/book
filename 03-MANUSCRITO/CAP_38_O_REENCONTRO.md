@@ -187,7 +187,45 @@ Era para a frente que ela queria olhar agora.
 
 ---
 
-Na terapia da semana seguinte, Camila contou sobre o mercado, a apresentação e a conversa no carro com Daniel.
+No sábado, Daniel foi buscar uma caixa de livros que tinha emprestado a Léo. Bia o convenceu a ficar para jantar. Os quatro comeram arroz, omelete e tomate cortado depressa, enquanto ela contava a apresentação da escola pela terceira vez.
+
+Daniel riu quando Bia imitou o próprio tropeço na dança. Depois ouviu Léo explicar um desenho novo, sem fingir que entendia as partes que não entendia. Camila gostava daquela cena. O carinho dele pelas crianças era real. Justamente por isso, a conversa que faltava não ficava mais fácil.
+
+Quando os dois foram dormir, ela levou os pratos para a pia. Daniel pegou o pano, como sempre.
+
+— A gente precisa falar sobre o que você disse no carro — começou Camila.
+
+Ele pousou o prato que enxugava.
+
+— Eu sei.
+
+— O Léo e a Bia gostam de você. Você gosta deles. Eu fiquei pensando se, quando fala em ser pai, você imagina fazer parte da vida deles.
+
+— Imagino. E quero, se isso fizer sentido para vocês. Mas eles têm um pai. Não quero ocupar o lugar dele nem usar os dois para fingir que o meu desejo é outro.
+
+Camila encostou na bancada. Era a resposta honesta que tinha pedido e que, mesmo assim, custava ouvir.
+
+— Eu queria acompanhar um filho desde o começo — Daniel continuou. — A gravidez, o bebê, as noites ruins também. Sei que isso não torna o que eu sinto pelo Léo e pela Bia menor. São coisas diferentes.
+
+— E eu já vivi esse começo duas vezes. Amo os meus filhos, mas não quero voltar para ele.
+
+Daniel assentiu. Passou o pano numa parte do prato que já estava seca.
+
+— Pensei em dizer que podia abrir mão. Só que não sei se conseguiria dizer isso daqui a cinco anos sem sentir que perdi alguma coisa.
+
+— Eu também pensei em dizer "talvez". Seria injusto com você. E comigo.
+
+Ficaram em silêncio. Do quarto, Bia pediu um copo de água. Camila foi levar. Quando voltou, Daniel ainda estava na cozinha, o pano dobrado ao lado da pia.
+
+— Não precisamos resolver esta noite? — perguntou ele.
+
+— Não. Mas também não quero esconder a pergunta atrás dos dias bons.
+
+Daniel a abraçou. Ela aceitou o abraço sem transformá-lo numa resposta. Quando ele foi embora, Camila fechou a porta devagar. A casa estava em paz; ela, não. Ainda o amava. Pela primeira vez, deixou as duas verdades existirem sem escolher uma frase bonita para fazer a outra desaparecer.
+
+---
+
+Na terapia da semana seguinte, Camila contou sobre o mercado, a apresentação e as duas conversas com Daniel.
 
 — Ele é um homem bom — repetiu, pela terceira vez.
 

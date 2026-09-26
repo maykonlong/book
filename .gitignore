@@ -32,3 +32,4 @@ desktop.ini
 __pycache__/
 PACOTE_PUBLICACAO/.qa/
 PACOTE_PUBLICACAO/.qa2/
+tmp/pdfs/

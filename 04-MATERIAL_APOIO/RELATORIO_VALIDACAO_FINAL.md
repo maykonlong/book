@@ -8,13 +8,13 @@
 **APROVADO para publicação técnica.**
 
 - 40 capítulos em sequência, sem lacunas.
-- 62.622 palavras contando os títulos e cabeçalhos dos capítulos; 62.391 palavras de história.
+- 63.760 palavras contando os títulos e cabeçalhos dos capítulos; 63.529 palavras de história.
 - Nenhum capítulo abaixo de 900 palavras.
 - 10 ilustrações narrativas presentes no leitor e no EPUB.
 - 13 temas femininos presentes na página, no JSON-LD e no `llms.txt`.
-- 0 parágrafos longos duplicados entre capítulos.
+- 0 frases longas duplicadas entre capítulos.
 - EPUBCheck 5.4.0: 0 erros fatais, 0 erros e 0 avisos.
-- Miolo: 318 páginas em 5,5 × 8,5 polegadas, com sumário paginado e números conferidos.
+- Miolo: 324 páginas em 5,5 × 8,5 polegadas, com sumário paginado e números conferidos.
 - Links locais, checksums e ZIP final: aprovados.
 - Página testada em desktop, tablet e celular, sem rolagem horizontal e sem erros no console.
 
@@ -26,7 +26,16 @@
 - A página de apresentação ganhou direção de arte editorial ligada à capa: fundo azul profundo, papel quente, tipografia de livro, linhas de índice e destaque para três ilustrações sem revelar as cenas finais.
 - A chamada para começar a leitura aparece na primeira tela do celular. O botão fixo só surge depois que a abertura sai de vista, para não cobrir o texto.
 - Foram retiradas promessas genéricas sobre o ritmo da obra e a compatibilidade irrestrita com e-readers. O funcionamento nesses aparelhos depende do navegador.
-- EPUBCheck 5.4.0 foi executado novamente: 0 erros fatais, 0 erros, 0 avisos. O miolo segue com 318 páginas; o trecho alterado e a capa foram renderizados e inspecionados.
+- EPUBCheck 5.4.0 foi executado novamente naquela passagem: 0 erros fatais, 0 erros, 0 avisos. O miolo tinha 318 páginas então; a versão atual e sua capa foram reconstruídas para 324 páginas.
+
+## Revisão de ritmo e continuidade de 26/09/2026
+
+- No capítulo 12, o bolo no pote deixou de resolver as contas de imediato: Camila calcula custo e lucro, negocia vencimentos, enfrenta o trabalho extra e termina o mês ainda apertada. A solução do apartamento permanece para o acordo posterior.
+- No capítulo 29, a notícia do divórcio chega aos filhos e Camila reconhece que alívio e luto podem coexistir antes do novo café com Daniel.
+- No capítulo 38, Camila e Daniel conversam sobre o desejo dele de acompanhar a criação de outro filho desde o começo. O carinho por Léo e Bia não é usado como resposta fácil à diferença entre os dois.
+- Antes da conclusão oficial do divórcio no capítulo 29, referências à condição de Camila nos capítulos 15, 16, 19 e 26 foram corrigidas para "separada".
+- Retirado um emoji da mensagem de Fernanda que virava um glifo vazio no PDF impresso. O validador agora detecta caracteres fora do repertório seguro do miolo.
+- Regenerados manuscrito consolidado, versão beta, EPUB, miolo, capa impressa, metadados e ZIP KDP. EPUBCheck: 0 erros fatais, 0 erros e 0 avisos; checksums e links locais aprovados.
 
 ## Ajustes adicionais de 26/09/2026
 

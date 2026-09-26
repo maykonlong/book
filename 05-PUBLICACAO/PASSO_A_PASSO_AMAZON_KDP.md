@@ -16,7 +16,7 @@ O material que deve ser enviado está em `PACOTE_PUBLICACAO/AMAZON_KDP/`.
 | Descrição | `metadados/descricao-amazon.html` ou `.txt` |
 | Conferência de envio | `metadados/CHECKLIST_UPLOAD.md` |
 
-O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo tem 318 páginas, inclui sumário paginado e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria.
+O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo tem 324 páginas, inclui sumário paginado e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria.
 
 ## 2. Antes de entrar no KDP
 
@@ -51,7 +51,7 @@ O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo 
 - [ ] Nome da autora, título e subtítulo idênticos em eBook, impresso e metadados.
 - [ ] EPUB e capa Kindle enviados das pastas corretas.
 - [ ] Configuração impressa exatamente em 5,5 × 8,5 pol., creme e sem sangria.
-- [ ] Miolo com 318 páginas no Previewer e sumário com números correspondentes aos capítulos.
+- [ ] Miolo com 324 páginas no Previewer e sumário com números correspondentes aos capítulos.
 - [ ] Capa sem alertas de corte, lombada ou área segura.
 - [ ] Artes geradas por IA declaradas corretamente.
 - [ ] KDP Select desmarcado enquanto a leitura integral estiver pública no site.

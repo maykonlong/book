@@ -1,7 +1,7 @@
 # CAPÍTULO 19
 ## O Colega do Trabalho
 
-Voltar ao escritório depois do divórcio foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
+Voltar ao escritório depois da separação foi como voltar para a escola depois de uma doença longa: todo mundo sabia de alguma coisa, ninguém falava diretamente, e Camila sentia os olhares nas costas como alfinetes.
 
 Na primeira semana, ela pegou três pessoas interrompendo a conversa quando ela se aproximava da copa. Duas colegas perguntaram "você tá bem?" com um tom que queria dizer "conta tudo". E uma estagiária, sem querer, deixou escapar que "o pessoal tá comentando".
 
@@ -37,7 +37,7 @@ Ana era casada, quarenta e poucos, mãe de dois, e tinha aquele jeito calmo de q
 
 — Todo mundo ouviu, Cá. Mas o que importa é o que VOCÊ acha da sua vida. E, pelo que eu vejo, você tá mais leve. — Ana olhou para ela, por fim. — Isso assusta quem ficou.
 
-Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para ela de verdade, como pessoa, e não como a "coordenadora" ou a "mãe divorciada".
+Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para ela de verdade, como pessoa, e não como a "coordenadora" ou a "mãe separada".
 
 — Obrigada, Ana — disse ela, e era sincero.
 

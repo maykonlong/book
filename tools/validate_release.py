@@ -75,6 +75,9 @@ def validate_chapters() -> int:
         fail(f"Capítulos abaixo de 900 palavras: {short}")
 
     combined = "\n".join(texts)
+    unsupported_glyphs = sorted({f"U+{ord(char):04X}" for char in combined if ord(char) > 0xFFFF})
+    if unsupported_glyphs:
+        fail(f"Caracteres sem suporte garantido no miolo impresso: {unsupported_glyphs}")
     leftovers = [token for token in FORBIDDEN_TEXT if token.casefold() in combined.casefold()]
     if leftovers:
         fail(f"Resíduos linguísticos encontrados: {leftovers}")

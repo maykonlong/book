@@ -14,8 +14,8 @@ Arquivos preparados em 26/09/2026 para publicação independente.
 - Tamanho: 5,5 × 8,5 polegadas
 - Papel: creme
 - Interior: preto e branco, sem sangria
-- Página total do miolo: 318
-- Lombada calculada: 0.7950 polegada
+- Página total do miolo: 324
+- Lombada calculada: 0.8100 polegada
 - Acabamento sugerido: fosco
 
 Não altere o número de páginas do miolo sem gerar novamente a capa completa, pois a largura da lombada depende desse total. Antes de publicar, substitua ou confirme os dados pessoais, fiscais, bancários, preço, territórios, ISBN e categorias diretamente na conta KDP.

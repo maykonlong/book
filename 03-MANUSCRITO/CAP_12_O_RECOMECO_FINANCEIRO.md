@@ -5,7 +5,7 @@ O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando
 
 Não se tornou.
 
-Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Um desfile de boletos que, somados, davam mais do que ela ganhava. A matemática não fechava. E, em onze anos, não havia ninguém para dividir a conta — nem a de dinheiro, nem a da vida.
+Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Camila recebia seis mil reais por mês. Somou apenas o que não podia deixar de pagar e chegou a quase seis mil e setecentos. Ainda faltavam o mercado e qualquer imprevisto. A matemática não fechava. E, pela primeira vez em onze anos, não havia outro salário para dividir a conta.
 
 Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
@@ -18,6 +18,12 @@ Ela fechou o aplicativo. Abriu outra vez, como se esperasse que o número tivess
 E então fez o que nunca tinha feito: sentou e listou. Não a lista mental da casa, das crianças, do Ricardo. A lista do dinheiro. De onde vinha. Para onde ia. O que dava para cortar.
 
 A lista doía mais do que qualquer outra.
+
+Na última linha da planilha, escreveu **pensão das crianças**. Deixou o espaço do valor em branco. Patrícia tinha feito o pedido, mas Ricardo ainda não pagara nada. Camila não podia comprar comida com uma promessa.
+
+Ligou para a escola e perguntou se havia como dividir a mensalidade daquele mês. Foi a primeira vez que precisou dizer em voz alta: "Estou me separando e não consigo pagar tudo na data." A secretária não fez perguntas. Ofereceu duas parcelas, com um acréscimo pequeno. Camila anotou o novo vencimento e agradeceu antes que a voz falhasse.
+
+Não era dinheiro novo. Era só um pouco de tempo. Naquele momento, tempo também ajudava.
 
 ---
 
@@ -57,6 +63,8 @@ Depois desligou o celular e foi esconder a cara no travesseiro, morrendo de verg
 
 Quando voltou, havia sete pedidos.
 
+Ela pegou o caderno de receitas e fez outra conta. Sete potes a oito reais: cinquenta e seis reais. Chocolate, leite, farinha, ovos, embalagens — quase metade já tinha sido gasta. E havia o gás, que ela nem sabia calcular direito. Fernanda tinha razão: podia ajudar. Mas sete pedidos não iam salvar o mês.
+
 ---
 
 A primeira entrega foi a pior.
@@ -75,23 +83,39 @@ Porque, enfim, alguém tinha reconhecido nela um talento que não era "ser a esp
 
 E, no fundo, era disso que ela mais precisava naquele mês: não só do dinheiro, mas da prova de que ela existia fora daqueles papéis de esposa e mãe.
 
+Na segunda-feira, levou dois potes para o trabalho. Fernanda comprou um; a moça da recepção comprou o outro e pediu o número de Camila. Na quarta, vieram cinco encomendas da agência. Na sexta, Camila chegou em casa com uma lista de nomes anotados atrás de uma pauta de reunião.
+
+Às dez da noite, depois de pôr as crianças para dormir, ainda estava lavando potes na pia. As costas doíam. O forno tinha aquecido a cozinha inteira. Não havia nada de mágico naquele recomeço. Havia uma mulher cansada tentando fazer a conta fechar.
+
 ---
 
-Sete viraram quinze. Quinze viraram uma clientela fixa. Camila descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
+Sete pedidos viraram quinze na semana seguinte. Na outra, Camila fez trinta potes entre o prédio e o trabalho. Descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
+
+Mas ela parou de chamar de ganho tudo o que entrava. Em trinta potes, recebia duzentos e quarenta reais. Depois dos ingredientes e das embalagens, sobrava pouco mais de cem. Para repetir aquilo a cada semana, precisava comprar, assar, vender, entregar e limpar tudo antes de dormir.
+
+Uma noite, Bia apareceu na porta da cozinha arrastando o cobertor.
+
+— Mãe, você ainda tá trabalhando?
+
+Camila olhou para a forma no forno, para a planilha aberta no celular e para a filha sonolenta.
+
+— Tô. Mas agora vou sentar um pouco com você.
+
+Desligou o forno quando o bolo ficou pronto e foi ler a história que tinha prometido. O dinheiro era necessário. Não podia, porém, transformar a casa nova na mesma casa onde ninguém tinha tempo de olhar para ninguém.
 
 Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, sem depender de ninguém, sem esperar o Ricardo cumprir a promessa de pensão que, até agora, não tinha cumprido.
 
-E, aos poucos, a conta que não fechava começou a fechar. Não folgada. Apertada, no limite, mas fechando.
+Os cortes nas contas e o que sobrava dos bolos diminuíram a diferença. Não apagaram as parcelas da escola, nem criaram uma reserva para uma emergência. Naquele abril, Camila pagou o condomínio alguns dias depois do vencimento e precisou telefonar para combinar a data. Desligou com vergonha e alívio misturados.
 
 Havia uma dignidade nova em ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. Uma dignidade que ninguém podia tirar.
 
 ---
 
-Na última quinta-feira do mês, Camila sentou outra vez com a planilha aberta. O saldo agora era outro. Ainda pequeno. Mas as contas estavam pagas. A natação do Léo ainda não tinha voltado. O celular ainda era pré-pago. Mas havia uma diferença crucial:
+Na última quinta-feira do mês, Camila sentou outra vez com a planilha aberta. O saldo continuava pequeno. Parte das contas estava paga; outras tinham data combinada. A natação do Léo ainda não tinha voltado. O celular ainda era pré-pago. Mas havia uma diferença crucial:
 
-Ela não estava mais com medo do dia 8.
+Ela sabia o que venceria no próximo dia 8. Ainda tinha medo, mas agora conseguia olhar para o número sem fechar o aplicativo.
 
-Porque agora ela sabia que, se tudo desabasse, ela tinha as mãos. Tinha o fogão. Tinha a receita do bolo de cenoura.
+Se tudo apertasse outra vez, ela tinha as mãos. Tinha o fogão. Tinha a receita do bolo de cenoura. E tinha uma planilha que não mentia para protegê-la.
 
 E tinha, principalmente, a certeza — dura como uma pedra no peito — de que nunca mais deixaria outra pessoa cuidar do dinheiro da sua vida.
 
@@ -101,6 +125,6 @@ Mas a pergunta que ainda não tinha resposta, e que Camila carregava como uma pe
 
 E o apartamento? Aquele que o Ricardo queria vender para pegar a parte dele. Aquele que guardava os tracinhos de lápis na parede da cozinha, a marca da altura do Léo a cada aniversário.
 
-O bolo no pote pagava as contas do mês. Mas não pagava a parte do Ricardo no imóvel.
+O bolo no pote ajudava a pagar as contas do mês. Mas não pagava a parte do Ricardo no imóvel.
 
 E o prazo, Camila sabia, estava correndo.

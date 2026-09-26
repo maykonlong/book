@@ -32,7 +32,7 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 ### Março a maio — sobrevivência e nova rotina
 
 - **Cap. 11 — O Processo:** Camila procura uma advogada e entende guarda, pensão e divisão de bens.
-- **Cap. 12 — O Recomeço Financeiro:** ela reorganiza as contas e cria renda extra.
+- **Cap. 12 — O Recomeço Financeiro:** ela negocia prazos, corta despesas e cria renda extra com bolos, sem resolver de imediato o aperto financeiro.
 - **Cap. 13 — A Pressão da Família:** Dona Sônia enfrenta as parentes e apoia a filha.
 - **Cap. 14 — A Primeira Sessão:** Camila começa a terapia.
 - **Cap. 15 — A Nova Rotina:** dois meses depois da saída de Ricardo, a casa começa a ter um novo ritmo.
@@ -60,7 +60,7 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - **Cap. 26 — O Primeiro Sorriso Real:** na primeira exposição do ateliê, Camila vende um quadro e reconhece a própria alegria.
 - **Cap. 27 — O Encontro:** quase um ano após a separação, uma segunda exposição apresenta Daniel.
 - **Cap. 28 — A Resistência:** depois de onze meses separados, Ricardo tenta voltar; Camila mantém a decisão.
-- **Cap. 29 — O Fim e o Começo:** guarda, pensão, visitas e apartamento já estão resolvidos; o divórcio é concluído e Camila aceita conhecer Daniel.
+- **Cap. 29 — O Fim e o Começo:** guarda, pensão, visitas e apartamento já estão resolvidos; o divórcio é concluído, Camila conversa com os filhos e só depois aceita um novo encontro com Daniel.
 - **Cap. 30 — Um Ano Depois:** doze meses após a saída de Ricardo, a nova rotina está firme.
 
 ### Maio a julho — a família se abre ao novo
@@ -75,7 +75,7 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - **Cap. 35 — A Primeira Briga:** Camila e Daniel aprendem a discordar sem medo.
 - **Cap. 36 — O Primeiro Presente:** um gesto atento mostra a diferença entre preço e cuidado.
 - **Cap. 37 — O Encontro com a Mãe do Daniel:** Camila experimenta acolhimento, mas descobre que Daniel quer ser pai e ela não quer mais filhos.
-- **Cap. 38 — O Reencontro:** ao encontrar Ricardo, ela percebe que ele já não controla suas emoções e entende que duas pessoas boas podem querer futuros diferentes.
+- **Cap. 38 — O Reencontro:** ao encontrar Ricardo, ela percebe que ele já não controla suas emoções; numa conversa franca com Daniel, os dois reconhecem que desejam futuros diferentes.
 - **Cap. 39 — Carta Para Mim Mesma:** Camila acolhe a mulher que foi e termina com Daniel sem culpa, briga ou dependência.
 - **Cap. 40 — A Metade Que Me Faltava Era Eu:** semanas depois, em setembro, a exposição encerra o arco com Camila solteira, feliz e inteira.
 

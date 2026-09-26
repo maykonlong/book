@@ -66,7 +66,7 @@ Postou nos stories, apenas para ela (melhores amigos):
 
 *"Fim. E começo."*
 
-Fernanda respondeu em segundos: *"ORGULHO DE VOCÊ! 🥂"*
+Fernanda respondeu em segundos: *"ORGULHO DE VOCÊ! Vamos brindar quando eu te encontrar."*
 Daniel (que ela tinha adicionado recentemente) respondeu: *"Parabéns pela coragem. O café parece ótimo."*
 
 Camila sorriu.
@@ -75,6 +75,40 @@ Sentiu o sabor cítrico na língua.
 
 A vida tinha gosto de novo.
 E ela estava faminta.
+
+Naquela noite, Camila contou às crianças que o divórcio estava pronto. Escolheu a cozinha, enquanto os três terminavam um macarrão simples. Não queria transformar a notícia numa cerimônia.
+
+— Quer dizer que vocês nunca mais vão morar juntos? — perguntou Bia.
+
+— Quer dizer que o papai vai continuar morando na casa dele e vocês vão continuar tendo uma casa comigo. Isso não muda o amor de nenhum de nós por vocês.
+
+Léo girou o garfo no prato.
+
+— Mas antes também era assim.
+
+— Era. Agora a papelada alcançou a nossa vida — respondeu Camila.
+
+Ele pareceu gostar da resposta sem enfeites. Perguntou se o fim de semana com o pai continuava igual. Continuava. Bia quis saber se podia repetir o macarrão. Podia.
+
+Depois que os dois dormiram, Camila encontrou no armário uma caneca que Ricardo usava aos domingos. Ficou com ela na mão mais tempo do que esperava. Estava feliz com a decisão e, ainda assim, sentiu falta da família que tinha imaginado quando compraram aquela caneca. Uma coisa não desmentia a outra.
+
+Lavou a caneca, guardou-a junto das demais e telefonou para Fernanda.
+
+— Assinei — disse.
+
+— E como você está?
+
+Camila olhou para a mesa, agora sem pratos nem papéis.
+
+— Livre. E um pouco triste. Acho que as duas coisas cabem.
+
+— Cabem, sim.
+
+Na sexta-feira, Daniel escreveu para confirmar o café. Camila começou a digitar que talvez fosse cedo demais. Apagou. Não precisava sair com ele para provar que estava curada; também não precisava recusar só porque ainda sentia o peso daquele fim.
+
+*"Sábado, três horas. Posso ir devagar?"*, enviou.
+
+*"É o único jeito que eu quero ir."*
 
 Sábado. Três da tarde.
 

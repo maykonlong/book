@@ -121,7 +121,7 @@ Ela entendeu, ali, que a gente pode passar a vida inteira sorrindo para os outro
 
 Enquanto voltava para casa, Camila decidiu o que fazer com os quinhentos reais. Nada de boletos. Nada de supermercado. Aqueles quinhentos reais eram a prova de que a dor dela valia alguma coisa — e mereciam virar algo que a fizesse feliz. Uma moldura nova para o próximo quadro. Um jantar com Fernanda. Talvez, um dia, uma viagem.
 
-Ela estava divorciada.
+Ela estava separada.
 Estava com a conta bancária apertada.
 Estava cansada.
 Mas, puta merda, ela estava *livre*.
