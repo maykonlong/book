@@ -1,6 +1,6 @@
 # PASSO A PASSO — PUBLICAR NA AMAZON KDP
 
-> Guia do pacote final de **A Metade Que Me Faltava Era Eu**. Atualizado em 26/09/2026. Como telas, preços, impostos e regras podem mudar, confirme os dados diretamente no painel e na ajuda oficial da KDP no dia do envio.
+> Guia do pacote preparado de **A Metade Que Me Faltava Era Eu**. Atualizado em 26/09/2026. O impresso ainda depende da conferência da ficha catalográfica. Como telas, preços, impostos e regras podem mudar, confirme os dados diretamente no painel e na ajuda oficial da KDP no dia do envio.
 
 ## 1. Arquivos prontos
 
@@ -16,12 +16,13 @@ O material que deve ser enviado está em `PACOTE_PUBLICACAO/AMAZON_KDP/`.
 | Descrição | `metadados/descricao-amazon.html` ou `.txt` |
 | Conferência de envio | `metadados/CHECKLIST_UPLOAD.md` |
 
-O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo tem 324 páginas, inclui sumário paginado e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria.
+O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo atual tem 322 páginas, inclui sumário paginado e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria. **Antes do upload definitivo da edição brasileira impressa, providencie e confira a ficha catalográfica; se ela exigir alteração no miolo, gere novamente o PDF e a capa e revise a nova paginação.** Veja [GUIA_ISBN_DIRETOS_AUTORAIS.md](GUIA_ISBN_DIRETOS_AUTORAIS.md).
 
 ## 2. Antes de entrar no KDP
 
 - Use Mariana Duarte como nome literário público; na conta KDP, informe os dados legais e fiscais reais do titular responsável.
 - Decida se usará o ISBN gratuito da KDP ou um ISBN próprio no impresso. O eBook recebe ASIN e não exige ISBN.
+- Confirme os dados bibliográficos da ficha catalográfica da edição brasileira e incorpore-a ao miolo antes de enviar os arquivos finais. A ficha não substitui o ISBN nem o registro facultativo de direitos autorais.
 - **Não selecione KDP Select enquanto o livro completo estiver disponível gratuitamente no site.** O programa exige exclusividade digital. A edição impressa não depende dessa escolha.
 - Confira título, subtítulo e nome da autora exatamente como aparecem nos arquivos.
 - Não invente respostas fiscais. Preencha a entrevista conforme sua situação e procure um contador se houver dúvida.
@@ -41,7 +42,7 @@ O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo 
 
 1. Crie uma edição **brochura** vinculada ao mesmo título.
 2. Configure: **5,5 × 8,5 pol.**, interior **preto e branco**, papel **creme** e **sem sangria**.
-3. Envie o miolo PDF e a capa completa PDF da pasta `impresso/`.
+3. Depois de incluir/conferir a ficha catalográfica, envie o miolo PDF e a capa completa PDF da pasta `impresso/`. Se a ficha mudar a paginação, substitua **ambos** os arquivos pelos novos antes de enviar.
 4. Abra o Previewer de impressão e verifique todas as páginas, especialmente as dez aberturas ilustradas, margens internas, páginas em branco e lombada.
 5. Se a KDP recalcular o número de páginas ou alterar o tipo de papel, não force esta capa: gere outra com a nova largura de lombada.
 6. Solicite uma prova física antes de liberar a venda. Confira cor, corte, contraste, legibilidade e alinhamento da lombada.
@@ -51,7 +52,8 @@ O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo 
 - [ ] Nome da autora, título e subtítulo idênticos em eBook, impresso e metadados.
 - [ ] EPUB e capa Kindle enviados das pastas corretas.
 - [ ] Configuração impressa exatamente em 5,5 × 8,5 pol., creme e sem sangria.
-- [ ] Miolo com 324 páginas no Previewer e sumário com números correspondentes aos capítulos.
+- [ ] Miolo com a contagem esperada no Previewer (322 páginas na versão atual; pode mudar após a ficha) e sumário correspondente aos capítulos.
+- [ ] Ficha catalográfica da edição brasileira conferida no miolo; se a paginação mudar, revisar o número de páginas esperado e refazer a capa.
 - [ ] Capa sem alertas de corte, lombada ou área segura.
 - [ ] Artes geradas por IA declaradas corretamente.
 - [ ] KDP Select desmarcado enquanto a leitura integral estiver pública no site.
@@ -66,5 +68,6 @@ O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo 
 - Atualize a landing page com os links reais de compra.
 - Peça avaliações sinceras, sem compra, troca ou recompensa.
 - Guarde o ZIP final e o arquivo `SHA256SUMS.txt` como cópia da edição publicada.
+- Verifique com a Biblioteca Nacional a aplicação do depósito legal às edições efetivamente publicadas e guarde o recibo; consulte [o guia específico](GUIA_ISBN_DIRETOS_AUTORAIS.md).
 
 Links oficiais: `https://kdp.amazon.com/` e `https://kdp.amazon.com/help`.

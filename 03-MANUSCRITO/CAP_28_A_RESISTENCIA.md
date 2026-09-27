@@ -77,7 +77,7 @@ Ele não queria a Camila de volta. Ele queria a cozinheira, a governanta, a secr
 
 — Mudei! Eu posso provar!
 
-— Não mudou. Você só está desconfortável. Você descobriu que a vida de solteiro dá trabalho. Que tem que lavar roupa, limpar casa, lembrar de pagar conta. E você quer seu staff de volta.
+— Não mudou. Você só está desconfortável. Descobriu que a vida de solteiro dá trabalho. Que tem que lavar roupa, limpar casa, lembrar de pagar conta. E quer que eu faça tudo por você de novo.
 
 Ele ficou vermelho.
 — Que injustiça! Eu te amo!
@@ -92,9 +92,9 @@ Ricardo recuou. A máscara de bom moço caiu, revelando a irritação de sempre.
 — Tá bom. Se você quer assim. Depois não vem chorar quando eu estiver com outra.
 
 Camila riu.
-— Ricardo, eu torço para você ficar com outra. De verdade. Alguém tem que cuidar de você, e eu estou muito feliz que não sou mais eu.
+— Ricardo, eu torço para você aprender a cuidar de si. Eu não vou fazer isso por você de novo.
 
-Ele ficou encarando-a, chocado com a audácia.
+Ele ficou encarando-a, sem resposta.
 Pegou a chave do carro.
 — Você vai se arrepender. Você vai ver como é envelhecer sozinha.
 
@@ -119,10 +119,6 @@ O silêncio da casa nunca tinha sido tão delicioso.
 Ela tinha passado no teste.
 O passado bateu na porta com flores e promessas.
 E ela não abriu.
-
-Camila sorriu para a página do livro, retomando a leitura de onde tinha parado. Lá fora, o elevador desceu levando Ricardo embora. E dentro dela, não sobrou nem o eco daquela conversa.
-
-Ela tinha aprendido a lição.
 
 Depois, sem conseguir voltar ao livro, Camila pegou o celular e ligou para Fernanda.
 

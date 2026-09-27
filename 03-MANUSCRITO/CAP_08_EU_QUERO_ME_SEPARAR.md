@@ -1,7 +1,9 @@
 # CAPÍTULO 8
 ## Eu Quero Me Separar
 
-O pronto-socorro estava com aquele cheiro específico de éter e desinfetante barato que embrulha o estômago.
+No caminho para a casa da mãe, a febre fez Camila pedir ao motorista que parasse no pronto-socorro. Mandou uma mensagem a Dona Sônia avisando onde estava.
+
+O pronto-socorro tinha cheiro de desinfetante, café requentado e gente esperando havia horas.
 
 Camila estava sentada em uma cadeira de plástico azul, dura, segurando sua bolsa contra o peito. Tremia de febre e de adrenalina.
 
@@ -12,7 +14,9 @@ Ela olhou para o celular. Dezenas de mensagens de Ricardo.
 *"Onde você está?"*
 *"Para com essa loucura."*
 *"Você não pode sair assim."*
-*"As crianças estão perguntando."*
+*"Minha mãe vai buscar as crianças na escola."*
+
+Camila avisou Dona Sônia para não ir também. A mãe respondeu que estaria em casa quando ela precisasse.
 
 Ela não respondeu. Bloqueou a tela.
 
@@ -30,7 +34,7 @@ Fernanda ficou em silêncio por um segundo.
 
 — Você precisa de algo? Quer que eu vá aí?
 
-— Não. Eu preciso... eu preciso ficar sozinha um pouco. Entender o que eu fiz.
+— Não. Minha mãe está me esperando. Mas eu preciso... preciso ficar sozinha um pouco. Entender o que eu fiz.
 
 — Você fez o que precisava. Vai ficar tudo bem.
 

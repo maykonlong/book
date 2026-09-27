@@ -95,7 +95,7 @@ A mudança definitiva aconteceu numa quinta-feira.
 
 Não houve nova briga, choro ou cena. Só... aconteceu.
 
-Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram e conversaram sobre logística.
+Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram para combinar como seria a saída dele.
 
 Com frieza. Com praticidade. Como dois adultos.
 

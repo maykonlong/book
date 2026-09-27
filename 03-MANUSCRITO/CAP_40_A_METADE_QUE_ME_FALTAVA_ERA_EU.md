@@ -1,7 +1,7 @@
 # CAPÍTULO 40
 ## A Metade Que Me Faltava Era Eu
 
-A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia um chá artesanal fermentado. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por luzes quentes que faziam as telas brilharem como janelas para outro mundo.
+A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida entre uma loja de discos de vinil e um café que vendia um chá artesanal fermentado. Não era a Pinacoteca. Não era o MASP. Era um espaço modesto, com paredes de tijolo aparente e piso de cimento queimado, iluminado por luzes quentes que faziam os quadros brilharem como janelas para outro mundo.
 
 Era perfeito.
 
@@ -41,7 +41,7 @@ Fazia algumas semanas que ela e Daniel tinham terminado. Ainda havia dias de sau
 
 Às sete e meia, a galeria estava cheia.
 
-Não lotada como uma festa de aniversário infantil — não era esse tipo de evento. Mas havia umas sessenta, setenta pessoas circulando entre as paredes, segurando taças de vinho barato e copinhos de água com gás, olhando as telas com aquela mistura de curiosidade e respeito que as pessoas têm em espaços artísticos.
+Não lotada como uma festa de aniversário infantil — não era esse tipo de evento. Mas havia umas sessenta, setenta pessoas circulando entre as paredes, segurando taças de vinho barato e copinhos de água com gás, olhando os quadros com aquela mistura de curiosidade e respeito que as pessoas têm em espaços artísticos.
 
 Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação do trabalho final da faculdade. As mãos suavam. Ela as enxugava na lateral do vestido vermelho, tentando não chamar atenção.
 
@@ -127,41 +127,25 @@ Mais tarde, durante a abertura formal, a professora Paula fez um discurso curto 
 
 Uma mulher na plateia levantou a mão. Era mais ou menos da idade de Camila, cabelo preso, olhos que pareciam carregar histórias próprias.
 
-— Camila, qual a mensagem principal dessa série?
+— Camila, por que ela voa sozinha no último quadro?
 
-Camila olhou para os quadros. Olhou para o salão.
+Camila olhou para o quadro. A mulher pintada não tinha ninguém segurando sua mão. Isso nunca tinha lhe parecido triste.
 
-Viu sua mãe, de mechas rosa, rindo de algo que Fernanda contava ao seu lado. Viu Léo sentado no chão com o caderno de desenho, copiando em silêncio os quadros dos outros alunos. Viu Bia no colo de Teresa, com os dedos melecados de brigadeiro. E viu Daniel perto da porta. Ele tinha perguntado, dias antes, se a presença dele deixaria a noite mais difícil. Camila respondeu que não. A exposição também guardava uma parte do que tinham aprendido juntos, e terminar bem não exigia apagar o que foi bom.
-
-Todos ali. Todos reais. Todos seus.
+Viu Léo sentado no chão com o caderno de desenho. Viu Bia no colo de Teresa, com os dedos sujos de brigadeiro. Perto da porta, Daniel assistia em silêncio. Ele tinha perguntado, dias antes, se a presença dele tornaria a noite difícil. Camila dissera que não. O fim dos dois não apagava o que tinha sido bom.
 
 Ela respirou fundo.
 
-— A mensagem é sobre ser inteira — respondeu Camila. A voz saiu mais firme do que ela esperava. — A gente cresce ouvindo que precisa encontrar a "metade da laranja". Que somos incompletos até achar um parceiro. Que sozinha você é só metade de alguma coisa.
+— Porque ela descobriu que consegue voar — respondeu. — Ela pode gostar de alguém. Pode sentir falta. Mas não precisa esperar que outra pessoa venha dizer que a vida dela pode começar.
 
-Ela fez uma pausa. O salão silenciou.
+Lembrou-se da primeira vez que entrou na sala de pintura com vergonha de mostrar uma folha de papel.
 
-— Eu passei anos procurando essa metade. No meu casamento. Nos meus filhos. No meu trabalho. Tentei me encaixar em metades de outras pessoas. Me cortei, me diminuí, me silenciei para caber. E quanto mais eu tentava caber no espaço que outros definiam para mim, mais eu perdia pedaços de quem eu era.
+— Eu achei por muito tempo que, se ficasse sozinha, ia faltar uma parte de mim. Precisei perder essa ideia. Foi difícil. Ainda tenho dias difíceis. Mas hoje eu sei que posso cuidar dos meus filhos, pintar, pedir ajuda e escolher o que quero, mesmo sem um homem ao meu lado.
 
-Outro silêncio. Ela viu a mulher que tinha feito a pergunta balançar a cabeça bem de leve, como se reconhecesse algo.
+Ela voltou a olhar para "Voo".
 
-— Mas o segredo — continuou Camila, e a voz quebrou levemente, mas ela deixou — o grande segredo que ninguém conta... é que nós já nascemos inteiras.
+— A metade que me faltava era eu.
 
-Pausa.
-
-— O divórcio não foi sobre perder um marido. Foi sobre me encontrar. A terapia não foi sobre consertar o que estava quebrado. Foi sobre descobrir que eu nunca estive quebrada. A pintura não foi sobre talento. Foi sobre coragem de criar algo meu num mundo que me pedia para só *manter*.
-
-Ela olhou para os três quadros.
-
-— A metade que me faltava não era um homem. Não era um rótulo. Não era aprovação.
-
-Sorriu. Um sorriso que iluminou a sala como o dourado do terceiro quadro.
-
-— A metade que me faltava... era eu. E ela sempre esteve aqui. Esperando que eu tivesse a coragem de me reencontrar.
-
-Aplausos.
-
-Não aqueles aplausos educados de galeria, dados só por obrigação. Aplausos reais. Emocionados. Mulheres na plateia com olhos marejados. Uma delas — a que fez a pergunta — enxugou o rosto com a manga da blusa. Fernanda assobiou, escandalosa como sempre, e Dona Sônia batia palmas com uma força que Camila nunca tinha visto nela.
+Fernanda começou a bater palmas antes de todo mundo. Dona Sônia a acompanhou. Camila riu, sem saber onde pôr a taça de água. A mulher que fizera a pergunta assentiu, como se tivesse recebido a resposta de que precisava naquele dia.
 
 Daniel aplaudia perto da porta. Quando os olhos dos dois se encontraram, ele sorriu. Não havia promessa escondida naquele sorriso. Havia carinho, respeito e a certeza de que uma história podia terminar sem virar fracasso.
 
@@ -213,6 +197,16 @@ Foi um abraço curto. Sem beijo, sem confusão, sem porta entreaberta. Quando se
 
 Daniel saiu pela porta da galeria e seguiu pela calçada. Camila o observou apenas até ele dobrar a esquina. Depois voltou para dentro.
 
+A mulher que tinha feito a pergunta esperava perto do quadro "Superfície". Chamava-se Joana. Trabalhava num espaço de bairro onde mulheres se reuniam para conversar e aprender coisas novas.
+
+— A gente vai começar uma oficina de pintura no mês que vem — disse ela. — Você teria vontade de visitar? Não precisa responder hoje.
+
+Camila olhou para a pequena marca de tinta vermelha que ainda tinha debaixo da unha. Meses antes, teria dito que não sabia ensinar ninguém. Agora queria ao menos conhecer o lugar.
+
+— Tenho, sim. Me passa o endereço?
+
+Joana escreveu o endereço e o telefone no verso de um cartão. Camila guardou-o na bolsa, ao lado das chaves de casa.
+
 Fernanda foi a última a sair. As crianças já tinham ido com Dona Sônia para dormir na casa da avó — uma novidade recente que todos adoravam. Antes de ir, a amiga abraçou Camila na porta.
 
 — Cá?
@@ -231,55 +225,25 @@ Quando todos foram embora, Camila voltou ao centro da galeria. A professora Paul
 
 Antes de buscar a bolsa, foi até os quadros.
 
-A galeria estava em penumbra agora. Apenas as luzes da parede central continuavam acesas, banhando os três quadros numa luz dourada e solitária. O silêncio era completo — aquele silêncio de depois, quando tudo já aconteceu e só resta o eco.
-
-Camila parou diante do terceiro quadro. "Voo".
+A galeria estava quase escura. Apenas as luzes dos três quadros continuavam acesas. Camila parou diante de "Voo".
 
 Levantou a mão e encostou as pontas dos dedos na moldura. Por trás do vidro, a cor se espalhava pelas fibras do papel. Cada camada de aquarela guardava uma parte da dor que ela tinha transformado. O vermelho era a raiva que virou coragem. O dourado era a alegria que ela pensou ter perdido para sempre. O violeta era a solidão que virou paz por saber estar só.
 
-Tudo estava ali. Tudo o que ela tinha vivido, chorado, perdido e recuperado, reunido numa folha de papel de algodão de sessenta por oitenta centímetros.
+Tudo estava ali, numa folha que um dia ela teria tido vergonha de pendurar diante de desconhecidos.
 
 — Conseguimos — sussurrou.
 
-Não disse "consegui". Disse "conseguimos". Porque havia mais de uma Camila naquela sala. Havia a Camila de vinte anos que pintava aquarelas e sonhava. Havia a Camila de vinte e três que se casou e foi guardando os sonhos. Havia a Camila de vinte e seis que segurou Léo nos braços pela primeira vez. Havia a Camila de trinta e quatro que acordava sete minutos antes do despertador, carregava listas mentais infinitas e, um dia, sentou no escuro da sala pensando quanto tempo Ricardo demoraria para notar que o papel higiênico não se repunha sozinho.
-
-E havia a Camila de agora. De vestido vermelho. Com tinta na alma e fogo no peito.
-
-Todas elas tinham chegado até ali. Juntas.
+Pensou na mulher que tinha chorado na cozinha sem fazer barulho. Gostaria que ela pudesse ver aqueles três quadros — e saber que os filhos estavam bem, que as contas continuavam apertadas às vezes, mas eram pagas, e que havia um convite novo dentro da bolsa.
 
 Camila pegou a bolsa. Apagou as luzes. Trancou a porta.
 
 Saiu para a noite de São Paulo.
 
-O ar estava frio, mas ela não sentiu frio. Havia um calor dentro dela — não de febre, não de raiva, não de ansiedade. Um calor de presença. De certeza. De se sentir inteira.
+Do lado de fora, o ar de setembro estava frio. Camila puxou o vestido para perto do corpo e procurou o carro na rua. Pensou que, na segunda-feira, ligaria para Joana. Primeiro passaria o domingo com Léo e Bia. Talvez pintassem juntos na mesa da cozinha, sem se preocupar com a sujeira.
 
-Ela olhou para cima. As estrelas eram poucas — São Paulo é generosa em tudo menos em céu estrelado — mas as que havia brilhavam com força, como se compensassem a escassez com intensidade.
+Ela caminhou sozinha até a esquina. Parou no sinal, esperando abrir, e sorriu ao lembrar a pergunta daquela mulher: por que voava sozinha?
 
-Camila sorriu para elas.
-
-Não um sorriso educado. Não um sorriso de fachada. Não um sorriso para que alguém visse e achasse que ela estava bem.
-
-Um sorriso dela. Para ela.
-
-E enquanto caminhava pela calçada irregular da Vila Madalena, com o barulho dos bares ao fundo e o vento de setembro nos cabelos soltos, Camila percebeu algo com uma clareza que quase doeu de tão bonita:
-
-Ela estava sozinha naquela calçada.
-
-E, pela primeira vez na vida, isso não era uma ameaça. Era liberdade.
-
-Porque a metade que ela passou a vida procurando em outras pessoas, em casamentos, em validações, em listas de compras e noites em claro e sorrisos forçados e olheiras de cansaço — a metade que parecia sempre faltar, sempre escapar, sempre pertencer a outro alguém —
-
-Essa metade nunca esteve fora.
-
-Sempre esteve aqui.
-
-Dentro dela.
-
-Esperando, com paciência infinita, que Camila por fim se encontrasse.
-
-E agora que se encontrou, esse fogo — esse fogo silencioso, imenso e firme — nunca mais se apagaria.
-
-Camila seguiu andando, sem pressa de chegar a ninguém.
+Porque podia. E, se quisesse companhia em outro trecho, saberia escolher sem deixar de ser ela mesma.
 
 Estava solteira.
 

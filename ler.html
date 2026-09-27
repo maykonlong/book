@@ -297,6 +297,7 @@ function mdToHtml(md) {
     if (/^# (.+)$/.test(t)) { flush(); html += '<h1>' + inline(t.slice(2)) + '</h1>'; continue; }
     if (/^## (.+)$/.test(t)) { flush(); html += '<h2>' + inline(t.slice(3)) + '</h2>'; continue; }
     if (/^&gt;\s*(.*)$/.test(t)) { flush(); html += '<blockquote>' + inline(t.replace(/^&gt;\s*/, '')) + '</blockquote>'; continue; }
+    if (t.startsWith('—') || t.startsWith('*"')) { flush(); html += '<p>' + inline(t) + '</p>'; continue; }
     para.push(t);
   }
   flush();

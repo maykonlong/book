@@ -5,6 +5,7 @@
 - [ ] Conferir a descrição, as sete palavras-chave e as categorias no painel.
 - [ ] Informar corretamente o uso de conteúdo gerado por IA.
 - [ ] Escolher ISBN gratuito da KDP ou informar ISBN próprio para o impresso.
+- [ ] Conferir/incluir a ficha catalográfica da edição brasileira no miolo; se mudar a paginação, regenerar PDF e capa.
 - [ ] Enviar o EPUB e abrir o Kindle Previewer em celular, tablet e e-reader.
 - [ ] Enviar o miolo PDF com 5,5 × 8,5 pol., papel creme e sem sangria.
 - [ ] Enviar a capa PDF correspondente ao mesmo número de páginas do miolo.

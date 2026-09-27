@@ -2,7 +2,7 @@
 ## As Pequenas Vitórias
 
 Três meses depois de Ricardo sair, Camila começou a colecionar pequenas vitórias.
-Não eram vitórias de filme, com música triunfante e fogos de artifício. Eram vitórias silenciosas, invisíveis para o mundo, mas monumentais para ela.
+Não eram vitórias de filme, com música triunfante e fogos de artifício. Eram vitórias pequenas para os outros, mas enormes para ela.
 
 Eram vitórias que não davam manchete e que ninguém aplaudia: acordar sem o peito apertado, comprar algo para si sem culpa, dizer não. Camila começou a contá-las para não esquecer que também estava avançando.
 

@@ -39,3 +39,5 @@ As categorias disponíveis mudam conforme a loja e o formato. Escolha somente as
 As ilustrações da capa e dos capítulos foram geradas com inteligência artificial e receberam direção, seleção, composição e tratamento editorial. Responda ao campo de transparência da KDP de acordo com a regra vigente no momento do envio. O texto passou por revisão assistida; confirme a origem do manuscrito conforme o processo real de quem o escreveu, independentemente do pseudônimo público.
 
 O livro completo está disponível gratuitamente no site oficial. Enquanto permanecer assim, não selecione KDP Select/exclusividade digital.
+
+Antes do upload definitivo do impresso brasileiro, conferir/incluir a ficha catalográfica com os dados bibliográficos finais; se o miolo mudar, regenerar o PDF e a capa.

@@ -250,7 +250,11 @@ def validate_epub() -> dict[str, int]:
             if anchor not in nav:
                 fail(f"Entrada de índice ausente no EPUB: {anchor}")
 
-    report = json.loads((PACKAGE / "metadados" / "epubcheck-report.json").read_text(encoding="utf-8-sig"))
+    report_path = PACKAGE / "metadados" / "epubcheck-report.json"
+    epub_path = PACKAGE / "ebook" / "A_Metade_Que_Me_Faltava_Era_Eu.epub"
+    if report_path.stat().st_mtime_ns < epub_path.stat().st_mtime_ns:
+        fail("EPUBCheck pendente: o relatório é anterior ao EPUB reconstruído")
+    report = json.loads(report_path.read_text(encoding="utf-8-sig"))
     checker = report["checker"]
     result = {key: int(checker[key]) for key in ("nFatal", "nError", "nWarning")}
     if any(result.values()):
@@ -284,6 +288,12 @@ def validate_package() -> None:
         bad = archive.testzip()
         if bad:
             fail(f"ZIP final corrompido em {bad}")
+        for path in PACKAGE.rglob("*"):
+            if not path.is_file():
+                continue
+            member = "AMAZON_KDP/" + path.relative_to(PACKAGE).as_posix()
+            if member not in archive.namelist() or archive.read(member) != path.read_bytes():
+                fail(f"ZIP final desatualizado: {member}")
 
 
 def main() -> int:

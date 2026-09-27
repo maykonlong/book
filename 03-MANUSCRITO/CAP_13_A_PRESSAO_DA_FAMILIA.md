@@ -1,16 +1,14 @@
 # CAPÍTULO 13
 ## A Pressão da Família
 
-Domingo é o dia oficial da família. Por isso, também era o dia oficial da cobrança para quem, segundo os outros, tinha quebrado a família.
-
-O telefone tocou às 09h da manhã. O nome "MÃE" brilhava na tela como um letreiro de néon perigoso.
+No domingo, o telefone tocou às nove da manhã. Camila reconheceu o nome da mãe e lembrou da mensagem sobre o almoço com as tias.
 
 Camila estava na cama, aproveitando o raro luxo de acordar sem despertador (os filhos estavam com Ricardo). Ela atendeu com a voz rouca de sono.
 
 — Alô?
 — Camila. Bom dia.
 — Bom dia, mãe.
-— Você vem almoçar, né? Não aceito não. As tias vão estar aqui. A Cida, a Bete, a Vilma. Querem te ver.
+— Você vem almoçar, né? A Cida, a Bete, a Vilma. Querem te ver.
 
 Camila fechou os olhos.
 Tia Cida, Tia Bete e Tia Vilma. As três juízas da família. As irmãs de seu pai, que sempre consideraram Ricardo um "santo" por ter casado com a sobrinha delas.
@@ -157,7 +155,7 @@ Camila arregalou os olhos e soltou uma gargalhada genuína.
 
 — Aprendi faz pouco tempo. É libertador. Foda-se o que eles pensam. A vida é sua.
 
-Camila olhou para a mãe — sessenta e poucos anos, avental de cozinha, e a palavra "foda-se" na boca como quem acaba de sair da prisão. E pensou: se a minha mãe conseguiu se libertar aos sessenta, eu consigo aos trinta e quatro.
+Camila olhou para a mãe — sessenta e poucos anos, avental de cozinha, e a palavra "foda-se" na boca como quem acaba de sair da prisão. E pensou: se a minha mãe conseguiu se libertar aos sessenta, eu consigo aos trinta e cinco.
 
 Camila saiu da casa da mãe em Santo Amaro pisando leve.
 Não estava mais sozinha. Tinha a mãe. E tinha a si mesma.

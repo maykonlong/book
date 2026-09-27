@@ -69,7 +69,7 @@ Camila viu o momento exato em que ele procurou o pai na plateia.
 
 Olhos vasculhando filas. Procurando. Esperançoso.
 
-Depois... aceitação. Resignação silenciosa de criança que já esperava decepção.
+Depois... aquele silêncio de criança que já esperava a decepção.
 
 E Camila sentiu o coração partir.
 
@@ -373,7 +373,13 @@ O menino que ela temia ter destruído tinha acabado de escrever, com a própria 
 
 Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da exposição.
 
-E, naquele instante, a culpa que a perseguia — aquela voz que sussurrava "você estragou tudo" — ficou em silêncio.
+Naquele instante, a culpa que sussurrava *você estragou tudo* ficou em silêncio. Camila sabia que voltaria em outros dias, mas não precisava deixá-la falar pelo filho.
+
+Meses depois, ao ver as primeiras luzes de Natal no caminho da escola, Léo perguntou se o pai viria à ceia. Camila pensou no dia da apresentação. Poderia prometer que sim para aliviar a tristeza dele naquela hora. Não prometeu.
+
+— Ainda não sei, filho. Vou conversar com ele e te contar o que a gente combinar.
+
+Léo assentiu e voltou a olhar pela janela. Camila guardou a pergunta junto do bilhete que ele tinha escrito. Dezembro se aproximava, e ela teria de descobrir como fazer uma festa que não dependesse de Ricardo aparecer.
 
 
 

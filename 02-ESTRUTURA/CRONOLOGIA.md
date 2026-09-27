@@ -8,7 +8,7 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - Aos 23 anos, Camila se casa. Ela ainda não está grávida.
 - Aos 26 anos, nasce Léo.
 - Quatro anos depois, nasce Bia.
-- No início do livro, Camila tem 34 anos, Léo está prestes a completar 8 e Bia tem 4.
+- No início do livro, Camila tem 34 anos, Léo está prestes a completar 8 e Bia tem 4. Camila faz aniversário na segunda quinzena de março do Ano 0, depois da consulta jurídica do dia 12; no março do Ano 1, completa 36.
 - O casamento dura 11 anos.
 
 ## Ano 0
@@ -44,11 +44,11 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 
 - **Cap. 19 — O Colega do Trabalho:** Camila volta a se enxergar como mulher, sem começar um romance.
 - **Cap. 20 — O Grupo de Mulheres:** a aula de aquarela vira uma rede de apoio.
-- **Cap. 21 — A Culpa da Maternidade:** a ausência de Ricardo numa apresentação de Léo expõe a dor do menino.
+- **Cap. 21 — A Culpa da Maternidade:** a ausência de Ricardo numa apresentação de Léo expõe a dor do menino; meses depois, a pergunta sobre a ceia prepara o primeiro Natal separado.
 
 ### Dezembro — primeira grande data sozinha
 
-- **Cap. 22 — O Primeiro Natal Sozinha:** Camila cria um Natal mais simples e verdadeiro com os filhos.
+- **Cap. 22 — O Primeiro Natal Sozinha:** depois de confirmar com Ricardo que as crianças passarão a véspera com ela e o Ano Novo com ele, Camila cria um Natal mais simples e verdadeiro com os filhos.
 
 ## Ano 1
 
@@ -60,8 +60,8 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - **Cap. 26 — O Primeiro Sorriso Real:** na primeira exposição do ateliê, Camila vende um quadro e reconhece a própria alegria.
 - **Cap. 27 — O Encontro:** quase um ano após a separação, uma segunda exposição apresenta Daniel.
 - **Cap. 28 — A Resistência:** depois de onze meses separados, Ricardo tenta voltar; Camila mantém a decisão.
-- **Cap. 29 — O Fim e o Começo:** guarda, pensão, visitas e apartamento já estão resolvidos; o divórcio é concluído, Camila conversa com os filhos e só depois aceita um novo encontro com Daniel.
-- **Cap. 30 — Um Ano Depois:** doze meses após a saída de Ricardo, a nova rotina está firme.
+- **Cap. 29 — O Fim e o Começo:** guarda, pensão, visitas e apartamento já estão resolvidos; o divórcio é concluído, Camila conversa com os filhos, aceita um segundo café com Daniel e toma a iniciativa de convidá-lo para almoçar.
+- **Cap. 30 — Um Ano Depois:** doze meses após a saída de Ricardo, a nova rotina está firme; Camila experimenta ir devagar com Daniel sem deixar de falar do que quer.
 
 ### Maio a julho — a família se abre ao novo
 
@@ -77,7 +77,7 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - **Cap. 37 — O Encontro com a Mãe do Daniel:** Camila experimenta acolhimento, mas descobre que Daniel quer ser pai e ela não quer mais filhos.
 - **Cap. 38 — O Reencontro:** ao encontrar Ricardo, ela percebe que ele já não controla suas emoções; numa conversa franca com Daniel, os dois reconhecem que desejam futuros diferentes.
 - **Cap. 39 — Carta Para Mim Mesma:** Camila acolhe a mulher que foi e termina com Daniel sem culpa, briga ou dependência.
-- **Cap. 40 — A Metade Que Me Faltava Era Eu:** semanas depois, em setembro, a exposição encerra o arco com Camila solteira, feliz e inteira.
+- **Cap. 40 — A Metade Que Me Faltava Era Eu:** semanas depois, em setembro, a exposição encerra o arco com Camila solteira, feliz e inteira. Joana a convida a visitar uma oficina de pintura para mulheres; é uma possibilidade para o futuro, não um romance nem uma obrigação para o volume 2.
 
 ## Idades de referência
 
@@ -86,6 +86,7 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 | Início do livro | 34 | 7, quase 8 | 4 |
 | Depois do aniversário do cap. 2 | 34 | 8 | 4 |
 | Ano seguinte | 35 | 9 | 5 |
+| Exposição final, setembro do Ano 1 | 36 | 9 | 5 |
 
 ## Pontos de continuidade
 

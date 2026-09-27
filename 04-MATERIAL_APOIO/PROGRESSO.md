@@ -66,9 +66,9 @@
 
 ## 📊 Estatísticas (atualizadas em 26/09/2026 — após revisão e novo pacote)
 - **Total de capítulos escritos**: 40/40 (100%)
-- **Total de palavras**: **63.597** de história nos 40 capítulos (era ~37.300 antes da expansão)
+- **Total de palavras**: **62.724** de história nos 40 capítulos (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.590 de história
-- **Páginas do arquivo final**: 324 (formato 5,5 × 8,5 pol., com sumário)
+- **Páginas do arquivo preparado**: 322 (formato 5,5 × 8,5 pol., com sumário)
 - **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
 
 ### Distribuição por ato

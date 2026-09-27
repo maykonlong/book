@@ -291,14 +291,13 @@ Camila ficou parada segurando a espátula suja de glacê.
 Ela olhou para o marido rindo com outros homens perto do isopor de cerveja.
 Olhou para os balões que ela encheu sozinha.
 Olhou para o bolo que ela escolheu sozinha.
-Olhou para a festa que ela pagou com a alma.
+Olhou para a festa que organizou sozinha.
 
-E, em oito anos, Camila não sentiu tristeza.
-Ela sentiu nojo.
+Naquele instante, a tristeza deu lugar à raiva.
 
 ---
 
-À noite, o silêncio no apartamento pós-festa era sepulcral.
+À noite, o apartamento ficou quieto depois da festa.
 
 Léo já tinha capotado na cama, segurando um boneco novo. Bia dormia na própria cama, exausta de tanto açúcar.
 
@@ -340,7 +339,4 @@ Ele pegou o celular e abriu o Instagram.
 
 Camila foi para o quarto.
 
-Naquela noite, ela sonhou que estava em um barco furado no meio do oceano, tirando água com uma colher de chá, enquanto Ricardo estava deitado no convés tomando sol, perguntando por que ela estava tão molhada.
-
-Ela acordou decidida a comprar um balde maior.
-Mas, no fundo, sabia que o que precisava mesmo era de outro barco.
+Na cama, abriu o celular e procurou "terapia de casal". Encontrou uma psicóloga perto de casa e salvou o número. Ricardo talvez recusasse. Mesmo assim, Camila precisava saber se ainda havia alguma coisa que os dois pudessem tentar juntos.

@@ -1,7 +1,7 @@
 # CAPÍTULO 3
 ## A Tentativa da Terapia
 
-Três dias depois do aniversário de Léo, o gosto amargo da decepção ainda não tinha saído da boca de Camila. Era como se ela tivesse mordido uma fruta podre e o sabor persistisse, contaminando tudo o que ela comia, bebia ou falava.
+Três dias depois do aniversário de Léo, Camila ainda pensava no que Ricardo tinha dito na cozinha. Tinha salvado o número de uma psicóloga, mas não sabia como tocar no assunto.
 
 Quarta-feira à noite.
 
@@ -13,11 +13,11 @@ Havia ensaiado aquela conversa no chuveiro. Tinha ensaiado no trânsito. Tinha e
 
 *"Nós precisamos conversar."* (Muito clichê).
 *"Eu não estou feliz."* (Muito agressivo, ele ficaria na defensiva).
-*"Acho que precisamos de ajuda."* (Melhor. Soava colaborativo).
+*"Acho que precisamos de ajuda."* (Melhor. Assim talvez ele escutasse).
 
 Camila respirou fundo. Soltou o ar devagar. Passou um creme nas mãos só para ter o que fazer com elas caso começasse a tremer.
 
-Dirigiu-se à sala.
+Foi até a sala.
 
 Ricardo estava lá, no seu habitat natural: o canto esquerdo do sofá retrátil, pernas esticadas, controle remoto na mão direita, celular na esquerda. A TV exibia um noticiário qualquer no mudo.
 
@@ -43,15 +43,15 @@ Ele suspirou. Não foi um suspiro alto, teatral. Foi curto: soltou o ar pelo nar
 
 — Ricardo, eu andei pensando muito esses dias. Desde a festa do Léo. E antes também.
 
-— Ah, não. Vai voltar no assunto da festa? Eu já pedi desculpa, Camila. Eu cheguei, não cheguei? Trouxe presente e tudo.
+— Ah, não. Vai voltar no assunto da festa? Eu cheguei, não cheguei? Trouxe presente e tudo.
 
-— Não é só sobre a festa. A festa foi só... o sintoma. — Ela usou a palavra que tinha lido em um blog de psicologia hoje cedo.
+— Não é só sobre a festa. Aquilo foi só mais uma vez em que eu fiquei sozinha para resolver tudo.
 
-— Sintoma? — Ele riu, nervoso. — Agora você virou médica?
+— Sozinha? — Ele riu, nervoso. — Agora vai dizer que eu não fiz nada?
 
-— Ricardo, escuta. — Ela se inclinou para frente. — A gente não está bem. Nós não conversamos mais. Nós apenas... coexistimos. Eu gerencio a casa e as crianças, você trabalha e paga as contas, e a gente se encontra no corredor. Eu me sinto sozinha. E eu acho que você também deve sentir falta de como a gente era antes.
+— Ricardo, escuta. — Ela se inclinou para frente. — A gente não está bem. Quase não conversa. Eu cuido da casa e das crianças, você trabalha e paga as contas, e a gente se cruza no corredor. Eu me sinto sozinha. E acho que você também deve sentir falta de como a gente era antes.
 
-Ele a encarava com uma expressão indecifrável. Tédio? Medo? Fome?
+Ele a encarava sem dizer nada. Tédio? Medo? Fome?
 
 — Eu acho... — ela continuou, a coragem vacilando — que a gente deveria tentar terapia de casal.
 
@@ -77,7 +77,7 @@ A "Barra do Mínimo" apareceu novamente.
 
 — Ah, pronto. O drama da "mulher guerreira". Camila, eu trabalho dez horas por dia! Você acha que eu fico coçando no escritório? Eu carrego o peso financeiro dessa família.
 
-— E eu carrego todo o resto! — A voz dela subiu. — O emocional, o doméstico, o logístico! Quem marca médico? Quem sabe o tamanho do sapato das crianças? Quem lembra de comprar presente pra sua mãe? Quem organiza as férias? Quem?
+— E eu cuido de todo o resto! — A voz dela subiu. — Quem marca médico? Quem sabe o tamanho do sapato das crianças? Quem lembra de comprar presente pra sua mãe? Quem organiza as férias? Quem?
 
 Ricardo levantou as mãos, como quem se rende a uma insanidade.
 
@@ -91,7 +91,7 @@ Ricardo levantou as mãos, como quem se rende a uma insanidade.
 
 Camila sentiu como se tivesse levado um tapa físico.
 
-Ela olhou para o homem com quem dividia a cama há quase uma década. Viu a recusa absoluta nos olhos dele. Ele não via "nós". Ele via "ela". O problema era ela. A insatisfação era dela. O trabalho era dela.
+Ela olhou para o homem com quem dividia a cama há onze anos. Viu a recusa nos olhos dele. Ele não via "nós". Ele via "ela". O problema era ela. A insatisfação era dela. O trabalho era dela.
 
 — Então é isso? — perguntou ela, a voz fina. — Você não vai?
 

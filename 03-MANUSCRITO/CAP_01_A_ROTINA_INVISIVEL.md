@@ -268,7 +268,7 @@ Ele não ia lembrar que disse isso. E, se lembrasse, diria que o futebol era imp
 
 Ela digitou apenas: *"Tá bom."*
 
-Bloqueou a tela. Sentiu aquele gosto amargo na boca que não tinha nada a ver com o café ruim da copa. Era o gosto da resignação.
+Bloqueou a tela. Sentiu aquele gosto amargo na boca que não tinha nada a ver com o café ruim da copa. Era a raiva que ela engolia mais uma vez.
 
 Às cinco e meia, ela saiu correndo. Literalmente correu até o estacionamento. O trânsito da volta era pior. A ansiedade da "segunda jornada" começava a bater.
 
@@ -282,7 +282,7 @@ Ele não tinha nem colocado na pia.
 
 Camila olhou para aquela xícara.
 
-Era apenas uma xícara de cerâmica branca, barata, com uma lasca na borda. Mas, naquele momento, iluminada pela luz amarela da cozinha, ela parecia um monumento ao descaso.
+Era apenas uma xícara branca, barata, com uma lasca na borda. Mas, naquele momento, sob a luz amarela da cozinha, parecia resumir tudo o que Ricardo deixava para ela.
 
 — Vai se trocar, Léo. Bia, tira o tênis — ela comandou, a voz saindo automática.
 

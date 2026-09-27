@@ -65,7 +65,7 @@ Camila olhou para as folhas marrons, estaladiças de tão secas. A raiz provavel
 
 — Pois é. — Fernanda olhou nos olhos de Camila. — Você pode ser a melhor jardineira do mundo. Você pode dar o seu sangue como adubo. Mas você não pode ressuscitar o que já morreu. E, amiga... desculpa te falar isso com essa franqueza, mas eu vejo você se matando pra regar uma relação que já secou faz tempo.
 
-A metáfora bateu em Camila como um tapa físico.
+A frase bateu em Camila como um tapa.
 
 *Regando planta morta.*
 
@@ -98,14 +98,13 @@ Fernanda baixou a voz, como quem conta um segredo que ainda dói um pouco.
 
 Camila ouviu e sentiu um arrepio de reconhecimento. Ela já tinha feito aquele mesmo teste, sem saber que era um teste. Nas últimas semanas, tinha começado a reparar em quanto tempo Ricardo levava para notar que ela tinha cortado o cabelo, que tinha trocado o perfume, que tinha chorado no banheiro antes de dormir. A resposta, quase sempre, era: nunca.
 
-— E o pior — continuou Fernanda — é que a gente se acostuma. A gente acha que sumir aos poucos é normal. Que ser invisível é o preço de ter uma família. Não é. — Ela olhou firme para Camila. — Invisibilidade não é o preço de nada. É o sintoma.
+— E o pior — continuou Fernanda — é que a gente se acostuma. Acha normal ninguém reparar se a gente está cansada ou triste. Não é normal, Cá. Você também importa nessa casa.
 
 Camila olhou para a suculenta morta.
 
 Ali, na copa, com cheiro de café velho, algo mudou. A esperança teimosa — aquela que a fazia tentar jantares e terapias — começou a dar lugar a outra coisa.
 
-Uma aceitação fria.
-Uma compreensão lúcida.
+Começou a aceitar o que vinha tentando não ver.
 
 Ela não estava lutando por um casamento. Ela estava lutando contra a realidade.
 
@@ -123,5 +122,12 @@ E jogou no lixo.
 O som do vaso batendo no fundo da lixeira foi o único ruído na sala.
 *Poc.*
 
-Fim. Acabou.
-Ela não ia mais regar cadáveres.
+Naquela noite, Ricardo falou enquanto tirava os sapatos na porta:
+
+— A gente podia viajar no Carnaval. Levar as crianças para aquele hotel em Atibaia.
+
+Camila parou com um copo na mão. Durante meses, pedira que ele pensasse em alguma coisa para os quatro fazerem juntos. Por que a ideia vinha justamente agora, quando ela tinha passado a tarde tentando aceitar que não adiantava pedir?
+
+— Eu vou pensar — respondeu.
+
+E pensou. Mais do que gostaria.

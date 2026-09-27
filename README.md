@@ -67,7 +67,7 @@ Este é o espaço de desenvolvimento do livro **"A Metade Que Me Faltava Era Eu"
 
 **Público-Alvo**: Mulheres brasileiras adultas, especialmente mães, casadas, separadas ou divorciadas
 
-**Dimensões**: 324 páginas na edição 5,5 × 8,5 pol. | 40 capítulos | 4 atos
+**Dimensões**: 322 páginas na edição 5,5 × 8,5 pol. | 40 capítulos | 4 atos
 
 ---
 
@@ -103,16 +103,17 @@ Criar um livro que ressoe com mulheres brasileiras que buscam identificação e 
 - [x] Leitor responsivo para celular e tablet (fonte ajustável, modos claro/sépia/escuro, retomada automática e artes web otimizadas). Em e-readers, o resultado depende do navegador do aparelho.
 - [x] Dez ilustrações narrativas integradas ao leitor, EPUB e miolo
 - [x] EPUB 3 validado estruturalmente
-- [x] Miolo de 324 páginas em 5,5 × 8,5 pol., sem sangria e com sumário
+- [x] Miolo de 322 páginas em 5,5 × 8,5 pol., sem sangria e com sumário
 - [x] Capa Kindle 1600 × 2560 e capa impressa CMYK a 300 dpi
 - [x] Pacote Amazon KDP com metadados, checklist e checksums
+- [ ] Conferir/incluir a ficha catalográfica da edição brasileira no miolo impresso e, se houver alteração, regenerar PDF, capa, ZIP e checksums
 
 ### ⏳ Próximos Passos
 1. ⏳ Rodada externa de leitoras beta e leitura de prova
-2. ⏳ Enviar os arquivos de `PACOTE_PUBLICACAO/AMAZON_KDP/` ao Previewer da KDP
-3. ⏳ Pedir uma prova física e conferir cor, corte e lombada
-4. ⏳ Publicar na Amazon KDP e adicionar o link de compra ao site
-5. ⏳ Definir ISBN, preço, categorias, territórios e dados fiscais no painel
+2. ⏳ Decidir o ISBN do impresso e providenciar/conferir a ficha catalográfica; atualizar miolo, capa e pacote se necessário
+3. ⏳ Enviar os arquivos finais ao Previewer da KDP
+4. ⏳ Pedir uma prova física e conferir cor, corte e lombada
+5. ⏳ Definir preço, categorias, territórios e dados fiscais no painel; publicar e adicionar o link de compra ao site
 
 ---
 
@@ -204,9 +205,9 @@ Como uma amiga contando sua história e dizendo:
 
 ### Objetivos Quantitativos
 - **Capítulos**: 40 (completos)
-- **Palavras totais**: 63.597 de história nos 40 capítulos · 64.237 no manuscrito completo, incluindo cabeçalhos e textos iniciais e finais
+- **Palavras totais**: 62.724 de história nos 40 capítulos · 63.364 no manuscrito completo, incluindo cabeçalhos e textos iniciais e finais
 - **Palavras por capítulo (média)**: ~1.590 de história
-- **Páginas do arquivo final (5,5 × 8,5 pol.)**: 324
+- **Páginas do arquivo preparado (5,5 × 8,5 pol.)**: 322
 - **Expansão futura**: somente se a leitura beta identificar lacunas reais; a edição atual encerra o arco do primeiro volume
 
 ### Cronograma Estimado
@@ -216,12 +217,12 @@ Como uma amiga contando sua história e dizendo:
 | Pesquisa | 1-2 semanas | ✅ Concluído |
 | Primeiro rascunho | 8-12 semanas | ✅ Concluído |
 | Revisões | 4-6 semanas | ✅ Concluído |
-| Finalização editorial e arquivos | 2 semanas | ✅ Concluído |
+| Finalização editorial e arquivos | 2 semanas | ⏳ Pendente da conferência da ficha catalográfica do impresso |
 | Prova física e publicação | Conforme a KDP | ⏳ Pendente |
 
 **Total estimado**: 4-6 meses
 
-> Os arquivos digitais estão prontos. Permanecem a leitura humana final, a prova física e as decisões comerciais dentro da conta KDP.
+> O EPUB está preparado. O impresso ainda depende da conferência da ficha catalográfica e pode exigir novos PDF, capa, ZIP e checksums; também permanecem a leitura humana final, a prova física e as decisões comerciais dentro da conta KDP.
 
 ---
 
@@ -294,7 +295,7 @@ Procurando mulheres adultas, preferencialmente:
 - ✅ Layout mobile-first (menu hamburguer, tipografia fluida, botões full-width)
 
 ### 16/09/2026 — Manuscrito completo
-- ✅ 40 capítulos (~63.600 palavras de história) + passadas de expansão, continuidade e linguagem
+- ✅ 40 capítulos (~63.700 palavras de história) + passadas de expansão, continuidade e linguagem
 - ✅ Revisão de coesão, ortografia, repetições e vocabulário
 
 ### Versão 1.0

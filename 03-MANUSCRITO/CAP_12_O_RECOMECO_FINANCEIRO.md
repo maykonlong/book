@@ -125,6 +125,8 @@ Mas a pergunta que ainda não tinha resposta, e que Camila carregava como uma pe
 
 E o apartamento? Aquele que o Ricardo queria vender para pegar a parte dele. Aquele que guardava os tracinhos de lápis na parede da cozinha, a marca da altura do Léo a cada aniversário.
 
-O bolo no pote ajudava a pagar as contas do mês. Mas não pagava a parte do Ricardo no imóvel.
+O bolo no pote ajudava a pagar as contas do mês. Mas não pagava a parte do Ricardo no imóvel. Patrícia ainda tentava negociar; Camila não tinha uma resposta para dar aos filhos caso precisassem sair dali.
 
-E o prazo, Camila sabia, estava correndo.
+O celular vibrou. Era uma mensagem da mãe: *"Domingo, almoço aqui. Suas tias vêm."*
+
+Camila olhou da mensagem para a planilha. Já sabia o que as tias perguntariam: pelo apartamento, pelo divórcio, pelo que diria aos filhos se precisassem se mudar.

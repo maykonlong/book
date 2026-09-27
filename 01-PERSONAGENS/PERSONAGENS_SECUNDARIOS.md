@@ -48,7 +48,7 @@
 
 ---
 
-## 👨‍⚕️ DR. LUCAS / DRA. HELENA - TERAPEUTA
+## 👨‍⚕️ DR. LUCAS - TERAPEUTA
 
 ### Informações Básicas
 | Campo | Informação |
@@ -65,7 +65,7 @@
 - **Direta quando necessário**: Aponta padrões tóxicos
 
 ### Função na História
-- Aparece em **flashbacks de sessões importantes**
+- Aparece em **sessões importantes ao longo da história**
 - Ajuda Camila a desconstruir culpa
 - Ensina estabelecimento de limites
 - Valida sentimentos dela

@@ -17,7 +17,7 @@ A porta abriu. As crianças entraram feito furacão.
 — Mãe! O pai me deixou jogar GTA a tarde inteira! — gritou Léo.
 — Mãe! A gente comeu McDonald's no almoço e no jantar! — contou Bia.
 
-Camila olhou para Ricardo, parado na porta. Ele parecia cansado. A roupa levemente amarrotada (ninguém passava para ele, lembra?).
+Camila olhou para Ricardo, parado na porta. Ele parecia cansado, com a camisa amarrotada.
 — Tchau, crianças. Tchau, Camila.
 — Tchau, Ricardo. Obrigada.
 
@@ -25,23 +25,14 @@ Ele saiu. A porta fechou.
 
 Camila olhou para os filhos. Sujos de ketchup. Agitados de açúcar e tela.
 
-A Camila de um ano atrás teria surtado. Teria gritado com Ricardo. Teria passado horas angustiada sobre como eles estavam sendo "estragados".
-
-A Camila de hoje?
-Ela sorriu.
+Camila respirou fundo. Queria perguntar a Ricardo por que havia deixado os dois passarem o domingo inteiro diante da televisão. Mas as crianças precisavam de banho, não de uma briga na porta. Ela sorriu para elas.
 
 — Ok, pequenos monstros. O fim de semana do pai foi o fim de semana da bagunça. Agora começa a semana da mãe. A semana da ordem.
 
 — Ahhh não... — reclamou Léo, mas sem convicção.
 — Ah sim. Banho agora. E amanhã tem feijão e salada.
 
-Ela os levou para o banho. Enquanto esfregava as costas da Bia, pensou:
-Ricardo podia ser o pai da diversão fácil. O pai do açúcar e do videogame.
-Mas ela era o porto seguro.
-Ela era quem curava a gripe, quem ajudava na matemática, quem ensinava a comer brócolis e a ter empatia.
-
-E as crianças, na sabedoria infinita delas, sabiam.
-Sabiam que podiam se divertir lá, mas que era *aqui* que a vida acontecia de fato.
+Ela os levou para o banho. Enquanto ajudava Bia a tirar o ketchup do cabelo, ouviu Léo cantar no quarto. Pelo menos estavam bem. A conversa sobre horários e telas podia esperar até o dia seguinte.
 
 Léo saiu do banho cheirando a sabonete de lavanda. Deitou no colo dela no sofá.
 — Mãe?
@@ -53,29 +44,17 @@ Léo saiu do banho cheirando a sabonete de lavanda. Deitou no colo dela no sofá
 Camila beijou a testa dele.
 — É bom ter você de volta, filho.
 
-Ela não precisava competir com o pai.
-Ela não precisava provar nada.
-Ela só precisava ser mãe.
-
-E naquela noite, com a casa em silêncio de novo, as crianças dormindo limpas e seguras, Camila sentiu uma gratidão imensa.
-Pelo divórcio.
-Porque ele tinha permitido que ela construísse esse refúgio.
-Um lar onde não havia gritos abafados, nem tensão no ar.
-Apenas paz. E amor. E cheiro de lavanda.
+Depois de apagar a luz do quarto, ela recolheu as roupas molhadas do banheiro. Ainda precisaria lavar a lancheira de Bia e separar o uniforme de Léo. A vida não tinha ficado fácil. Mas, quando passou pelo corredor, não precisou adivinhar o humor de ninguém antes de entrar na própria sala.
 
 Um mês.
 
-Um mês desde o primeiro café com Daniel.
+Um mês desde o café em que Camila decidira dar uma chance a Daniel.
 
-E nesse mês, eles tinham se encontrado cinco vezes. Sempre casual. Sempre a convite dele, porque Camila ainda não tinha coragem de tomar iniciativa.
+E nesse mês, eles tinham se encontrado cinco vezes. O primeiro almoço tinha sido convite dela. Nos outros encontros, um chamava o outro.
 
-Café. Almoço rápido. Caminhada no parque. Cinema. Outro café.
+Café. Dois almoços. Cinema. Caminhada no parque.
 
-E em cada encontro, Camila testava.
-
-Não de propósito. Era automático.
-
-Enxergando Ricardo onde ele não estava.
+Mesmo assim, Camila se pegava esperando um motivo para recuar.
 
 ---
 
@@ -83,7 +62,7 @@ Encontro três. Almoço.
 
 Daniel ofereceu pagar.
 
-Camila imediatamente pensou: *"Ele quer controle financeiro? Criar dívida emocional?"*
+Camila pensou na época em que Ricardo pagava algo e depois cobrava como favor.
 
 Recusou firme:
 
@@ -95,39 +74,23 @@ Recusou firme:
 
 Ele aceitou sem argumentar. Dividiram a conta.
 
-Depois, dirigindo para casa, Camila processou: ele tinha aceitado o limite sem ficar ofendido. Ricardo teria feito birra.
-
-Sinal positivo. Mas ela ainda duvidava.
+Na volta, percebeu que a conversa tinha seguido normalmente depois da conta. Gostou disso.
 
 ---
 
 Encontro quatro. Cinema.
 
-Daniel perguntou sobre as crianças.
+No escuro da sala, Daniel procurou a mão dela no apoio entre as poltronas. Camila afastou a sua. Ele voltou os olhos para o filme, sem perguntar o motivo.
 
-Camila congelou na mesma hora.
+Ela passou os minutos seguintes sem acompanhar a história. Não queria que ele se afastasse. Só não tinha gostado de ser pega de surpresa.
 
-*"Está avaliando se sirvo? Se sou muito complicada?"*
+Quando os créditos subiram, ela falou antes que a coragem passasse:
 
-Respondeu defensiva:
+— Não foi por sua causa. Eu preciso ir devagar.
 
-— Por que pergunta?
+— Tudo bem — disse Daniel. — Podia ter perguntado antes.
 
-Daniel piscou surpreso:
-
-— Porque... você é mãe? E imagino que seja uma parte importante da sua vida. Só queria conhecer melhor você.
-
-O tom dele era gentil. Não parecia uma cobrança.
-
-Camila relaxou levemente:
-
-— Desculpa. É que... — Parou. Decidiu pela honestidade. — É que estou acostumada com pessoas me julgando por ser mãe divorciada.
-
-— Eu nunca julgaria isso. Situações de vida são complexas. E você parece mãe incrível pelo jeito que fala deles.
-
-Nenhum julgamento. Elogio.
-
-Camila não sabia como processar tanta gentileza.
+Do lado de fora, na fila do estacionamento, Camila segurou a mão dele. Daniel sorriu, mas não fez disso um acontecimento.
 
 ---
 
@@ -145,107 +108,55 @@ Respondeu fria:
 
 *"Tudo bem. Melhoras."*
 
-Daniel pareceu perceber o tom:
+Ela deixou o celular na mesa. Não tinha como saber, naquela hora, se era febre ou desculpa. Também não precisava decidir o futuro dos dois por causa de uma mensagem.
 
-*"Eu REALMENTE queria ir. Mas estou com febre de 38. Prometo remarcar assim que melhorar. Ok?"*
+Três dias depois, Daniel perguntou se ela ainda queria caminhar. Queria.
 
-Foto dele na cama. Claramente doente. Termômetro mostrando.
+No domingo, passaram por um vendedor de algodão-doce. Camila contou que, quando era menina, sempre escolhia o rosa. Daniel comprou um para os dois. Ela puxou um pedaço tão grande que ficou com açúcar no nariz.
 
-Não era desculpa.
+— Espera. Você está levando metade no rosto — ele disse, rindo.
 
-Era verdade.
+Camila tentou limpar com a manga, errou o lugar e riu também. Fazia tempo que não se permitia uma bobagem dessas sem pensar se alguém a julgaria.
 
-Camila sentiu culpa imediata:
-
-*"Desculpa! Claro. Melhore logo. Precisa de alguma coisa?"*
-
-*"Só tempo. Obrigado por se preocupar comigo :)"*
-
-Três dias depois, assim que melhorou, ele remarcou, pedindo desculpas mais de uma vez pelo cancelamento.
-
-No parque, no domingo de sol, Daniel fez uma coisa pequena que quase derrubou Camila. Passaram por um vendedor de algodão-doce, e ela comentou, distraidamente, que adorava o rosa, mas sempre tinha medo de ficar com a boca manchada em público. Ele comprou um. Dividiram. E quando ela percebeu que tinha açúcar na ponta do nariz, ele riu e disse: *"fica. Te deixa com cara de criança feliz"*.
-
-Não era nada. Era só um elogio bobo. Mas Camila sentiu o peito apertar. Fazia tanto tempo que alguém a olhava sem julgar. Sem corrigir. Sem esperar que ela fosse uma versão mais contida de si mesma.
-
-Ela passou o resto da caminhada sorrindo à toa, sentindo-se, como há anos não, um pouco boba. E gostando disso.
-
-Ricardo nunca teria explicado. Teria cancelado vagamente e ficado irritado se ela questionasse.
-
-Daniel era diferente.
-
-Mas Camila continuava esperando que ele mostrasse a verdadeira face.
+No caminho de volta, ela se lembrou de quantas vezes um cancelamento de Ricardo tinha virado uma discussão. Daniel tinha remarcado. Isso era tudo o que sabia por enquanto.
 
 ---
 
-Depois de um tempo, Fernanda interveio.
+Na terça, Camila contou a Fernanda que tinha demorado três dias para responder a Daniel depois do cinema.
 
-Encontro delas para café. Terça à tarde.
+— Você não quis falar com ele? — perguntou a amiga.
 
-— Você precisa parar de sabotar.
+— Quis. Fiquei com medo de parecer que queria demais.
 
-— Não estou sabotando.
+Fernanda mexeu o café.
 
-— Está. Você procura defeito onde não tem. Testando ele o tempo todo.
+— Cá, se você quer responder, responde. Não precisa fazer conta de horas para gostar de alguém.
 
-Camila sabia que era verdade. Mas:
-
-— E se só porque não vi sinal de alerta AINDA não significa que não existe?
-
-— E se simplesmente ele FOR quem parece ser? Um cara legal que gosta de você?
-
-— As pessoas não são apenas... legais. Sempre há um segundo motivo.
-
-Fernanda olhou séria:
-
-— Não. RICARDO sempre teve segundo motivo. Não significa que todas as pessoas têm.
-
-Pausa pesada.
-
-— Cá, escuta. Você pode se proteger sem estragar tudo que é bom. Dá uma chance. Para de colocar no Daniel os medos que o Ricardo deixou.
-
-— Como eu separo um perigo de verdade de um medo que ficou do passado?
-
-— Olha o que se repete. Uma vez pode ser qualquer coisa. Quando acontece sempre, diz quem a pessoa é. E, até agora, o que Daniel repete é respeito, gentileza e paciência.
-
-Camila sabia que Fernanda tinha razão.
-
-Mas conhecimento lógico e sentimento emocional eram coisas diferentes.
+Camila riu, mas guardou a frase.
 
 ---
 
-Terapia seguinte. Dr. Lucas foi mais direto.
+Na sessão seguinte, Camila contou do passeio cancelado. Dr. Lucas esperou que ela terminasse.
 
-— Camila, você está sendo injusta.
+— Quando Daniel disse que estava doente, o que você pensou?
 
-— Com quem?
+— Que era desculpa. Que ele tinha perdido o interesse.
 
-— Com Daniel. E com você mesma.
+— E o que aconteceu depois?
 
-— Como?
+— Três dias depois, remarcou. Fomos ao parque.
 
-— Você está esperando que ele falhe. Ativamente procurando motivos para não confiar. Isso não é cura. Isso é só medo disfarçado de proteção.
+Lucas fez uma anotação.
 
-— Mas eu preciso me proteger...
+— O que você sabe sobre Daniel até agora? Não o que teme. O que sabe.
 
-— De dano real, sim. Mas não de possibilidade de felicidade. — Firme, mas gentil. — Em cada interação que você descreveu, Daniel mostrou respeito, comunicação clara, limites saudáveis. Mas você insiste em encontrar problema.
+Camila ficou olhando para as mãos. Lembrou do almoço em que ele aceitara dividir a conta sem reclamar. Da caminhada que remarcou. Da mão que ele tinha afastado no cinema quando ela pediu espaço.
 
-— E se eu perdi alguma coisa?
+— Ele tem sido cuidadoso — disse. — Mas eu continuo esperando que mude.
 
-— E SE você desperdiçar algo bom porque está com muito medo de tentar?
+— Você pode ir devagar. E, quando ficar com medo, pode perguntar a si mesma: o que ele fez de fato?
 
-A pergunta ficou pesada no ar.
-
-Dr. Lucas continuou:
-
-— Nem todos os homens são seu ex. Daniel não é Ricardo. Eles são pessoas diferentes. Você precisa ver Daniel por QUEM ele é. Não por quem Ricardo foi.
-
-— Como paro de misturar as coisas?
-
-— Escolha confiar até ter motivo para não confiar. Em vez de assumir o pior, não tire conclusões antes da hora. Confiança, Camila, não é o prêmio que você dá quando o outro prova ser perfeito. É a ponte que você constrói — aos poucos, com os olhos abertos — quando decide que merece chegar a algum lugar.
-
-Fazia sentido.
-
-Assustador, mas fazia sentido.
+Camila saiu da sessão sem uma garantia sobre o futuro. Ninguém podia lhe dar uma. No ponto de ônibus, pegou o celular e respondeu a uma mensagem de Daniel sem esperar a hora que tinha planejado.
 
 ---
 
@@ -255,111 +166,54 @@ Naquela noite, Daniel ligou.
 
 — Claro.
 
-— Eu percebo que você está... guardada. Cautelosa. E entendo. Não sei os detalhes do seu passado, mas vejo os efeitos. — Pausa. — E quero que você saiba: estou aqui sem pressa. No ritmo que você precisar.
+— Minha irmã vem a São Paulo no sábado — ele disse. — Vamos jantar. Você quer ir?
 
-A honestidade dele desarmou as defesas.
+Camila apoiou o celular no ombro para abrir a gaveta dos talheres. Encontrou três colheres e nenhuma faca limpa.
 
-— Eu... sim. Sou cautelosa. Experiências passadas me fizeram assim.
+— Ela sabe de mim?
 
-— Posso entender. E não vou pressionar você a compartilhar. Mas quero que saiba: não estou competindo com fantasma do passado. Só quero conhecer você. A você real. Se você me deixar.
+— Sabe que gostei de você. O resto, ela pode perguntar no jantar.
 
-Lágrimas vieram inesperadas.
+Camila olhou para a louça na pia. Ir significava conhecer alguém importante para ele. Não ir também seria uma escolha, e ela não queria decidir só pelo medo.
 
-Porque ninguém tinha dito assim. Com gentileza e paciência e zero exigências.
+— Eu vou — disse. — Mas se você contar aquela história do algodão-doce, eu vou embora.
 
-— Obrigada. Por ser paciente.
+Daniel riu.
 
-— Sempre. Também, queria perguntar: você teria interesse em conhecer minha irmã? Ela vem visitar semana que vem. Só se você se sentir confortável, claro.
+— Agora preciso muito contar.
 
-Conhecer a família.
-
-Significava que ele estava levando a sério.
-
-Parte de Camila queria entrar em pânico.
-
-Desta vez, a curiosidade falou mais alto que o medo.
-
-— Eu... acho que sim. Seria legal.
-
-— Ótimo! Sem pressão. Só um jantar casual. Ela vai adorar você.
-
-Depois que desligaram, Camila sentou para pensar.
-
-Daniel queria apresentá-la à irmã. Isso mostrava que pensava num futuro em que ela faria parte da vida dele.
-
-Assustador.
-
-Mas também... bom.
-
-Talvez pudesse parar de testar o tempo todo.
-
-Talvez pudesse começar a confiar, devagar.
-
-Talvez Daniel realmente fosse diferente.
-
-E talvez - só talvez - isso fosse ok.
-
-Escreveu no diário:
-
-*"Daniel quer me apresentar à irmã.*
-
-*Isso mostra que não é apenas um interesse passageiro.*
-
-*Com medo. Obviamente.*
-
-*Mas também... feliz?*
-
-*Dr. Lucas está certo: nem todos são o ex.*
-
-*Daniel mostrando coisas boas de novo e de novo.*
-
-*Hora de parar de esperar que o outro sapato caia.*
-
-*Hora de confiar, devagar.*
-
-*Porque se nunca confiar, nunca vou realmente me conectar.*
-
-*E conexão - real, saudável - vale o risco."*
-
-Fechou o livro com nova resolução:
-
-Dar a Daniel uma chance real.
-
-Sem sabotar.
-
-Sem misturar o passado com o presente.
-
-Chance real.
-
-Porque ele merecia. Ela merecia. Eles mereciam.
-
-E talvez fosse ali que a verdadeira cura começava.
+Depois de desligar, Camila mandou uma mensagem para Dona Sônia perguntando se poderia ficar com as crianças no sábado. Ao apertar enviar, sentiu aquele frio conhecido na barriga. Não era uma promessa de futuro. Era só um jantar que ela tinha vontade de viver.
 
 ---
 
-Uma semana depois, num sábado à noite, Camila estava na porta de um restaurante italiano em Moema, alisando o vestido pela centésima vez.
+No sábado à noite, Camila estava na porta de um restaurante italiano em Moema, alisando o vestido pela centésima vez.
 
-— Para de se arrumar, você já tá linda — sussurrou Daniel, segurando a mão dela.
+— Para de alisar o vestido, você já tá linda — sussurrou Daniel.
 — Eu tô nervosa. E se a sua irmã não gostar de mim?
-— Impossível. A Mariana adora todo mundo. E vai adorar você mais ainda. Confia.
+— A Mariana faz piada até quando está nervosa. Se ela tirar uma foto minha da bolsa, me defende.
 
 A irmã de Daniel, Mariana, era três anos mais velha que ele, psicóloga, com uma risada alta e um abraço que esmagava. Em dez minutos, já tinha tirado da bolsa uma foto do Daniel adolescente, de aparelho nos dentes, e estava contando, entre gargalhadas, como ele chorou no primeiro fora que levou.
 
 — Mari, pelo amor de Deus — Daniel gemeu, vermelho.
 Camila riu até doer a barriga. E percebeu, no meio da risada, que não estava mais tensa. Estava... confortável. Como se aquele círculo — Daniel, Mariana, e agora ela — fizesse sentido.
 
-No fim da noite, Mariana a abraçou de novo e disse, baixinho, no ouvido dela:
-— Meu irmão tá muito feliz, sabia? Faz anos que eu não vejo ele assim. Você faz bem pra ele.
+No fim da noite, Mariana a abraçou de novo.
 
-Camila saiu do restaurante de mãos dadas com Daniel, o coração quente. Não sabia quanto tempo aquela história duraria nem aonde chegaria. Pela primeira vez, isso não a impedia de viver o que era bom no presente.
+— Gostei de te conhecer. Volta quando ele não estiver fazendo essa cara de quem acha que precisa impressionar as duas.
 
-No caminho de volta, Daniel dirigia com uma mão no volante e a outra segurando a dela. Nenhum dos dois falou muito. Não precisava. Havia uma paz naquele silêncio — a paz de quem por fim parou de ensaiar e começou a viver.
+— Eu ouvi — protestou Daniel, já perto da porta.
 
-Camila olhou para o perfil dele, iluminado de relance pelos postes. E se perguntou, com um espanto doce, como tinha passado tantos anos sem saber que existiam homens assim. Homens que ligavam no dia seguinte. Que perguntavam "como foi seu dia?" e esperavam a resposta. Que dividiam a conta sem fazer drama, que respeitavam o "não", que não confundiam amor com posse.
+Camila saiu do restaurante de mãos dadas com Daniel. Não sabia quanto tempo aquela história duraria nem aonde chegaria. Pela primeira vez, isso não a impedia de aproveitar a noite.
 
-Ela tinha lido, em algum livro de autoajuda, que a gente aceita o amor que acha que merece. Naquela noite, segurando a mão de Daniel, Camila entendeu: ela por fim achava que merecia o amor bom.
+No caminho de volta, Daniel comentou que Mariana sempre levava aquela foto na bolsa para envergonhá-lo. Camila quis saber se existiam outras. Ele respondeu que não contaria sem um advogado presente. Ela riu até o carro parar diante do prédio.
 
-E essa era, talvez, a maior vitória de todas.
+Na porta de casa, Daniel perguntou se podia vê-la de novo na semana seguinte. Camila sentiu a velha vontade de medir o que aquela resposta significaria daqui a um ano.
+
+Olhou para ele, ali, agora.
+
+— Pode — disse.
+
+Entrou em casa sem refazer a noite à procura de um sinal que tivesse deixado passar.
 
 
 

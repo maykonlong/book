@@ -1,18 +1,13 @@
 # CAPÍTULO 6
 ## A Última Tentativa
 
-Apesar da conversa com Fernanda — e da suculenta no lixo —, o peso de um casamento de onze anos é uma força poderosa. É difícil parar um trem em movimento, mesmo que ele esteja indo para o abismo.
+Faltava uma semana para o Carnaval. Camila passou a noite lembrando da suculenta no lixo e da proposta de Ricardo. Onze anos não saíam da vida dela com o barulho de um vaso caindo numa lixeira.
 
-Camila teve uma recaída de esperança.
+Na manhã seguinte, encontrou-o na cozinha.
 
-Ou talvez não esperança. Talvez fosse apenas a necessidade desesperada de *ter certeza absoluta*. De poder dizer ao juiz, aos filhos, a Deus e a si mesma: "Eu tentei até a última gota."
+— Você falou sério sobre Atibaia?
 
-Faltava uma semana para o Carnaval. Ricardo sugeriu, casualmente:
-— A gente podia viajar, né? Aquele hotel fazenda em Atibaia que as crianças gostam.
-
-Camila surpreendeu-se. Ele sugerindo algo?
-— Você quer ir?
-— É, tô precisando relaxar. E as crianças cansam menos lá com os monitores.
+— Falei. Tô precisando relaxar. E as crianças cansam menos lá com os monitores.
 
 *Cansam menos.* O objetivo não era estar com a família. Era terceirizar as crianças para monitores em um cenário diferente. Mas Camila agarrou a sugestão como uma boia.
 

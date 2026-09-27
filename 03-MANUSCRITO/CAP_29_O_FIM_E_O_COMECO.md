@@ -4,7 +4,7 @@
 O divórcio saiu numa terça-feira cinzenta.
 Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata. As decisões sobre os filhos já tinham sido aprovadas pela Justiça: guarda compartilhada, casa principal com Camila, fins de semana alternados com Ricardo, pensão, escola e plano de saúde.
 
-O apartamento também tinha deixado de ser uma ameaça sem resposta. Camila ficaria ali com as crianças e pagaria a parte de Ricardo aos poucos, como ficou no acordo. Não era fácil, mas agora cabia no papel — e no orçamento que ela tinha aprendido a controlar.
+O apartamento também tinha deixado de ser uma ameaça sem resposta. A pensão das crianças já entrava todo mês; Ricardo assumira a escola e o plano de saúde. Assim, Camila conseguira negociar parcelas longas para pagar a parte dele no imóvel. Continuaria apertado por anos, e um atraso mudaria as contas de novo. Mas, pela primeira vez, havia um acordo que ela conseguia cumprir sem contar com o dinheiro dos bolos.
 
 Com os filhos e os bens resolvidos, faltava o ato final. Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
 
@@ -128,9 +128,7 @@ Mesa perto da janela. Dois cafés já pedidos (ele tinha perguntado a preferênc
 
 Quando a viu, levantou. Sorriu. Aquele sorriso gentil.
 
-Não pareceu irritado pelo atraso.
-
-*Anotação mental: Ricardo teria reclamado.*
+Ele afastou a cadeira para ela e esperou que se sentasse.
 
 — Oi! Desculpa o atraso.
 
@@ -146,13 +144,9 @@ Começaram com conversa leve. Segura. Distante.
 
 Trabalho. Tempo. Cidade.
 
-Daniel contava sobre a universidade onde lecionava. Alunos engraçados. Departamentos burocráticos ridículos.
+Daniel contava sobre a universidade onde lecionava. Alunos engraçados. Regras que pareciam feitas para atrapalhar as aulas.
 
-Camila ria. De verdade. Não forçado.
-
-Ele sabia fazer graça e rir de si mesmo sem se diminuir.
-
-Mas parte dela estava esperando. Aguardando pelo sinal de alerta. Pelo momento onde ele mostraria as verdadeiras cores.
+Camila riu quando ele contou que tinha levado para a aula duas cópias do livro errado. Ainda assim, parte dela seguia atenta ao jeito como ele tratava as pessoas à volta.
 
 Então aconteceu.
 
@@ -160,63 +154,41 @@ O garçom passou correndo. Trombou na mesa. Café derramou. Poça marrom espalha
 
 Camila congelou.
 
-*Isso é um teste. Como ele reage quando as coisas dão errado casualmente?*
+*E agora? Ele vai descontar a raiva em alguém?*
 
-Ricardo teria explodido. Chamado o gerente. Feito cena. Arruinado o resto do encontro com mau humor.
-
-Daniel?
-
-Deu risada.
+Daniel deu um pulo para trás. Depois pegou os guardanapos.
 
 — Ai, não! — Pegou guardanapos. Começou a limpar. — Tá tudo bem, moço. Acontece.
 
-Camila ficou olhando. Não era a reação que ela conhecia. O Ricardo teria bufado, revirado os olhos, mandado chamar o gerente, deixado o resto do encontro nublado por aquela irritação que nunca passava. Daniel simplesmente... limpou. E voltou a sorrir para ela, como se a poça de café fosse apenas uma poça de café — não um teste de caráter que ele tinha acabado de passar sem saber que existia.
+Camila esperou o comentário irritado que viria se Ricardo estivesse à mesa. Daniel só puxou a bolsa dela para longe do café derramado.
 
 O garçom, novinho, mortificado:
 
-— Desculpa muito! Eu trago outro!
+— Desculpa! Vou trazer outro!
 
 — Sem estresse. Sério.
 
-Ajudou a limpar. Tranquilizou o garçom. Pediu novos cafés. Não irritou. Não reclamou. Não azedou.
-
-Apenas... lidou com o problema como adulto funcional.
-
-E Camila percebeu: ele era diferente.
-
-Diferente de verdade.
+Quando o garçom voltou, Daniel agradeceu. Camila percebeu que tinha prendido a respiração e soltou o ar devagar.
 
 ---
 
 Conversaram mais.
 
-Ela contou sobre pintura. Ele se interessou de fato. Fez perguntas inteligentes.
-
-Ele contou sobre literatura. Ela adorou ouvir o entusiasmo dele sobre livros.
+Ela contou que tinha voltado a pintar. Daniel perguntou se poderia ver um quadro algum dia. Ela disse que talvez, quando perdesse a vergonha. Ele contou sobre os alunos que insistiam em ler só o resumo dos livros.
 
 E, num momento de silêncio confortável, Daniel disse algo que Camila não esperava:
 — Posso te confessar uma coisa? Eu também saí de um relacionamento difícil. Há três anos. Terminei um noivado. — Ele girou a xícara entre os dedos. — Não vou fingir que sei o que você passou. Cada dor é uma dor. Mas eu entendo o medo de confiar de novo. Eu tive esse medo.
-Camila ficou quieta, absorvendo aquilo. Ele não estava competindo. Não estava comparando dores. Estava só... se abrindo. Mostrando que também tinha cicatrizes.
+Camila ficou quieta. Não esperava que ele falasse de si com tanta franqueza.
 — E como você superou? — perguntou ela, baixinho.
 — Ainda estou superando. A gente não "supera" de verdade, eu acho. A gente aprende a carregar de um jeito que não pesa tanto. — Ele sorriu, sem amargura. — E aprende a reconhecer o que não aceita mais.
 
-Descobriram gosto similar em filmes (ambos amavam dramas europeus lentos).
-
-Risadas compartilhadas sobre séries ruins que tinham assistido.
-
-E a conversa fluiu.
-
-Natural. Fácil. Boa.
+Descobriram que os dois gostavam de filmes lentos e de reclamar das séries que assistiam até o fim mesmo sendo ruins. Quando Camila percebeu, a conversa já tinha ido muito além do café derramado.
 
 Até Daniel perguntar, cuidadoso:
 
 — Posso perguntar sobre seus filhos?
 
-Camila ficou tensa. Instinto.
-
-*Ele está avaliando se eu "sirvo"? Se sou complicada demais com filhos?*
-
-Mas o tom dele era curioso de verdade. Não julgador.
+Camila ficou tensa por um instante. Mas ele esperou sua resposta sem completar a pergunta por ela.
 
 — Pode.
 
@@ -232,19 +204,13 @@ Daniel hesitou antes de continuar:
 
 A frase acendeu uma luz pequena na cabeça de Camila. Não era medo ainda. Era só uma informação importante chegando cedo demais, no segundo café com um homem que ela nem sabia se veria de novo. Então guardou aquilo num canto.
 
-— São. São tudo. — Pausa. — Eu... sou mãe em tempo integral além de trabalhar em tempo integral também. É... muito.
+— O Léo desenha até nas bordas da lição de casa. A Bia pergunta por quê umas vinte vezes antes do café da manhã.
 
-Esperou que ele recuasse. Que dissesse algo como "Nossa, deve ser complicado" com tom de "você TEM muita bagagem".
+Daniel riu.
 
-Mas ao invés:
+— Acho que eu ia gostar dos dois.
 
-— Imagino. Cuidar de tanta coisa quase sozinha deve cansar muito.
-
-Ele tinha percebido o peso sem transformá-la numa heroína.
-
-Não "complicada". Não "bagagem". Uma pessoa que também precisava de descanso.
-
-Sinal positivo.
+Camila sorriu, mas não respondeu. Gostar de uma história sobre seus filhos era diferente de conhecê-los. Ainda era cedo para isso.
 
 Continuaram conversando.
 
@@ -262,11 +228,9 @@ Daniel acenou. Não insistiu. Não fez perguntas invasivas.
 
 Apenas disse:
 
-— Todo mundo merece ser feliz. E às vezes isso significa escolhas difíceis.
+— Obrigado por me contar.
 
-E o tom era tão... compreensivo. Livre de julgamento.
-
-Camila sentiu a guarda baixando. Um pouquinho.
+Camila mexeu na xícara vazia. Era bom não precisar explicar o divórcio inteiro naquele sábado.
 
 ---
 
@@ -328,73 +292,19 @@ E esse pensamento — simples, mas novo para ela — mudou tudo.
 
 ---
 
-Em casa. Sozinha. Crianças com Ricardo.
+Em casa, as crianças ainda estavam com Ricardo. Camila tirou os sapatos e encontrou no sofá o casaco que Léo tinha deixado antes de sair. Dobrou-o, olhando o celular sobre a mesa.
 
-Camila sentou no sofá. Processou.
+Pensou em contar tudo a Fernanda. A amiga iria rir, fazer perguntas, talvez chamá-la de medrosa. Camila abriu a conversa, mas percebeu que havia uma pessoa a quem queria falar primeiro.
 
-Pegou o celular. Mandou mensagem para Fernanda:
+*"Gostei de hoje"*, escreveu a Daniel. Esperou um minuto e acrescentou: *"Quer almoçar comigo na terça? Dessa vez eu escolho o lugar."*
 
-*"Foi bom. Realmente bom. Estou confusa."*
+Antes que perdesse a coragem, enviou.
 
-Resposta imediata:
+A resposta veio quando ela já tinha ido buscar um copo d'água.
 
-*"Confusa como?"*
+*"Quero. Escolhe você. Só não vale derrubar café em mim."*
 
-*"Ele foi... gentil. Paciente. Real. E parte de mim continua esperando que o outro sapato caia."*
-
-*"É o passado falando, Cá. Você vai demorar para confiar. Normal. Mas, pelo menos, você tentou."*
-
-*"Eu gostei dele."*
-
-*"E ISSO É BOM! Para de ter medo de coisa boa!"*
-
-Camila sorriu.
-
-Abriu o diário. Escreveu:
-
-*"Segundo café com Daniel.*
-
-*Esperava desastre. Tive... algo bom.*
-
-*Ele foi respeitoso, engraçado, gentil.*
-
-*Me fez rir de verdade.*
-
-*Quando o café derramou, não irritou. Riu.*
-
-*Coisa pequena, mas mostra caráter.*
-
-*Estou com medo. Porque foi bom. E bom é assustador depois de tanto ruim.*
-
-*Mas Dr. Lucas está certo: nem todos são o ex.*
-
-*Daniel pode ser diferente.*
-
-*Ou pode não ser.*
-
-*Mas, pelo menos, estou tentando.*
-
-*E isso é algo."*
-
-Fechou o diário sentindo algo desconhecido:
-
-Esperança.
-
-Esperança aterrorizante, vulnerável.
-
-Mas esperança mesmo assim.
-
-E isso era um começo.
-
-Naquela noite, Camila não conseguiu dormir. Não de insônia — de um tipo de agitação que ela quase não reconhecia mais.
-
-Ela ficou deitada no escuro, repassando a noite: o café derramado, a risada de Daniel, a mão dele acenando na calçada quando se despediram. E sentiu, no peito, uma coisa que não sentia desde a juventude.
-
-Ansiedade boa. Borboletas. Aquele frio na barriga de quem está prestes a começar algo que pode dar certo.
-
-Ela riu sozinha no travesseiro. Trinta e cinco anos, dois filhos, um divórcio recém-assinado — e ali estava ela, com borboletas no estômago, como uma adolescente.
-
-Talvez recomeçar fosse isso: não virar outra pessoa. Só reaprender a se permitir.
+Camila riu sozinha na cozinha. Tinha medo, claro. Mas o convite tinha saído dela.
 
 
 

@@ -1,13 +1,9 @@
 # CAPÍTULO 4
 ## As Pequenas Sabotagens
 
-Há um tipo específico de loucura que acomete mulheres casadas e exaustas: a crença teimosa de que *mais esforço* gerará *mais amor*.
+Na sexta-feira seguinte, Camila saiu do trabalho decidida a tentar mais uma vez. Se preparasse uma noite só para os dois, talvez Ricardo percebesse que ainda havia algo a cuidar entre eles.
 
-É a lógica do trabalho: se eu trabalhar mais, serei promovida. Se eu estudar mais, passarei na prova. Então, se eu me esforçar mais no casamento, se eu for mais carinhosa, mais atenciosa, criativa, ele vai notar. Ele vai retribuir.
-
-Camila caiu nessa armadilha na sexta-feira seguinte.
-
-A recusa da terapia ainda doía, mas sua mente traidora racionalizou: *Ele tem razão em partes. A rotina engoliu a gente. Talvez a gente só precise de romance. De leveza.*
+A recusa da terapia ainda doía. Mesmo assim, ela pensou: *Talvez a rotina tenha engolido a gente. Talvez só falte um tempo a dois.*
 
 Ela decidiu preparar um jantar surpresa.
 
@@ -180,7 +176,7 @@ Camila sentiu uma repulsa violenta. Empurrou a mão dele.
 
 — Amanhã a gente sai pra jantar, tá bom? Eu pago. Vamos naquele japonês caro. Pronto. Compensa?
 
-Ele achava que era uma transação. Troca-se um filé caseiro rejeitado por um rodízio japonês e o saldo fica zerado. Ele não entendia que o que ela queria não era comida. Era consideração. Era prioridade.
+Ele achava que um jantar caro apagaria o que tinha feito. Camila não queria outra comida. Queria que Ricardo tivesse escolhido estar com ela naquela noite.
 
 — Não compensa, Ricardo. Não compensa. Vai dormir. Você está fedendo a bar.
 
@@ -192,11 +188,6 @@ Ricardo foi para o quarto, resmungando sobre mulheres loucas.
 
 Camila ficou no sofá. Tirou o vestido ali mesmo, ficando de lingerie no frio da sala. Sentia-se exposta. Nua. Tola.
 
-Ela jurou para si mesma, ali no escuro:
-*Nunca mais.*
-*Nunca mais eu vou me arrumar pra quem prefere beber cerveja morna com o Marcão.*
-*Nunca mais eu vou cozinhar amor pra quem só tem fome de conveniência.*
+Ela jurou para si mesma, ali no escuro, que não prepararia outra surpresa para fingir que nada tinha acontecido. No domingo, Ricardo agiu como se o jantar perdido tivesse sido só uma brincadeira. Camila não conseguiu rir.
 
-Foi a primeira "pequena sabotagem" consciente dela.
-Ela parou de tentar agradar.
-E quando a mulher para de tentar agradar, o casamento começa a mostrar suas verdadeiras fundações podres.
+Na segunda, foi trabalhar com os olhos inchados. Queria contar a alguém o que havia acontecido, mas ainda não sabia por onde começar.

@@ -1,9 +1,7 @@
 # CAPÍTULO 7
 ## A Gota D'água
 
-Camila não sabia, mas seu corpo vinha dando sinais. O estresse de tantos meses tinha enfraquecido as defesas do corpo, até que uma brecha apareceu.
-
-A brecha apareceu numa terça-feira pós-feriado.
+Na terça-feira depois do feriado, Camila acordou doente. Havia dias que dormia mal, mas naquela manhã não conseguiria sair da cama por força de vontade.
 
 Camila acordou com a sensação de ter engolido arame farpado. Sua cabeça pesava uma tonelada. Cada junta do corpo gritava.
 

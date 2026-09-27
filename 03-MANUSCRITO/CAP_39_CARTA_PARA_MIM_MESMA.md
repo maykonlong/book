@@ -143,9 +143,33 @@ Depois de alguns metros, ela olhou para trás. Daniel também tinha olhado. Os d
 
 Camila chorou no carro. Chorou porque perder uma pessoa boa ainda era perda. Chorou sem confundir dor com erro.
 
-Naquela noite, dormiu sozinha.
+As crianças estavam com Ricardo naquela noite. Camila dormiu sozinha.
 
 E acordou em paz.
+
+Quando as crianças voltaram, contou a Léo e Bia antes que perguntassem por que Daniel não viria mais. Sentou com os dois no tapete da sala, onde ainda estava a caixa do jogo que ele levara no primeiro jantar.
+
+— Eu e o Daniel não vamos mais namorar — disse. — A gente gosta um do outro, mas quer coisas diferentes para a vida.
+
+Bia olhou para a caixa.
+
+— Ele não vem mais jogar?
+
+— Acho que não, meu amor. Eu sei que você gostou dele. Pode ficar triste.
+
+Léo puxou uma peça do jogo para perto de si.
+
+— Eu também gostei. Ele sabe perder sem ficar bravo.
+
+Camila sentiu os olhos encherem. Tinha pensado tanto na dor dela e na de Daniel que aquela frase pequena a pegou desprevenida.
+
+— Ele foi legal com vocês. Isso não deixa de ser verdade porque a gente terminou.
+
+— Foi por nossa causa? — perguntou Léo.
+
+— Não. Vocês não fizeram nada de errado. A decisão foi nossa, dos adultos. E eu continuo aqui, do mesmo jeito que antes.
+
+Bia pediu para guardar a caixa, em vez de devolvê-la. Camila concordou. Léo ficou quieto por um tempo; mais tarde, chamou a mãe para uma partida. Nenhum dos três fingiu que estava tudo bem naquela tarde. Mesmo assim, jogaram.
 
 Abriu o diário. Dessa vez, a mão não parou.
 

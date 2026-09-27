@@ -255,7 +255,7 @@ E pensou:
 
 Mas também pensou:
 
-"Talvez isso vá ser Ok."
+"Talvez dê certo."
 
 Talvez.
 

@@ -154,6 +154,9 @@ def markdown_blocks(md: str) -> list[tuple[str, str]]:
         elif re.match(r"^\d+\.\s+", line):
             flush()
             blocks.append(("li", re.sub(r"^\d+\.\s+", "", line)))
+        elif line.startswith("—") or line.startswith('*"'):
+            flush()
+            blocks.append(("p", line))
         else:
             para.append(line)
     flush()
@@ -771,6 +774,8 @@ def write_metadata(page_count: int, spine: float) -> None:
 
 Arquivos preparados em {date.today().strftime('%d/%m/%Y')} para publicação independente.
 
+**Pendência antes do upload definitivo do impresso brasileiro:** conferir/incluir a ficha catalográfica com os dados finais. Se isso alterar o miolo, o PDF, a capa, a contagem de páginas, o ZIP e os hashes precisarão ser atualizados. O pacote atual não deve ser tratado como versão final impressa antes dessa conferência. Consulte o [guia de ISBN e direitos autorais](../../05-PUBLICACAO/GUIA_ISBN_DIRETOS_AUTORAIS.md).
+
 ## Arquivos para enviar à Amazon KDP
 
 - **Kindle:** `ebook/A_Metade_Que_Me_Faltava_Era_Eu.epub`
@@ -844,6 +849,8 @@ As categorias disponíveis mudam conforme a loja e o formato. Escolha somente as
 As ilustrações da capa e dos capítulos foram geradas com inteligência artificial e receberam direção, seleção, composição e tratamento editorial. Responda ao campo de transparência da KDP de acordo com a regra vigente no momento do envio. O texto passou por revisão assistida; confirme a origem do manuscrito conforme o processo real de quem o escreveu, independentemente do pseudônimo público.
 
 O livro completo está disponível gratuitamente no site oficial. Enquanto permanecer assim, não selecione KDP Select/exclusividade digital.
+
+Antes do upload definitivo do impresso brasileiro, conferir/incluir a ficha catalográfica com os dados bibliográficos finais; se o miolo mudar, regenerar o PDF e a capa.
 '''
     (META / "METADADOS_KDP.md").write_text(metadata, encoding="utf-8")
 
@@ -854,6 +861,7 @@ O livro completo está disponível gratuitamente no site oficial. Enquanto perma
 - [ ] Conferir a descrição, as sete palavras-chave e as categorias no painel.
 - [ ] Informar corretamente o uso de conteúdo gerado por IA.
 - [ ] Escolher ISBN gratuito da KDP ou informar ISBN próprio para o impresso.
+- [ ] Conferir/incluir a ficha catalográfica da edição brasileira no miolo; se mudar a paginação, regenerar PDF e capa.
 - [ ] Enviar o EPUB e abrir o Kindle Previewer em celular, tablet e e-reader.
 - [ ] Enviar o miolo PDF com 5,5 × 8,5 pol., papel creme e sem sangria.
 - [ ] Enviar a capa PDF correspondente ao mesmo número de páginas do miolo.

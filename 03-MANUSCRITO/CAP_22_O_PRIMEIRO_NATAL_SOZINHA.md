@@ -11,6 +11,8 @@ Na véspera, Camila acordou com um aperto no peito que não era fome, nem gripe,
 
 Não era estar fisicamente sozinha — havia os filhos, a ceia, os presentes. Era sentir-se sozinha na alma, como se o mundo inteiro estivesse em família e ela tivesse ficado de fora. Uma solidão que parecia existir apenas em dezembro.
 
+Depois da pergunta de Léo, Camila tinha ligado para Ricardo. Ele passaria a noite na casa da mãe e buscaria as crianças no Ano Novo. Ela contou aos filhos assim que soube. Léo não discutiu, mas também não quis falar muito.
+
 ---
 
 Naquela tarde, Camila decidiu que o Natal não ia ser um funeral.

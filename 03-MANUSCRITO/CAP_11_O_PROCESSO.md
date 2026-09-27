@@ -1,13 +1,9 @@
 # CAPÍTULO 11
 ## O Processo
 
-Se a dor emocional do divórcio é um tsunami, a dor burocrática é areia movediça. Lenta, pegajosa, sufocante.
+Na segunda-feira, Camila entrou no escritório da Dra. Patrícia Alves com uma pasta de documentos e a pergunta que a mantivera acordada: conseguiria ficar no apartamento com os filhos?
 
-Transformar o fim de um amor em papelada era uma crueldade própria: documentar o que tinha sido sentimento e assinar o que ainda era dor.
-
-Camila descobriu isso na segunda-feira seguinte, no escritório da Dra. Patrícia Alves.
-
-O escritório ficava em um prédio comercial antigo no centro. Carpete cinza, cheiro de café passado há muito tempo, e pilhas de processos encadernados em capa parda que pareciam lápides de casamentos mortos.
+O escritório ficava em um prédio comercial antigo no centro. Carpete cinza, cheiro de café passado há muito tempo e pilhas de pastas marrons sobre as mesas.
 
 Dra. Patrícia era direta. Uma mulher de quarenta e dois anos com óculos de armação vermelha e sem paciência para rodeios.
 
@@ -45,7 +41,7 @@ Dra. Patrícia virou a página.
 
 — Ele já saiu. Está num hotel.
 
-— Ótimo. Ele ter saído de casa por vontade própria pesa a nosso favor. No caso de acordo, facilita. Você quer ficar no apartamento?
+— Como ele já saiu, podemos tentar um acordo para você e as crianças continuarem no apartamento enquanto resolvem a partilha. Isso não decide quem ficará com o imóvel. Você quer permanecer lá?
 
 — Quero. É perto da escola das crianças. É a casa delas.
 

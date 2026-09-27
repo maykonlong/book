@@ -127,7 +127,7 @@ Camila riu alto na sala vazia.
 
 Limpou os pincéis com carinho. Lavou o pote. Guardou as tintas na caixa nova como se fossem joias.
 
-Foi dormir com cheiro de tinta guache (ok, aquarela não tem cheiro, mas a memória olfativa inventou um).
+Foi dormir com as mãos manchadas de cor e a mesa ainda ocupada por papéis úmidos.
 
 Naquela noite, ela não sonhou com boletos.
 Sonhou que estava nadando em um mar de azul-cobalto, e que sabia respirar debaixo d'água.

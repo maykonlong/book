@@ -5,18 +5,26 @@
 
 ## Resultado
 
-**APROVADO para publicação técnica.**
+**Aprovado nas verificações automatizadas da versão preparada; não é autorização para publicar o impresso sem ficha catalográfica, conferência no Previewer e prova física.** O pente-fino editorial atual está em [PENTE_FINO_2026-09-26.md](PENTE_FINO_2026-09-26.md).
 
 - 40 capítulos em sequência, sem lacunas.
-- 63.828 palavras contando os títulos e cabeçalhos dos capítulos; 63.597 palavras de história.
+- 62.955 palavras contando os títulos e cabeçalhos dos capítulos; 62.724 palavras de história.
 - Nenhum capítulo abaixo de 900 palavras.
 - 10 ilustrações narrativas presentes no leitor e no EPUB.
 - 13 temas femininos presentes na página, no JSON-LD e no `llms.txt`.
 - 0 frases longas duplicadas entre capítulos.
 - EPUBCheck 5.4.0: 0 erros fatais, 0 erros e 0 avisos.
-- Miolo: 324 páginas em 5,5 × 8,5 polegadas, com sumário paginado e números conferidos.
+- Miolo: 322 páginas em 5,5 × 8,5 polegadas, com sumário paginado.
 - Links locais, checksums e ZIP final: aprovados.
-- Página testada em desktop, tablet e celular, sem rolagem horizontal e sem erros no console.
+- A página havia sido testada em desktop, tablet e celular na passagem anterior. Nesta revisão, os endpoints locais da abertura, do leitor e do capítulo 40 responderam com HTTP 200 e o capítulo 40 servido contém o novo fecho. Ainda vale repetir a conferência visual em aparelhos reais das leitoras.
+
+## Revisão narrativa mais recente
+
+- **Passagens entre capítulos:** o fim do capítulo 2 leva à proposta de terapia do 3; a última sugestão de Ricardo no 5 leva à viagem do 6; a mensagem de Dona Sônia liga 12 e 13; a pergunta de Léo no 21 recebe resposta no 22; e a iniciativa de Camila no 29 é mantida no 30.
+- **Meio do capítulo 30:** substituídos testes e explicações repetidos por ações que mostram limites, cuidado e incerteza. Corrigida a ordem dos cinco encontros e o intervalo até o jantar com Mariana.
+- **Conclusão:** Camila termina com Daniel por uma diferença real de planos, sem apagar o afeto; o capítulo 40 responde em cena por que a figura voa sozinha e deixa uma oportunidade ligada à pintura, sem obrigar uma trama específica para o segundo livro.
+- **Vocabulário:** trocadas palavras e frases mais distantes da fala cotidiana, como `resignação`, `monumentais`, `metáfora`, `coexistimos` e `logístico`, preservando imagens fáceis de entender e falas naturais.
+- **Paginação:** o fecho impresso está na página 313 do livro (página 321 do PDF) e o pós-texto na seguinte. A quebra de página deixa a pergunta sobre o voo no fim da página anterior e a resposta no início da última página da história. Miolo e capa foram recalculados juntos; lombada atual de 0,805 polegada.
 
 ## Nova passagem editorial e visual de 26/09/2026
 
@@ -26,7 +34,7 @@
 - A página de apresentação ganhou direção de arte editorial ligada à capa: fundo azul profundo, papel quente, tipografia de livro, linhas de índice e destaque para três ilustrações sem revelar as cenas finais.
 - A chamada para começar a leitura aparece na primeira tela do celular. O botão fixo só surge depois que a abertura sai de vista, para não cobrir o texto.
 - Foram retiradas promessas genéricas sobre o ritmo da obra e a compatibilidade irrestrita com e-readers. O funcionamento nesses aparelhos depende do navegador.
-- EPUBCheck 5.4.0 foi executado novamente naquela passagem: 0 erros fatais, 0 erros, 0 avisos. O miolo tinha 318 páginas então; a versão atual e sua capa foram reconstruídas para 324 páginas.
+- EPUBCheck 5.4.0 foi executado novamente naquela passagem: 0 erros fatais, 0 erros, 0 avisos. O miolo tinha 318 páginas então; a versão daquela passagem e sua capa foram reconstruídas para 324 páginas.
 
 ## Revisão de ritmo e continuidade de 26/09/2026
 
@@ -44,7 +52,7 @@
 - No capítulo 37, Lúcia conta a infância de Daniel incluindo Mariana, irmã mais velha apresentada no capítulo 30; a ficha de Daniel também registra essa família.
 - Três expressões que destoavam do público foram simplificadas nos capítulos 2, 13 e 21: "carta de alforria", "triunvirato" e "custódia compartilhada harmônica".
 - Novos marcadores no validador protegem a continuidade do trabalho, do nome de Camila e da família de Daniel.
-- O miolo permanece com 324 páginas; EPUBCheck, links, checksums e ZIP foram validados novamente.
+- Naquela passagem, o miolo permaneceu com 324 páginas; EPUBCheck, links, checksums e ZIP foram validados novamente.
 
 ## Ajustes adicionais de 26/09/2026
 
