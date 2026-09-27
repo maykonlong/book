@@ -39,7 +39,7 @@
 
 1. [x] **Revisão ortográfica/gramatical (1ª varredura automática)** — ver "Correções ortográficas" abaixo (recomenda-se ainda uma leitura humana em voz alta)
 2. [ ] **Beta readers** (mulheres adultas, especialmente mães e mulheres casadas/separadas) — materiais prontos (`BETA_READERS.md` + `manuscrito_beta.html`); falta recrutar e coletar o feedback
-3. [x] **Expansão para 75–85k adiada** (decisão editorial — edição atual com ~63.600 palavras de história; média ~1.590 por capítulo)
+3. [x] **Expansão para 75–85k adiada** (decisão editorial — edição atual com 62.724 palavras de história; média ~1.568 por capítulo)
 4. [x] Nome literário e bio da autora preparados no pacote editorial; confirmar dados legais na conta KDP
 5. [x] Formatação final e capa geradas; conferir no Previewer e na prova física
 

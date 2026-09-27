@@ -2,12 +2,14 @@
 
 > Material pronto para recrutar e orientar leitores/as beta do livro **"A Metade Que Me Faltava Era Eu"**.
 
+> **Rodada atual:** texto do commit `cd09ccf` (26/09/2026). Envie junto o [roteiro da equipe](ENTREGA_LEITURA_EQUIPE.md). Se houver edição da história, registre outro commit e informe às leitoras qual versão receberam.
+
 ---
 
 ## 1. O que são beta readers (e o que NÃO são)
 
 - **Beta readers** são leitores/as **voluntários/as** que leem o manuscrito **antes** da publicação e dão feedback sobre a **experiência de leitura**.
-- **NÃO** são revisores de texto — não corrigem gramática/ortografia. São "leitores-teste".
+- **Não precisam** atuar como revisores de texto. Se perceberem um erro de gramática, podem apontá-lo com capítulo e trecho; o foco principal é a experiência de leitura.
 - Objetivo: descobrir o que funciona, o que confunde, o que emociona e o que precisa melhorar.
 
 ---
@@ -15,8 +17,6 @@
 ## 2. Perfil ideal (para este livro)
 
 - Mulheres adultas, especialmente mães e mulheres casadas, separadas ou divorciadas
-- **Casadas, separadas ou divorciadas**
-- **Mães** (idealmente)
 - Leitoras de **ficção feminina / romance contemporâneo**
 - *Dica:* misture algumas que passaram por divórcio e algumas que não, para ter perspectivas diferentes.
 
@@ -34,13 +34,14 @@
 
 ## 4. Quantas recrutar
 
-- **5 a 10** é o ideal. Menos que isso não revela padrões; mais que isso vira ruído.
+- **5 a 10** leitoras de perfis próximos ao público-alvo formam uma rodada inicial manejável. Um achado objetivo de uma só pessoa também merece conferência; opiniões de ritmo e gosto ganham força quando se repetem.
 
 ---
 
 ## 5. O que enviar
 
 1. O manuscrito **já formatado**: `05-PUBLICACAO/manuscrito_beta.html`
+   - Alternativa online: `https://maykonlong.github.io/book/ler.html` (a leitura é pública nesta fase).
    - **Para gerar o PDF:** abra o `.html` no navegador (Chrome/Edge) e use **Ctrl+P → "Salvar como PDF"**.
    - **Para regenerar** (se editar o texto): rode `04-MATERIAL_APOIO/converter_html.ps1` no PowerShell.
 2. **Prazo sugerido:** 2–3 semanas
@@ -51,8 +52,7 @@
 ## 6. Como processar o feedback
 
 - Não corrija cada apontamento isolado. Procure **padrões**.
-- **3+ pessoas apontam o mesmo problema** → é problema real.
-- **1 pessoa aponta** → pode ser gosto pessoal.
+- Quando várias pessoas apontam a mesma dificuldade, investigue com prioridade. Uma única pessoa pode descobrir um erro factual; uma preferência isolada não exige reescrita automática.
 - Organize o feedback por: **enredo · personagens · ritmo · emoção · linguagem · final**.
 
 ---
@@ -61,7 +61,7 @@
 
 > Olá! Estou finalizando meu livro de ficção feminina, **"A Metade Que Me Faltava Era Eu"**, e procuro **leitoras beta** para dar um feedback sincero sobre a história antes da publicação.
 >
-> **Sobre o livro:** Camila, 34 anos, casada há 11, decide se divorciar depois de anos carregando sozinha a casa, os filhos e a carga mental do casamento. É uma história de recomeço, autodescoberta e amor-próprio.
+> **Sobre o livro:** Camila, 34 anos, casada há 11 anos, decide se divorciar depois de carregar sozinha a casa, os filhos e a carga mental do casamento. É uma história de recomeço, autodescoberta e amor-próprio.
 >
 > **O que preciso de você:** apenas ler e responder um questionário curto sobre o que funcionou e o que não funcionou para você. Não precisa corrigir gramática — só a sua opinião de leitora.
 >
@@ -69,7 +69,7 @@
 >
 > **Para agradecer:** [exemplar digital grátis / nome nos agradecimentos / outro mimo].
 >
-> Se tiver interesse, me avisa que eu envio o arquivo e o questionário. Obrigada! 💛
+> Se tiver interesse, me avise que envio o arquivo e o questionário. Agradeço sua ajuda!
 
 ---
 
@@ -89,6 +89,7 @@
 7. Algum trecho ficou arrastado ou chato? Onde?
 8. Alguma parte foi rápida demais (você queria mais cena)?
 9. Teve algum momento confuso ou incoerente?
+   - Alguma passagem entre capítulos deixou de mostrar uma consequência que você esperava?
 
 ### D. Emoção
 10. Em que momento você mais se emocionou?
@@ -98,6 +99,7 @@
 ### E. Linguagem
 13. O estilo "conversa com a leitora" (os "Você já sentiu isso?") funcionou para você?
 14. Algum diálogo pareceu artificial ou forçado?
+   - Alguma palavra ou frase soou culta ou difícil demais para esta história? Qual?
 
 ### F. Temas e mensagem
 15. Qual a mensagem principal que você levou do livro?
@@ -113,14 +115,15 @@
 
 ## 9. O que fazer com o feedback (resumo)
 
-1. Identifique **padrões** (3+ pessoas apontando a mesma coisa).
+1. Identifique **padrões** de leitura; confira erros objetivos mesmo quando apenas uma pessoa os apontar.
 2. Liste as mudanças por **prioridade**:
    1. furos / incoerências
    2. ritmo (partes arrastadas ou rápidas demais)
    3. personagens (críveis? identificáveis?)
    4. emoção (onde tocou / onde não tocou)
    5. estilo (diálogos, "conversa com a leitora")
-3. Aplique as mudanças, faça uma última leitura em voz alta e **publique**.
+3. Aplique somente as mudanças aprovadas. Releia em voz alta os trechos alterados e suas ligações com os capítulos vizinhos.
+4. Reconstrua site, versão beta e pacote KDP; rode o validador e confira novamente EPUB, PDF e capa. Publique apenas depois das decisões e provas listadas em `04-MATERIAL_APOIO/STATUS_ATUAL.md`.
 
 ---
 

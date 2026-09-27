@@ -1,5 +1,7 @@
 # 📚 RESUMO INICIAL DO PROJETO
 
+> **Documento histórico da ideia inicial.** As metas de 20–30 capítulos e 180–250 páginas abaixo foram substituídas pela edição atual: 40 capítulos, 62.724 palavras de história e miolo preparado de 322 páginas. Para o estado de publicação, consulte `README.md` e `04-MATERIAL_APOIO/STATUS_ATUAL.md`.
+
 ## Conceito Geral
 Livro de ficção contemporânea focado na jornada de autodescoberta de uma mulher brasileira após um relacionamento tóxico. A história aborda a redescoberta pessoal, empoderamento feminino e a busca por parceria verdadeira.
 

@@ -1,14 +1,14 @@
 # 📋 VISÃO GERAL DO PROJETO
 
 ## Status Atual
-✅ **Manuscrito completo** — 40 capítulos, ~63.600 palavras de história (~64.200 com cabeçalhos e textos iniciais e finais)
+✅ **Manuscrito preparado para leitura da equipe** — 40 capítulos, 62.724 palavras de história (63.364 no manuscrito completo, com cabeçalhos e textos iniciais e finais)
 ✅ **Site e leitor atualizados** — landing page (`index.html`) + leitor online ilustrado (`ler.html`), com FAQ, JSON-LD e layout mobile-first (ver `05-PUBLICACAO/SEO_GEO.md`)
 
-✅ **Pacote KDP gerado** — EPUB 3, capa Kindle, miolo de 324 páginas com sumário, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`
+✅ **Pacote KDP gerado para avaliação** — EPUB 3, capa Kindle, miolo de 322 páginas com sumário, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`. A edição impressa ainda depende da ficha catalográfica, do Previewer e da prova física.
 
 ---
 
-## Título Provisório
+## Título da edição preparada
 **"A Metade Que Me Faltava Era Eu"**
 *Subtítulo: A jornada de uma mulher que cansou de ser a única a tentar*
 
@@ -58,7 +58,7 @@
 
 ### Fase 5: Finalização
 - [x] Revisão ortográfica e gramatical
-- [x] Formatação final
+- [x] Formatação candidata para leitura e prova; versão impressa final depende da ficha catalográfica e do Previewer
 - [x] Criação de sinopse para contracapa — ver `05-PUBLICACAO/PACOTE_EDITORIAL.md`
 - [x] Preparação para publicação
 

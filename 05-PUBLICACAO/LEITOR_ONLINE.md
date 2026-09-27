@@ -1,6 +1,6 @@
-# 📖 SITE + LEITOR ONLINE (index.html + ler.html)
+# Site + leitor online (index.html + ler.html)
 
-> Um site do livro com página de apresentação e um "reader" web que lê os capítulos `.md` **direto do repositório**, exibindo como livro e **salvando no navegador onde a leitora parou** — sem alterar o manuscrito.
+> **Já publicado nesta fase de testes:** [página inicial](https://maykonlong.github.io/book/) e [leitor](https://maykonlong.github.io/book/ler.html). O leitor lê os capítulos `.md` **direto do repositório público** e salva no navegador onde a leitora parou. O texto completo está acessível; este documento não muda a estratégia futura de venda.
 
 ## Estrutura
 
@@ -23,13 +23,9 @@ O `ler.html` (na raiz do projeto) é um leitor de livro:
 - Barra de **progresso de leitura** no topo
 - **"Continuar de onde parou"** automático ao reabrir
 
-## Como ativar (GitHub Pages — grátis)
+## Configuração atual do GitHub Pages
 
-1. No repositório do GitHub: **Settings → Pages**
-2. Em "Source": **Deploy from a branch**
-3. Branch: **main** · pasta: **/ (root)**
-4. Salve. Em ~1 minuto o leitor fica em:
-   `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`
+O endereço público já é `https://maykonlong.github.io/book/`. Na configuração do repositório, a publicação usa a branch `main` e a raiz do projeto. Depois de enviar alterações, confira o site publicado e os capítulos alterados antes de anunciar a atualização; a propagação pode demorar.
 
 ## Testar localmente (opcional)
 
@@ -43,3 +39,4 @@ npx serve .
 - ⚠️ **O leitor não funciona** abrindo com duplo clique (`file://`) — o navegador bloqueia `fetch()` de arquivos locais (CORS). Precisa de **HTTP** (GitHub Pages ou servidor local).
 - O manuscrito (`.md`) **não é alterado** — o reader só lê os arquivos.
 - Se adicionar/renomear capítulos, atualize a lista `CHAPTERS` no início do `ler.html`.
+- **KDP Select:** não basta esconder o botão de leitura. Este repositório público também contém manuscrito, EPUB, PDFs e histórico. Consulte `05-PUBLICACAO/PLANO_PREVIA_AMAZON_E_PRECO.md` antes de qualquer mudança de distribuição.

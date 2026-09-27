@@ -1,50 +1,21 @@
-# 📋 O QUE FALTA — PENDÊNCIAS FINAIS
+# Pendências da edição atual
 
-> Documento consolidado de tudo o que **ainda falta fazer** para publicar "A Metade Que Me Faltava Era Eu". Atualizado em 24/09/2026.
+Atualizado em 26/09/2026. A lista detalhada e a ordem de decisão estão em [STATUS_ATUAL.md](STATUS_ATUAL.md). Este arquivo existe como índice curto para quem vinha usando o checklist antigo.
 
----
+## Já concluído
 
-## ✅ Já está pronto (feito)
+- Manuscrito de 40 capítulos, 62.724 palavras de história, versão beta e leitor online no GitHub Pages.
+- Nome literário Mariana Duarte, bio e agradecimentos; colaboração de Diana Catarina descrita sem apresentar histórias de clientes como fatos reproduzidos.
+- EPUB, capa Kindle, miolo de 322 páginas, capa impressa correspondente, metadados, ZIP e hashes gerados e validados tecnicamente.
 
-- **Manuscrito completo**: 40 capítulos + dedicatória + epígrafe + carta à leitora + agradecimentos + sobre a autora; sinopse e ficha técnica ficam no pacote editorial, não antes do capítulo 1
-- **Revisões**: coesão (nomes/idades/cronologia), ortografia, repetições, vocabulário leve
-- **Site profissional**: landing page (`index.html`) com identificação, sinopse, temas, trecho, FAQ, CTA e leitor online (`ler.html`); layout responsivo e acessível
-- **SEO/GEO/AEO**: JSON-LD consistente, respostas objetivas, imagem social, `llms.txt`, sitemap, robots, manifest e URL canônica real
-- **Pacote editorial**: ficha, sinopses, bio, resumo
-- **Guias**: Amazon KDP, beta readers, checklist pré-lançamento, SEO/GEO
-- **Pseudônimo**: Mariana Duarte (bio escrita em todos os lugares)
+## A fazer, nesta ordem
 
----
+1. Leitura da equipe e consolidação do retorno; registrar alterações aprovadas.
+2. Após qualquer alteração de texto, regenerar e validar todas as versões.
+3. Definir ISBN do impresso e conferir/incluir a ficha catalográfica da edição brasileira; se mudar páginas, refazer miolo e capa.
+4. Conferir EPUB e impresso nos Previewers da KDP e aprovar uma prova física.
+5. Decidir KDP comum ou Select. **Não selecionar Select com o texto integral no site/repositório público.** Resolver a exposição digital e consultar a KDP antes de qualquer inscrição.
+6. Definir preço, categorias, territórios e dados de conta no painel; publicar somente depois das verificações.
+7. Substituir o CTA de “em breve” por links reais de compra quando a página do livro estiver no ar.
 
-## ⬜ O que falta (manual — só você faz)
-
-### A. Domínio e site
-1. [x] **Usar o endereço público atual** — `https://maykonlong.github.io/book/`
-2. [x] **Trocar os placeholders** pela URL real nos arquivos públicos
-3. [x] **Criar arte de capa e imagem horizontal** para compartilhamento
-4. [x] **Confirmar o GitHub Pages ativo**
-5. [ ] **Comprar e apontar um domínio próprio** (opcional)
-6. [ ] **Enviar o sitemap** no Google Search Console
-
-### B. Validação (beta readers)
-7. [ ] **Recrutar 5–10 beta readers** (mulheres adultas, especialmente mães e mulheres casadas/separadas/divorciadas)
-8. [ ] **Enviar** `manuscrito_beta.html` + questionário (`BETA_READERS.md`)
-9. [ ] **Coletar e aplicar** o feedback
-
-### C. Publicação (Amazon)
-10. [ ] **Revisão final em voz alta** (opcional, recomendada)
-11. [x] **Preparar as capas para os formatos da Amazon** (JPG do Kindle e PDF do impresso; conferir no Previewer e na prova física)
-12. [ ] **Publicar na Amazon** (seguir `PASSO_A_PASSO_AMAZON_KDP.md`)
-13. [ ] **Adicionar o link da Amazon** no site (trocar o botão "em breve")
-
-### D. Marketing
-14. [ ] **Criar perfis** nas redes (Instagram, TikTok)
-15. [ ] **Linkar as redes** no site quando os perfis existirem
-16. [ ] **Pedir avaliações/resenhas** (Amazon, Goodreads, Skoob)
-17. [ ] **Divulgar** (lançamento, posts, grupos de leitura)
-
----
-
-## 🎯 Ordem sugerida
-
-1. Beta readers → 2. Ajustes do feedback → 3. Formatação e capa para Amazon → 4. Publicar → 5. Linkar vendas/redes → 6. Enviar sitemap e divulgar → 7. Adotar domínio próprio, se desejar
+Domínio próprio, Search Console e perfis sociais são melhorias de divulgação, **não bloqueios** para a rodada da equipe nem para o envio técnico ao KDP.

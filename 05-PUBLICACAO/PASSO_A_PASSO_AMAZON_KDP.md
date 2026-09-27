@@ -23,7 +23,7 @@ O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo 
 - Use Mariana Duarte como nome literário público; na conta KDP, informe os dados legais e fiscais reais do titular responsável.
 - Decida se usará o ISBN gratuito da KDP ou um ISBN próprio no impresso. O eBook recebe ASIN e não exige ISBN.
 - Confirme os dados bibliográficos da ficha catalográfica da edição brasileira e incorpore-a ao miolo antes de enviar os arquivos finais. A ficha não substitui o ISBN nem o registro facultativo de direitos autorais.
-- **Não selecione KDP Select enquanto o livro completo estiver disponível gratuitamente no site.** O programa exige exclusividade digital. A edição impressa não depende dessa escolha.
+- **Não selecione KDP Select enquanto o livro completo estiver disponível gratuitamente no site ou neste repositório público.** O programa exige exclusividade digital. Esconder capítulos no leitor não remove manuscrito, EPUB, PDFs nem versões anteriores do histórico. A edição impressa não depende dessa escolha.
 - Confira título, subtítulo e nome da autora exatamente como aparecem nos arquivos.
 - Não invente respostas fiscais. Preencha a entrevista conforme sua situação e procure um contador se houver dúvida.
 
@@ -56,7 +56,7 @@ O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo 
 - [ ] Ficha catalográfica da edição brasileira conferida no miolo; se a paginação mudar, revisar o número de páginas esperado e refazer a capa.
 - [ ] Capa sem alertas de corte, lombada ou área segura.
 - [ ] Artes geradas por IA declaradas corretamente.
-- [ ] KDP Select desmarcado enquanto a leitura integral estiver pública no site.
+- [ ] KDP Select desmarcado enquanto a leitura integral e os arquivos digitais completos estiverem públicos.
 - [ ] Descrição, palavras-chave e categorias revisadas no painel.
 - [ ] Preço e territórios conferidos.
 - [ ] Prova física aprovada.

@@ -1,8 +1,8 @@
 # DIRETRIZES DE FORMATAÇÃO E PUBLICAÇÃO
 
-## Especificação final
+## Especificação da versão preparada
 
-Esta é a configuração aprovada da primeira edição independente de **A Metade Que Me Faltava Era Eu**.
+Esta é a configuração **preparada para avaliação** da primeira edição independente de **A Metade Que Me Faltava Era Eu**. O arquivo impresso só será definitivo após a ficha catalográfica, a conferência no Previewer e a prova física.
 
 | Item | Especificação |
 |---|---|
@@ -10,13 +10,13 @@ Esta é a configuração aprovada da primeira edição independente de **A Metad
 | Tamanho final | 5,5 × 8,5 polegadas (13,97 × 21,59 cm) |
 | Miolo | Preto e branco em papel creme |
 | Sangria | Sem sangria |
-| Extensão | 316 páginas, incluindo página final em branco |
+| Extensão | 322 páginas no PDF atual, incluindo abertura, sumário e pós-textos |
 | Fonte do corpo | Georgia incorporada |
 | Capítulos | 40, sempre iniciados em nova página |
 | Ilustrações | Dez aberturas: capítulos 1, 8, 12, 17, 22, 27, 31, 34, 39 e 40 |
 | Capa Kindle | JPG RGB, 1600 × 2560 px |
 | Capa impressa | PDF de uma página + JPG CMYK de conferência, 300 dpi |
-| Lombada calculada | 0,790 pol. para 316 páginas em papel creme |
+| Lombada calculada | 0,805 pol. para 322 páginas em papel creme |
 
 ## Arquivos oficiais
 

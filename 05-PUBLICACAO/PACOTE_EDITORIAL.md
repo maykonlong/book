@@ -1,6 +1,6 @@
 # 📦 PACOTE EDITORIAL — "A Metade Que Me Faltava Era Eu"
 
-> Documento consolidado com tudo o que um livro precisa para ser publicado: ficha técnica, sinopses, dedicatória, epígrafe, bio da autora, categorias, resumo da história e próximos passos.
+> Materiais editoriais preparados: ficha técnica, sinopses, dedicatória, epígrafe, bio, sugestões de categorias, resumo e próximos passos. A aprovação da equipe e as conferências finais de publicação ainda estão pendentes.
 
 ---
 
@@ -12,7 +12,7 @@
 | **Subtítulo** | A jornada de uma mulher que cansou de ser a única a tentar |
 | **Autor(a)** | Mariana Duarte (pseudônimo) |
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
-| **Palavras** | ~63.700 de história nos capítulos (~64.350 no manuscrito completo, com cabeçalhos e textos iniciais e finais) |
+| **Palavras** | 62.724 de história nos capítulos; 63.364 no manuscrito completo, com cabeçalhos e textos iniciais e finais |
 | **Capítulos** | 40 (4 atos) |
 | **Páginas da edição preparada** | 322 (5,5 × 8,5 pol.) |
 | **Narração** | 3ª pessoa íntima + diálogo direto com a leitora |
@@ -111,8 +111,8 @@ Camila apresenta Daniel aos filhos com cuidado e aprende que conflito não preci
 1. [x] Revisão de estrutura, continuidade, personagens e linguagem
 2. [x] Formatação de EPUB, miolo, capa Kindle e capa impressa
 3. [x] Metadados, descrição e checklist de envio
-4. [ ] Leitura humana final e prova física
-5. [ ] Definir ISBN, preço, categorias e territórios
+4. [ ] Leitura da equipe e aplicação dos ajustes aprovados; depois, conferir EPUB e PDF no Previewer e pedir prova física
+5. [ ] Definir ISBN do impresso, ficha catalográfica, preço, categorias e territórios
 6. [ ] Publicar na Amazon KDP e ligar o botão de compra no site
 
 ---

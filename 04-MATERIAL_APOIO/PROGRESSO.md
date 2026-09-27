@@ -1,5 +1,7 @@
 # PROGRESSO DO MANUSCRITO
 
+> **Registro histórico das rodadas de escrita.** Os logs abaixo conservam numerações e contagens antigas para mostrar a evolução, não para orientar a publicação. A edição em avaliação tem 40 capítulos, 62.724 palavras de história e miolo de 322 páginas. Consulte [STATUS_ATUAL.md](STATUS_ATUAL.md) para as pendências reais.
+
 ## ✅ ATO I - ESTAGNAÇÃO E RUPTURA (Completo!)
 **Capítulos 1-9**: Camila descobre que não aguenta mais, tenta salvar o casamento, e finalmente decide se separar.
 
@@ -69,16 +71,16 @@
 - **Total de palavras**: **62.724** de história nos 40 capítulos (era ~37.300 antes da expansão)
 - **Palavras/capítulo (média)**: ~1.590 de história
 - **Páginas do arquivo preparado**: 322 (formato 5,5 × 8,5 pol., com sumário)
-- **Status**: Primeiro rascunho completo + **1ª e 2ª passadas de expansão concluídas** (todos os capítulos aprofundados com cenas novas).
+- **Status**: manuscrito revisado e preparado para leitura da equipe; expansão anterior concluída.
 
 ### Distribuição por ato
 | Ato | Capítulos | Palavras (aprox.) | % | Alvo |
 |---|---|---|---|---|
-| I — Estagnação e Ruptura | 1-9 | ~15.000 | 23,6% | — |
-| II — Desconstrução e Redescobrimento | 10-18 | ~14.600 | 23,1% | — |
-| III — Rede, autonomia e fechamento | 19-30 | ~19.100 | 30,1% | — |
-| IV — Amar sem depender | 31-40 | ~14.800 | 23,2% | — |
-| **TOTAL** | 40 | **~63.600** | 100% | ~80k |
+| I — Estagnação e Ruptura | 1-9 | 14.898 | 23,8% | — |
+| II — Desconstrução e Redescobrimento | 10-18 | 14.650 | 23,4% | — |
+| III — Rede, autonomia e fechamento | 19-30 | 18.482 | 29,5% | — |
+| IV — Amar sem depender | 31-40 | 14.694 | 23,4% | — |
+| **TOTAL** | 40 | **62.724** | 100% | expansão futura só se a leitura justificar |
 
 ### ✅ Furos corrigidos (16/09/2026)
 1. **CAP 22 × CAP 24**: dois "primeiros cafés" com Daniel → o café do CAP 24 agora é o "segundo café", com ponte explicando o primeiro.

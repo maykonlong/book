@@ -1,98 +1,29 @@
-# ✅ CHECKLIST PRÉ-LANÇAMENTO — "A Metade Que Me Faltava Era Eu"
+# Checklist pré-lançamento — edição em avaliação
 
-> Guia consolidado para verificar se o livro está pronto para o público-alvo (mulheres adultas, especialmente mães e mulheres casadas/separadas/divorciadas). Atualizado em 24/09/2026.
+Atualizado em 26/09/2026. Use [STATUS_ATUAL.md](STATUS_ATUAL.md) como referência do estado do projeto e [ENTREGA_LEITURA_EQUIPE.md](../05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md) para a rodada de leitura. A antiga lista tinha números e pendências de versões anteriores.
 
----
+## História e público
 
-## 1. Estado atual
+- [x] 40 capítulos e final completo do volume 1; Camila não depende de Daniel para terminar feliz.
+- [x] Passadas editoriais de cronologia, nomes, motivação, vocabulário e transições registradas no [pente-fino](PENTE_FINO_2026-09-26.md).
+- [ ] Equipe/leitoras do público-alvo confirmaram onde a leitura prende, desacelera ou confunde — especialmente capítulos 11–21 e 37–40.
+- [ ] Uma leitura humana final conferiu concordância, diálogos e trechos alterados após o retorno.
 
-| Item | Status |
-|---|---|
-| Manuscrito | ✅ 40 capítulos · ~63.700 palavras de história · completo (FIM no CAP 40) |
-| Revisão de coesão (nomes, idades, cronologia) | ✅ |
-| Revisão ortográfica (varredura) | ✅ |
-| Redução de repetições | ✅ (pela primeira vez 51→2; finalmente→por fim; etc.) |
-| Vocabulário leve (sem "dicionário") | ✅ (termos necessários aparecem em contexto claro; frases excessivamente formais foram simplificadas) |
-| Pacote editorial + sinopse + guia Amazon + beta readers + leitor online | ✅ |
-| Arquivos finais para Amazon KDP | ✅ EPUB validado + miolo e capa impressa em PDF + capas em JPG |
+## Site e arquivos
 
----
+- [x] Landing page e leitor no [GitHub Pages](https://maykonlong.github.io/book/), com 13 temas e 10 artes de capítulo.
+- [x] EPUB e capa Kindle preparados; EPUBCheck registrado sem erros nem avisos.
+- [x] Miolo de 322 páginas em 5,5 × 8,5 pol. e capa impressa correspondentes; checksums e ZIP conferidos.
+- [ ] Mudanças aprovadas da leitura beta foram propagadas a site, manuscrito consolidado, EPUB, PDF, capa, ZIP e hashes; validador reexecutado.
+- [ ] EPUB aprovado no Kindle Previewer e miolo/capa aprovados no Previewer de impressão.
+- [ ] Prova física conferida: capa em miniatura e impressa, contracapa, lombada, cortes, artes, margens e páginas finais.
 
-## 2. Verificações técnicas (rodadas e aprovadas)
+## Dados editoriais e publicação
 
-### 2.1 Ganchos de abertura — ✅ Fortes
-> "Você já acordou cansada?" (CAP 1) · "A primeira noite sem Ricardo não foi silenciosa." (CAP 10) · "Camila quase não foi." (CAP 14) · "Ricardo apareceu na quarta-feira à noite. Sem avisar." (CAP 30) · "O carro estava quieto demais." (CAP 34)
+- [x] Nome literário público, bio, agradecimentos e descrição preparados.
+- [ ] Titular confirmou dados reais de autoria/direitos e declaração de conteúdo gerado por IA no painel.
+- [ ] ISBN da brochura decidido; ficha catalográfica da edição brasileira conferida/incluída. Se a paginação mudar, capa e pacote refeitos.
+- [ ] KDP comum ou Select decidido conscientemente. O livro completo ainda está público; **Select não deve ser selecionado neste estado**.
+- [ ] Preço, categorias, territórios, conta e dados fiscais revisados no KDP; links reais de compra adicionados ao site após publicação.
 
-### 2.2 Fechos de capítulo — ✅ Excelentes (puxam para o próximo)
-> "Ela não ia mais regar cadáveres." (CAP 5) · "…o casamento tinha ficado abandonado no acostamento, debaixo de chuva." (CAP 6) · "E o prazo, Camila sabia, estava correndo." (CAP 12) · "Pela primeira vez, uma briga não parecia o começo do fim. Parecia apenas uma conversa que ainda podia continuar." (CAP 35)
-
-### 2.3 Diálogo com a leitora — ✅ Bem dosado
-- Mantido nos pontos em que aumenta a identificação; retirado quando interrompia a cena ou soava como lição.
-
-### 2.4 Bugs encontrados e corrigidos
-| Bug | Correção |
-|---|---|
-| Filha chamada "Sofia" (nome errado) | → "Bia" |
-| Título "A Primeira Viagem a Quatroês" | → "…a Quatro" |
-| Nota de rodapé solta no CAP 1 ("[^1]: Chutar a canela…") | removida |
-
----
-
-## 3. Checklist do público (o que verificar antes de publicar)
-
-### A. Identificação (a leitora se enxerga?)
-- ✅ Carga mental / "eu faço tudo" presente
-- ✅ Cotidiano brasileiro (lancheira, condomínio, boleto, WhatsApp, Uber)
-- ✅ Faixa etária/contexto da Camila (34 anos, 2 filhos)
-- 👥 Momentos "sou eu!" — confirmar com beta readers
-
-### B. Tom e voz (conversa de amiga, não palestra)
-- ✅ "Você já…?" sem tom de autoajuda
-- ✅ Mensagem sem lição de moral (show, don't tell)
-- 👥 Tom acolhedor p/ quem ainda está no casamento — confirmar
-
-### C. Estrutura e ritmo
-- ✅ Aberturas com gancho
-- ✅ Fechos que puxam para o próximo
-- ✅ Capítulos curtos (leitura no celular/Kindle)
-- 👥 Algum capítulo "parado"? — confirmar com beta readers
-
-### D. Romance e independência emocional
-- ✅ Daniel é um parceiro respeitoso e crível, sem virar salvador
-- ✅ Contraste Ricardo × Daniel claro
-- ✅ Diferença de futuro (mais filhos) preparada antes do término
-- ✅ Término maduro, sem vilão e sem retorno romântico no final
-- 👥 A despedida emociona sem parecer apressada? — confirmar com beta readers
-
-### E. Emoção (chora, ri, torce)
-- ✅ Momentos de dor e de catarse
-- ✅ Final com recompensa emocional
-- 👥 Intensidade emocional — confirmar
-
-### F. Realismo do processo
-- ✅ Divórcio/pensão/advogada críveis, sem "aula de direito"
-- ✅ Financeiro realista (salário, bolo no pote, medo da pobreza)
-
-### G. Comercial (título, sinopse, tamanho)
-- ✅ Título/subtítulo alinhados à promessa
-- ✅ Sinopse com gancho ("a poça de leite")
-- ✅ Tamanho (~63,6 mil palavras de história) — decisão: manter como romance de leitura ágil (expansão para 75–85k adiada)
-
-### H. Sensibilidade (triggers)
-- ✅ Sem violência/traição explícita
-- 👥 Tom sobre maternidade/divórcio — confirmar com beta readers
-
----
-
-## 4. Pendências (o que só você / beta readers fazem)
-
-1. ⬜ **Nome e bio da autora** (preencher no pacote editorial)
-2. ⬜ **Capa** (eBook 2560×1600; impresso com sangria)
-3. 👥 **Recrutar beta readers** (5–10) e aplicar o questionário (`BETA_READERS.md`)
-4. ⬜ **Leitura final em voz alta** (opcional, recomendada)
-5. ⬜ **Ativar GitHub Pages** para o leitor online (`LEITOR_ONLINE.md`)
-6. ⬜ **Publicar na Amazon** (`PASSO_A_PASSO_AMAZON_KDP.md`)
-
----
-
-> **Conclusão:** tecnicamente o livro está pronto e construído para prender a leitora (ganchos + emoção + identificação). O que falta é a **validação humana** (beta readers) e os itens editoriais manuais (nome, capa).
+**Critério de saída:** nenhum ajuste aprovado ficou só em uma das versões; a edição enviada corresponde exatamente ao manuscrito lido/aprovado, e as provas da loja e do impresso foram conferidas. Isto não promete vendas nem ausência absoluta de erros.
