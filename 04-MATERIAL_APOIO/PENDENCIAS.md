@@ -5,7 +5,7 @@ Atualizado em 26/09/2026. A lista detalhada e a ordem de decisão estão em [STA
 ## Já concluído
 
 - Manuscrito de 40 capítulos, 62.724 palavras de história, versão beta e leitor online no GitHub Pages.
-- Nome literário Mariana Duarte, bio e agradecimentos; colaboração de Diana Catarina descrita sem apresentar histórias de clientes como fatos reproduzidos.
+- Nome literário Mariana Duarte, bio e agradecimentos atualizados de acordo com a escolha do autor.
 - EPUB, capa Kindle, miolo de 322 páginas, capa impressa correspondente, metadados, ZIP e hashes gerados e validados tecnicamente.
 
 ## A fazer, nesta ordem

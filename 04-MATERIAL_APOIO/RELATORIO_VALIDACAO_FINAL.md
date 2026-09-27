@@ -63,7 +63,7 @@
 - A apresentação pública passou a preservar a escolha final de Camila; o trecho destacado agora corresponde literalmente ao capítulo 7.
 - A sinopse comercial foi retirada da abertura do EPUB, do leitor online, do manuscrito consolidado e da versão beta. O EPUB ganhou entradas navegáveis para dedicatória, epígrafe e carta à leitora.
 - O impresso ganhou sumário de 40 capítulos. Miolo e capa foram reconstruídos juntos para manter a lombada correta.
-- Mariana Duarte foi mantida como nome literário. Os agradecimentos e a biografia registram a colaboração de Diana Catarina sem atribuir ao pseudônimo atendimentos ou relatos que não recebeu.
+- Mariana Duarte foi mantida como nome literário. A biografia e os agradecimentos foram simplificados conforme a decisão editorial mais recente, sem atribuir experiências profissionais ao pseudônimo.
 - Removidas marcas BOM de 32 arquivos de capítulos; o manuscrito beta é gerado automaticamente, com títulos renderizados como cabeçalhos.
 - O site e os guias passaram a explicar que leitura integral gratuita e KDP Select não podem coexistir.
 

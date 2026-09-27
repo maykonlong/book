@@ -38,4 +38,4 @@ Depois de qualquer alteração aprovada na história ou nos dados bibliográfico
 
 O livro integral está disponível no leitor e nos arquivos deste repositório **público**. Não selecione KDP Select enquanto essa distribuição digital continuar. Para o lançamento, veja o [plano de prévia e venda](05-PUBLICACAO/PLANO_PREVIA_AMAZON_E_PRECO.md): ele é um plano futuro, não uma restrição já aplicada ao site. Retirar um botão do leitor não retira EPUB, manuscrito e histórico do Git do acesso público.
 
-O nome literário público é Mariana Duarte. Os agradecimentos e a bio reconhecem a colaboração de Diana Catarina sem apresentar relatos de clientes como fatos reproduzidos. Os dados civis, fiscais e bancários devem ser inseridos somente nos canais apropriados da KDP e dos órgãos responsáveis, nunca neste repositório.
+O nome literário público é Mariana Duarte. Os dados civis, fiscais e bancários devem ser inseridos somente nos canais apropriados da KDP e dos órgãos responsáveis, nunca neste repositório.

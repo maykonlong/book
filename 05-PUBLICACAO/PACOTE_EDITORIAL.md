@@ -69,7 +69,7 @@ Uma mulher que cansou de carregar tudo sozinha aprende que a metade que faltava 
 
 ## 5. SOBRE A AUTORA
 
-**Mariana Duarte** é o nome literário que assina esta ficção sobre mulheres que se recusam a desaparecer dentro da própria vida. *A Metade Que Me Faltava Era Eu* foi desenvolvido com a colaboração de Diana Catarina, profissional da beleza há mais de vinte anos. Nenhuma história particular de cliente foi reproduzida.
+**Mariana Duarte** é o nome literário que assina *A Metade Que Me Faltava Era Eu*, um romance sobre recomeço, maternidade e a coragem de escolher a própria vida.
 
 ---
 
