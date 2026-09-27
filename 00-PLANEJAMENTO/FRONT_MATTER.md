@@ -44,6 +44,8 @@ Foi dessa pergunta que nasceu Camila. Ela ama os filhos, leva o trabalho a séri
 
 Camila é uma personagem de ficção. Ainda assim, talvez você reconheça um pedaço da própria vida — ou da vida de alguém que ama — nas escolhas pequenas e difíceis que ela vai fazer.
 
+Talvez você pense em alguém que vive ou já viveu algo parecido. Se acontecer, indique este livro a ela. Pode ser um jeito de começar uma conversa que estava faltando.
+
 Não espero que ela tenha todas as respostas. Convido você a caminhar ao lado dela enquanto procura as suas.
 
 Com carinho,

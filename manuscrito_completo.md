@@ -22,6 +22,8 @@ Foi dessa pergunta que nasceu Camila. Ela ama os filhos, leva o trabalho a séri
 
 Camila é uma personagem de ficção. Ainda assim, talvez você reconheça um pedaço da própria vida — ou da vida de alguém que ama — nas escolhas pequenas e difíceis que ela vai fazer.
 
+Talvez você pense em alguém que vive ou já viveu algo parecido. Se acontecer, indique este livro a ela. Pode ser um jeito de começar uma conversa que estava faltando.
+
 Não espero que ela tenha todas as respostas. Convido você a caminhar ao lado dela enquanto procura as suas.
 
 Com carinho,
@@ -8955,8 +8957,8 @@ A quem está recomeçando, e a quem ainda procura coragem para dar o primeiro pa
 
 ## UMA ÚLTIMA PALAVRA
 
-Se Camila lhe fez companhia, talvez possa fazer companhia a outra mulher. Conte a ela sobre este livro.
+Se a história de Camila fez você lembrar de alguém que passa ou já passou por algo parecido, indique este livro. Uma mensagem simples basta: "Lembrei de você lendo esta história. Talvez goste dela."
 
-Se quiser, deixe uma avaliação sincera. Ela ajuda outras leitoras a descobrir se esta história também é para elas.
+Se gostou da leitura, deixe uma avaliação sincera na página do livro. Sua opinião ajuda outras leitoras a decidir se querem conhecer Camila.
 
 Obrigada por caminhar com Camila até aqui.

@@ -19,7 +19,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://maykonlong.github.io/book/assets/og-livro.png">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Book","name":"A Metade Que Me Faltava Era Eu","author":{"@type":"Person","name":"Mariana Duarte"},"inLanguage":"pt-BR","isAccessibleForFree":true,"url":"https://maykonlong.github.io/book/ler.html","potentialAction":{"@type":"ReadAction","target":"https://maykonlong.github.io/book/ler.html?cap=1"}}
+{"@context":"https://schema.org","@type":"Book","name":"A Metade Que Me Faltava Era Eu","author":{"@type":"Person","name":"Mariana Duarte"},"inLanguage":"pt-BR","isAccessibleForFree":true,"url":"https://maykonlong.github.io/book/ler.html","potentialAction":{"@type":"ReadAction","target":"https://maykonlong.github.io/book/ler.html?inicio=1"}}
 </script>
 <style>
 :root {
@@ -374,6 +374,7 @@ async function loadChapter(i, scrollY) {
   saveProgress();
   const cap = i >= 1 && i <= 40 ? i : 0;
   const url = new URL(window.location.href);
+  url.searchParams.delete('inicio');
   if (cap) url.searchParams.set('cap', String(cap)); else url.searchParams.delete('cap');
   history.replaceState(null, '', url.pathname + url.search + url.hash);
   document.title = CHAPTERS[i].title + ' | A Metade Que Me Faltava Era Eu';
@@ -510,9 +511,12 @@ document.addEventListener('keydown', (ev) => {
     if (savedSize >= .85 && savedSize <= 1.5) fontSize = savedSize;
   } catch (e) {}
   applyFont();
-  const requested = Number(new URLSearchParams(window.location.search).get('cap'));
+  const params = new URLSearchParams(window.location.search);
+  const requested = Number(params.get('cap'));
   const saved = loadProgress();
-  if (Number.isInteger(requested) && requested >= 1 && requested <= 40) {
+  if (params.get('inicio') === '1') {
+    loadChapter(0);
+  } else if (Number.isInteger(requested) && requested >= 1 && requested <= 40) {
     loadChapter(requested);
   } else if (saved && typeof saved.c === 'number' && saved.c > 0) {
     loadChapter(saved.c, saved.y || 0);

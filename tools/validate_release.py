@@ -160,6 +160,11 @@ def validate_site_links() -> None:
     reader = (ROOT / "ler.html").read_text(encoding="utf-8")
     if "00-PLANEJAMENTO/ULTIMA_PALAVRA.md" not in reader or 'class="front-cover"' not in reader:
         fail("Leitor sem capa de abertura ou convite final em tela própria")
+    index = (ROOT / "index.html").read_text(encoding="utf-8")
+    if 'href="./ler.html?cap=1">Começar' in index or 'href="./ler.html?inicio=1"' not in index:
+        fail("CTA de início não abre a capa e as páginas iniciais")
+    if "params.get('inicio') === '1'" not in reader or "url.searchParams.delete('inicio')" not in reader:
+        fail("Leitor não prioriza o início nem limpa o parâmetro de entrada")
     art_refs = re.findall(r"art:\s*'(assets/illustrations-web/cap-(\d{2})-[^']+\.jpg)'", reader)
     illustrated = {int(number) for _, number in art_refs}
     if illustrated != ILLUSTRATED_CHAPTERS:

@@ -33,6 +33,8 @@
 - Os ornamentos entre dedicatória, epígrafe, carta, agradecimentos e biografia foram retirados. Quebras narrativas dentro dos capítulos permanecem.
 - O convite para indicar ou avaliar foi suavizado e ganhou página própria no leitor, no EPUB e no impresso; o manuscrito beta também distingue essa seção.
 - Abertura, páginas finais e capa impressa foram renderizadas e inspecionadas. O EPUBCheck terminou com zero erros e avisos; links, checksums e ZIP foram conferidos novamente.
+- Os botões de início do site agora abrem a capa, a dedicatória, a epígrafe e a carta antes do capítulo 1; os cartões de capítulos continuam abrindo o capítulo indicado. O teste no navegador confirmou o avanço ao capítulo 1, a retomada após recarregar e o reinício pela capa mesmo com progresso salvo.
+- A carta passou a convidar a leitora a indicar a história a quem vive ou viveu algo parecido; a última página pede indicação e avaliação sincera em frases simples. EPUB, miolo, manuscrito beta e ZIP foram sincronizados. A paginação segue em 324 páginas.
 
 ## Nova passagem editorial e visual de 26/09/2026
 
