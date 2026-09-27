@@ -1,6 +1,6 @@
 # Relatório de validação final
 
-**Data:** 26/09/2026
+**Data:** 27/09/2026
 **Escopo:** manuscrito, continuidade, linguagem, página de apresentação, leitor online e pacote Amazon KDP.
 
 ## Resultado
@@ -14,7 +14,7 @@
 - 13 temas femininos presentes na página, no JSON-LD e no `llms.txt`.
 - 0 frases longas duplicadas entre capítulos.
 - EPUBCheck 5.4.0: 0 erros fatais, 0 erros e 0 avisos.
-- Miolo: 322 páginas em 5,5 × 8,5 polegadas, com sumário paginado.
+- Miolo: 324 páginas em 5,5 × 8,5 polegadas, com sumário paginado.
 - Links locais, checksums e ZIP final: aprovados.
 - A página havia sido testada em desktop, tablet e celular na passagem anterior. Nesta revisão, os endpoints locais da abertura, do leitor e do capítulo 40 responderam com HTTP 200 e o capítulo 40 servido contém o novo fecho. Ainda vale repetir a conferência visual em aparelhos reais das leitoras.
 
@@ -24,7 +24,15 @@
 - **Meio do capítulo 30:** substituídos testes e explicações repetidos por ações que mostram limites, cuidado e incerteza. Corrigida a ordem dos cinco encontros e o intervalo até o jantar com Mariana.
 - **Conclusão:** Camila termina com Daniel por uma diferença real de planos, sem apagar o afeto; o capítulo 40 responde em cena por que a figura voa sozinha e deixa uma oportunidade ligada à pintura, sem obrigar uma trama específica para o segundo livro.
 - **Vocabulário:** trocadas palavras e frases mais distantes da fala cotidiana, como `resignação`, `monumentais`, `metáfora`, `coexistimos` e `logístico`, preservando imagens fáceis de entender e falas naturais.
-- **Paginação:** o fecho impresso está na página 313 do livro (página 321 do PDF) e o pós-texto na seguinte. A quebra de página deixa a pergunta sobre o voo no fim da página anterior e a resposta no início da última página da história. Miolo e capa foram recalculados juntos; lombada atual de 0,805 polegada.
+- **Paginação:** o fecho impresso permanece na página 313 do livro (página 321 do PDF). Agradecimentos e biografia estão na página 314; o convite final, em página própria, está na 315. O verso final fica em branco para manter o miolo par. Miolo e capa foram recalculados juntos; lombada atual de 0,810 polegada.
+
+## Refinamento da abertura e do pós-texto — 27/09/2026
+
+- A carta à leitora foi reescrita para convidar à história sem antecipar sua conclusão; não foi encurtada por uma meta de tamanho.
+- A capa agora abre o leitor online. No celular, a página inicial apresenta a capa logo após os botões principais, antes do trecho e da lista informativa.
+- Os ornamentos entre dedicatória, epígrafe, carta, agradecimentos e biografia foram retirados. Quebras narrativas dentro dos capítulos permanecem.
+- O convite para indicar ou avaliar foi suavizado e ganhou página própria no leitor, no EPUB e no impresso; o manuscrito beta também distingue essa seção.
+- Abertura, páginas finais e capa impressa foram renderizadas e inspecionadas. O EPUBCheck terminou com zero erros e avisos; links, checksums e ZIP foram conferidos novamente.
 
 ## Nova passagem editorial e visual de 26/09/2026
 

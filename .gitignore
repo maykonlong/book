@@ -33,3 +33,4 @@ __pycache__/
 PACOTE_PUBLICACAO/.qa/
 PACOTE_PUBLICACAO/.qa2/
 tmp/pdfs/
+tmp/chrome-mobile-qa/

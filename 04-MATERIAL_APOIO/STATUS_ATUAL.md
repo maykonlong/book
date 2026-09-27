@@ -6,7 +6,7 @@ Este documento substitui checklists antigos como referência rápida. **Pronto p
 
 - 40 capítulos em sequência; 62.724 palavras de história; fechamento do primeiro volume com Camila solteira, feliz e inteira.
 - `05-PUBLICACAO/manuscrito_beta.html` e [leitor online](https://maykonlong.github.io/book/ler.html) para a equipe, com [roteiro de leitura](../05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md).
-- Site público, 10 artes integradas e pacote KDP candidato: EPUB, capa Kindle, miolo impresso de 322 páginas, capa correspondente, metadados, hashes e ZIP.
+- Site público, 10 artes integradas e pacote KDP candidato: EPUB, capa Kindle, miolo impresso de 324 páginas, capa correspondente, metadados, hashes e ZIP.
 - `python tools/validate_release.py` passou na versão atual; o EPUBCheck registrado no pacote tem 0 erros e 0 avisos.
 
 ## O que depende do retorno da equipe

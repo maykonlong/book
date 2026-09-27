@@ -110,6 +110,12 @@ main hr::before { content: '* * *'; color: var(--muted); letter-spacing: .6em; }
 main blockquote { font-style: italic; color: var(--muted); margin: 1.6em 2em; }
 main em { font-style: italic; }
 main strong { font-weight: bold; }
+.front-cover { width: min(58vw, 250px); margin: 0 auto 2.6em; }
+.front-cover img { display: block; width: 100%; height: auto; border-radius: 3px 10px 10px 3px; box-shadow: 10px 16px 36px rgba(19,40,59,.22); }
+main.endmatter h2:not(:first-child) { margin-top: 3em; }
+main.final-note h2 { margin-bottom: 1.6em; }
+main.endmatter p { text-align: left; text-indent: 0; }
+main.endmatter p + p { margin-top: .9em; }
 .chapter-art { margin: .3em 0 2.2em; }
 .chapter-art img { display: block; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 16px 42px rgba(19,40,59,.16); }
 .chapter-art figcaption { max-width: 32rem; margin: .7em auto 0; color: var(--muted); font-size: .76em; font-style: italic; line-height: 1.45; text-align: center; }
@@ -163,6 +169,7 @@ footer button:disabled { opacity: .35; cursor: default; }
   main h1 { font-size: 1.65em; }
   main h2 { font-size: 1.25em; }
   main p + p { text-indent: .9em; }
+  .front-cover { width: min(62vw, 215px); margin-bottom: 2.3em; }
   footer { padding-left: max(10px,env(safe-area-inset-left)); padding-right: max(10px,env(safe-area-inset-right)); }
   footer button { padding: 8px 11px; }
 }
@@ -260,7 +267,8 @@ const CHAPTERS = [
   { file: '03-MANUSCRITO/CAP_38_O_REENCONTRO.md', title: 'Capítulo 38 — O Reencontro' },
   { file: '03-MANUSCRITO/CAP_39_CARTA_PARA_MIM_MESMA.md', title: 'Capítulo 39 — Carta Para Mim Mesma', art: 'assets/illustrations-web/cap-39-carta-para-mim.jpg', alt: 'Camila escreve para a mulher que foi enquanto prepara sua série de aquarelas.' },
   { file: '03-MANUSCRITO/CAP_40_A_METADE_QUE_ME_FALTAVA_ERA_EU.md', title: 'Capítulo 40 — A Metade Que Me Faltava Era Eu', art: 'assets/illustrations-web/cap-40-inteira.jpg', alt: 'Camila contempla a série Renascimento na galeria vazia.' },
-  { file: '00-PLANEJAMENTO/POS_TEXTUAIS.md', title: 'Agradecimentos & Sobre a Autora' }
+  { file: '00-PLANEJAMENTO/POS_TEXTUAIS.md', title: 'Agradecimentos & Sobre a Autora' },
+  { file: '00-PLANEJAMENTO/ULTIMA_PALAVRA.md', title: 'Uma Última Palavra' }
 ];
 
 // ===== PARSER MARKDOWN (mínimo, para o subset usado no manuscrito) =====
@@ -326,6 +334,8 @@ function loadProgress() {
 async function loadChapter(i, scrollY) {
   if (i < 0 || i >= CHAPTERS.length) return;
   current = i;
+  content.classList.toggle('endmatter', i > 40);
+  content.classList.toggle('final-note', i === CHAPTERS.length - 1);
   content.innerHTML = '<p class="loading">Carregando…</p>';
   try {
     const resp = await fetch(CHAPTERS[i].file);
@@ -339,11 +349,14 @@ async function loadChapter(i, scrollY) {
       ? '<figure class="chapter-art"><img src="' + CHAPTERS[i].art + '" alt="' + CHAPTERS[i].alt + '" width="1200" height="800"><figcaption>Ilustração do capítulo</figcaption></figure>'
       : '';
     const rendered = mdToHtml(md);
+    const frontCover = i === 0
+      ? '<figure class="front-cover"><img src="assets/capa-site.jpg" alt="Capa de A Metade Que Me Faltava Era Eu, com uma mulher de vermelho diante do espelho" width="800" height="1280" fetchpriority="high"></figure>'
+      : '';
     if (art) {
       const h2End = rendered.indexOf('</h2>');
       content.innerHTML = h2End >= 0 ? rendered.slice(0, h2End + 5) + art + rendered.slice(h2End + 5) : art + rendered;
     } else {
-      content.innerHTML = rendered;
+      content.innerHTML = frontCover + rendered;
     }
     const words = (content.textContent.match(/\S+/g) || []).length;
     $('readTime').textContent = '≈ ' + Math.max(1, Math.round(words / 220)) + ' min';
@@ -369,7 +382,7 @@ async function loadChapter(i, scrollY) {
 function updateUI() {
   $('btnPrev').disabled = (current <= 0);
   $('btnNext').disabled = (current >= CHAPTERS.length - 1);
-  $('pos').textContent = current === 0 ? 'Início' : current === CHAPTERS.length - 1 ? 'Fim' : current + ' / 40';
+  $('pos').textContent = current === 0 ? 'Início' : current === CHAPTERS.length - 1 ? 'Fim' : current > 40 ? 'Pós-texto' : current + ' / 40';
   $('title').textContent = CHAPTERS[current] ? CHAPTERS[current].title : 'A Metade Que Me Faltava Era Eu';
   document.querySelectorAll('#tocList a').forEach(a => {
     a.classList.toggle('current', parseInt(a.dataset.i, 10) === current);

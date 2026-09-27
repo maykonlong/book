@@ -13,7 +13,7 @@ Atualizado em 26/09/2026. Use [STATUS_ATUAL.md](STATUS_ATUAL.md) como referênci
 
 - [x] Landing page e leitor no [GitHub Pages](https://maykonlong.github.io/book/), com 13 temas e 10 artes de capítulo.
 - [x] EPUB e capa Kindle preparados; EPUBCheck registrado sem erros nem avisos.
-- [x] Miolo de 322 páginas em 5,5 × 8,5 pol. e capa impressa correspondentes; checksums e ZIP conferidos.
+- [x] Miolo de 324 páginas em 5,5 × 8,5 pol. e capa impressa correspondentes; checksums e ZIP conferidos.
 - [ ] Mudanças aprovadas da leitura beta foram propagadas a site, manuscrito consolidado, EPUB, PDF, capa, ZIP e hashes; validador reexecutado.
 - [ ] EPUB aprovado no Kindle Previewer e miolo/capa aprovados no Previewer de impressão.
 - [ ] Prova física conferida: capa em miniatura e impressa, contracapa, lombada, cortes, artes, margens e páginas finais.

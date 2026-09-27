@@ -11,7 +11,7 @@ Romance contemporâneo em primeira edição independente, assinado com o nome li
 | Site e leitor | [GitHub Pages](https://maykonlong.github.io/book/) no ar, com leitura integral durante a fase de testes |
 | Artes | 10 ilustrações narrativas presentes no leitor, EPUB e miolo |
 | eBook | EPUB e capa Kindle preparados; EPUBCheck: 0 erros e 0 avisos |
-| Impresso | Miolo de 322 páginas, 5,5 × 8,5 pol., e capa calculada para essa paginação |
+| Impresso | Miolo de 324 páginas, 5,5 × 8,5 pol., e capa calculada para essa paginação |
 | Validação local | `python tools/validate_release.py` — aprovado na versão de 26/09/2026 |
 | Ainda falta | retorno da equipe, decisões finais de autoria/ISBN/ficha, Previewers da KDP e prova física |
 

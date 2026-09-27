@@ -302,6 +302,9 @@ def make_styles() -> dict[str, ParagraphStyle]:
         "body_first": ParagraphStyle("BookBodyFirst", parent=base["BodyText"], fontName="Georgia", fontSize=10.4,
                                      leading=14.1, textColor=colors.HexColor("#211f1c"), alignment=TA_JUSTIFY,
                                      firstLineIndent=0, spaceAfter=6, allowWidows=0, allowOrphans=0),
+        "back_body": ParagraphStyle("BackBody", parent=base["BodyText"], fontName="Georgia", fontSize=10.4,
+                                    leading=15, textColor=colors.HexColor("#211f1c"), alignment=TA_LEFT,
+                                    firstLineIndent=0, spaceAfter=11, allowWidows=0, allowOrphans=0),
         "chapter_no": ParagraphStyle("ChapterNo", fontName="Georgia-Bold", fontSize=9.2, leading=12,
                                      textColor=colors.HexColor("#a04130"), alignment=TA_CENTER,
                                      tracking=2, spaceAfter=9),
@@ -436,7 +439,11 @@ def render_interior(path: Path, art_paths: dict[int, Path], toc_pages: dict[int,
 
     story.append(PageBreak())
     post = (ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md").read_text(encoding="utf-8")
-    story += body_flowables(post, styles, skip_headings=False)
+    back_styles = {**styles, "body": styles["back_body"], "body_first": styles["back_body"]}
+    story += body_flowables(post, back_styles, skip_headings=False)
+    story.append(PageBreak())
+    final_note = (ROOT / "00-PLANEJAMENTO" / "ULTIMA_PALAVRA.md").read_text(encoding="utf-8")
+    story += body_flowables(final_note, back_styles, skip_headings=False)
 
     doc.build(story)
     pages = len(PdfReader(str(path)).pages)
@@ -518,7 +525,7 @@ def build_epub(front_cover: Path, art_paths: dict[int, Path]) -> Path:
         '<rootfiles><rootfile full-path="OEBPS/package.opf" media-type="application/oebps-package+xml"/></rootfiles></container>',
         encoding="utf-8",
     )
-    css = '''body{font-family:serif;line-height:1.55;margin:5%;color:#211f1c}h1,h2{text-align:center;color:#13283b;line-height:1.18}h1{margin-top:18%;font-size:1.15em;letter-spacing:.08em}h2{font-size:1.8em;margin:.5em 0 1.2em}p{text-align:justify;text-indent:1.2em;margin:0 0 .35em}h2+p,.chapter-art+p,.scene+p{ text-indent:0}.scene{text-align:center;letter-spacing:.8em;color:#8e4736;margin:1.6em 0}blockquote{font-style:italic;margin:1.3em 10%;color:#514b44}.chapter-art{margin:1em 0 1.6em;text-align:center}.chapter-art img{max-width:100%;height:auto}.titlepage{text-align:center;margin-top:30%}.titlepage p{text-align:center;text-indent:0}.copyright p{text-indent:0;text-align:left;font-size:.9em}ul{margin:1em 0 1em 1.5em}li{margin:.3em 0}.cover{margin:0;padding:0;text-align:center}.cover img{width:100%;height:auto}'''
+    css = '''body{font-family:serif;line-height:1.55;margin:5%;color:#211f1c}h1,h2{text-align:center;color:#13283b;line-height:1.18}h1{margin-top:18%;font-size:1.15em;letter-spacing:.08em}h2{font-size:1.8em;margin:.5em 0 1.2em}p{text-align:justify;text-indent:1.2em;margin:0 0 .35em}h2+p,.chapter-art+p,.scene+p{ text-indent:0}.scene{text-align:center;letter-spacing:.8em;color:#8e4736;margin:1.6em 0}blockquote{font-style:italic;margin:1.3em 10%;color:#514b44}.chapter-art{margin:1em 0 1.6em;text-align:center}.chapter-art img{max-width:100%;height:auto}.titlepage{text-align:center;margin-top:30%}.titlepage p{text-align:center;text-indent:0}.copyright p{text-indent:0;text-align:left;font-size:.9em}.backmatter p{text-align:left;text-indent:0;margin-bottom:.8em}ul{margin:1em 0 1em 1.5em}li{margin:.3em 0}.cover{margin:0;padding:0;text-align:center}.cover img{width:100%;height:auto}'''
     (stage / "OEBPS" / "styles" / "book.css").write_text(css, encoding="utf-8")
 
     cover_name = "cover.jpg"
@@ -574,6 +581,12 @@ def build_epub(front_cover: Path, art_paths: dict[int, Path]) -> Path:
     items.append(('back', 'text/back.xhtml', 'application/xhtml+xml', ''))
     spine.append('back')
     nav_points.append(("Agradecimentos e sobre a autora", "text/back.xhtml"))
+
+    final_md = (ROOT / "00-PLANEJAMENTO" / "ULTIMA_PALAVRA.md").read_text(encoding="utf-8")
+    (stage / "OEBPS" / "text" / "final.xhtml").write_text(xhtml_page("Uma última palavra", paragraphs_to_xhtml(final_md), "backmatter"), encoding="utf-8")
+    items.append(('final', 'text/final.xhtml', 'application/xhtml+xml', ''))
+    spine.append('final')
+    nav_points.append(("Uma última palavra", "text/final.xhtml"))
 
     nav_links = "".join(f'<li><a href="{href}">{html.escape(label)}</a></li>' for label, href in nav_points)
     nav = xhtml_page("Sumário", f'<nav epub:type="toc" id="toc"><h1>Sumário</h1><ol>{nav_links}</ol></nav>', "nav", "styles/book.css")
@@ -735,6 +748,7 @@ def build_source_manuscript() -> Path:
         reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8-sig")),
         *[read_clean(p) for p in CHAPTERS],
         read_clean(ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md"),
+        read_clean(ROOT / "00-PLANEJAMENTO" / "ULTIMA_PALAVRA.md"),
     ]
     text = "\n\n---\n\n".join(pieces) + "\n"
     path = SOURCE / "manuscrito_final.md"
@@ -747,14 +761,19 @@ def build_beta_html() -> Path:
     front = reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8-sig"))
     parts = [paragraphs_to_xhtml(front)]
     parts.extend(paragraphs_to_xhtml(path.read_text(encoding="utf-8-sig")) for path in CHAPTERS)
-    parts.append(paragraphs_to_xhtml((ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md").read_text(encoding="utf-8-sig")))
+    post_body = paragraphs_to_xhtml((ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md").read_text(encoding="utf-8-sig"))
+    parts.append('<section class="backmatter">\n' + post_body + '\n</section>')
     body = '\n<div class="section-break" aria-hidden="true">• • •</div>\n'.join(parts)
+    final_md = (ROOT / "00-PLANEJAMENTO" / "ULTIMA_PALAVRA.md").read_text(encoding="utf-8-sig")
+    body += '\n<section class="final-note">\n' + paragraphs_to_xhtml(final_md) + '\n</section>'
     style = (
         "body{font-family:Georgia,'Times New Roman',serif;max-width:42em;margin:2em auto;padding:0 1.5em;line-height:1.75;color:#1a1a1a}"
         "h1{font-size:2em;text-align:center;margin:2em 0 .4em;line-height:1.3}"
         "h2{font-size:1.35em;margin-top:2.4em;margin-bottom:.6em}"
         "p{margin:0 0 1em;text-align:justify}"
+        ".backmatter p{text-align:left}"
         ".scene,.section-break{text-align:center;margin:2.2em auto;color:#777;letter-spacing:.5em}"
+        ".final-note{break-before:page;page-break-before:always;margin-top:4em;padding-top:2em;border-top:1px solid #d8cec0}.final-note p{text-align:left}"
         "blockquote{font-style:italic;color:#444;margin:1.6em 2em}"
         "@media(max-width:600px){body{margin:.5em auto;padding:0 1.1em;font-size:1.08em}}"
     )

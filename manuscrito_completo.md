@@ -8,31 +8,25 @@
 
 *Para as que ainda estão no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.*
 
----
-
 ## EPÍGRAFE
 
 > *"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim. Esperando que eu me reencontrasse."*
-
----
 
 ## CARTA À LEITORA
 
 Querida leitora,
 
-este livro nasceu de uma pergunta que muitas mulheres fazem em silêncio, de madrugada, quando a casa finalmente dorme: *"e se eu estivesse sozinha... seria mais leve?"*
+há uma pergunta que às vezes chega quando a casa finalmente se cala: quando foi que cuidar de todos passou a significar esquecer de si?
 
-Camila não é uma mulher de verdade — mas poderia ser. Ela é o retrato de milhares de mulheres que carregam a lista mental infinita, que apagam o próprio brilho para caber numa vida que já não as cabe mais.
+Foi dessa pergunta que nasceu Camila. Ela ama os filhos, leva o trabalho a sério e sabe de cor o que falta na geladeira. Também conhece a solidão de pedir parceria e ouvir que era só falar.
 
-Se você se reconhecer nestas páginas, saiba: este livro foi escrito para você. E o final dele também pode ser o seu começo.
+Camila é uma personagem de ficção. Ainda assim, talvez você reconheça um pedaço da própria vida — ou da vida de alguém que ama — nas escolhas pequenas e difíceis que ela vai fazer.
 
-Porque, no fundo, esta é a história de como o fim de um casamento pode ensinar uma mulher a amar a si mesma — a jornada de quem cansou de ser a única a tentar.
+Não espero que ela tenha todas as respostas. Convido você a caminhar ao lado dela enquanto procura as suas.
 
 Com carinho,
 
 **Mariana Duarte**
-
----
 
 ---
 
@@ -8949,11 +8943,9 @@ Estava inteira.
 
 ## AGRADECIMENTOS
 
-Às mulheres que se reconhecerem em Camila: esta história também foi escrita para vocês.
+Às mulheres que já se sentiram sozinhas mesmo com a casa cheia: obrigada por acompanharem Camila até aqui.
 
-A quem ainda está no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.
-
----
+A quem está recomeçando, e a quem ainda procura coragem para dar o primeiro passo: desejo que encontre apoio, tempo para respirar e espaço para escolher por si.
 
 ## SOBRE A AUTORA
 
@@ -8963,6 +8955,8 @@ A quem ainda está no meio do caminho, segurando as pontas com as unhas: você n
 
 ## UMA ÚLTIMA PALAVRA
 
-Se esta história encontrou alguma parte de você, conte a outra leitora. Uma indicação ou uma avaliação sincera ajuda este livro a chegar a mulheres que também precisam lembrar que não estão sozinhas.
+Se Camila lhe fez companhia, talvez possa fazer companhia a outra mulher. Conte a ela sobre este livro.
+
+Se quiser, deixe uma avaliação sincera. Ela ajuda outras leitoras a descobrir se esta história também é para elas.
 
 Obrigada por caminhar com Camila até aqui.

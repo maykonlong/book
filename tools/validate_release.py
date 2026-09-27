@@ -158,6 +158,8 @@ def validate_site_links() -> None:
         fail("Referências locais ausentes: " + ", ".join(sorted(missing)))
 
     reader = (ROOT / "ler.html").read_text(encoding="utf-8")
+    if "00-PLANEJAMENTO/ULTIMA_PALAVRA.md" not in reader or 'class="front-cover"' not in reader:
+        fail("Leitor sem capa de abertura ou convite final em tela própria")
     art_refs = re.findall(r"art:\s*'(assets/illustrations-web/cap-(\d{2})-[^']+\.jpg)'", reader)
     illustrated = {int(number) for _, number in art_refs}
     if illustrated != ILLUSTRATED_CHAPTERS:
@@ -243,12 +245,16 @@ def validate_epub() -> dict[str, int]:
         if art_numbers != ILLUSTRATED_CHAPTERS:
             fail(f"Artes do EPUB divergentes: {sorted(art_numbers)}")
         front = archive.read("OEBPS/text/front.xhtml").decode("utf-8")
+        back = archive.read("OEBPS/text/back.xhtml").decode("utf-8")
+        final_note = archive.read("OEBPS/text/final.xhtml").decode("utf-8")
         nav = archive.read("OEBPS/nav.xhtml").decode("utf-8")
         if "SOBRE O LIVRO" in front or "Subtítulo:" in front:
             fail("Abertura do EPUB contém sinopse comercial ou rótulo de planejamento")
         for anchor in ("#dedicatoria", "#epigrafe", "#carta"):
             if anchor not in nav:
                 fail(f"Entrada de índice ausente no EPUB: {anchor}")
+        if "UMA ÚLTIMA PALAVRA" in back or "UMA ÚLTIMA PALAVRA" not in final_note or "text/final.xhtml" not in nav:
+            fail("Convite final não está separado e navegável no EPUB")
 
     report_path = PACKAGE / "metadados" / "epubcheck-report.json"
     epub_path = PACKAGE / "ebook" / "A_Metade_Que_Me_Faltava_Era_Eu.epub"

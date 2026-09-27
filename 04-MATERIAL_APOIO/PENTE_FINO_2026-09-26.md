@@ -1,5 +1,7 @@
 # Pente-fino editorial e técnico — 26/09/2026
 
+> Registro daquela rodada. Após o refinamento da abertura e do pós-texto em 27/09, o miolo preparado passou a 324 páginas e a lombada a 0,810 pol.; consulte [RELATORIO_VALIDACAO_FINAL.md](RELATORIO_VALIDACAO_FINAL.md) para o estado atual.
+
 ## Escopo e limite
 
 Versão examinada: 40 capítulos, 62.724 palavras de história, cerca de 20 meses de enredo, dez artes de capítulo e pacote KDP reconstruído. Foram conferidos os 40 arquivos por estrutura, contagem, marcadores de continuidade, duplicações longas e abertura/fecho de cada capítulo; as passagens-chave de ruptura, finanças, divórcio, Daniel e final receberam releitura direta. Site, EPUB e PDF receberam verificações técnicas; páginas representativas do impresso e a capa foram renderizadas e inspecionadas. Isto não substitui uma leitura humana integral em voz alta, o retorno das leitoras nem a prova física.

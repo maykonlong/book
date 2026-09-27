@@ -453,11 +453,19 @@
 
     @media (max-width: 480px) {
       .hero { min-height: auto; padding: 42px 0 72px; }
+      .hero-grid { gap: 0; }
+      .hero-copy { display: contents; }
+      .hero-copy > .eyebrow { order: 1; text-align: center; }
+      .hero-copy > h1 { order: 2; text-align: center; }
+      .hero-copy > .hero-lead { order: 3; text-align: center; }
+      .hero-copy > .actions { order: 4; }
+      .book-stage { order: 5; width: min(62vw, 230px); margin: 30px auto 0; }
+      .hero-copy > .hero-whisper { order: 6; margin-top: 30px; }
+      .hero-copy > .trust-line { order: 7; }
       .hero h1 { font-size: clamp(2.5rem,11.5vw,3.55rem); }
       .hero-whisper { margin-top: 18px; text-align: left; }
       .actions { flex-direction: column; }
       .button { width: 100%; }
-      .book-stage { width: min(83vw, 330px); }
       .book-note { display: none; }
       .recognition, .section { padding-block: 62px; }
       .inside-card { grid-template-columns: 38px 1fr; }

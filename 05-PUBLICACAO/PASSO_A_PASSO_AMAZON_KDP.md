@@ -16,7 +16,7 @@ O material que deve ser enviado está em `PACOTE_PUBLICACAO/AMAZON_KDP/`.
 | Descrição | `metadados/descricao-amazon.html` ou `.txt` |
 | Conferência de envio | `metadados/CHECKLIST_UPLOAD.md` |
 
-O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo atual tem 322 páginas, inclui sumário paginado e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria. **Antes do upload definitivo da edição brasileira impressa, providencie e confira a ficha catalográfica; se ela exigir alteração no miolo, gere novamente o PDF e a capa e revise a nova paginação.** Veja [GUIA_ISBN_DIRETOS_AUTORAIS.md](GUIA_ISBN_DIRETOS_AUTORAIS.md).
+O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo atual tem 324 páginas, inclui sumário paginado e foi diagramado em 5,5 × 8,5 polegadas, papel creme, preto e branco e sem sangria. **Antes do upload definitivo da edição brasileira impressa, providencie e confira a ficha catalográfica; se ela exigir alteração no miolo, gere novamente o PDF e a capa e revise a nova paginação.** Veja [GUIA_ISBN_DIRETOS_AUTORAIS.md](GUIA_ISBN_DIRETOS_AUTORAIS.md).
 
 ## 2. Antes de entrar no KDP
 
@@ -52,7 +52,7 @@ O EPUB revisado foi aprovado pelo EPUBCheck 5.4.0 sem erros nem avisos. O miolo 
 - [ ] Nome da autora, título e subtítulo idênticos em eBook, impresso e metadados.
 - [ ] EPUB e capa Kindle enviados das pastas corretas.
 - [ ] Configuração impressa exatamente em 5,5 × 8,5 pol., creme e sem sangria.
-- [ ] Miolo com a contagem esperada no Previewer (322 páginas na versão atual; pode mudar após a ficha) e sumário correspondente aos capítulos.
+- [ ] Miolo com a contagem esperada no Previewer (324 páginas na versão atual; pode mudar após a ficha) e sumário correspondente aos capítulos.
 - [ ] Ficha catalográfica da edição brasileira conferida no miolo; se a paginação mudar, revisar o número de páginas esperado e refazer a capa.
 - [ ] Capa sem alertas de corte, lombada ou área segura.
 - [ ] Artes geradas por IA declaradas corretamente.

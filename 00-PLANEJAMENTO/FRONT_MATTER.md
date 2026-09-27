@@ -30,28 +30,22 @@ Como amar de novo sem trocar uma dependência por outra? E como reconhecer o que
 
 *Para as que ainda estão no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.*
 
----
-
 ## EPÍGRAFE
 
 > *"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim. Esperando que eu me reencontrasse."*
-
----
 
 ## CARTA À LEITORA
 
 Querida leitora,
 
-este livro nasceu de uma pergunta que muitas mulheres fazem em silêncio, de madrugada, quando a casa finalmente dorme: *"e se eu estivesse sozinha... seria mais leve?"*
+há uma pergunta que às vezes chega quando a casa finalmente se cala: quando foi que cuidar de todos passou a significar esquecer de si?
 
-Camila não é uma mulher de verdade — mas poderia ser. Ela é o retrato de milhares de mulheres que carregam a lista mental infinita, que apagam o próprio brilho para caber numa vida que já não as cabe mais.
+Foi dessa pergunta que nasceu Camila. Ela ama os filhos, leva o trabalho a sério e sabe de cor o que falta na geladeira. Também conhece a solidão de pedir parceria e ouvir que era só falar.
 
-Se você se reconhecer nestas páginas, saiba: este livro foi escrito para você. E o final dele também pode ser o seu começo.
+Camila é uma personagem de ficção. Ainda assim, talvez você reconheça um pedaço da própria vida — ou da vida de alguém que ama — nas escolhas pequenas e difíceis que ela vai fazer.
 
-Porque, no fundo, esta é a história de como o fim de um casamento pode ensinar uma mulher a amar a si mesma — a jornada de quem cansou de ser a única a tentar.
+Não espero que ela tenha todas as respostas. Convido você a caminhar ao lado dela enquanto procura as suas.
 
 Com carinho,
 
 **Mariana Duarte**
-
----

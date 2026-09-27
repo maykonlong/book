@@ -10,13 +10,13 @@ Esta é a configuração **preparada para avaliação** da primeira edição ind
 | Tamanho final | 5,5 × 8,5 polegadas (13,97 × 21,59 cm) |
 | Miolo | Preto e branco em papel creme |
 | Sangria | Sem sangria |
-| Extensão | 322 páginas no PDF atual, incluindo abertura, sumário e pós-textos |
+| Extensão | 324 páginas no PDF atual, incluindo abertura, sumário e pós-textos |
 | Fonte do corpo | Georgia incorporada |
 | Capítulos | 40, sempre iniciados em nova página |
 | Ilustrações | Dez aberturas: capítulos 1, 8, 12, 17, 22, 27, 31, 34, 39 e 40 |
 | Capa Kindle | JPG RGB, 1600 × 2560 px |
 | Capa impressa | PDF de uma página + JPG CMYK de conferência, 300 dpi |
-| Lombada calculada | 0,805 pol. para 322 páginas em papel creme |
+| Lombada calculada | 0,810 pol. para 324 páginas em papel creme |
 
 ## Arquivos oficiais
 

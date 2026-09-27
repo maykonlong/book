@@ -14,7 +14,7 @@
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
 | **Palavras** | 62.724 de história nos capítulos; 63.364 no manuscrito completo, com cabeçalhos e textos iniciais e finais |
 | **Capítulos** | 40 (4 atos) |
-| **Páginas da edição preparada** | 322 (5,5 × 8,5 pol.) |
+| **Páginas da edição preparada** | 324 (5,5 × 8,5 pol.) |
 | **Narração** | 3ª pessoa íntima + diálogo direto com a leitora |
 | **Público-alvo** | Mulheres adultas, especialmente mães e mulheres casadas, separadas ou divorciadas |
 | **Sensibilidade** | Sem cenas explícitas; temas de sobrecarga mental, divórcio e recomeço |

@@ -1,19 +1,9 @@
 ## AGRADECIMENTOS
 
-Às mulheres que se reconhecerem em Camila: esta história também foi escrita para vocês.
+Às mulheres que já se sentiram sozinhas mesmo com a casa cheia: obrigada por acompanharem Camila até aqui.
 
-A quem ainda está no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.
-
----
+A quem está recomeçando, e a quem ainda procura coragem para dar o primeiro passo: desejo que encontre apoio, tempo para respirar e espaço para escolher por si.
 
 ## SOBRE A AUTORA
 
 **Mariana Duarte** é o nome literário que assina *A Metade Que Me Faltava Era Eu*, um romance sobre recomeço, maternidade e a coragem de escolher a própria vida.
-
----
-
-## UMA ÚLTIMA PALAVRA
-
-Se esta história encontrou alguma parte de você, conte a outra leitora. Uma indicação ou uma avaliação sincera ajuda este livro a chegar a mulheres que também precisam lembrar que não estão sozinhas.
-
-Obrigada por caminhar com Camila até aqui.

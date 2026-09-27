@@ -1,6 +1,6 @@
 # PROGRESSO DO MANUSCRITO
 
-> **Registro histórico das rodadas de escrita.** Os logs abaixo conservam numerações e contagens antigas para mostrar a evolução, não para orientar a publicação. A edição em avaliação tem 40 capítulos, 62.724 palavras de história e miolo de 322 páginas. Consulte [STATUS_ATUAL.md](STATUS_ATUAL.md) para as pendências reais.
+> **Registro histórico das rodadas de escrita.** Os logs abaixo conservam numerações e contagens antigas para mostrar a evolução, não para orientar a publicação. A edição em avaliação tem 40 capítulos, 62.724 palavras de história e miolo de 324 páginas. Consulte [STATUS_ATUAL.md](STATUS_ATUAL.md) para as pendências reais.
 
 ## ✅ ATO I - ESTAGNAÇÃO E RUPTURA (Completo!)
 **Capítulos 1-9**: Camila descobre que não aguenta mais, tenta salvar o casamento, e finalmente decide se separar.
