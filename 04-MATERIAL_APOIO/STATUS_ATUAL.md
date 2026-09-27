@@ -1,4 +1,4 @@
-# Estado atual e portões de publicação — 26/09/2026
+# Estado atual e portões de publicação — 27/09/2026
 
 Este documento substitui checklists antigos como referência rápida. **Pronto para leitura da equipe não significa pronto para clicar em “Publicar”.** A base do manuscrito desta rodada é o commit `cd09ccf`; as atualizações documentais posteriores não alteram a história.
 
@@ -7,6 +7,7 @@ Este documento substitui checklists antigos como referência rápida. **Pronto p
 - 40 capítulos em sequência; 62.724 palavras de história; fechamento do primeiro volume com Camila solteira, feliz e inteira.
 - `05-PUBLICACAO/manuscrito_beta.html` e [leitor online](https://maykonlong.github.io/book/ler.html) para a equipe, com [roteiro de leitura](../05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md).
 - Site público, 10 artes integradas e pacote KDP candidato: EPUB, capa Kindle, miolo impresso de 324 páginas, capa correspondente, metadados, hashes e ZIP.
+- Leitor instalável como webapp: abre no ponto salvo neste aparelho; os capítulos continuam dependentes da internet e não são guardados offline pelo app. Veja [PWA_LEITOR.md](../05-PUBLICACAO/PWA_LEITOR.md).
 - `python tools/validate_release.py` passou na versão atual; o EPUBCheck registrado no pacote tem 0 erros e 0 avisos.
 
 ## O que depende do retorno da equipe

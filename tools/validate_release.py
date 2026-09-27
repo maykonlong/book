@@ -5,6 +5,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import struct
 import sys
 import zipfile
 from pathlib import Path
@@ -177,6 +178,40 @@ def validate_site_links() -> None:
             fail(f"Arte web acima de 400 KB: {relative_path}")
 
 
+def validate_pwa() -> None:
+    manifest = json.loads((ROOT / "manifest.json").read_text(encoding="utf-8"))
+    if manifest.get("start_url") != "./ler.html" or manifest.get("display") != "standalone":
+        fail("PWA não abre diretamente no leitor instalado")
+    icons = {item.get("sizes"): item.get("src") for item in manifest.get("icons", [])}
+    for size in (192, 512):
+        icon = icons.get(f"{size}x{size}")
+        if not icon:
+            fail(f"Ícone PWA {size}x{size} ausente no manifesto")
+        data = (ROOT / icon.removeprefix("./")).read_bytes()
+        if data[:8] != b"\x89PNG\r\n\x1a\n" or struct.unpack(">II", data[16:24]) != (size, size):
+            fail(f"Ícone PWA {size}x{size} inválido")
+
+    for page in ("index.html", "ler.html"):
+        html = (ROOT / page).read_text(encoding="utf-8")
+        if '<link rel="manifest" href="./manifest.json">' not in html or '<script src="./pwa.js" defer></script>' not in html:
+            fail(f"Manifesto ou instalação PWA ausente em {page}")
+    reader = (ROOT / "ler.html").read_text(encoding="utf-8")
+    if "loadProgress()" not in reader or "fetch(CHAPTERS[i].file, { cache: 'no-store' })" not in reader:
+        fail("Leitor não retoma progresso ou pode guardar capítulos offline")
+    if "saved.c === requested" not in reader or "window.addEventListener('pagehide', saveProgress)" not in reader:
+        fail("Leitor pode perder a posição ao recarregar ou fechar o app")
+
+    worker = (ROOT / "sw.js").read_text(encoding="utf-8")
+    match = re.search(r"const SHELL_FILES = \[(.*?)\];", worker, re.S)
+    shell = set(re.findall(r"'([^']+)'", match.group(1))) if match else set()
+    expected = {
+        "./index.html", "./ler.html", "./manifest.json",
+        "./assets/app-icon-180.png", "./assets/app-icon-192.png", "./assets/app-icon-512.png",
+    }
+    if shell != expected:
+        fail("Cache PWA deve conter somente a estrutura do site e os ícones")
+
+
 def validate_site_content() -> None:
     index = (ROOT / "index.html").read_text(encoding="utf-8")
     beta = (ROOT / "05-PUBLICACAO" / "manuscrito_beta.html").read_text(encoding="utf-8")
@@ -310,6 +345,7 @@ def validate_package() -> None:
 def main() -> int:
     chapter_words = validate_chapters()
     validate_site_links()
+    validate_pwa()
     validate_site_content()
     epubcheck = validate_epub()
     validate_package()
@@ -327,6 +363,7 @@ def main() -> int:
                 "dados_estruturados": "OK",
                 "manuscrito_beta": "OK",
                 "links_locais": "OK",
+                "pwa_sem_livro_offline": "OK",
                 "epubcheck": epubcheck,
                 "checksums": "OK",
                 "zip_final": "OK",

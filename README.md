@@ -2,17 +2,17 @@
 
 Romance contemporâneo em primeira edição independente, assinado com o nome literário **Mariana Duarte**. Camila sai de um casamento em que carregava sozinha a casa, os filhos e a própria esperança. O primeiro volume da trilogia encerra seu arco com uma escolha por autonomia: ela termina solteira, feliz e inteira. O segundo livro não é necessário para compreender este desfecho.
 
-## Estado da edição — 26/09/2026
+## Estado da edição — 27/09/2026
 
 | Item | Situação |
 | --- | --- |
 | História | 40 capítulos, 62.724 palavras de história; pronta para leitura da equipe |
 | Manuscrito consolidado | 63.364 palavras com cabeçalhos e textos iniciais/finais |
-| Site e leitor | [GitHub Pages](https://maykonlong.github.io/book/) no ar, com leitura integral durante a fase de testes |
+| Site e leitor | [GitHub Pages](https://maykonlong.github.io/book/) no ar; leitor instalável que retoma o progresso, sem livro inteiro offline |
 | Artes | 10 ilustrações narrativas presentes no leitor, EPUB e miolo |
 | eBook | EPUB e capa Kindle preparados; EPUBCheck: 0 erros e 0 avisos |
 | Impresso | Miolo de 324 páginas, 5,5 × 8,5 pol., e capa calculada para essa paginação |
-| Validação local | `python tools/validate_release.py` — aprovado na versão de 26/09/2026 |
+| Validação local | `python tools/validate_release.py` — aprovado na versão de 27/09/2026 |
 | Ainda falta | retorno da equipe, decisões finais de autoria/ISBN/ficha, Previewers da KDP e prova física |
 
 O relatório técnico e os limites da revisão estão em [RELATORIO_VALIDACAO_FINAL.md](04-MATERIAL_APOIO/RELATORIO_VALIDACAO_FINAL.md). O estado de cada pendência está em [STATUS_ATUAL.md](04-MATERIAL_APOIO/STATUS_ATUAL.md). Nenhum teste automático garante ausência absoluta de erros ou reação comercial das leitoras.
@@ -20,6 +20,8 @@ O relatório técnico e os limites da revisão estão em [RELATORIO_VALIDACAO_FI
 ## Para a equipe de leitura
 
 Use o [roteiro da rodada](05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md), o [manuscrito beta](05-PUBLICACAO/manuscrito_beta.html) ou o [leitor online](https://maykonlong.github.io/book/ler.html). O questionário está em [BETA_READERS.md](05-PUBLICACAO/BETA_READERS.md). Registre capítulo e trecho ao apontar uma incoerência; para ritmo e emoção, descreva em que momento a vontade de continuar aumentou ou diminuiu.
+
+O [leitor instalável](05-PUBLICACAO/PWA_LEITOR.md) abre no ponto salvo no mesmo navegador ou app. Precisa de internet para carregar os capítulos e não sincroniza o marcador entre aparelhos.
 
 ## Fontes e saídas
 

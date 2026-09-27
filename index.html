@@ -12,6 +12,10 @@
   <meta name="theme-color" content="#13283b">
   <link rel="canonical" href="https://maykonlong.github.io/book/">
   <link rel="manifest" href="./manifest.json">
+  <link rel="apple-touch-icon" href="./assets/app-icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <script src="./pwa.js" defer></script>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%2313283b'/%3E%3Cpath d='M17 15h30v34H17z' fill='%23f4eadc'/%3E%3Cpath d='M23 22h18M23 29h18M23 36h13' stroke='%23ad3f2d' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 
   <meta property="og:type" content="book">
@@ -382,6 +386,9 @@
     .reading-section::before { border-color: rgba(215,170,95,.22); }
     .reading-copy h2 { color: #fffaf1; }
     .reading-copy > p:not(.eyebrow) { color: #d5ddde; }
+    .reading-copy > p.install-help { margin-top: 17px; font-size: .88rem; line-height: 1.55; color: #c7d3d4; }
+    .reading-copy .install-app { margin-left: 9px; color: #fff; border-color: #aebcc0; background: transparent; font: inherit; font-weight: 800; cursor: pointer; }
+    .reading-copy .install-app[hidden] { display: none; }
     .reading-benefits li { color: #ecede9; }
     .reading-benefits li::before { color: #e2b66e; }
     .reading-section .eyebrow { color: #e6b875; }
@@ -480,6 +487,7 @@
       .device-page { min-height: 390px; padding: 40px 29px; }
       .device-page strong { font-size: 1.55rem; }
       .reading-copy .button { width: 100%; }
+      .reading-copy .install-app { margin: 11px 0 0; }
     }
 
     @media (max-width: 370px) {
@@ -670,8 +678,8 @@
           <h1>Ela cuidava de tudo. Só não sabia mais quem cuidava dela.</h1>
           <p class="hero-lead"><strong>A Metade Que Me Faltava Era Eu</strong> acompanha Camila entre as manhãs corridas, um casamento que já não a escuta e a coragem de descobrir o que vem depois.</p>
           <div class="actions">
-            <a class="button button-primary" href="./ler.html?inicio=1">Começar a ler grátis <span aria-hidden="true">→</span></a>
-            <a class="button button-secondary" href="#historia">Conhecer a história</a>
+            <a class="button button-primary" id="primary-read" href="./ler.html?inicio=1">Começar a ler grátis <span aria-hidden="true">→</span></a>
+            <a class="button button-secondary" id="secondary-read" href="#historia">Conhecer a história</a>
           </div>
           <p class="hero-whisper">“A pior parte era a solidão. A solidão acompanhada.” <span>— Capítulo 1</span></p>
           <ul class="trust-line" aria-label="Informações da leitura">
@@ -866,13 +874,15 @@
         <div class="reading-copy">
           <p class="eyebrow">Leia do seu jeito</p>
           <h2 id="leitura-titulo">Abra o capítulo. O resto do mundo pode esperar um pouco.</h2>
-          <p>O leitor guarda o capítulo e a posição de leitura neste navegador. Você pode aumentar a letra e escolher entre os modos claro, sépia e escuro.</p>
+          <p>O leitor guarda o capítulo e a posição neste navegador ou app. Você pode aumentar a letra e escolher entre os modos claro, sépia e escuro.</p>
           <ul class="reading-benefits">
             <li>Sem cadastro e sem aplicativo</li>
             <li>Fonte ajustável e índice com 40 capítulos</li>
             <li>Feito para celular e tablet; no e-reader, a experiência depende do navegador</li>
           </ul>
           <a class="button button-primary" href="./ler.html?inicio=1">Abrir o leitor <span aria-hidden="true">→</span></a>
+          <button class="button install-app" id="install-app" type="button" hidden>Instalar o leitor</button>
+          <p class="install-help">Para abrir direto de um ícone, use “Instalar app” ou “Adicionar à Tela de Início” no menu do navegador. O app retoma sua leitura neste aparelho, mas os capítulos precisam de internet. A posição não é sincronizada entre aparelhos.</p>
         </div>
       </div>
     </section>
@@ -958,10 +968,25 @@
     </div>
   </footer>
 
-  <a class="mobile-read" href="./ler.html?inicio=1">Ler grátis <span aria-hidden="true">→</span></a>
+  <a class="mobile-read" id="mobile-read" href="./ler.html?inicio=1">Ler grátis <span aria-hidden="true">→</span></a>
 
   <script>
     (function () {
+      try {
+        var progress = JSON.parse(localStorage.getItem('metade-leitor-progresso-v1') || 'null');
+        if (progress && Number.isInteger(progress.c) && progress.c > 0 && progress.c < 43) {
+          var primaryRead = document.getElementById('primary-read');
+          var secondaryRead = document.getElementById('secondary-read');
+          var mobileContinue = document.getElementById('mobile-read');
+          primaryRead.href = './ler.html';
+          primaryRead.innerHTML = 'Continuar de onde parei <span aria-hidden="true">→</span>';
+          secondaryRead.href = './ler.html?inicio=1';
+          secondaryRead.textContent = 'Recomeçar da capa';
+          mobileContinue.href = './ler.html';
+          mobileContinue.innerHTML = 'Continuar leitura <span aria-hidden="true">→</span>';
+        }
+      } catch (_) {}
+
       var button = document.querySelector('.menu-toggle');
       var menu = document.getElementById('menu');
       if (!button || !menu) return;

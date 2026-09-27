@@ -8,6 +8,11 @@
 <meta name="description" content="Leia online grátis o romance completo A Metade Que Me Faltava Era Eu, de Mariana Duarte.">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <meta name="theme-color" content="#13283b">
+<link rel="manifest" href="./manifest.json">
+<link rel="apple-touch-icon" href="./assets/app-icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<script src="./pwa.js" defer></script>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%2313283b'/%3E%3Cpath d='M17 15h30v34H17z' fill='%23f4eadc'/%3E%3Cpath d='M23 22h18M23 29h18M23 36h13' stroke='%23ad3f2d' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="canonical" href="https://maykonlong.github.io/book/ler.html">
 <meta property="og:type" content="book">
@@ -338,7 +343,7 @@ async function loadChapter(i, scrollY) {
   content.classList.toggle('final-note', i === CHAPTERS.length - 1);
   content.innerHTML = '<p class="loading">Carregando…</p>';
   try {
-    const resp = await fetch(CHAPTERS[i].file);
+    const resp = await fetch(CHAPTERS[i].file, { cache: 'no-store' });
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const raw = (await resp.text()).replace(/\uFEFF/g, '');
     const dedication = raw.indexOf('## DEDICATÓRIA');
@@ -362,16 +367,19 @@ async function loadChapter(i, scrollY) {
     $('readTime').textContent = '≈ ' + Math.max(1, Math.round(words / 220)) + ' min';
   } catch (e) {
     $('readTime').textContent = '';
-    content.innerHTML = '<div class="error"><strong>Não foi possível abrir este capítulo.</strong><br><br>' +
-      'Confira sua conexão e <a href="' + window.location.href.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '">tente novamente</a>.</div>';
+    content.innerHTML = '<div class="error"><strong>Não foi possível abrir esta parte do livro.</strong><br><br>' +
+      'Os capítulos precisam de internet. Seu ponto de parada continua salvo neste aparelho. Confira sua conexão e <a href="' + window.location.href.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '">tente novamente</a>.</div>';
   }
-  if (typeof scrollY === 'number') {
-    setTimeout(() => window.scrollTo(0, scrollY), 0);
+  if (typeof scrollY === 'number' && Number.isFinite(scrollY)) {
+    setTimeout(() => {
+      window.scrollTo(0, Math.max(0, scrollY));
+      saveProgress();
+    }, 0);
   } else {
     window.scrollTo(0, 0);
+    saveProgress();
   }
   updateUI();
-  saveProgress();
   const cap = i >= 1 && i <= 40 ? i : 0;
   const url = new URL(window.location.href);
   url.searchParams.delete('inicio');
@@ -487,6 +495,10 @@ window.addEventListener('scroll', () => {
   clearTimeout(scrollTimer);
   scrollTimer = setTimeout(saveProgress, 400);
 });
+window.addEventListener('pagehide', saveProgress);
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'hidden') saveProgress();
+});
 document.addEventListener('keydown', (ev) => {
   if (ev.key === 'Escape' && $('toc').classList.contains('open')) { closeToc(); return; }
   if (ev.altKey || ev.ctrlKey || ev.metaKey || $('toc').classList.contains('open')) return;
@@ -497,6 +509,7 @@ document.addEventListener('keydown', (ev) => {
 
 // ===== INIT =====
 (function init() {
+  if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
   buildToc();
   try {
     const savedTheme = localStorage.getItem('metade-leitor-tema');
@@ -517,7 +530,7 @@ document.addEventListener('keydown', (ev) => {
   if (params.get('inicio') === '1') {
     loadChapter(0);
   } else if (Number.isInteger(requested) && requested >= 1 && requested <= 40) {
-    loadChapter(requested);
+    loadChapter(requested, saved && saved.c === requested && Number.isFinite(saved.y) ? saved.y : undefined);
   } else if (saved && typeof saved.c === 'number' && saved.c > 0) {
     loadChapter(saved.c, saved.y || 0);
     toast('Continuando de onde você parou…');
