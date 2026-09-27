@@ -121,6 +121,11 @@ main.endmatter h2:not(:first-child) { margin-top: 3em; }
 main.final-note h2 { margin-bottom: 1.6em; }
 main.endmatter p { text-align: left; text-indent: 0; }
 main.endmatter p + p { margin-top: .9em; }
+.scripture-page { padding-top: clamp(1.5rem, 12vh, 6rem); }
+main.scripture-page h1 { font-size: 1.52em; letter-spacing: .04em; }
+main.scripture-page p, main.scripture-page blockquote { text-align: center; text-indent: 0; }
+main.scripture-page blockquote { margin: 1.5em auto; max-width: 28ch; font-size: 1.15em; line-height: 1.6; }
+main.scripture-page p:last-child { max-width: 34ch; margin: 2em auto 0; }
 .chapter-art { margin: .3em 0 2.2em; }
 .chapter-art img { display: block; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 16px 42px rgba(19,40,59,.16); }
 .chapter-art figcaption { max-width: 32rem; margin: .7em auto 0; color: var(--muted); font-size: .76em; font-style: italic; line-height: 1.45; text-align: center; }
@@ -232,6 +237,7 @@ footer button:disabled { opacity: .35; cursor: default; }
 // ===== MANIFESTO DE CAPÍTULOS (lê os arquivos .md direto do repositório) =====
 const CHAPTERS = [
   { file: '00-PLANEJAMENTO/FRONT_MATTER.md', title: 'Capa / Início' },
+  { file: '00-PLANEJAMENTO/ABERTURA_BIBLICA.md', title: 'Há tempo — Eclesiastes 3:1' },
   { file: '03-MANUSCRITO/CAP_01_A_ROTINA_INVISIVEL.md', title: 'Capítulo 1 — A Rotina Invisível', art: 'assets/illustrations-web/cap-01-rotina-invisivel.jpg', alt: 'Camila prepara a rotina da família antes do amanhecer.' },
   { file: '03-MANUSCRITO/CAP_02_O_ANIVERSARIO_ESQUECIDO.md', title: 'Capítulo 2 — O Aniversário Esquecido' },
   { file: '03-MANUSCRITO/CAP_03_A_TENTATIVA_DA_TERAPIA.md', title: 'Capítulo 3 — A Tentativa da Terapia' },
@@ -273,8 +279,11 @@ const CHAPTERS = [
   { file: '03-MANUSCRITO/CAP_39_CARTA_PARA_MIM_MESMA.md', title: 'Capítulo 39 — Carta Para Mim Mesma', art: 'assets/illustrations-web/cap-39-carta-para-mim.jpg', alt: 'Camila escreve para a mulher que foi enquanto prepara sua série de aquarelas.' },
   { file: '03-MANUSCRITO/CAP_40_A_METADE_QUE_ME_FALTAVA_ERA_EU.md', title: 'Capítulo 40 — A Metade Que Me Faltava Era Eu', art: 'assets/illustrations-web/cap-40-inteira.jpg', alt: 'Camila contempla a série Renascimento na galeria vazia.' },
   { file: '00-PLANEJAMENTO/POS_TEXTUAIS.md', title: 'Agradecimentos & Sobre a Autora' },
-  { file: '00-PLANEJAMENTO/ULTIMA_PALAVRA.md', title: 'Uma Última Palavra' }
+  { file: '00-PLANEJAMENTO/ULTIMA_PALAVRA.md', title: 'Uma Última Palavra' },
+  { file: '00-PLANEJAMENTO/CONSAGRACAO_FINAL.md', title: 'Consagração — Salmos 90:17' }
 ];
+const FIRST_CHAPTER_INDEX = 2;
+const LAST_CHAPTER_INDEX = FIRST_CHAPTER_INDEX + 39;
 
 // ===== PARSER MARKDOWN (mínimo, para o subset usado no manuscrito) =====
 function inline(t) {
@@ -319,7 +328,8 @@ function mdToHtml(md) {
 }
 
 // ===== ESTADO =====
-const STORE = 'metade-leitor-progresso-v1';
+const STORE = 'metade-leitor-progresso-v2';
+const OLD_STORE = 'metade-leitor-progresso-v1';
 const $ = (id) => document.getElementById(id);
 const content = $('content');
 let current = -1;
@@ -332,15 +342,26 @@ function saveProgress() {
   try { localStorage.setItem(STORE, JSON.stringify(s)); } catch (e) {}
 }
 function loadProgress() {
-  try { const raw = localStorage.getItem(STORE); return raw ? JSON.parse(raw) : null; } catch (e) { return null; }
+  try {
+    const current = localStorage.getItem(STORE);
+    if (current) return JSON.parse(current);
+    const old = localStorage.getItem(OLD_STORE);
+    if (!old) return null;
+    const saved = JSON.parse(old);
+    if (!Number.isInteger(saved.c) || saved.c < 0 || saved.c > 42) return null;
+    const migrated = { c: saved.c > 0 ? saved.c + 1 : 0, y: Number(saved.y) || 0 };
+    localStorage.setItem(STORE, JSON.stringify(migrated));
+    return migrated;
+  } catch (e) { return null; }
 }
 
 // ===== CARREGAR CAPÍTULO =====
 async function loadChapter(i, scrollY) {
   if (i < 0 || i >= CHAPTERS.length) return;
   current = i;
-  content.classList.toggle('endmatter', i > 40);
-  content.classList.toggle('final-note', i === CHAPTERS.length - 1);
+  content.classList.toggle('endmatter', i > LAST_CHAPTER_INDEX);
+  content.classList.toggle('final-note', i === CHAPTERS.length - 2);
+  content.classList.toggle('scripture-page', i === 1 || i === CHAPTERS.length - 1);
   content.innerHTML = '<p class="loading">Carregando…</p>';
   try {
     const resp = await fetch(CHAPTERS[i].file, { cache: 'no-store' });
@@ -380,7 +401,7 @@ async function loadChapter(i, scrollY) {
     saveProgress();
   }
   updateUI();
-  const cap = i >= 1 && i <= 40 ? i : 0;
+  const cap = i >= FIRST_CHAPTER_INDEX && i <= LAST_CHAPTER_INDEX ? i - FIRST_CHAPTER_INDEX + 1 : 0;
   const url = new URL(window.location.href);
   url.searchParams.delete('inicio');
   if (cap) url.searchParams.set('cap', String(cap)); else url.searchParams.delete('cap');
@@ -391,7 +412,7 @@ async function loadChapter(i, scrollY) {
 function updateUI() {
   $('btnPrev').disabled = (current <= 0);
   $('btnNext').disabled = (current >= CHAPTERS.length - 1);
-  $('pos').textContent = current === 0 ? 'Início' : current === CHAPTERS.length - 1 ? 'Fim' : current > 40 ? 'Pós-texto' : current + ' / 40';
+  $('pos').textContent = current === 0 ? 'Início' : current === 1 ? 'Antes da história' : current === CHAPTERS.length - 1 ? 'Fim' : current > LAST_CHAPTER_INDEX ? 'Pós-texto' : (current - FIRST_CHAPTER_INDEX + 1) + ' / 40';
   $('title').textContent = CHAPTERS[current] ? CHAPTERS[current].title : 'A Metade Que Me Faltava Era Eu';
   document.querySelectorAll('#tocList a').forEach(a => {
     a.classList.toggle('current', parseInt(a.dataset.i, 10) === current);
@@ -530,8 +551,9 @@ document.addEventListener('keydown', (ev) => {
   if (params.get('inicio') === '1') {
     loadChapter(0);
   } else if (Number.isInteger(requested) && requested >= 1 && requested <= 40) {
-    loadChapter(requested, saved && saved.c === requested && Number.isFinite(saved.y) ? saved.y : undefined);
-  } else if (saved && typeof saved.c === 'number' && saved.c > 0) {
+    const chapterIndex = requested + FIRST_CHAPTER_INDEX - 1;
+    loadChapter(chapterIndex, saved && saved.c === chapterIndex && Number.isFinite(saved.y) ? saved.y : undefined);
+  } else if (saved && Number.isInteger(saved.c) && saved.c > 0 && saved.c < CHAPTERS.length) {
     loadChapter(saved.c, saved.y || 0);
     toast('Continuando de onde você parou…');
   } else {

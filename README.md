@@ -7,7 +7,7 @@ Romance contemporâneo em primeira edição independente, assinado com o nome li
 | Item | Situação |
 | --- | --- |
 | História | 40 capítulos, 62.724 palavras de história; pronta para leitura da equipe |
-| Manuscrito consolidado | 63.364 palavras com cabeçalhos e textos iniciais/finais |
+| Manuscrito consolidado | 63.439 palavras com cabeçalhos e textos iniciais/finais |
 | Site e leitor | [GitHub Pages](https://maykonlong.github.io/book/) no ar; leitor instalável que retoma o progresso, sem livro inteiro offline |
 | Artes | 10 ilustrações narrativas presentes no leitor, EPUB e miolo |
 | eBook | EPUB e capa Kindle preparados; EPUBCheck: 0 erros e 0 avisos |
@@ -22,6 +22,8 @@ O relatório técnico e os limites da revisão estão em [RELATORIO_VALIDACAO_FI
 Use o [roteiro da rodada](05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md), o [manuscrito beta](05-PUBLICACAO/manuscrito_beta.html) ou o [leitor online](https://maykonlong.github.io/book/ler.html). O questionário está em [BETA_READERS.md](05-PUBLICACAO/BETA_READERS.md). Registre capítulo e trecho ao apontar uma incoerência; para ritmo e emoção, descreva em que momento a vontade de continuar aumentou ou diminuiu.
 
 O [leitor instalável](05-PUBLICACAO/PWA_LEITOR.md) abre no ponto salvo no mesmo navegador ou app. Precisa de internet para carregar os capítulos e não sincroniza o marcador entre aparelhos.
+
+A abertura ganhou uma página com Eclesiastes 3:1 antes do capítulo 1. Os agradecimentos incluem uma gratidão a Deus; a página final reúne Salmos 90:17 e uma oração de consagração. As referências e a edição bíblica utilizada estão em [FONTES_BIBLICAS.md](05-PUBLICACAO/FONTES_BIBLICAS.md).
 
 ## Fontes e saídas
 

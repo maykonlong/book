@@ -30,10 +30,6 @@ Como amar de novo sem trocar uma dependência por outra? E como reconhecer o que
 
 *Para as que ainda estão no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.*
 
-## EPÍGRAFE
-
-> *"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim. Esperando que eu me reencontrasse."*
-
 ## CARTA À LEITORA
 
 Querida leitora,

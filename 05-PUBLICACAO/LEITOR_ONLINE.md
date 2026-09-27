@@ -11,12 +11,12 @@
 
 O `ler.html` (na raiz do projeto) é um leitor de livro:
 - Carrega cada capítulo `.md` via `fetch()` (lê de lá direto, sem duplicar o texto).
-- Renderiza o markdown (títulos, itálico, negrito, epígrafe, `---` de cena) como HTML.
+- Renderiza o markdown (títulos, itálico, negrito, versículos em destaque e `---` de cena) como HTML.
 - Salva o progresso (capítulo + posição de rolagem) no **localStorage** do navegador.
 
 ## Recursos
 
-- ☰ **Índice** lateral com 42 entradas (abertura + 40 capítulos + pós-textos)
+- ☰ **Índice** lateral com 45 entradas (abertura, versículo inicial, 40 capítulos, dois pós-textos e consagração final)
 - Navegação **← / →** (botões e setas do teclado)
 - **A− / A+** (tamanho da fonte)
 - 🌙 **modos claro, sépia e escuro**

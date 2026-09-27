@@ -161,6 +161,13 @@ def validate_site_links() -> None:
     reader = (ROOT / "ler.html").read_text(encoding="utf-8")
     if "00-PLANEJAMENTO/ULTIMA_PALAVRA.md" not in reader or 'class="front-cover"' not in reader:
         fail("Leitor sem capa de abertura ou convite final em tela própria")
+    for source in ("ABERTURA_BIBLICA.md", "CONSAGRACAO_FINAL.md"):
+        if f"00-PLANEJAMENTO/{source}" not in reader:
+            fail(f"Página bíblica ausente do leitor: {source}")
+    if reader.count("{ file: '") != 45:
+        fail("Índice online deve ter abertura, página bíblica, 40 capítulos e três páginas finais")
+    if "metade-leitor-progresso-v2" not in reader or "metade-leitor-progresso-v1" not in reader:
+        fail("Novo índice do leitor não preserva o marcador da edição anterior")
     index = (ROOT / "index.html").read_text(encoding="utf-8")
     if 'href="./ler.html?cap=1">Começar' in index or 'href="./ler.html?inicio=1"' not in index:
         fail("CTA de início não abre a capa e as páginas iniciais")
@@ -198,7 +205,7 @@ def validate_pwa() -> None:
     reader = (ROOT / "ler.html").read_text(encoding="utf-8")
     if "loadProgress()" not in reader or "fetch(CHAPTERS[i].file, { cache: 'no-store' })" not in reader:
         fail("Leitor não retoma progresso ou pode guardar capítulos offline")
-    if "saved.c === requested" not in reader or "window.addEventListener('pagehide', saveProgress)" not in reader:
+    if "saved.c === chapterIndex" not in reader or "window.addEventListener('pagehide', saveProgress)" not in reader:
         fail("Leitor pode perder a posição ao recarregar ou fechar o app")
 
     worker = (ROOT / "sw.js").read_text(encoding="utf-8")
@@ -267,6 +274,8 @@ def validate_site_content() -> None:
         fail("Títulos com BOM ou Markdown cru no manuscrito beta")
     if "<h2>SOBRE O LIVRO</h2>" in beta:
         fail("Sinopse comercial indevida antes do capítulo 1 no manuscrito beta")
+    if not (beta.index("Eclesiastes 3:1") < beta.index("CAPÍTULO 1") < beta.index("AGRADECIMENTOS") < beta.index("Salmos 90:17")):
+        fail("Páginas bíblicas ou agradecimentos fora de ordem na leitura beta")
     if "A gota d'água não foi a febre." not in index:
         fail("Trecho do site não corresponde ao capítulo 7")
 
@@ -285,16 +294,24 @@ def validate_epub() -> dict[str, int]:
         if art_numbers != ILLUSTRATED_CHAPTERS:
             fail(f"Artes do EPUB divergentes: {sorted(art_numbers)}")
         front = archive.read("OEBPS/text/front.xhtml").decode("utf-8")
+        opening_verse = archive.read("OEBPS/text/opening-verse.xhtml").decode("utf-8")
         back = archive.read("OEBPS/text/back.xhtml").decode("utf-8")
         final_note = archive.read("OEBPS/text/final.xhtml").decode("utf-8")
+        consecration = archive.read("OEBPS/text/consecration.xhtml").decode("utf-8")
         nav = archive.read("OEBPS/nav.xhtml").decode("utf-8")
         if "SOBRE O LIVRO" in front or "Subtítulo:" in front:
             fail("Abertura do EPUB contém sinopse comercial ou rótulo de planejamento")
-        for anchor in ("#dedicatoria", "#epigrafe", "#carta"):
+        for anchor in ("#dedicatoria", "#carta"):
             if anchor not in nav:
                 fail(f"Entrada de índice ausente no EPUB: {anchor}")
         if "UMA ÚLTIMA PALAVRA" in back or "UMA ÚLTIMA PALAVRA" not in final_note or "text/final.xhtml" not in nav:
             fail("Convite final não está separado e navegável no EPUB")
+        if "Eclesiastes 3:1" not in opening_verse or "Salmos 90:17" not in consecration or "text/consecration.xhtml" not in nav:
+            fail("Páginas bíblicas ausentes ou fora do sumário do EPUB")
+        spine = archive.read("OEBPS/package.opf").decode("utf-8")
+        ordered = ('idref="front"', 'idref="opening-verse"', 'idref="chapter-01"', 'idref="chapter-40"', 'idref="back"', 'idref="final"', 'idref="consecration"')
+        if [spine.index(token) for token in ordered] != sorted(spine.index(token) for token in ordered):
+            fail("Ordem das páginas bíblicas e dos capítulos incorreta no EPUB")
 
     report_path = PACKAGE / "metadados" / "epubcheck-report.json"
     epub_path = PACKAGE / "ebook" / "A_Metade_Que_Me_Faltava_Era_Eu.epub"

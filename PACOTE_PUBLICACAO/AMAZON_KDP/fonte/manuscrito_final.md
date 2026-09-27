@@ -8,10 +8,6 @@
 
 *Para as que ainda estão no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.*
 
-## EPÍGRAFE
-
-> *"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim. Esperando que eu me reencontrasse."*
-
 ## CARTA À LEITORA
 
 Querida leitora,
@@ -29,6 +25,14 @@ Não espero que ela tenha todas as respostas. Convido você a caminhar ao lado d
 Com carinho,
 
 **Mariana Duarte**
+
+---
+
+# HÁ TEMPO
+
+> Tudo tem o seu tempo determinado, e todo o propósito debaixo do céu tem o seu tempo.
+
+*Eclesiastes 3:1 — João Ferreira de Almeida, edição de 1911.*
 
 ---
 
@@ -8945,6 +8949,8 @@ Estava inteira.
 
 ## AGRADECIMENTOS
 
+A Deus, entrego esta obra com gratidão. Agradeço pela força para chegar até aqui e pelas pessoas que ajudaram estas páginas a encontrar seu caminho. *Provérbios 16:3* me lembra de confiar a Ele o trabalho das minhas mãos.
+
 Às mulheres que já se sentiram sozinhas mesmo com a casa cheia: obrigada por acompanharem Camila até aqui.
 
 A quem está recomeçando, e a quem ainda procura coragem para dar o primeiro passo: desejo que encontre apoio, tempo para respirar e espaço para escolher por si.
@@ -8962,3 +8968,13 @@ Se a história de Camila fez você lembrar de alguém que passa ou já passou po
 Se gostou da leitura, deixe uma avaliação sincera na página do livro. Sua opinião ajuda outras leitoras a decidir se querem conhecer Camila.
 
 Obrigada por caminhar com Camila até aqui.
+
+---
+
+# CONSAGRAÇÃO
+
+> Confirma sobre nós a obra das nossas mãos.
+
+*Trecho de Salmos 90:17 — João Ferreira de Almeida, edição de 1911.*
+
+Senhor, entrego a Ti este livro. Agradeço por cada mão que ajudou a construí-lo e por cada leitora que vai encontrá-lo. Que estas páginas sejam recebidas com cuidado por quem precisa de companhia para recomeçar. Amém.

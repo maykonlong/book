@@ -24,16 +24,24 @@
 - **Meio do capítulo 30:** substituídos testes e explicações repetidos por ações que mostram limites, cuidado e incerteza. Corrigida a ordem dos cinco encontros e o intervalo até o jantar com Mariana.
 - **Conclusão:** Camila termina com Daniel por uma diferença real de planos, sem apagar o afeto; o capítulo 40 responde em cena por que a figura voa sozinha e deixa uma oportunidade ligada à pintura, sem obrigar uma trama específica para o segundo livro.
 - **Vocabulário:** trocadas palavras e frases mais distantes da fala cotidiana, como `resignação`, `monumentais`, `metáfora`, `coexistimos` e `logístico`, preservando imagens fáceis de entender e falas naturais.
-- **Paginação:** o fecho impresso permanece na página 313 do livro (página 321 do PDF). Agradecimentos e biografia estão na página 314; o convite final, em página própria, está na 315. O verso final fica em branco para manter o miolo par. Miolo e capa foram recalculados juntos; lombada atual de 0,810 polegada.
+- **Paginação:** o fecho impresso permanece na página 313 do livro (página 321 do PDF). Agradecimentos e biografia estão na página 314; o convite à leitora, na 315; a consagração final ocupa a 316. A abertura bíblica aparece na página física 8, antes do capítulo 1. O miolo permanece com 324 páginas e lombada de 0,810 polegada.
+
+## Páginas bíblicas e consagração — 27/09/2026
+
+- A epígrafe antiga, que antecipava a conclusão de Camila, foi substituída por Eclesiastes 3:1 em página própria entre a carta à leitora e o capítulo 1.
+- Os agradecimentos passam a agradecer a Deus e fazem referência a Provérbios 16:3. Depois do convite final, uma página separada traz um trecho de Salmos 90:17 e uma oração original de consagração.
+- A atribuição usa a edição de 1911 de João Ferreira de Almeida; a página de direitos do EPUB e do impresso a identifica. A cena final da protagonista não foi alterada.
+- O leitor online migra o marcador salvo na estrutura anterior, pois as novas páginas acrescentam duas entradas ao índice. A sequência agora tem 45 entradas.
+- Miolo, capa correspondente, EPUB, manuscrito consolidado e versão beta foram reconstruídos. A nova abertura e as páginas finais do PDF foram renderizadas para inspeção visual. EPUBCheck 5.4.0 terminou com 0 erros e 0 avisos; `tools/validate_release.py` aprovou ZIP, checksums e links.
 
 ## Refinamento da abertura e do pós-texto — 27/09/2026
 
 - A carta à leitora foi reescrita para convidar à história sem antecipar sua conclusão; não foi encurtada por uma meta de tamanho.
 - A capa agora abre o leitor online. No celular, a página inicial apresenta a capa logo após os botões principais, antes do trecho e da lista informativa.
-- Os ornamentos entre dedicatória, epígrafe, carta, agradecimentos e biografia foram retirados. Quebras narrativas dentro dos capítulos permanecem.
+- Os ornamentos entre dedicatória, carta, agradecimentos e biografia foram retirados. Quebras narrativas dentro dos capítulos permanecem.
 - O convite para indicar ou avaliar foi suavizado e ganhou página própria no leitor, no EPUB e no impresso; o manuscrito beta também distingue essa seção.
 - Abertura, páginas finais e capa impressa foram renderizadas e inspecionadas. O EPUBCheck terminou com zero erros e avisos; links, checksums e ZIP foram conferidos novamente.
-- Os botões de início do site agora abrem a capa, a dedicatória, a epígrafe e a carta antes do capítulo 1; os cartões de capítulos continuam abrindo o capítulo indicado. O teste no navegador confirmou o avanço ao capítulo 1, a retomada após recarregar e o reinício pela capa mesmo com progresso salvo.
+- Os botões de início do site abrem a capa, a dedicatória, a carta e a página bíblica antes do capítulo 1; os cartões de capítulos continuam abrindo o capítulo indicado. O teste da passagem anterior confirmou o avanço ao capítulo 1, a retomada após recarregar e o reinício pela capa mesmo com progresso salvo; a nova migração de marcador requer nova conferência no navegador.
 - A carta passou a convidar a leitora a indicar a história a quem vive ou viveu algo parecido; a última página pede indicação e avaliação sincera em frases simples. EPUB, miolo, manuscrito beta e ZIP foram sincronizados. A paginação segue em 324 páginas.
 - O site ganhou instalação como webapp. O ícone abre o leitor, e a retomada foi testada no mesmo capítulo e no mesmo trecho após recarregar. O cache do app contém apenas páginas de interface, manifesto e ícones; os capítulos exigem rede e são buscados sem cache. O marcador não sincroniza entre aparelhos.
 
@@ -72,7 +80,7 @@
 - A fala de Daniel deixou de chamar Camila de "mãe solo" quando o próprio enredo estabelece guarda compartilhada.
 - Fortalecidas as passagens entre capítulos 1–2, 8–9, 10–11, 20–21 e 25–26 com perguntas e decisões ligadas às cenas seguintes, sem acrescentar suspense artificial.
 - A apresentação pública passou a preservar a escolha final de Camila; o trecho destacado agora corresponde literalmente ao capítulo 7.
-- A sinopse comercial foi retirada da abertura do EPUB, do leitor online, do manuscrito consolidado e da versão beta. O EPUB ganhou entradas navegáveis para dedicatória, epígrafe e carta à leitora.
+- A sinopse comercial foi retirada da abertura do EPUB, do leitor online, do manuscrito consolidado e da versão beta. Naquela edição, o EPUB ganhou entradas navegáveis para dedicatória, epígrafe e carta à leitora; a epígrafe foi substituída posteriormente pela página de Eclesiastes.
 - O impresso ganhou sumário de 40 capítulos. Miolo e capa foram reconstruídos juntos para manter a lombada correta.
 - Mariana Duarte foi mantida como nome literário. A biografia e os agradecimentos foram simplificados conforme a decisão editorial mais recente, sem atribuir experiências profissionais ao pseudônimo.
 - Removidas marcas BOM de 32 arquivos de capítulos; o manuscrito beta é gerado automaticamente, com títulos renderizados como cabeçalhos.

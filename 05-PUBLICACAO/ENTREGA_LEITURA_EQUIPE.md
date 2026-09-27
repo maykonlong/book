@@ -2,7 +2,7 @@
 
 **Livro:** *A Metade Que Me Faltava Era Eu*
 
-**Versão do texto:** commit `cd09ccf` (26/09/2026), 40 capítulos, 62.724 palavras de história.
+**Versão do texto:** 40 capítulos, 62.724 palavras de história. Confira o commit enviado à equipe antes de registrar as respostas; as páginas bíblicas foram acrescentadas depois da base `cd09ccf`.
 
 **Objetivo:** testar a experiência real de leitura antes de congelar os arquivos de publicação. Esta rodada não é autorização para publicar ou mudar a estratégia do site.
 
@@ -21,6 +21,7 @@
 5. **Personagens:** Ricardo é crível sem virar caricatura? Daniel tem desejos próprios? Léo e Bia reagem de modo compreensível às escolhas dos adultos?
 6. **Final:** o desejo de Daniel de ter um filho foi preparado? A despedida nos capítulos 37–39 parece madura ou apressada? O capítulo 40 fecha a jornada e deixa curiosidade pelo segundo livro sem desfazer a felicidade solteira de Camila?
 7. **Formato:** no aparelho usado, houve problema de fonte, navegação, arte, contraste, retomada ou cansaço visual? Anote dispositivo e navegador.
+8. **Páginas de fé:** Eclesiastes antes do capítulo 1, gratidão a Deus no fim e a consagração final parecem naturais? Elas acolhem sem mudar a promessa de ficção contemporânea?
 
 ## Registro de feedback
 

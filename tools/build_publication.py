@@ -381,14 +381,13 @@ def render_interior(path: Path, art_paths: dict[int, Path], toc_pages: dict[int,
         "exceto em breves citações para resenhas.<br/><br/>"
         "Esta é uma obra de ficção. Personagens, diálogos e acontecimentos foram criados para a narrativa. "
         "O livro se inspira em vivências e sentimentos compartilhados ao longo de muitos anos, "
-        "mas não reproduz a história, a identidade ou o atendimento de nenhuma pessoa em particular."
+        "mas não reproduz a história, a identidade ou o atendimento de nenhuma pessoa em particular.<br/><br/>"
+        "Trechos bíblicos: João Ferreira de Almeida, edição de 1911 (domínio público)."
     )
     story += [Spacer(1, 2.25 * inch), Paragraph(copyright_text, styles["small"]), PageBreak()]
     story += [Spacer(1, 1.55 * inch), Paragraph("DEDICATÓRIA", styles["chapter_no"]),
               Paragraph("<em>Para toda mulher que já carregou o mundo sozinha — e que, um dia, decidiu se salvar.</em>", styles["quote"]),
               Paragraph("<em>Para as que ainda estão no meio do caminho, segurando as pontas com as unhas: você não está sozinha. E você vai conseguir.</em>", styles["quote"]), PageBreak()]
-    story += [Spacer(1, 1.60 * inch),
-              Paragraph("<em>“Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim. Esperando que eu me reencontrasse.”</em>", styles["quote"]), PageBreak()]
 
     if toc_pages is not None:
         for group in (range(1, 21), range(21, 41)):
@@ -421,6 +420,9 @@ def render_interior(path: Path, art_paths: dict[int, Path], toc_pages: dict[int,
     story += body_flowables(letter_md, styles, skip_headings=True)
     story.append(PageBreak())
 
+    opening_verse = (ROOT / "00-PLANEJAMENTO" / "ABERTURA_BIBLICA.md").read_text(encoding="utf-8")
+    story += [Spacer(1, 1.50 * inch), *body_flowables(opening_verse, styles, skip_headings=False), PageBreak()]
+
     for idx, ch_path in enumerate(CHAPTERS):
         num = chapter_number(ch_path)
         md = ch_path.read_text(encoding="utf-8")
@@ -444,6 +446,8 @@ def render_interior(path: Path, art_paths: dict[int, Path], toc_pages: dict[int,
     story.append(PageBreak())
     final_note = (ROOT / "00-PLANEJAMENTO" / "ULTIMA_PALAVRA.md").read_text(encoding="utf-8")
     story += body_flowables(final_note, back_styles, skip_headings=False)
+    final_consecration = (ROOT / "00-PLANEJAMENTO" / "CONSAGRACAO_FINAL.md").read_text(encoding="utf-8")
+    story += [PageBreak(), Spacer(1, 1.10 * inch), *body_flowables(final_consecration, back_styles, skip_headings=False)]
 
     doc.build(story)
     pages = len(PdfReader(str(path)).pages)
@@ -525,7 +529,7 @@ def build_epub(front_cover: Path, art_paths: dict[int, Path]) -> Path:
         '<rootfiles><rootfile full-path="OEBPS/package.opf" media-type="application/oebps-package+xml"/></rootfiles></container>',
         encoding="utf-8",
     )
-    css = '''body{font-family:serif;line-height:1.55;margin:5%;color:#211f1c}h1,h2{text-align:center;color:#13283b;line-height:1.18}h1{margin-top:18%;font-size:1.15em;letter-spacing:.08em}h2{font-size:1.8em;margin:.5em 0 1.2em}p{text-align:justify;text-indent:1.2em;margin:0 0 .35em}h2+p,.chapter-art+p,.scene+p{ text-indent:0}.scene{text-align:center;letter-spacing:.8em;color:#8e4736;margin:1.6em 0}blockquote{font-style:italic;margin:1.3em 10%;color:#514b44}.chapter-art{margin:1em 0 1.6em;text-align:center}.chapter-art img{max-width:100%;height:auto}.titlepage{text-align:center;margin-top:30%}.titlepage p{text-align:center;text-indent:0}.copyright p{text-indent:0;text-align:left;font-size:.9em}.backmatter p{text-align:left;text-indent:0;margin-bottom:.8em}ul{margin:1em 0 1em 1.5em}li{margin:.3em 0}.cover{margin:0;padding:0;text-align:center}.cover img{width:100%;height:auto}'''
+    css = '''body{font-family:serif;line-height:1.55;margin:5%;color:#211f1c}h1,h2{text-align:center;color:#13283b;line-height:1.18}h1{margin-top:18%;font-size:1.15em;letter-spacing:.08em}h2{font-size:1.8em;margin:.5em 0 1.2em}p{text-align:justify;text-indent:1.2em;margin:0 0 .35em}h2+p,.chapter-art+p,.scene+p{ text-indent:0}.scene{text-align:center;letter-spacing:.8em;color:#8e4736;margin:1.6em 0}blockquote{font-style:italic;margin:1.3em 10%;color:#514b44}.chapter-art{margin:1em 0 1.6em;text-align:center}.chapter-art img{max-width:100%;height:auto}.titlepage{text-align:center;margin-top:30%}.titlepage p{text-align:center;text-indent:0}.copyright p{text-indent:0;text-align:left;font-size:.9em}.backmatter p{text-align:left;text-indent:0;margin-bottom:.8em}.scripture-page{margin-top:18%}.scripture-page p,.scripture-page blockquote{text-align:center;text-indent:0;margin-bottom:1.2em}.scripture-page blockquote{font-size:1.15em}ul{margin:1em 0 1em 1.5em}li{margin:.3em 0}.cover{margin:0;padding:0;text-align:center}.cover img{width:100%;height:auto}'''
     (stage / "OEBPS" / "styles" / "book.css").write_text(css, encoding="utf-8")
 
     cover_name = "cover.jpg"
@@ -546,9 +550,15 @@ def build_epub(front_cover: Path, art_paths: dict[int, Path]) -> Path:
     items.append(('title-page', 'text/title.xhtml', 'application/xhtml+xml', ''))
     spine.append('title-page')
 
+    copyright_body = '<section class="copyright"><h1>Direitos autorais</h1><p>© 2026 Mariana Duarte. Todos os direitos reservados.</p><p>Trechos bíblicos: João Ferreira de Almeida, edição de 1911 (domínio público).</p></section>'
+    (stage / "OEBPS" / "text" / "copyright.xhtml").write_text(xhtml_page("Direitos autorais", copyright_body, "copyright"), encoding="utf-8")
+    items.append(('copyright', 'text/copyright.xhtml', 'application/xhtml+xml', ''))
+    spine.append('copyright')
+    nav_points.append(("Direitos autorais", "text/copyright.xhtml"))
+
     front_md = reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8"), include_title=False)
     front_body = paragraphs_to_xhtml(front_md)
-    for heading, anchor in (("DEDICATÓRIA", "dedicatoria"), ("EPÍGRAFE", "epigrafe"), ("CARTA À LEITORA", "carta")):
+    for heading, anchor in (("DEDICATÓRIA", "dedicatoria"), ("CARTA À LEITORA", "carta")):
         front_body = front_body.replace(f"<h2>{heading}</h2>", f'<h2 id="{anchor}">{heading}</h2>')
     (stage / "OEBPS" / "text" / "front.xhtml").write_text(xhtml_page("Início", front_body, "frontmatter"), encoding="utf-8")
     items.append(('front', 'text/front.xhtml', 'application/xhtml+xml', ''))
@@ -556,9 +566,14 @@ def build_epub(front_cover: Path, art_paths: dict[int, Path]) -> Path:
     nav_points.append(("Início", "text/front.xhtml"))
     nav_points.extend([
         ("Dedicatória", "text/front.xhtml#dedicatoria"),
-        ("Epígrafe", "text/front.xhtml#epigrafe"),
         ("Carta à leitora", "text/front.xhtml#carta"),
     ])
+
+    opening_verse = (ROOT / "00-PLANEJAMENTO" / "ABERTURA_BIBLICA.md").read_text(encoding="utf-8")
+    (stage / "OEBPS" / "text" / "opening-verse.xhtml").write_text(xhtml_page("Há tempo", paragraphs_to_xhtml(opening_verse), "scripture-page"), encoding="utf-8")
+    items.append(('opening-verse', 'text/opening-verse.xhtml', 'application/xhtml+xml', ''))
+    spine.append('opening-verse')
+    nav_points.append(("Há tempo — Eclesiastes 3:1", "text/opening-verse.xhtml"))
 
     for ch_path in CHAPTERS:
         num = chapter_number(ch_path)
@@ -587,6 +602,12 @@ def build_epub(front_cover: Path, art_paths: dict[int, Path]) -> Path:
     items.append(('final', 'text/final.xhtml', 'application/xhtml+xml', ''))
     spine.append('final')
     nav_points.append(("Uma última palavra", "text/final.xhtml"))
+
+    final_consecration = (ROOT / "00-PLANEJAMENTO" / "CONSAGRACAO_FINAL.md").read_text(encoding="utf-8")
+    (stage / "OEBPS" / "text" / "consecration.xhtml").write_text(xhtml_page("Consagração", paragraphs_to_xhtml(final_consecration), "scripture-page"), encoding="utf-8")
+    items.append(('consecration', 'text/consecration.xhtml', 'application/xhtml+xml', ''))
+    spine.append('consecration')
+    nav_points.append(("Consagração — Salmos 90:17", "text/consecration.xhtml"))
 
     nav_links = "".join(f'<li><a href="{href}">{html.escape(label)}</a></li>' for label, href in nav_points)
     nav = xhtml_page("Sumário", f'<nav epub:type="toc" id="toc"><h1>Sumário</h1><ol>{nav_links}</ol></nav>', "nav", "styles/book.css")
@@ -746,9 +767,11 @@ def build_source_manuscript() -> Path:
 
     pieces = [
         reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8-sig")),
+        read_clean(ROOT / "00-PLANEJAMENTO" / "ABERTURA_BIBLICA.md"),
         *[read_clean(p) for p in CHAPTERS],
         read_clean(ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md"),
         read_clean(ROOT / "00-PLANEJAMENTO" / "ULTIMA_PALAVRA.md"),
+        read_clean(ROOT / "00-PLANEJAMENTO" / "CONSAGRACAO_FINAL.md"),
     ]
     text = "\n\n---\n\n".join(pieces) + "\n"
     path = SOURCE / "manuscrito_final.md"
@@ -759,13 +782,17 @@ def build_source_manuscript() -> Path:
 
 def build_beta_html() -> Path:
     front = reading_front_matter((ROOT / "00-PLANEJAMENTO" / "FRONT_MATTER.md").read_text(encoding="utf-8-sig"))
-    parts = [paragraphs_to_xhtml(front)]
-    parts.extend(paragraphs_to_xhtml(path.read_text(encoding="utf-8-sig")) for path in CHAPTERS)
+    opening_verse = (ROOT / "00-PLANEJAMENTO" / "ABERTURA_BIBLICA.md").read_text(encoding="utf-8-sig")
+    front_body = paragraphs_to_xhtml(front)
+    parts = [paragraphs_to_xhtml(path.read_text(encoding="utf-8-sig")) for path in CHAPTERS]
     post_body = paragraphs_to_xhtml((ROOT / "00-PLANEJAMENTO" / "POS_TEXTUAIS.md").read_text(encoding="utf-8-sig"))
     parts.append('<section class="backmatter">\n' + post_body + '\n</section>')
-    body = '\n<div class="section-break" aria-hidden="true">• • •</div>\n'.join(parts)
+    body = front_body + '\n<section class="scripture-page">' + paragraphs_to_xhtml(opening_verse) + '</section>\n'
+    body += '\n<div class="section-break" aria-hidden="true">• • •</div>\n'.join(parts)
     final_md = (ROOT / "00-PLANEJAMENTO" / "ULTIMA_PALAVRA.md").read_text(encoding="utf-8-sig")
     body += '\n<section class="final-note">\n' + paragraphs_to_xhtml(final_md) + '\n</section>'
+    final_consecration = (ROOT / "00-PLANEJAMENTO" / "CONSAGRACAO_FINAL.md").read_text(encoding="utf-8-sig")
+    body += '\n<section class="scripture-page">\n' + paragraphs_to_xhtml(final_consecration) + '\n</section>'
     style = (
         "body{font-family:Georgia,'Times New Roman',serif;max-width:42em;margin:2em auto;padding:0 1.5em;line-height:1.75;color:#1a1a1a}"
         "h1{font-size:2em;text-align:center;margin:2em 0 .4em;line-height:1.3}"
@@ -774,6 +801,7 @@ def build_beta_html() -> Path:
         ".backmatter p{text-align:left}"
         ".scene,.section-break{text-align:center;margin:2.2em auto;color:#777;letter-spacing:.5em}"
         ".final-note{break-before:page;page-break-before:always;margin-top:4em;padding-top:2em;border-top:1px solid #d8cec0}.final-note p{text-align:left}"
+        ".scripture-page{break-before:page;page-break-before:always;max-width:33em;margin:5em auto;text-align:center}.scripture-page p,.scripture-page blockquote{text-align:center;text-indent:0}"
         "blockquote{font-style:italic;color:#444;margin:1.6em 2em}"
         "@media(max-width:600px){body{margin:.5em auto;padding:0 1.1em;font-size:1.08em}}"
     )

@@ -1,7 +1,7 @@
 # 📋 VISÃO GERAL DO PROJETO
 
 ## Status Atual
-✅ **Manuscrito preparado para leitura da equipe** — 40 capítulos, 62.724 palavras de história (63.364 no manuscrito completo, com cabeçalhos e textos iniciais e finais)
+✅ **Manuscrito preparado para leitura da equipe** — 40 capítulos, 62.724 palavras de história (63.439 no manuscrito completo, com cabeçalhos e textos iniciais e finais)
 ✅ **Site e leitor atualizados** — landing page (`index.html`) + leitor online ilustrado (`ler.html`), com FAQ, JSON-LD e layout mobile-first (ver `05-PUBLICACAO/SEO_GEO.md`)
 
 ✅ **Pacote KDP gerado para avaliação** — EPUB 3, capa Kindle, miolo de 324 páginas com sumário, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`. A edição impressa ainda depende da ficha catalográfica, do Previewer e da prova física.

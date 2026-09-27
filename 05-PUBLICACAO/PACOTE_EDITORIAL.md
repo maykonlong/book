@@ -1,6 +1,6 @@
 # 📦 PACOTE EDITORIAL — "A Metade Que Me Faltava Era Eu"
 
-> Materiais editoriais preparados: ficha técnica, sinopses, dedicatória, epígrafe, bio, sugestões de categorias, resumo e próximos passos. A aprovação da equipe e as conferências finais de publicação ainda estão pendentes.
+> Materiais editoriais preparados: ficha técnica, sinopses, dedicatória, páginas bíblicas, bio, sugestões de categorias, resumo e próximos passos. A aprovação da equipe e as conferências finais de publicação ainda estão pendentes.
 
 ---
 
@@ -12,7 +12,7 @@
 | **Subtítulo** | A jornada de uma mulher que cansou de ser a única a tentar |
 | **Autor(a)** | Mariana Duarte (pseudônimo) |
 | **Gênero** | Ficção feminina (women's fiction) / drama contemporâneo |
-| **Palavras** | 62.724 de história nos capítulos; 63.364 no manuscrito completo, com cabeçalhos e textos iniciais e finais |
+| **Palavras** | 62.724 de história nos capítulos; 63.439 no manuscrito completo, com cabeçalhos e textos iniciais e finais |
 | **Capítulos** | 40 (4 atos) |
 | **Páginas da edição preparada** | 324 (5,5 × 8,5 pol.) |
 | **Narração** | 3ª pessoa íntima + diálogo direto com a leitora |
@@ -61,9 +61,9 @@ Uma mulher que cansou de carregar tudo sozinha aprende que a metade que faltava 
 
 ---
 
-## 4. EPÍGRAFE
+## 4. PÁGINAS BÍBLICAS
 
-> *"Eu passei tanto tempo procurando a metade que me faltava. Em outras pessoas, em casamentos, em validações. Mas ela sempre esteve aqui, dentro de mim. Esperando que eu me reencontrasse."*
+Na abertura, uma página própria traz Eclesiastes 3:1, antes do capítulo 1. Os agradecimentos citam Provérbios 16:3 e agradecem a Deus pelo projeto. A última página, depois do convite à leitora, traz um trecho de Salmos 90:17 e uma oração de consagração. Veja [fontes e atribuição](FONTES_BIBLICAS.md). Esses textos pertencem à moldura autoral, não à vida religiosa de Camila.
 
 ---
 
