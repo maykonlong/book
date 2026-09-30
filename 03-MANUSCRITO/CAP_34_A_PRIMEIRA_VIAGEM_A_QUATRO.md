@@ -85,7 +85,7 @@ Camila sentiu a nuca esquentar. A fotografia perfeita da viagem começava a desm
 
 O silêncio veio pesado. Bia chorou mais. Léo jogou o pegador sobre a mesa.
 
-Daniel desligou a churrasqueira.
+Daniel tirou o pão da grelha e pôs o pegador fora do alcance das crianças.
 
 — Eu posso levar a Bia para lavar as mãos — ofereceu. — Ou posso ficar aqui. Você escolhe.
 
@@ -143,7 +143,7 @@ A cidade não tinha estrelas. O sítio tinha milhares, espalhadas como açúcar 
 
 — E todas têm nome?
 
-— As mais importantes têm.
+— Muitas têm. Outras eu só conheço de olhar mesmo.
 
 — Então essa aqui — Léo apontou para uma, bem no centro — é a estrela da nossa família.
 
@@ -181,7 +181,7 @@ Ainda assim, Camila conseguiu aproveitar a manhã. Ninguém tinha cobrado dela o
 
 Na volta para casa, no domingo, o carro não estava mais quieto. Estava cheio de música, de risada, de discussão sobre qual parada tinha o melhor pão de queijo. O silêncio de velório tinha virado barulho de família.
 
-Camila dirigia com as mãos firmes no volante. Pelo retrovisor, viu Bia adormecida no ombro do irmão e Daniel ajeitando o casaco sobre os dois sem acordá-los.
+Camila dirigia com as mãos firmes no volante. Pelo retrovisor, viu Bia adormecida na cadeirinha, com o rosto virado para o irmão. Na última parada, Daniel tinha ajeitado o casaco sobre as pernas dos dois sem acordá-los.
 
 Não era uma família que apagava a anterior. Era uma forma nova, ainda aprendendo a caber.
 

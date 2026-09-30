@@ -5,13 +5,13 @@ A galeria ficava no térreo de um sobrado reformado na Vila Madalena, espremida 
 
 Era perfeito.
 
-A professora Paula tinha organizado tudo. Uma exposição coletiva dos alunos do semestre, com três quadros de cada um. Mas Camila não sabia — porque ninguém a avisou — que a série dela tinha sido escolhida como a principal da mostra. Quando chegou mais cedo para ajudar na montagem e viu seus três quadros ocupando a parede central, a maior, a mais iluminada, sentiu as pernas fraquejarem.
+A professora Paula tinha organizado tudo. Uma exposição coletiva dos alunos do semestre, com três quadros de cada um. Camila sabia quais trabalhos levaria, mas não onde seriam colocados. Quando chegou mais cedo para ajudar na montagem e viu seus três quadros ocupando a parede central, sentiu as pernas fraquejarem.
 
 — Paula, eu não posso ficar na parede central. Eu voltei a pintar faz pouco mais de um ano.
 
 A professora a olhou por cima dos óculos redondos.
 
-— Camila, arte não se mede em tempo. Se mede em verdade. E seus quadros são os mais verdadeiros que eu vi nesta turma. — Ela ajeitou a moldura do quadro do meio. — Agora pare de discutir e vá se arrumar. As pessoas chegam às sete.
+— Os três precisam ficar juntos. Aqui a gente consegue olhar a série inteira sem esbarrar na porta. — Paula ajeitou a moldura do quadro do meio e se afastou um passo. — Você trabalhou muito nisso. Deixa as pessoas verem. Elas chegam às sete.
 
 Camila foi ao banheiro da galeria. Trancou a porta. Olhou-se no espelho.
 
@@ -43,7 +43,7 @@ Fazia algumas semanas que ela e Daniel tinham terminado. Ainda havia dias de sau
 
 Não lotada como uma festa de aniversário infantil — não era esse tipo de evento. Mas havia umas sessenta, setenta pessoas circulando entre as paredes, segurando taças de vinho barato e copinhos de água com gás, olhando os quadros com aquela mistura de curiosidade e respeito que as pessoas têm em espaços artísticos.
 
-Camila ficou perto da entrada recebendo conhecidos, nervosa como não ficava desde a apresentação do trabalho final da faculdade. As mãos suavam. Ela as enxugava na lateral do vestido vermelho, tentando não chamar atenção.
+Camila ficou perto da entrada recebendo conhecidos, nervosa como na primeira exposição. As mãos suavam. Ela as enxugava na lateral do vestido vermelho, tentando não chamar atenção.
 
 Fernanda chegou primeiro, claro. Usando uma jaqueta de couro e batom vinho, como uma versão paulistana de uma rockstar.
 
@@ -85,7 +85,7 @@ De saber que, às vezes, o amor que mais cura é o amor que vence o medo e escol
 
 ---
 
-Léo e Bia entraram correndo, é claro. Bia estava de vestido de princesa (escolha dela, inegociável) e Léo de camiseta e jeans, segurando o caderno de desenho que nunca largava.
+Léo e Bia, que tinham vindo com a avó, terminaram de guardar os casacos perto da entrada e correram até ela. Bia estava de vestido de princesa (escolha dela, inegociável) e Léo de camiseta e jeans, segurando o caderno de desenho que nunca largava.
 
 — Mãe! Cadê seus quadros? Quero ver! — Bia puxou a mão dela com a urgência de quem tem cinco anos e considera qualquer espera acima de três segundos uma injustiça pessoal.
 
@@ -95,7 +95,7 @@ Camila levou os filhos até a parede central.
 
 Os três quadros estavam pendurados lado a lado, emoldurados com simplicidade — molduras de madeira clara, sob vidro discreto, para proteger o papel sem esconder as cores.
 
-O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. Uma silhueta feminina submersa em água densa, turva. O rosto mal visível sob várias camadas transparentes de cor. Era sufocante de olhar. Era o Ato I da vida de Camila traduzido em aquarela.
+O primeiro se chamava **"Afogamento"**. Tons de azul-escuro e cinza. A figura de uma mulher debaixo de água escura. O rosto quase escondido pelas camadas de cor. Era sufocante de olhar. Camila reconhecia ali o tempo em que vivia acompanhada, mas se sentia sozinha.
 
 O segundo, **"Superfície"**. Azuis mais claros, com rasgos de amarelo. A mesma silhueta, agora com a cabeça acima da linha d'água. Uma mão erguida, alcançando algo. Não era bonito — era cru, honesto, quase doloroso. Era a fase em que respirar já era uma vitória.
 
@@ -207,7 +207,7 @@ Camila olhou para a pequena marca de tinta vermelha que ainda tinha debaixo da u
 
 Joana escreveu o endereço e o telefone no verso de um cartão. Camila guardou-o na bolsa, ao lado das chaves de casa.
 
-Fernanda foi a última a sair. As crianças já tinham ido com Dona Sônia para dormir na casa da avó — uma novidade recente que todos adoravam. Antes de ir, a amiga abraçou Camila na porta.
+Fernanda foi a última a sair. As crianças já tinham ido com Dona Sônia para dormir na casa da avó, acostumadas àquelas noites de colo e histórias. Antes de ir, a amiga abraçou Camila na porta.
 
 — Cá?
 

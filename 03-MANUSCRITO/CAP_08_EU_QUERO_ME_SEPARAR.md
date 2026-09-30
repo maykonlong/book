@@ -18,15 +18,15 @@ Ela olhou para o celular. Dezenas de mensagens de Ricardo.
 
 Camila avisou Dona Sônia para não ir também. A mãe respondeu que estaria em casa quando ela precisasse.
 
-Ela não respondeu. Bloqueou a tela.
+Não respondeu a Ricardo. Bloqueou a tela.
 
 Fernanda ligou. Camila atendeu.
 
 — Cá? Você não veio trabalhar?
 
-— Tô no PS. Virosa brava. E... fugi de casa.
+— Tô no pronto-socorro. Febre, dor no corpo... E deixei um bilhete dizendo que ia embora.
 
-— Fugiu? Gripada?
+— Você saiu sozinha, doente desse jeito?
 
 — É. Ou eu saía ou eu morria, Fer. Deixei um bilhete.
 
@@ -40,48 +40,65 @@ Fernanda ficou em silêncio por um segundo.
 
 Camila desligou quando chamaram sua senha.
 
-A médica, Dra. Helena, era uma mulher na casa dos cinquenta, com olhar cansado mas gentil. Examinou a garganta, mediu a temperatura, auscultou o peito.
+A médica, Dra. Helena, era uma mulher na casa dos cinquenta, com olhar cansado mas gentil. Fez perguntas, examinou a garganta, conferiu a temperatura e escutou o peito com o estetoscópio.
 
-— Virose forte — decretou. — Mas o seu corpo está gritando exaustão, minha filha. Se você não parar, ele vai te parar. De novo.
+— Pelo exame, parece uma virose. Vou te orientar sobre os cuidados e os sinais para voltar ao atendimento. Você tem alguém que possa ficar com você hoje?
 
 Camila fez que sim. Lágrimas quentes escorreram sem aviso.
 
-— Não é só o corpo, né? — perguntou a médica, baixando o estetoscópio.
+— O que foi? — perguntou a médica, oferecendo um lenço.
 
 — Não. Meu casamento acabou.
 
-— E você está com medo.
+— E você está conseguindo pedir ajuda a alguém?
 
-— Pavor.
+— Minha mãe está me esperando. Mas eu não sei o que fazer depois.
 
-A médica sorriu, um sorriso triste.
+A médica esperou que ela enxugasse o rosto.
 
-— Coragem de se escolher não é errada. Descansa. Cuida da gripe. E depois você organiza o resto. A questão é: você quer passar o resto da vida com ele ou com você?
+— Você não precisa resolver tudo aqui. Primeiro, vamos cuidar de você.
 
-Aquelas palavras bateram fundo.
+Era uma frase simples. Ainda assim, Camila não lembrava da última vez em que alguém tinha colocado o seu cuidado antes de uma obrigação.
 
-*Com quem eu quero passar o resto da vida?*
+Saiu com a receita e as orientações, passou na farmácia e seguiu para a casa da mãe.
 
-A resposta veio rápido demais, e isso assustou ainda mais do que a pergunta. Com ela. Ela queria passar o resto da vida consigo mesma — inteira, de pé, dona do próprio nome. Fazia tanto tempo que não se lembrava de si como alguém com quem valia a pena conviver.
+Dona Sônia abriu a porta sem perguntas. Pegou a bolsa da filha e apontou para o quarto.
 
-E se a resposta era essa, então não havia mais nada a discutir. Não era sobre o Ricardo. Era sobre ela.
+— Deita. Depois a gente conversa.
 
-Camila saiu do consultório com a receita para aliviar a febre e a dor, além de uma clareza assustadora. Passou na farmácia, tomou o remédio ali mesmo com uma garrafa de água.
+Camila tentou explicar o bilhete, as crianças, a cozinha. A mãe pousou a mão no ombro dela.
 
-Sentou no banco do pronto-socorro e pensou.
+— Eu estou aqui, filha.
 
-Ela podia ir para a casa da mãe, como tinha planejado. Se esconder lá. Ser cuidada.
+Dormiu por algumas horas. Quando acordou, havia água na cabeceira e uma mensagem de Ricardo perguntando se ela tinha desistido da "bobagem".
 
-Mas isso seria fugir.
+Leu duas vezes. A febre tinha baixado; a vontade de se separar continuava no mesmo lugar.
 
-Se ela queria um divórcio, se ela queria ser dona da própria vida, ela não podia começar fugindo. Ela tinha que terminar o que começou.
+Na cozinha da mãe, tomou algumas colheradas de canja.
 
-Chamou um Uber.
-Destino: Sua casa.
+— Eu vou voltar para conversar — disse.
+
+Dona Sônia apertou o pano de prato entre as mãos.
+
+— Conversar para acertar as coisas?
+
+Camila conhecia a esperança escondida na pergunta.
+
+— Para dizer que acabou, mãe. E depois falar com as crianças.
+
+— Você tem certeza?
+
+— Tenho medo. Mas tenho certeza.
+
+A mãe não tentou responder de imediato. Guardou a canja que sobrou num pote e o entregou à filha.
+
+— Me avisa quando chegar. Se precisar voltar, a cama está pronta.
+
+Camila abraçou a mãe antes de chamar o carro. Aceitar aquela ajuda não tornava a decisão menos sua.
 
 ---
 
-Quando ela entrou no apartamento, eram duas da tarde. O silêncio era absoluto. As crianças deviam estar na escola.
+Quando ela entrou no apartamento, eram seis da tarde. Dona Vera tinha avisado que buscaria as crianças na escola e as levaria para casa. Ainda não haviam chegado.
 
 Ricardo estava na sala. Sentado no sofá, sem o celular na mão, algo raro.
 
@@ -93,11 +110,11 @@ Ele levantou num pulo quando a viu.
 
 — "Eu vou embora"? Isso é bilhete? Isso é terrorismo, Camila! Terrorismo psicológico!
 
-Camila colocou a bolsa no balcão da cozinha. Estava calma. Uma calma gélida de quem não tem mais nada a perder.
+Camila colocou a bolsa no balcão da cozinha. Sentia as pernas fracas, mas sabia o que precisava dizer.
 
 — Ricardo, senta.
 
-— Não vou sentar! Você tem que me explicar! Sair doente, deixar leite derramado, sumir... Minha mãe teve que vir buscar as crianças!
+— Não vou sentar! Você tem que me explicar! Sair doente, deixar leite derramado, sumir... Minha mãe teve que buscar as crianças!
 
 — Senta. — O comando foi baixo, mas cortante.
 
@@ -105,7 +122,7 @@ Ricardo parou. Viu algo nos olhos dela que nunca tinha visto. Ferro.
 
 Ele sentou.
 
-— Eu não voltei para ficar — disse Camila, em pé. — Eu voltei para conversar com as crianças quando elas chegarem. E para dizer, olhando na sua cara, o que eu escrevi naquele bilhete.
+— Eu voltei para conversar com as crianças quando elas chegarem — disse Camila, em pé. — E para dizer, olhando para você, o que aquele bilhete não explicou direito.
 
 — Do que você tá falando?
 
@@ -158,7 +175,7 @@ Camila olhou para a sogra. Olhou para o marido.
 
 Camila olhou para a sogra. Para aquela mulher de sessenta e poucos anos que tinha passado a vida inteira engolindo, acomodando, perdoando. E entendeu, com uma tristeza nova, que Dona Vera não era má. Era uma sobrevivente de uma geração que ensinava às mulheres que casamento se aguenta, não se vive.
 
-— Não o homem que eu quero do meu lado — repetiu Camila, agora mais suave. — A senhora aguentou. E a senhora merecia mais. Eu não quero que a Bia cresça achando que isso é o normal.
+— Não é isso que eu quero para a minha vida — respondeu Camila, agora mais baixo. — E não quero que a Bia cresça achando que precisa aceitar.
 
 — Você vai se arrepender — Ricardo disse, a voz dura. — Mulher divorciada com dois filhos? Você acha que vai ser fácil? Eu não vou facilitar, Camila. Não vou sair daqui. Não vou dar dinheiro.
 
@@ -166,21 +183,19 @@ Camila sorriu. Triste, mas inteira.
 
 — Ricardo, eu trabalho. Eu tenho meu salário. E sobre o apartamento, a justiça resolve. Eu prefiro morar numa kitnet e ter paz do que morar aqui e me sentir invisível.
 
-Ela foi até o quarto. Pegou uma mala. Começou a colocar roupas.
+Camila viu Léo parado na porta do corredor. Não sabia quanto ele tinha ouvido.
 
-Ricardo e a mãe ficaram na sala, atônitos. Eles esperavam choro, súplica, dúvida.
+— Dona Vera, pode ficar um pouco com os dois na sala? Eu preciso me acalmar antes de conversar com eles.
 
-Encontraram uma parede.
+A sogra assentiu, sem olhar para Camila. Chamou os netos para escolher um desenho. Ricardo ficou junto ao balcão.
 
-Camila voltou para a sala.
-
-— Vou esperar as crianças no quarto delas. Vamos contar juntos quando elas estiverem mais calmas.
+— Vamos contar juntos, quando eles estiverem mais calmos — Camila disse a ele.
 
 — Eu não vou contar nada — Ricardo virou as costas. — O problema é seu.
 
 — Ótimo — disse Camila. — Menos mentira.
 
-Ela entrou no quarto dos filhos e fechou a porta.
+Ela entrou no próprio quarto e fechou a porta.
 
 Encostou-se na madeira fria. As pernas tremeram. O coração disparou.
 

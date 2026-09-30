@@ -4,11 +4,11 @@
 A aula de aquarela tinha virado o ponto alto da semana de Camila.
 Não só pela pintura (que estava melhorando, a água agora obedecia um pouco mais aos comandos dela), mas pelas pessoas.
 
-Toda terça e quinta, depois do trabalho, ela cruzava a cidade até o ateliê escondido numa travessa de Perdizes. Subia a escada de madeira que rangia, empurrava a porta, e o mundo lá fora — relatórios, boletos, ligações da escola, mensagens do Ricardo sobre "logística das crianças" — ficava do outro lado do vidro.
+Toda quinta, depois do trabalho, ela ia até o ateliê escondido numa travessa de Perdizes. A terapia agora ficava na terça, e ela tinha combinado os horários com Ricardo. Subia a escada de madeira que rangia, empurrava a porta, e o mundo lá fora — relatórios, boletos, ligações da escola, mensagens sobre as crianças — ficava do outro lado do vidro.
 
-Ali dentro, havia cheiro de terebintina e café passado. Havia cavaletes manchados, potes de vidro com água colorida, e um silêncio confortável quebrado apenas pelo som dos pincéis no papel e pela risada de alguém.
+Ali dentro, havia cheiro de papel úmido e café passado. Havia mesas manchadas, potes de vidro com água colorida e um silêncio confortável quebrado pelas conversas e pela risada de alguém.
 
-Havia um grupo peculiar naquela sala de ateliê.
+Camila já começava a conhecer as mulheres daquela turma.
 
 **Júlia:** 32 anos, publicitária, ligada no 220v. Pintava quadros abstratos violentos e coloridíssimos. Falava alto, ria alto e tinha uma energia caótica que Camila adorava. Júlia era o tipo de pessoa que entrava na sala e, em dez minutos, já sabia da vida de todo mundo — e todo mundo sabia da dela.
 
@@ -16,8 +16,8 @@ Havia um grupo peculiar naquela sala de ateliê.
 
 **Clara:** 40 anos, mãe solo de gêmeos. Vivia exausta, chegava atrasada, mas pintava retratos incríveis dos filhos. Era um exemplo vivo de força. Quando Clara chegava, sempre trazia alguma história de perrengue contada com um humor seco que fazia todo mundo rir de alívio e se reconhecer nela.
 
-Numa quinta-feira chuvosa, Paula, a professora, sugeriu:
-— Gente, a chuva está triste. Vamos encerrar meia hora mais cedo e ir na padaria da esquina? Eu pago o pão de queijo.
+Na quinta-feira do café combinado, a chuva apertou perto do fim da aula. Paula olhou pela janela e guardou o pincel:
+— Vamos terminar meia hora mais cedo? Se a gente ficar esperando a chuva passar, o pão de queijo acaba.
 
 Foram as cinco (Paula, Camila, Júlia, Teresa e Clara).
 
@@ -42,7 +42,7 @@ Clara suspirou.
 — Meninas — disse Teresa, a voz suave. — Eu sei que dá raiva. Meu marido... o falecido... ele era um homem bom, mas eu fazia tudo. Tudo. E quando ele morreu, todo mundo dizia "pobre Alfredo, trabalhava tanto". Ninguém via o meu trabalho. É ingrato.
 
 Ela fez uma pausa, girando a xícara entre os dedos.
-— No velório, uma parente dele me disse: "a senhora foi uma santa, cuidou dele até o fim". E eu só pensava: e quem cuidou de mim? Quarenta anos eu cuidei. Quarenta. E ninguém nunca me perguntou se eu estava cansada. Ninguém nunca cuidou de mim nem por um dia.
+— No velório, uma parente dele me disse: "a senhora foi uma santa, cuidou dele até o fim". E eu só pensava: e quem cuidou de mim? Foram trinta anos. Eu nem sabia mais pedir descanso.
 
 — É invisível — corrigiu Paula.
 
@@ -74,10 +74,7 @@ Tão diferentes. Unidas por uma aula de pintura e por algo que todas conheciam: 
 Camila tinha encontrado as suas: mulheres que olhavam e, sem dizer nada, entendiam. Que faziam umas às outras rir da própria desgraça. Elas existiam. E salvavam.
 
 Ela sentiu uma onda de calor no peito.
-Dr. Lucas tinha dito para ela encontrar "sua turma".
-Ela achava que tribo era algo místico, difícil de achar.
-
-Mas tribo era isso.
+Tinha achado que fazer amigas nessa fase da vida seria difícil demais. Mas estava acontecendo.
 Eram mulheres comendo pão de queijo, reclamando dos ex-maridos e rindo das próprias desgraças.
 Eram pessoas que validavam a sua dor sem tentar consertá-la.
 
@@ -91,7 +88,9 @@ Mulheres que ouviam o "Pai Disney" e riam junto, porque também tinham um. Mulhe
 
 — Ao Sindicato! — responderam as outras.
 
-E então, como acontece quando a guarda baixa, as histórias ficaram mais fundas. Clara, a mãe solo dos gêmeos, contou como, na semana anterior, tinha chorado escondida no banheiro do trabalho porque o ex mandou mensagem dizendo que não ia buscar as crianças no fim de semana — "e eu tinha uma reunião de madrugada no sábado, e precisei remarcar tudo, e a minha chefe me olhou torto, e eu só queria dormir oito horas seguidas uma única vez".
+Depois do brinde, Clara contou que, na semana anterior, tinha chorado escondida no banheiro do trabalho. O ex avisara que não buscaria os gêmeos no fim de semana.
+
+— Eu estava escalada para trabalhar no sábado cedo. Tive que pedir troca de horário em cima da hora. Minha chefe ficou furiosa. E eu só queria saber quando ia conseguir dormir oito horas seguidas.
 
 Júlia, a publicitária, contou que tinha descoberto o valor exato do "trabalho invisível": fez as contas de quanto gastaria contratando cozinheira, motorista, babá e organizadora profissional — e o total dava mais que o salário de muita gente. "E a gente faz tudo isso de graça, todo santo dia, e ainda ouve que 'não faz nada'".
 
@@ -99,14 +98,19 @@ Ninguém deu conselho. Ninguém disse "mas podia ser pior". Só ouviram. Só ass
 
 E Camila entendeu, ali, o que aquele grupo era de verdade: não um clube de pintura. Era um lugar para recarregar as forças. Onde mulheres exaustas iam para lembrar que não estavam loucas, que não estavam sozinhas, e que a exaustão não era frescura — era o preço invisível de sustentar o mundo sem ninguém para segurar a outra ponta.
 
-E, quando a conta chegou, houve um gesto pequeno que valeu mais do que qualquer conselho. Clara, a mãe solo dos gêmeos, anotou o próprio número num guardanapo e empurrou para Camila.
+Quando a conta chegou, Camila se virou para Clara.
 
-— Se você precisar de alguém para buscar o Léo na escola num dia de aperto, ou para ficar com ele enquanto você resolve o divórcio... me liga. Eu moro perto do seu trabalho.
-Camila piscou, surpresa. Ela mal conhecia aquela mulher.
-— Clara, eu não posso...
-— Pode sim. E um dia, quando você estiver melhor, você faz o mesmo por outra. É assim que a corrente funciona.
+— Você me buscou naquele dia do carro e nem falou que também estava nesse aperto.
 
-Camila guardou o guardanapo com o coração apertado. Não de tristeza. De espanto. Porque, enfim, alguém estava oferecendo ajuda sem que ela tivesse que implorar, explicar, se justificar.
+— Naquele dia dava. No sábado, fui eu que precisei pedir ajuda à minha mãe.
+
+Clara anotou o endereço num guardanapo.
+
+— Moro perto do seu trabalho. Um dia a gente pode juntar as crianças lá em casa. Só me liga antes, porque arrumada ela nunca está.
+
+— A minha também não — disse Camila. — E, quando der, os seus podem vir brincar com os meus. Você ganha umas horas de descanso.
+
+Clara sorriu e aceitou. Camila guardou o endereço. Gostou de perceber que aquela amizade tinha espaço para as duas precisarem de alguma coisa.
 
 Alguém tinha visto o peso. E tinha estendido a mão.
 
@@ -126,7 +130,7 @@ E a Camila de agora estava começando a gostar muito, mas muito mesmo, dessa nov
 Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
-Depois apagou a luz e, pela primeira vez em meses, dormiu sem peso no peito.
+Depois apagou a luz e voltou a dormir sem peso no peito.
 
 Na manhã seguinte, o bilhete da escola voltou para a mesa: apresentação de Léo, quinta-feira, duas da tarde. Ricardo tinha dito que tentaria ir. Camila dobrou o papel e o guardou na bolsa, sem saber qual pergunta do filho doeria mais se o pai faltasse.
 

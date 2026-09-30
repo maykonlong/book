@@ -37,7 +37,7 @@ Ana era casada, quarenta e poucos, mãe de dois, e tinha aquele jeito calmo de q
 
 — Todo mundo ouviu, Cá. Mas o que importa é o que VOCÊ acha da sua vida. E, pelo que eu vejo, você tá mais leve. — Ana olhou para ela, por fim. — Isso assusta quem ficou.
 
-Camila não soube o que dizer. Fazia tempo que ninguém no trabalho olhava para ela de verdade, como pessoa, e não como a "coordenadora" ou a "mãe separada".
+Camila não soube o que dizer. Além de Fernanda, poucas pessoas no trabalho se aproximavam sem parecer à espera de uma novidade sobre a separação.
 
 — Obrigada, Ana — disse ela, e era sincero.
 
@@ -79,7 +79,7 @@ Não veio.
 
 Ele sorriu, acenou, e seguiu para a mesa dele.
 
-Camila ficou parada, sentindo uma coisa que não sentia fazia tempo: alívio. Não porque o almoço tivesse sido um flerte — porque não foi. Mas porque ela tinha descoberto que podia estar com um homem, sozinha, e não precisar ser nada além de si mesma.
+Camila ficou parada, aliviada. Havia aceitado o convite mesmo percebendo o interesse dele, mas não precisava decidir ali se queria algo além daquele almoço. Também podia preferir uma amizade.
 
 Sem medo. Sem dívida. Sem o coração disparado de quem espera o ataque.
 

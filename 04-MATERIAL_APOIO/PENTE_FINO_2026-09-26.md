@@ -1,6 +1,6 @@
 # Pente-fino editorial e técnico — 26/09/2026
 
-> Registro daquela rodada. Após o refinamento da abertura e do pós-texto em 27/09, o miolo preparado passou a 324 páginas e a lombada a 0,810 pol.; consulte [RELATORIO_VALIDACAO_FINAL.md](RELATORIO_VALIDACAO_FINAL.md) para o estado atual.
+> Registro histórico daquela rodada. Após o checkup integral de 29/09, o miolo preparado tem 328 páginas e lombada de 0,820 pol.; consulte [CHECKUP_EDITORIAL_2026-09-29.md](CHECKUP_EDITORIAL_2026-09-29.md) para o estado atual.
 
 ## Escopo e limite
 

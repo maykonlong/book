@@ -11,15 +11,11 @@ A copa era pequena, com cheiro permanente de pó de café queimado e desinfetant
 
 Fernanda já estava lá.
 
-Fernanda era redatora sênior. Trinta e oito anos, divorciada, e dona de uma energia que Camila invejava secretamente. Fernanda parecia *inteira*. Mesmo cansada, ela parecia dona de si.
+Fernanda revisava um texto com a caneca ao lado. Também parecia cansada, mas havia uma diferença que Camila invejava: a amiga sabia a hora de fechar o computador e ir cuidar da própria vida.
 
-— Bom dia... ixi. — Fernanda parou a xícara no meio do caminho ao ver o rosto de Camila. — Anota a placa.
+— Guardei um pão de queijo pra você — disse Fernanda. Então viu o rosto da amiga e pousou a caneca. — Cá, o que aconteceu?
 
-— Que placa? — Camila perguntou, confusa, servindo-se do café preto.
-
-— Do caminhão que passou por cima de você. Amiga, você tá com uma olheira que dá pra pendurar uma bolsa.
-
-Camila tentou rir, mas saiu um som estrangulado. Ela encostou-se no balcão e sentiu a vontade de chorar subir pela garganta como refluxo.
+Camila tentou dizer que não era nada, mas a voz falhou. Encostou-se no balcão e apertou a alça da bolsa.
 
 — É... o fim de semana foi difícil.
 
@@ -91,7 +87,7 @@ E ela não era a anfitriã. Era a funcionária que dormia no serviço.
 
 Fernanda apertou a mão dela.
 
-— A solidão de estar solteira a gente resolve com amigos, com livros, com vinho, com a própria companhia. Mas a solidão de estar casada com alguém que não te enxerga... essa solidão é um câncer, Camila. Ela te come por dentro.
+— Ficar solteira também dá solidão, não vou mentir. Mas você pode procurar companhia quando quiser e aprender a gostar da sua. O que dói é pedir companhia pra pessoa sentada do seu lado e continuar sem resposta.
 
 Fernanda baixou a voz, como quem conta um segredo que ainda dói um pouco.
 — Eu demorei três anos pra sair, sabia? Três anos sabendo que tinha acabado, e ficando. Sabe o que por fim me fez ir embora? Não foi uma briga. Foi uma terça-feira comum. Cheguei do trabalho exausta, e ele nem levantou os olhos do celular pra me cumprimentar. E eu pensei: "se eu sumir agora, ele não percebe". E era verdade. Testei. Fiquei uma semana inteira fingindo que era invisível. Ele não percebeu. Aí eu entendi que já estava sozinha. Só faltava assumir.
@@ -124,7 +120,7 @@ O som do vaso batendo no fundo da lixeira foi o único ruído na sala.
 
 Naquela noite, Ricardo falou enquanto tirava os sapatos na porta:
 
-— A gente podia viajar no Carnaval. Levar as crianças para aquele hotel em Atibaia.
+— A gente podia viajar antes do Carnaval. Levar as crianças para aquele hotel em Atibaia.
 
 Camila parou com um copo na mão. Durante meses, pedira que ele pensasse em alguma coisa para os quatro fazerem juntos. Por que a ideia vinha justamente agora, quando ela tinha passado a tarde tentando aceitar que não adiantava pedir?
 

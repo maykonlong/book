@@ -3,7 +3,7 @@
 
 Na terça-feira depois do feriado, Camila acordou doente. Havia dias que dormia mal, mas naquela manhã não conseguiria sair da cama por força de vontade.
 
-Camila acordou com a sensação de ter engolido arame farpado. Sua cabeça pesava uma tonelada. Cada junta do corpo gritava.
+A garganta parecia cheia de arame farpado. Sua cabeça pesava uma tonelada. Cada junta do corpo gritava.
 
 Ela abriu os olhos. O teto girou.
 
@@ -134,13 +134,12 @@ Mesmo com febre. Mesmo morrendo. Ele sabia que ela não deixaria sujo.
 
 Um pano. Dois segundos. Era tudo o que separava a parceria da exploração. E ele, mais uma vez, não estendeu a mão nem para o próprio leite.
 
-Ele contava com a exploração dela. Ele bancava a exaustão dela.
+Ele contava que ela daria conta. Até naquele estado.
 
-Era impressionante como uma coisa tão pequena podia carregar tanto. Aquele leite não era só leite. Era a reunião da escola que ele não foi. Era o aniversário esquecido. Era a jaqueta não lavada. Era cada "vou tentar" que nunca virou "fiz". O leite era só o último pingar de uma torneira que vazava há onze anos.
+Era impressionante como uma coisa tão pequena podia carregar tanto. Aquele leite trazia de volta a reunião da escola à qual ele faltou, o aniversário perdido, cada "vou tentar" que nunca virou "fiz". Era a última gota de uma torneira que vazava havia onze anos.
 
 Camila sentiu uma raiva tão branca, tão pura, tão quente, que superou a febre.
-A tontura passou.
-A dor no corpo foi anestesiada pela adrenalina do ódio.
+A vontade de limpar veio por costume. Ela segurou a borda da pia até a tontura diminuir e deixou o pano onde estava.
 
 Ela pegou o celular.
 Ligou para a mãe.

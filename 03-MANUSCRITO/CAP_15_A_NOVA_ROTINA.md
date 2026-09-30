@@ -5,7 +5,7 @@ A casa tem uma maneira cruel de lembrar a mulher recém-separada de que a vida m
 
 Não são os grandes vazios. São as pequenas manutenções.
 
-Uma semana depois da mudança de Ricardo, a torneira da pia da cozinha começou a pingar. *Plic. Plic. Plic.* O som do inferno.
+Camila ainda lembrava da primeira semana depois da mudança de Ricardo, quando a torneira da pia da cozinha começou a pingar. *Plic. Plic. Plic.* O som do inferno.
 
 Em outra vida (a vida de casada), Camila teria dito: "Ricardo, a pia tá pingando". Ele teria resmungado, enrolado três dias, e por fim consertado (ou chamado alguém). Mas era problema "dele" resolver.
 
@@ -37,7 +37,7 @@ Não explodiu tipo bomba. Mas espirrou água para todo lado. No teto. Nos armár
 
 — CARALHO! — gritou ela, correndo para fechar o registro, escorregando na poça.
 
-Fechou. O silêncio voltou. A cozinha estava alagada. Ela estava encharcada. O cabelo (recém-cortado) grudado na testa.
+Fechou. O silêncio voltou. A cozinha estava alagada. Ela estava encharcada. Os fios que tinham escapado do coque grudaram na testa.
 
 Camila sentou no chão molhado.
 
@@ -55,7 +55,7 @@ E, com uma raiva fria, largou o celular no balcão.
 — Nem fodendo — sussurrou.
 
 Levantou. Secou o rosto na manga molhada.
-Abriu o vídeo outra vez. Assistiu com atenção. Onde ela tinha errado? Ah. Apertou demais a rosca, espanou a vedação. Tinha que ser com jeito, não com força.
+Abriu o vídeo outra vez. Assistiu com atenção e desmontou a peça. A borrachinha tinha ficado dobrada e saído do lugar. Precisava encaixá-la direito antes de fechar tudo.
 
 Abriu a caixa de ferramentas outra vez. Pegou outra borrachinha (tinha comprado duas, por garantia).
 
@@ -87,37 +87,35 @@ Era sobre saber que ela podia sobreviver ao caos. Que ela podia se molhar, errar
 Ela limpou a cozinha. Secou o chão. Tomou um banho quente.
 
 E naquela noite, quando foi beber água na cozinha antes de dormir, olhou para a torneira com um carinho inédito.
-Ela não precisava de um homem para estancar os vazamentos da sua vida.
-Ela só precisava dela mesma, de um vídeo no YouTube e de teimosia.
+Tinha resolvido aquele problema. Se não conseguisse, poderia chamar alguém que soubesse consertar. Nenhuma das duas coisas exigia voltar para Ricardo.
 
-Muita teimosia.
-E isso, Camila tinha de sobra.
+Naquele dia, tinha conseguido com paciência e um pouco de teimosia. Isso, Camila tinha de sobra.
 
-Dois meses após Ricardo sair de casa, Camila por fim pegou o ritmo.
+Agora, pouco mais de dois meses após Ricardo sair de casa, aquela torneira continuava funcionando. Outras partes da rotina também começavam a se ajeitar.
+
+A pensão provisória tinha sido fixada e o primeiro pagamento por fim chegara. Não apagava as contas atrasadas, mas permitiu combinar as parcelas da escola sem depender só dos bolos. Camila manteve as encomendas num limite que conseguia atender.
 
 Não foi fácil. Não foi rápido. Mas aconteceu.
 
-Segunda, quarta e domingo: crianças com ela.
-Terça, quinta e sábado: crianças com Ricardo.
-Sexta alternava.
+Na maior parte da semana, Léo e Bia dormiam com Camila. Ricardo os buscava depois da escola às terças e quintas e os devolvia à noite. Ficava com eles aos sábados e em domingos alternados. O primeiro fim de semana inteiro com o pai ainda estava por vir.
 
-No começo foi caótico. Ricardo atrasava para buscar. Esquecia de levar uniforme limpo. Devolvia as crianças com roupa suja, sem banho, cheias de fast food. Camila tinha que compensar, refazer, reorganizar.
+No começo foi caótico. Ricardo atrasava para buscar. Esquecia casacos e materiais. Devolvia as crianças com roupa suja, sem banho, depois de mais uma refeição de hambúrguer e batata frita. Camila acabava refazendo, reorganizando e acumulando raiva.
 
 Típico.
 
-Mas ela aprendeu algo importante: não era mais problema dela.
+Mas ela começou a separar duas coisas: cuidar dos filhos e administrar cada responsabilidade de Ricardo.
 
 Fernanda tinha sido clara:
 
-*"Cá, ele é pai. Se ele não levar uniforme limpo, a escola liga para ELE. Se ele não der banho, problema DELE. Para de compensar. Você não é mais responsável pela incompetência dele."*
+*"Cá, ele é pai. Tem que devolver o que levou, cumprir os horários e cuidar deles. Você pode cobrar isso sem organizar a vida dele inteira."*
 
 Dra. Patrícia, a advogada, tinha reforçado:
 
-*"No acordo de guarda, deixa claro: responsabilidades são individuais nos respectivos períodos. Ele tem que aprender a se virar. E você tem que parar de fazer o trabalho dele."*
+*"Vamos deixar os horários e as responsabilidades claros no acordo. Registre os problemas que se repetirem e me avise. As crianças não podem ficar no meio da disputa."*
 
 Dr. Lucas, na terapia, tinha ido mais fundo:
 
-*"Camila, você compensar a falta dele não ajuda ninguém. Não ajuda ele a crescer, não ajuda as crianças a terem um pai presente de verdade, e não ajuda você a se desapegar do papel de 'gerente da família'. Você precisa soltar."*
+*"O que é cuidar dos seus filhos e o que é tentar prever e resolver tudo por Ricardo? Podemos pensar em limites que protejam vocês três."*
 
 Então Camila soltou.
 
@@ -129,7 +127,7 @@ Mas soltou.
 
 ---
 
-Primeira vez que Ricardo atrasou para buscar as crianças, Camila esperou.
+Num dos sábados em que Ricardo atrasou para buscar as crianças, Camila esperou.
 
 Meia hora de atraso. Ela ligou.
 
@@ -137,7 +135,7 @@ Meia hora de atraso. Ela ligou.
 
 — Calma, já tô indo.
 
-— "Já to indo" não é hora exata. As crianças estão esperando. Seja pontual.
+— "Já tô indo" não é hora exata. As crianças estão esperando. Seja pontual.
 
 — Você sempre foi tão controladora assim?
 
@@ -151,15 +149,15 @@ Ele chegou vinte minutos depois. Léo e Bia já estavam cansados de esperar.
 
 Na próxima vez que atrasou, Camila fez diferente.
 
-Ele ligou dizendo que ia atrás quinze minutos. Ela disse:
+Ele ligou dizendo que ia atrasar quinze minutos. Ela disse:
 
-— Tudo bem. Mas depois desse horário, eu vou sair com as crianças. Se você chegar e a gente não estiver, você pega outro dia.
+— Tudo bem. Depois disso, vou com eles à praça, porque estão prontos e esperando faz tempo. Se atrasar mais, você busca os dois lá. Me avisa antes de sair.
 
-— Você não pode fazer isso!
+— Não custa esperar em casa, Camila.
 
-— Posso. E vou. Aprende a ser pontual.
+— Eles querem brincar. O seu atraso não precisa deixar todo mundo parado.
 
-Ele chegou no horário.
+Naquele dia, ele chegou no prazo que tinha dado.
 
 Pequenas vitórias.
 
@@ -185,33 +183,33 @@ Antigamente, Camila teria brigado. Insistido. Ou pior: teria saído ela mesma pa
 
 Mas não dessa vez.
 
-— Tudo bem. Então você liga na escola amanhã cedo e explica para a professora por que o Léo não vai ter material.
+— Então me diga a que horas consegue trazer. O Léo não vai ficar sem material porque a gente não conseguiu combinar isso.
 
 — O quê?
 
-— Ele estava sob sua supervisão. Você que esqueceu de conferir. Você resolve.
+— Você ficou de conferir a mochila com ele. Precisa resolver essa parte.
 
 — Camila, não enche! Só vai lá buscar!
 
-— Não. É sua responsabilidade. Vira-se.
+— Não. É sua responsabilidade. Se vira.
 
 E desligou.
 
-Ricardo não ligou na escola. Mas apareceu às dez da noite com o estojo.
+Depois da ligação, Camila separou um lápis e uma borracha da própria gaveta e disse a Léo que ele poderia levá-los se precisasse. Ricardo apareceu às dez da noite com o estojo.
 
 Reclamando. Revirando os olhos. Fazendo parecer que Camila estava sendo difícil.
 
 Mas Léo teve o estojo.
 
-E Ricardo aprendeu: não tinha mais Camila para limpar a bagunça dele.
+Camila não sabia se Ricardo faria diferente da próxima vez. Mas, naquela noite, tinha cobrado dele o que cabia a ele sem deixar Léo sem saída.
 
 ---
 
 A parte mais estranha da nova rotina não eram os dias com as crianças.
 
-Eram os dias sem.
+Eram as horas sem elas.
 
-Terça, quinta, sábado. Camila acordava sozinha. Casa vazia. Silenciosa.
+Nas tardes de terça e quinta e em alguns domingos, depois que Ricardo buscava as crianças, Camila voltava para uma casa vazia. Ainda não tinha passado uma noite inteira sem elas, mas aquelas horas já a assustavam.
 
 No começo, foi apavorante.
 
@@ -233,13 +231,13 @@ Foi Dr. Lucas que ajudou a dar direção:
 
 — Mas eu não sei o que eu quero.
 
-— Então experimenta. Testa coisas. Vê o que ressoa. Você tem permissão para não saber ainda. Mas também tem permissão para descobrir.
+— Então experimenta. Testa coisas. Vê do que você gosta. Você pode não saber ainda. Pode descobrir aos poucos.
 
 E foi assim que Camila começou.
 
 ---
 
-Na primeira terça sozinha após a conversa com Dr. Lucas, Camila fez algo que não fazia há anos:
+Numa terça-feira, após a conversa com Dr. Lucas, Camila fez algo que não fazia havia anos:
 
 Foi ao cinema.
 
@@ -267,11 +265,11 @@ Saiu do cinema e ligou para Fernanda:
 
 ---
 
-Na quinta seguinte, fez outra coisa.
+Na quinta seguinte, enquanto as crianças estavam com Ricardo, fez outra coisa.
 
 Foi em uma livraria. Passou duas horas só olhando livros. Lendo contracapas. Sentindo o cheiro de papel novo.
 
-Comprou três livros. Não checou preço (tá, checou, mas comprou mesmo sendo além do orçamento).
+Escolheu três livros, conferiu os preços e levou um, de uma mesa de ofertas. Fotografou os outros dois para procurar na biblioteca depois.
 
 Em casa, fez chá. Sentou no sofá com cobertor.
 
@@ -287,7 +285,7 @@ Foi mágico.
 
 ---
 
-No sábado sem as crianças, Camila deu um passo maior.
+Num sábado, depois que Ricardo buscou as crianças de manhã, Camila deu um passo maior.
 
 Foi cortar o cabelo.
 
@@ -349,7 +347,7 @@ Bia estava mais grudada, mais carente. Precisava de mais afeto, de ouvir que seu
 
 Léo estava mais grave, mais observador. Fazia perguntas. Checava se ela estava bem.
 
-Não era fácil. Ainda tinha choro. Ainda tinha "por que vocês não podem voltar a morar juntos?" de Bia. Ainda tinha silêncios pesados de Léo.
+Não era fácil. Bia ainda chorava e perguntava por que os pais não podiam voltar a morar juntos. Léo às vezes se calava durante o jantar, e Camila precisava dar espaço para ele falar no próprio tempo.
 
 Mas também tinha risadas. Tinha abraços. Tinha noites de filme com pipoca os três juntinhos no sofá. Tinha conversas honestas.
 
@@ -363,7 +361,7 @@ Inteira. Presente. Ali.
 
 ---
 
-Numa noite de domingo — última noite antes das crianças irem para o pai — Camila colocou Bia e Léo para dormir.
+Numa noite de domingo, depois que as crianças voltaram da casa do pai, Camila colocou Bia e Léo para dormir.
 
 Histórias. Abraços. Beijos de boa noite.
 
@@ -387,27 +385,21 @@ Camila sentiu lágrimas. Mas boas.
 
 — Eu tô tentando ser mais feliz, sim. Para mim e para vocês.
 
-— Eu acho que foi certo. Você e o pai separando.
+— Eu gosto quando a casa fica assim. Sem briga.
 
-A frase pegou Camila de surpresa. Oito anos. Ele tinha oito anos e estava entendendo coisas que muitos adultos não entendiam.
+Camila ficou quieta, esperando que ele continuasse.
 
-— Por que você acha?
+— E do que você sente falta?
 
-— Porque antes vocês fingiam. E agora vocês não fingem mais. E acho que... acho que é melhor assim. Mesmo sendo triste às vezes.
+— Do pai fazendo voz de monstro. E de vocês dois na sala. Só que sem discutir.
 
 Camila abraçou o filho. Forte.
 
-— Você é muito sábio, sabia?
+— Pode sentir falta, filho. Não precisa escolher uma coisa só.
 
-— Eu sei — ele deu sorrisinho.
+Léo encostou nela e ficou mais um pouco.
 
-E Camila saiu do quarto com certeza renovada:
-
-Ela tinha feito certo.
-
-Não foi fácil. Não foi indolor.
-
-Mas foi certo.
+Camila saiu do quarto sem a resposta simples que às vezes desejava. Podia estar melhor e ainda precisar acolher a saudade do filho.
 
 E aos poucos, todos eles — ela, Léo, Bia — estavam aprendendo a viver nessa nova configuração.
 

@@ -73,7 +73,7 @@ Depois... aquele silêncio de criança que já esperava a decepção.
 
 E Camila sentiu o coração partir.
 
-Léo começou apresentar:
+Léo começou a apresentar:
 
 — Minha família é... diferente agora. — Voz pequena mas firme. — Antes era eu, minha irmã Bia, minha mãe e meu pai. A gente morava todos juntos.
 
@@ -87,7 +87,7 @@ Virou outra vez. Novo desenho. Ele e Bia no centro. Camila de um lado. Ricardo d
 
 A professora sorriu encorajadora. A sala estava em silêncio respeitoso.
 
-— Eu moro com minha mãe durante semana. E com meu pai alguns fins de semana. — Pausa. — A minha mãe sempre vem nas apresentações. O meu pai... vem quando pode.
+— Eu moro com minha mãe durante a semana. E fico com meu pai em alguns fins de semana. — Ele fez uma pausa. — A minha mãe sempre vem nas apresentações. O meu pai... vem quando pode.
 
 A frase caiu pesada.
 
@@ -97,7 +97,7 @@ Tradução de criança de oito anos para: não vem.
 
 Léo já sabia traduzir o silêncio de quem amava. Já tinha ouvido tantos "vou tentar" que entendia, no fundo, quando aquilo queria dizer "não". Crianças aprendem cedo essa língua. E isso parte o coração.
 
-Camila segurou lágrimas. Sala lotada. Não podia desmoronar.
+Camila segurou as lágrimas. A sala estava lotada, e Léo ainda procurava o rosto dela.
 
 Léo continuou, mais quieto:
 
@@ -133,11 +133,11 @@ Oito anos. E já tinha essa maturidade forçada. Essa proteção emocional.
 
 Camila ajoelhou na frente dele:
 
-— Léo, me olha. O seu pai ama você. Muito. Ele só... tem dificuldade de mostrar. De priorizar certo.
+— Léo, eu vi que você ficou triste. Você pode falar disso. Não precisa fingir que não ligou.
 
 — Eu sei.
 
-— Você não merece ser segunda opção, tá? Você merece pai que aparece. Sempre.
+— Você queria o seu pai aqui. Eu entendo. Vou conversar com ele sobre o que aconteceu.
 
 Léo abraçou ela. Apertado. Escondendo rosto no ombro dela.
 
@@ -147,7 +147,7 @@ E Camila percebeu, horrorizada: ele estava protegendo ELA. Não deixava que ela 
 
 No carro, silêncio pesado.
 
-Bia tagarelava sobre o dia dela na creche. Léo olhava pela janela.
+Depois de buscarem Bia na pré-escola, ela tagarelou sobre o dia inteiro. Léo olhava pela janela.
 
 Camila segurou o volante com força. A raiva crescia.
 
@@ -215,11 +215,11 @@ E agora Léo sofria as consequências.
 
 Ela foi até a mochila do Léo, jogada no canto da sala. Tirou a cartolina amassada. Desdobrou.
 
-Os quatro bonecos palitinho de mãos dadas, desenhados com a letra de quem ainda acredita que a família cabe num papel. A casa atrás. O sol amarelo no canto. E, no segundo desenho, a nova configuração: ele e Bia no centro, ela de um lado, Ricardo do outro.
+Os quatro bonecos palitinho de mãos dadas, feitos por quem ainda tentava entender como a família cabia num papel. A casa atrás. O sol amarelo no canto. E, no segundo desenho, ele e Bia no centro, ela de um lado, Ricardo do outro.
 
 Camila passou o dedo sobre o bonequinho do Léo. Tão pequeno no papel. Tão grande no coração dela.
 
-E, desde o divórcio, ela se perguntou: será que eu realmente estraguei tudo? Ou será que eu salvei os três — eles e a mim — de uma vida inteira de mentira?
+Mais uma vez desde a separação, ela se perguntou: será que eu realmente estraguei tudo? Ou será que evitei que os três continuassem vivendo daquele jeito?
 
 A resposta não veio. Mas a pergunta, sim. E era uma pergunta honesta.
 
@@ -231,11 +231,11 @@ Naquela noite, hora de dormir, Léo chamou ela no quarto:
 
 — Sim, amor?
 
-Ele estava deitado, olhando teto.
+Ele estava deitado, olhando para o teto.
 
 — Vocês vão voltar? Você e o pai?
 
-Camila sentiu o ar sair dos pulmões. A pergunta por fim tinha vindo. Mas ainda doeu.
+Camila sentiu o ar sair dos pulmões. A pergunta tinha voltado. E ainda doía.
 
 — Não, amor. Não vamos voltar.
 
@@ -251,7 +251,7 @@ Léo ficou alguns segundos em silêncio. Então:
 
 Lágrimas escorrendo no rostinho dele, molhando o travesseiro.
 
-— Foi por minha culpa? Sua e do pai?
+— Você e o pai separaram por minha culpa?
 
 — NÃO. — Camila puxou o filho para um abraço forte. — NUNCA foi sua culpa. Nem sua nem da Bia. Foi entre mim e seu pai. Adultos. Nada que você fez ou deixou de fazer.
 
@@ -259,11 +259,11 @@ Lágrimas escorrendo no rostinho dele, molhando o travesseiro.
 
 A pergunta atravessou Camila como agulha. Então era isso. O menino de oito anos achava que o pai não aparecia porque ele não era suficiente. Porque não tinha sido "bonzinho" o bastante, "legal" o bastante, digno o bastante de merecer presença.
 
-— Léo, escuta. O seu pai não vem por causa DELE. Por causa das escolhas DELE. Você podia ser o menino mais perfeito do mundo — e você é — e ele ainda teria o mesmo problema. Isso não é sobre você. Nunca foi.
+— Léo, escuta. Você não fez nada para o seu pai faltar. Era responsabilidade dele vir e avisar se não conseguisse. Isso não depende de você.
 
 — Mas se a gente fosse melhor...
 
-— Léo, olha para mim. — Ela segurou o rostinho dele. — Você e sua irmã são PERFEITOS. A separação foi porque eu e seu pai não sabíamos mais ser felizes juntos. Não porque vocês fizeram algo errado. Nunca.
+— Léo, olha para mim. — Ela segurou o rostinho dele. — Vocês não precisam ser perfeitos para serem amados. Podem fazer bagunça, errar, ficar bravos. A nossa separação não foi culpa sua nem da Bia.
 
 Ele chorou. Enfim. Choro guardado. Choro de meses.
 
@@ -273,9 +273,7 @@ Porque não tinha resposta certa. Não tinha jeito de fazer não doer.
 
 Só tinha amor. E verdade. E presença.
 
-Quando ele por fim dormiu, exausto, Camila saiu do quarto e ligou para Dr. Lucas.
-
-Atendeu segundo toque:
+Quando ele por fim dormiu, exausto, Camila saiu do quarto e mandou uma mensagem para Dr. Lucas pedindo um retorno. Tinham combinado que ela poderia escrever se precisasse antecipar uma sessão. Ele ligou algum tempo depois:
 
 — Camila? Tudo bem?
 
@@ -283,13 +281,13 @@ Atendeu segundo toque:
 
 — Onde você tá? Tá segura?
 
-— Em casa. Crianças dormindo. Mas Dr. Lucas, eu fiz tudo errado. Léo apresentou hoje na escola e o Ricardo não foi e ele chorou e perguntou se eles vão voltar e...
+— Em casa. As crianças estão dormindo. Mas, Dr. Lucas, eu fiz tudo errado. Léo se apresentou hoje na escola, o Ricardo não foi, ele chorou e perguntou se nós vamos voltar e...
 
-— Respira. Devagar. Você está em crise agora. Vamos processar juntos. Pode?
+— Vamos com calma. Eu posso conversar um pouco agora, e amanhã a gente procura um horário para se encontrar. Me conta uma coisa de cada vez.
 
 — Pode.
 
-Meia hora de conversa. Dr. Lucas paciente, gentil, firme.
+Conversaram por alguns minutos. Dr. Lucas ouviu e fez perguntas.
 
 Desmontando a culpa. Separando o que era responsabilidade dela do que era responsabilidade de Ricardo.
 
@@ -297,7 +295,7 @@ Desmontando a culpa. Separando o que era responsabilidade dela do que era respon
 
 — Mas as crianças sofrem.
 
-— Sim. E isso dói. Mas eles não sofrem porque você escolheu sair. Eles sofrem porque o pai escolhe não aparecer. Não confunda as duas coisas. Se você tivesse ficado, Camila, eles sofreriam vendo uma mãe apagada, exausta, infeliz. Crianças aprendem o que é amor olhando para os pais. O que você estaria ensinando se tivesse ficado?
+— A separação traz mudanças, e eles podem sentir falta da vida de antes. Isso precisa de cuidado. Mas a ausência de Ricardo hoje foi uma escolha dele. Você não causou essa falta por ter encerrado o casamento.
 
 Camila ficou em silêncio, deixando a pergunta assentar.
 
@@ -311,15 +309,15 @@ Camila ficou em silêncio, deixando a pergunta assentar.
 
 — Mas eu me sinto tão culpada...
 
-— Culpa é sentimento. Não fato. Você pode sentir culpada e ainda assim ter feito escolha certa.
+— Sentir culpa não prova que você fez algo errado. A gente pode olhar para o que aconteceu, sem colocar todas as responsabilidades em você.
 
-As palavras acalmaram tempestade interna.
+As palavras acalmaram um pouco a confusão dentro dela.
 
 Não resolveram. Mas acalmaram.
 
 — Obrigada — Camila disse quando desligaram.
 
-— Sempre. E Camila? Seus filhos vão ficar bem. Porque têm você.
+— Amanhã continuamos. E podemos pensar no apoio de que as crianças precisam também. Você não tem que resolver tudo sozinha hoje.
 
 ---
 
@@ -339,7 +337,7 @@ Naquela noite, Camila escreveu no diário:
 
 *Mãe perfeita não existe.*
 
-*Mas mãe presente, que ama, que tenta - essa existe.*
+*Mas mãe presente, que ama e tenta, essa existe.*
 
 *E eu sou essa.*
 
@@ -347,31 +345,25 @@ Naquela noite, Camila escreveu no diário:
 
 *E talvez seja suficiente."*
 
-Fechou diário com pequena paz.
+Fechou o diário um pouco mais em paz. Não estava feliz com a dor de Léo; apenas começava a aceitar que a escolha certa também podia doer.
 
-Não felicidade. Mas aceitação.
-
-De que fazer escolha certa não significava não doer.
-
-Significava fazer mesmo doendo.
-
-E isso, descobrimento lento e doloroso, era maternidade real.
+Podia cuidar do filho sem carregar a culpa pelas ausências de Ricardo. Não conseguiria impedir toda tristeza, mas estaria ali para ouvi-lo quando ela viesse.
 
 Imperfeita. Honesta. Presente.
 
 E era suficiente.
 
-Na manhã seguinte, Camila acordou com um bilhete na porta da geladeira. A letra torta do Léo:
+Na manhã seguinte, enquanto preparava as lancheiras, Camila encontrou um bilhete novo na porta da geladeira. Era a letra do Léo:
 
 *"mamãe vc é a melhor mãe do mundo e eu te amo"*
 
-Ele tinha escrito antes de ir para a escola. Sem ninguém pedir. Sem motivo especial.
+Ele tinha escrito enquanto ela tomava banho. Agora procurava os tênis debaixo do sofá.
 
 Camila ficou olhando para aquela frase por um longo tempo, o café esfriando na mão.
 
-O menino que ela temia ter destruído tinha acabado de escrever, com a própria letra, a prova de que ela não tinha destruído nada. Tinha, na verdade, construído — um lar onde ele se sentia seguro o bastante para dizer que a amava, num bilhete colado na geladeira.
+O bilhete não apagava o choro da noite anterior. Léo podia amá-la e continuar triste. Camila foi até ele, entregou o tênis perdido e beijou sua cabeça. Não precisava pedir ao filho uma prova de que tinha feito a escolha certa.
 
-Ela tirou uma foto do bilhete. Guardou na carteira, junto com o desenho da exposição.
+Fotografou o bilhete com o celular. Depois dobrou o papel e o guardou na carteira, junto da lista de três coisas que queria voltar a fazer.
 
 Naquele instante, a culpa que sussurrava *você estragou tudo* ficou em silêncio. Camila sabia que voltaria em outros dias, mas não precisava deixá-la falar pelo filho.
 

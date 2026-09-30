@@ -1,7 +1,7 @@
 # CAPÍTULO 27
 ## O Encontro
 
-Quase um ano depois de Ricardo sair de casa, o ateliê organizou uma segunda exposição. Dessa vez, numa pequena galeria em Pinheiros.
+Quase um ano depois de Ricardo sair de casa, o ateliê organizou uma segunda exposição. Dessa vez, num sábado, numa pequena galeria em Pinheiros.
 
 Camila estava nervosa, suando frio mesmo com o ar-condicionado ligado, tentando parecer casual enquanto observava pessoas olhando seus quadros.
 
@@ -15,7 +15,7 @@ A palavra ainda era estranha na boca, como um sapato de festa que ela não tinha
 
 Camila virou.
 
-Um homem estava parado na frente do quadro dela - o da pessoa sob água com luz atravessando. O primeiro que ela tinha pintado de verdade. O mais pessoal.
+Um homem estava parado na frente de *Afogamento*, o quadro da pessoa sob a água com luz atravessando. Um dos mais pessoais que ela tinha pintado.
 
 — Obrigada — ela disse, sem pensar.
 
@@ -53,7 +53,7 @@ Aperto firme, mas não esmagador. Mão quente. Olhos que realmente olhavam quand
 
 Camila hesitou. Pensou em mentir. Dizer "sim, sempre". Mas algo nele a fez querer verdade.
 
-— Na verdade, parei por mais de dez anos. Voltei há quase um ano.
+— Na verdade, parei por mais de dez anos. Voltei há alguns meses.
 
 — Sério? — Ele pareceu impressionado de verdade. — Não dá para ver. Você tem muita técnica.
 
@@ -61,11 +61,9 @@ Camila hesitou. Pensou em mentir. Dizer "sim, sempre". Mas algo nele a fez quere
 
 Por que estava compartilhando isso com um estranho?
 
-— Redescobrindo é bonito. As melhores descobertas são as que a gente faz segunda vez. Quando entendemos mais.
+— Dá para perceber que você gosta. Ficou olhando para o quadro junto comigo, como se ainda estivesse decidindo alguma coisa.
 
-As palavras ficaram suspensas no ar.
-
-*As melhores descobertas são as que a gente faz segunda vez.*
+Camila riu. Estava mesmo pensando se teria deixado aquela faixa azul um pouco mais clara.
 
 — Você também pinta? — Camila perguntou.
 
@@ -81,13 +79,15 @@ Camila riu também. Facilidade natural.
 
 Conversaram mais alguns minutos. Sobre arte. Sobre literatura. Sobre a exposição. Uma conversa leve, mas verdadeira.
 
-— Qual é o seu, afinal? — Daniel perguntou, apontando para os quadros. — Quero dizer, o que te atravessou.
-Camila hesitou. Ninguém nunca tinha perguntado assim — não sobre técnica, mas sobre o que a atravessava.
-— Esse — disse ela, indicando o quadro da mulher sob a água. — Porque eu passei muito tempo me sentindo exatamente assim: afundando, mas vendo a luz lá em cima.
-Daniel olhou para o quadro. Depois para ela. E não disse "nossa, que profundo" nem "você devia procurar ajuda". Só fez que sim, devagar, como quem recebe uma confidência e promete, em silêncio, guardá-la.
-— Faz sentido — ele disse, simples. — A luz também aparece nos seus olhos quando você fala disso.
+— E você veio por causa de algum artista? — Camila perguntou.
 
-Camila desviou o olhar, desconcertada. Não era flerte barato. Era observação. Era alguém que prestava atenção de verdade.
+— A Paula. A gente estudou na mesma escola. Ela me convida faz tempo, e eu sempre digo que vou. Hoje consegui cumprir.
+
+— Ainda bem. Ela guarda os nomes de quem falta.
+
+— Percebi. Nem me deu bom-dia, já falou "até que enfim".
+
+Camila riu. Não precisava contar a própria vida inteira para a conversa continuar boa.
 
 Até Paula chamar atenção de Camila para apresentá-la a alguém.
 
@@ -107,7 +107,7 @@ Até que, no fim da noite, quando ajudava Paula a desmontar a exposição, encon
 
 *"Camila,*
 
-*Adorei conhecer você e sua arte. Se quiser trocar mais ideias sobre aquarela, literatura, ou qualquer coisa, meu número: (11) 98765-4321.*
+*Adorei conhecer você e sua arte. Se quiser trocar mais ideias sobre aquarela, literatura ou qualquer coisa, deixei meu número aqui embaixo.*
 
 *Sem pressão. Só se você quiser.*
 
@@ -147,11 +147,11 @@ E isso, por ora, já era algo.
 
 ---
 
-Três dias.
+Cinco dias.
 
-Levou três dias até Camila juntar coragem para mandar mensagem.
+Levou cinco dias até Camila juntar coragem para mandar mensagem.
 
-Durante esses três dias:
+Durante esses cinco dias:
 
 - Abriu o contato dele 287 vezes
 - Escreveu mensagem, apagou, reescreveu mais de 40 vezes
@@ -187,7 +187,7 @@ E então... três pontinhos. Ele estava digitando.
 
 Simples. Fácil. Amigável.
 
-Ela exalou.
+Ela soltou o ar.
 
 *"Tive sim. Pintei paisagem hoje. Primeira vez tentando paisagem. Saiu meio torto, mas ok haha"*
 
@@ -277,10 +277,10 @@ Camila estava rígida como uma tábua. Suas mãos estavam frias.
 
 Daniel tentou puxar assunto.
 — E aí, pintou algo novo essa semana?
-— Não. Tive muito trabalho no escritório. Fechamento de mês. — Resposta seca. Curta.
+— Só a paisagem que te contei na quinta. No resto da semana, quase não peguei no pincel. — A resposta saiu curta demais.
 
 Ele tentou de novo.
-— Entendo. Eu também tô corrigindo provas finais. É um pesadelo. Alunos acham que professor adora dar nota baixa, mas, na verdade, a gente sofre junto.
+— Estou preparando as aulas do semestre. Sempre acho que já tenho tudo organizado. Aí abro os arquivos e encontro uma pasta chamada "organizar depois".
 
 Era uma piada. Camila deveria rir.
 Mas ela só pensou: *Ele vai começar a reclamar do trabalho agora. Igual ao Ricardo.*
@@ -375,7 +375,7 @@ E ele tinha respeitado.
 *Homens que respeitam existem*, pensou ela, ligando o motor.
 Isso era uma informação nova e valiosa.
 
-Ela não ia namorar o Daniel.
+Naquele momento, não queria começar um namoro.
 Mas saber que existiam homens como ele no mundo fazia o futuro parecer muito menos assustador.
 
 Ligou o rádio. Estava tocando uma música animada.

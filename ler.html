@@ -57,7 +57,7 @@ body.sepia {
   --shadow: 0 14px 40px rgba(73,51,29,.10);
 }
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: auto; }
 body {
   margin: 0;
   background: var(--bg);
@@ -253,7 +253,7 @@ const CHAPTERS = [
   { file: '03-MANUSCRITO/CAP_13_A_PRESSAO_DA_FAMILIA.md', title: 'Capítulo 13 — A Pressão da Família' },
   { file: '03-MANUSCRITO/CAP_14_A_PRIMEIRA_SESSAO.md', title: 'Capítulo 14 — A Primeira Sessão' },
   { file: '03-MANUSCRITO/CAP_15_A_NOVA_ROTINA.md', title: 'Capítulo 15 — A Nova Rotina' },
-  { file: '03-MANUSCRITO/CAP_16_UM_SABADO_SO_MINHA.md', title: 'Capítulo 16 — Um Sábado Só Minha' },
+  { file: '03-MANUSCRITO/CAP_16_UM_SABADO_SO_MEU.md', title: 'Capítulo 16 — Um Sábado Só Meu' },
   { file: '03-MANUSCRITO/CAP_17_VOLTANDO_A_PINTAR.md', title: 'Capítulo 17 — Voltando a Pintar', art: 'assets/illustrations-web/cap-17-voltando-a-pintar.jpg', alt: 'Camila volta a pintar aquarelas depois de muitos anos.' },
   { file: '03-MANUSCRITO/CAP_18_AS_PEQUENAS_VITORIAS.md', title: 'Capítulo 18 — As Pequenas Vitórias' },
   { file: '03-MANUSCRITO/CAP_19_O_COLEGA_DO_TRABALHO.md', title: 'Capítulo 19 — O Colega do Trabalho' },
@@ -335,6 +335,7 @@ const content = $('content');
 let current = -1;
 let fontSize = 1.06;
 let scrollTimer = null;
+let loadSequence = 0;
 
 // ===== PROGRESSO (localStorage do navegador) =====
 function saveProgress() {
@@ -358,6 +359,7 @@ function loadProgress() {
 // ===== CARREGAR CAPÍTULO =====
 async function loadChapter(i, scrollY) {
   if (i < 0 || i >= CHAPTERS.length) return;
+  const sequence = ++loadSequence;
   current = i;
   content.classList.toggle('endmatter', i > LAST_CHAPTER_INDEX);
   content.classList.toggle('final-note', i === CHAPTERS.length - 2);
@@ -367,6 +369,7 @@ async function loadChapter(i, scrollY) {
     const resp = await fetch(CHAPTERS[i].file, { cache: 'no-store' });
     if (!resp.ok) throw new Error('HTTP ' + resp.status);
     const raw = (await resp.text()).replace(/\uFEFF/g, '');
+    if (sequence !== loadSequence) return;
     const dedication = raw.indexOf('## DEDICATÓRIA');
     const md = i === 0 && dedication >= 0
       ? '# A METADE QUE ME FALTAVA ERA EU\n\n*A jornada de uma mulher que cansou de ser a única a tentar*\n\n' + raw.slice(dedication)
@@ -387,19 +390,17 @@ async function loadChapter(i, scrollY) {
     const words = (content.textContent.match(/\S+/g) || []).length;
     $('readTime').textContent = '≈ ' + Math.max(1, Math.round(words / 220)) + ' min';
   } catch (e) {
+    if (sequence !== loadSequence) return;
     $('readTime').textContent = '';
     content.innerHTML = '<div class="error"><strong>Não foi possível abrir esta parte do livro.</strong><br><br>' +
       'Os capítulos precisam de internet. Seu ponto de parada continua salvo neste aparelho. Confira sua conexão e <a href="' + window.location.href.replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '">tente novamente</a>.</div>';
   }
-  if (typeof scrollY === 'number' && Number.isFinite(scrollY)) {
-    setTimeout(() => {
-      window.scrollTo(0, Math.max(0, scrollY));
-      saveProgress();
-    }, 0);
-  } else {
-    window.scrollTo(0, 0);
+  requestAnimationFrame(() => {
+    if (sequence !== loadSequence) return;
+    const targetY = typeof scrollY === 'number' && Number.isFinite(scrollY) ? Math.max(0, scrollY) : 0;
+    window.scrollTo({ top: targetY, left: 0, behavior: 'instant' });
     saveProgress();
-  }
+  });
   updateUI();
   const cap = i >= FIRST_CHAPTER_INDEX && i <= LAST_CHAPTER_INDEX ? i - FIRST_CHAPTER_INDEX + 1 : 0;
   const url = new URL(window.location.href);

@@ -9,7 +9,7 @@ Aquele era o primeiro Dia das Mães em que Camila era, oficialmente, uma mãe di
 
 ---
 
-Na véspera, as crianças chegaram da escola com as mochilas cheias de segredos. Léo guardava uma sacola de mercado embaixo da cama. Bia escondia um papel dobrado dentro da meia.
+Na sexta-feira, as crianças chegaram da escola com as mochilas cheias de segredos. Léo guardava uma sacola de mercado embaixo da cama. Bia escondia um papel dobrado dentro da meia.
 
 — Não pode olhar, mãe! — avisou Léo, com o rosto sério. — É surpresa.
 
@@ -117,7 +117,7 @@ O celular vibrou. Uma mensagem de Daniel:
 
 Sem flores entregues no meio do café. Sem tentar entrar numa data que não era sobre ele. Só uma frase no momento certo.
 
-Camila mostrou a mensagem a Léo.
+Camila mostrou a mensagem a Léo. Já tinha contado a ele que estava saindo com alguém chamado Daniel, mas os dois ainda não se conheciam.
 
 — Ele pode vir comer bolo? — o menino perguntou.
 
@@ -129,7 +129,7 @@ Camila guardou.
 
 E, no fim do dia, quando os filhos dormiram, Camila pegou o cartão de cartolina e o pendurou na porta da geladeira, no lugar de honra.
 
-Depois, fez algo que nunca tinha feito em onze anos de Dia das Mães: deu um presente para si mesma.
+Depois, fez algo que nunca tinha feito desde que Léo nasceu: deu um presente para si mesma no Dia das Mães.
 
 Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses esperando na estante, e ficou ali, em silêncio, sem culpa, sem pressa.
 

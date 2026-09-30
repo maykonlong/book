@@ -17,7 +17,7 @@ A garrafa de vinho tinto chileno que ele gostava.
 Morangos para a sobremesa.
 Velas.
 
-Chegou em casa como um furacão eficiente. Deu banho nas crianças, deu jantar a eles mais cedo ("hoje é dia de piquenique no tapete do quarto!", ela inventou, e eles adoraram), colocou um desenho longo.
+Buscou as crianças na escola e chegou em casa como um furacão. Deu banho nos dois, serviu o jantar mais cedo ("hoje é dia de piquenique no tapete do quarto!", ela inventou, e eles adoraram) e colocou um desenho longo.
 
 Às 19h30, a casa estava transformada.
 
@@ -93,7 +93,7 @@ Não era "chato" deixar a esposa esperando em casa com velas acesas e comida esf
 
 Ele inverteu. Ele sempre invertia. De repente, ela era a vilã controladora que queria impedir o pobre trabalhador de ter seu lazer.
 
-— Tá bom, Ricardo. Divirta-se. — Ela disse.
+— Tá bom, Ricardo. Divirta-se — disse ela.
 
 — Tchau. Beijo. Não me espera acordada.
 

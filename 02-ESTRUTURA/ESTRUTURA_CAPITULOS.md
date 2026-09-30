@@ -31,7 +31,7 @@
 | 13 | A Pressão da Família | Dona Sônia escolhe apoiar a filha. |
 | 14 | A Primeira Sessão | A terapia inicia a reconstrução interna. |
 | 15 | A Nova Rotina | A casa deixa de ser um lugar de cobrança. |
-| 16 | Um Sábado Só Minha | Camila descobre que estar só não é estar abandonada. |
+| 16 | Um Sábado Só Meu | Camila descobre que estar só não é estar abandonada. |
 | 17 | Voltando a Pintar | A arte devolve uma parte esquecida dela. |
 | 18 | As Pequenas Vitórias | O progresso aparece em escolhas simples. |
 | 19 | O Colega do Trabalho | Camila se enxerga como mulher, sem romance imediato. |

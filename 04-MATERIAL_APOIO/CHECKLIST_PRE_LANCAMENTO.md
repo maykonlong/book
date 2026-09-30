@@ -1,6 +1,6 @@
 # Checklist pré-lançamento — edição em avaliação
 
-Atualizado em 26/09/2026. Use [STATUS_ATUAL.md](STATUS_ATUAL.md) como referência do estado do projeto e [ENTREGA_LEITURA_EQUIPE.md](../05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md) para a rodada de leitura. A antiga lista tinha números e pendências de versões anteriores.
+Atualizado em 29/09/2026. Use [STATUS_ATUAL.md](STATUS_ATUAL.md) como referência do estado do projeto e [ENTREGA_LEITURA_EQUIPE.md](../05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md) para a rodada de leitura. A antiga lista tinha números e pendências de versões anteriores.
 
 ## História e público
 
@@ -13,7 +13,7 @@ Atualizado em 26/09/2026. Use [STATUS_ATUAL.md](STATUS_ATUAL.md) como referênci
 
 - [x] Landing page e leitor no [GitHub Pages](https://maykonlong.github.io/book/), com 13 temas e 10 artes de capítulo.
 - [x] EPUB e capa Kindle preparados; EPUBCheck registrado sem erros nem avisos.
-- [x] Miolo de 324 páginas em 5,5 × 8,5 pol. e capa impressa correspondentes; checksums e ZIP conferidos.
+- [x] Miolo de 328 páginas em 5,5 × 8,5 pol. e capa impressa correspondentes; checksums e ZIP conferidos.
 - [ ] Mudanças aprovadas da leitura beta foram propagadas a site, manuscrito consolidado, EPUB, PDF, capa, ZIP e hashes; validador reexecutado.
 - [ ] EPUB aprovado no Kindle Previewer e miolo/capa aprovados no Previewer de impressão.
 - [ ] Prova física conferida: capa em miniatura e impressa, contracapa, lombada, cortes, artes, margens e páginas finais.

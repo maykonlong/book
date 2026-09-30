@@ -3,7 +3,7 @@
 
 Você já acordou cansada?
 
-Não falo daquele cansaço físico de quem correu uma maratona ou faxinou a casa inteira no domingo. Falo de um cansaço que parece morar na medula dos ossos. Aquele tipo de exaustão que já está lá, sentada no peito, no exato segundo em que você abre os olhos, esperando por você como uma visita indesejada que nunca vai embora.
+Não falo daquele cansaço de quem faxinou a casa inteira no domingo. Falo do que parece morar nos ossos. Aquele que já está lá, sentado no peito, no segundo em que você abre os olhos, como uma visita que nunca vai embora.
 
 Camila conhecia bem esse tipo de cansaço. Ele tinha se tornado seu companheiro mais fiel, mais constante até que o marido que dormia ao seu lado.
 
@@ -11,11 +11,11 @@ Eram 05h53 da manhã.
 
 O despertador do celular ainda não tinha tocado — faltavam exatos sete minutos — mas os olhos de Camila se abriram sozinhos. Seu corpo tinha desenvolvido um relógio biológico cruel, treinado pelo estresse e pela ansiedade, que a acordava antes do alarme apenas para que ela tivesse tempo de *sentir* o peso do dia que estava por vir.
 
-O quarto estava na penumbra azulada da pré-manhã. O ar condicionado zumbia baixinho, um som que costumava relaxá-la, mas que agora parecia apenas mais um ruído branco em uma mente que nunca desligava.
+O quarto ainda estava escuro, com uma luz azulada entrando pela cortina. O ar-condicionado zumbia baixinho. Antes, aquele som a relaxava; agora era mais um barulho numa cabeça que nunca desligava.
 
 Ao seu lado, Ricardo dormia o sono dos justos. Ou melhor, o sono dos isentos.
 
-Ele estava virado de costas, ocupando dois terços da cama king size, com o edredom embolado entre as pernas. A respiração dele era pesada, ritmada, profunda. Camila ficou ali, imóvel, observando as costas largas do marido. Havia uma inveja ácida subindo por sua garganta.
+Ele estava virado de costas, ocupando quase toda a cama grande, com o edredom embolado entre as pernas. A respiração dele era pesada, ritmada, profunda. Camila ficou ali, imóvel, observando as costas largas do marido. Havia uma inveja amarga subindo por sua garganta.
 
 Como ele conseguia? Como ele conseguia desligar o mundo daquele jeito? Como ele não acordava pensando se tinha pão para o lanche das crianças, se o uniforme do Léo tinha secado a tempo, se a reunião das 10h ia conflitar com a entrega do relatório trimestral?
 
@@ -53,7 +53,7 @@ A cozinha estava mergulhada naquele silêncio tenso que antecede a tempestade.
 
 Camila amava aquele momento. Amava o cheiro do pó de café recém-aberto. Amava o som da água borbulhando na chaleira elétrica. Era o seu ritual. O único momento em que ela controlava todas as variáveis.
 
-Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldita Lista Mental que nunca tinha fim. Ela se desenrolava em sua cabeça como aqueles pergaminhos infinitos de filmes antigos:
+Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldita lista mental que nunca tinha fim. Cada tarefa lembrava outra:
 
 *1. Lancheira do Léo (ele disse que enjoou de maçã, tentar colocar pera picada).*
 *2. Uniforme da Bia (verificar se a mancha de tinta saiu).*
@@ -63,13 +63,13 @@ Enquanto o café passava, a mente de Camila começou a rodar a "Lista". A maldit
 *6. Responder o e-mail do cliente chato sobre a campanha de volta às aulas.*
 *7. Marcar o dentista das crianças.*
 *8. Comprar presente para a festa do amiguinho do Léo no sábado.*
-*9. Onde está a lista de compras? O leite acabou. O queijo também.*
+*9. Onde está a lista de compras? O leite só dá para hoje. O queijo está acabando.*
 
 Camila abriu a geladeira e suspirou. Só havia duas fatias de queijo.
 
 — Ótimo — murmurou. — Léo fica com o queijo, Bia vai ter que comer requeijão.
 
-Seus movimentos eram mecânicos, eficientes. Cortar o pão. Passar manteiga. Cortar a fruta. Encher as garrafinhas de água. Acondicionar tudo nas lancheiras térmicas com os personagens favoritos deles — Sonic para ele, Patrulha Canina para ela.
+Seus movimentos eram mecânicos, eficientes. Cortar o pão. Passar manteiga. Cortar a fruta. Encher as garrafinhas de água. Guardar tudo nas lancheiras com os personagens favoritos deles — Sonic para ele, Patrulha Canina para ela.
 
 Riscou mentalmente dois itens da lista. Faltavam apenas oitocentos.
 
@@ -93,7 +93,7 @@ Um resmungo abafado.
 
 — Você sabe que não temos cinco minutos, filho. Vamos. O sol já nasceu.
 
-Mentira. O dia estava nublado, cinza chumbo, típico de São Paulo em janeiro. Mas "o sol já nasceu" soava mais otimista.
+O dia estava nublado, cinza-chumbo, naquele janeiro quente em São Paulo. As aulas tinham recomeçado naquela semana, e a correria já parecia não ter tido pausa.
 
 Léo se mexeu, descobrindo o rosto amassado. Ele abriu um olho só e olhou para a mãe com aquela honestidade brutal das crianças.
 
@@ -123,7 +123,7 @@ No quarto ao lado, a batalha foi diferente. Bia, com seus quatro anos e personal
 
 O grito agudo perfurou o tímpano de Camila. Ela fechou os olhos por um segundo. Contou até três. Não funcionou. Contou até cinco.
 
-— Beatriz — o tom de voz dela baixou uma oitava. O temido "Voz de Mãe Séria". — Nós não vamos discutir isso agora. Vestido. Agora.
+— Beatriz. — A voz dela ficou baixa e firme. A temida voz de mãe séria. — Nós não vamos discutir isso agora. Vestido. Agora.
 
 A menina bufou, mas obedeceu. Camila vestiu a filha com a eficiência de quem veste um boneco articulado que resiste aos movimentos. Pentear o cabelo foi outra negociação diplomática complexa, envolvendo promessas de assistir desenho no tablet por dez minutos à noite.
 
@@ -167,7 +167,7 @@ Camila parou.
 
 — Ué, sai. Eu vou depois. Tenho reunião só às nove e meia.
 
-Claro. A reunião dele era às nove e meia. O tempo dele era elástico. O dela era uma bomba relógio.
+Claro. A reunião dele era às nove e meia. O tempo dele era elástico. O dela era uma bomba-relógio.
 
 Ricardo foi para o banheiro. Camila ouviu o barulho do chuveiro ligando.
 
@@ -181,7 +181,7 @@ Ela pegou a xícara e virou o líquido gelado e amargo de uma vez só, como se f
 
 O trânsito da Avenida Rebouças era o retrato da cabeça de Camila: caótico, barulhento e travado.
 
-Bia cantava "Livres Estou" no banco de trás, desafinando com convicção. Léo olhava pela janela, quieto demais para uma criança de sete anos, quase oito.
+Bia cantava "Livre Estou" no banco de trás, desafinando sem vergonha. Léo olhava pela janela, quieto demais para uma criança de sete anos, quase oito.
 
 — Tudo bem aí atrás, filho? — perguntou ela, ajustando o retrovisor para ver os olhos dele.
 
@@ -352,7 +352,7 @@ Ela olhou para as próprias mãos pousadas no colo. Mãos que tinham trocado fra
 
 Mãos que tremiam levemente.
 
-Camila se perguntou, com uma curiosidade mórbida e assustadora:
+Uma pergunta assustadora passou pela cabeça de Camila:
 
 *Se eu sumisse amanhã... quanto tempo Ricardo demoraria para notar que o papel higiênico não se repõe sozinho no suporte?*
 

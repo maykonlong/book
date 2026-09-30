@@ -14,7 +14,7 @@ Hoje?
 Camila estava no sofá, terminando um livro, com uma taça de vinho na mão.
 
 A porta abriu. As crianças entraram feito furacão.
-— Mãe! O pai me deixou jogar GTA a tarde inteira! — gritou Léo.
+— Mãe! O pai me deixou jogar aquele jogo de tiro dele a tarde inteira! — gritou Léo.
 — Mãe! A gente comeu McDonald's no almoço e no jantar! — contou Bia.
 
 Camila olhou para Ricardo, parado na porta. Ele parecia cansado, com a camisa amarrotada.
@@ -32,7 +32,7 @@ Camila respirou fundo. Queria perguntar a Ricardo por que havia deixado os dois 
 — Ahhh não... — reclamou Léo, mas sem convicção.
 — Ah sim. Banho agora. E amanhã tem feijão e salada.
 
-Ela os levou para o banho. Enquanto ajudava Bia a tirar o ketchup do cabelo, ouviu Léo cantar no quarto. Pelo menos estavam bem. A conversa sobre horários e telas podia esperar até o dia seguinte.
+Ela os levou para o banho. Enquanto ajudava Bia a tirar o ketchup do cabelo, ouviu Léo cantar no quarto. No dia seguinte, falaria com Ricardo sobre os horários e sobre deixar um menino de nove anos jogar um jogo feito para adultos. Não queria discutir na frente dos filhos, mas também não ia fingir que estava tudo certo.
 
 Léo saiu do banho cheirando a sabonete de lavanda. Deitou no colo dela no sofá.
 — Mãe?
@@ -46,9 +46,7 @@ Camila beijou a testa dele.
 
 Depois de apagar a luz do quarto, ela recolheu as roupas molhadas do banheiro. Ainda precisaria lavar a lancheira de Bia e separar o uniforme de Léo. A vida não tinha ficado fácil. Mas, quando passou pelo corredor, não precisou adivinhar o humor de ninguém antes de entrar na própria sala.
 
-Um mês.
-
-Um mês desde o café em que Camila decidira dar uma chance a Daniel.
+As semanas seguintes passaram entre trabalho, tarefas da escola e encontros que precisavam caber na agenda dos dois. Quando Camila se deu conta, fazia um mês desde o café em que decidira dar uma chance a Daniel.
 
 E nesse mês, eles tinham se encontrado cinco vezes. O primeiro almoço tinha sido convite dela. Nos outros encontros, um chamava o outro.
 
@@ -118,6 +116,12 @@ No domingo, passaram por um vendedor de algodão-doce. Camila contou que, quando
 
 Camila tentou limpar com a manga, errou o lugar e riu também. Fazia tempo que não se permitia uma bobagem dessas sem pensar se alguém a julgaria.
 
+Na saída do parque, pararam diante da vitrine de uma loja de materiais de arte. Camila apontou uma caixa de pincéis.
+
+— Esses aqui são meu sonho. Eu olho o preço, faço as contas e volto para os meus.
+
+Daniel olhou a caixa. Ela puxou a mão dele para atravessar a rua antes que começasse a se convencer de que precisava entrar.
+
 No caminho de volta, ela se lembrou de quantas vezes um cancelamento de Ricardo tinha virado uma discussão. Daniel tinha remarcado. Isso era tudo o que sabia por enquanto.
 
 ---
@@ -150,13 +154,13 @@ Lucas fez uma anotação.
 
 — O que você sabe sobre Daniel até agora? Não o que teme. O que sabe.
 
-Camila ficou olhando para as mãos. Lembrou do almoço em que ele aceitara dividir a conta sem reclamar. Da caminhada que remarcou. Da mão que ele tinha afastado no cinema quando ela pediu espaço.
+Camila ficou olhando para as mãos. Lembrou do almoço em que ele aceitara dividir a conta sem reclamar. Da caminhada que remarcou. Do cinema: ela afastara a mão, e ele respeitara seu espaço, sem cobrar uma explicação.
 
 — Ele tem sido cuidadoso — disse. — Mas eu continuo esperando que mude.
 
 — Você pode ir devagar. E, quando ficar com medo, pode perguntar a si mesma: o que ele fez de fato?
 
-Camila saiu da sessão sem uma garantia sobre o futuro. Ninguém podia lhe dar uma. No ponto de ônibus, pegou o celular e respondeu a uma mensagem de Daniel sem esperar a hora que tinha planejado.
+Camila saiu da sessão sem uma garantia sobre o futuro. Ninguém podia lhe dar uma. Antes de entrar no carro, pegou o celular e respondeu a uma mensagem de Daniel sem esperar a hora que tinha planejado.
 
 ---
 

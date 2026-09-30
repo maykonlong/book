@@ -11,11 +11,11 @@ Não porque estivesse "maluca", palavra que o Ricardo usava num tom que fingia s
 
 Mas ela não estava indo porque era maluca. Estava indo porque não dava mais conta sozinha. Porque chorava no chuveiro com a água ligada para ninguém ouvir. Porque esquecia o que tinha ido buscar no meio do corredor de casa. Porque acordava às cinco da manhã com o peito pesado, como se alguém tivesse sentado nele durante a noite.
 
-Fazer terapia não era fraqueza. Era o que se fazia quando já se tinha tentado todo o resto, e o resto não tinha funcionado.
+Não precisava chegar ao limite para pedir ajuda. Mesmo assim, era ali que Camila tinha chegado.
 
 Pelo menos era o que a Fernanda dizia. E a Fernanda tinha saído inteira do próprio divórcio. Inteira, de pé e rindo.
 
-Ela estacionou o carro numa rua arborizada de Pinheiros. Conferiu o endereço no celular três vezes, mesmo sabendo que estava certo. Ficou um minuto inteiro olhando a fachada discreta do prédio, a porta de vidro, a placa pequena com o nome do consultório.
+Depois do trabalho, com os filhos na companhia de Ricardo até a noite, ela estacionou numa rua arborizada de Pinheiros. Conferiu o endereço no celular três vezes, mesmo sabendo que estava certo. Ficou um minuto inteiro olhando a fachada discreta do prédio, a porta de vidro, a placa pequena com o nome do consultório.
 
 *Eu posso simplesmente dar meia-volta*, pensou. *Dizer que o trânsito estava horrível. Que esqueci. Que fiquei doente.*
 
@@ -68,7 +68,7 @@ Doía o orgulho. Doía o bolso. Doía a saudade das crianças que não estavam c
 
 — Culpada. Aliviada. Apavorada. E exausta. Principalmente exausta.
 
-Ela falou por cinquenta minutos. Falou da planta morta (contou da Fernanda). Falou do leite derramado. Falou da febre. Falou do silêncio do carro na viagem. Falou da sensação de estar gritando num quarto à prova de som, onde ninguém — nunca, ninguém — virava para olhar.
+Ela falou durante boa parte da sessão. Falou da planta morta (contou da Fernanda). Falou do leite derramado. Falou da febre. Falou da discussão no carro durante a viagem. Falou da sensação de estar gritando num quarto à prova de som, onde ninguém virava para olhar.
 
 Enquanto falava, Camila percebeu uma coisa que não esperava: estava sendo escutada.
 
@@ -77,7 +77,7 @@ Era estranho ser ouvida. Realmente ouvida. Sem interrupção. Sem "ah, mas você
 
 Camila tinha passado onze anos sendo ouvida pela metade — ouvida enquanto lavava louça, ouvida enquanto o Ricardo olhava o celular, ouvida até o meio da frase antes de ele responder uma coisa que não tinha nada a ver. Ser ouvida de verdade, por inteiro, era uma sensação tão nova que doía.
 
-No final, quando faltavam cinco minutos, ele colocou o bloco de lado.
+Mais perto do final, ele colocou o bloco de lado.
 
 — Camila, vou te fazer uma pergunta. Pode parecer boba, mas quero que você tente responder honestamente.
 — Tá.
@@ -113,16 +113,18 @@ Dr. Lucas estendeu uma caixa de lenços. Ela pegou um, assoou o nariz sem elegâ
 
 — Eu vou achar ela de novo?
 
-— Vai. Ela tá aí. Tá soterrada debaixo de muita "obrigação" e "dever", mas tá aí.
+— A gente pode começar a procurar. Tem muita obrigação ocupando esse espaço, mas você continua aqui.
 
-— De onde veio a ideia de que ser artista era perda de tempo? — perguntou Dr. Lucas, inclinando-se.
+— Você gostava de fazer alguma coisa só por prazer, antes de se casar? — perguntou Dr. Lucas.
+— Pintar. Eu queria ser artista, mas parei. Achava que era perda de tempo.
+— De onde veio essa ideia? — perguntou ele.
 Camila piscou. Ninguém nunca tinha perguntado isso.
 — Da minha mãe — respondeu, sem pensar. — Ela dizia que arte era "passatempo sem futuro". Que eu precisava de uma carreira "de verdade".
 — E você acreditou.
 — Acreditei. — A voz de Camila ficou pequena. — Troquei a agência de publicidade — que eu amava — por um emprego "estável". Guardei os pincéis. Virei prática.
 — E agora?
 — Agora... — Camila olhou para as próprias mãos, como se procurasse nelas a resposta. — Agora eu não sei quem sou sem essa voz me dizendo o que fazer. É como se a minha mãe ainda morasse na minha cabeça, decidindo por mim.
-— Essa voz — disse Dr. Lucas, gentil — não é a sua mãe. É a sua leitura dela. E leituras podem ser relidas. E reescritas.
+— Essas falas ainda pesam nas suas escolhas — disse Dr. Lucas. — Podemos olhar para isso juntos. Você não precisa continuar decidindo como se ainda tivesse que pedir autorização.
 
 Ele olhou no relógio.
 

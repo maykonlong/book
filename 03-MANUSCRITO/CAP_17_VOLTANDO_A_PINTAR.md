@@ -3,11 +3,13 @@
 
 A tarefa do Dr. Lucas voltava à cabeça dela como um desafio perigoso: *fazer algo só por você.*
 
-Camila tinha comprado os materiais na quinta-feira à tarde, saindo do trabalho mais cedo — e quase não saiu. A reunião estourou o horário, o trânsito estava um caos, e a voz prática dentro dela sussurrou: *vai pra casa, Cá. Descansa. Tinta pode esperar.* Tinta podia esperar, sim. Tinta esperou onze anos. Foi exatamente esse o argumento que a fez virar o carro na direção contrária, em direção à loja.
+Na segunda-feira, tinha aberto a caixa antiga que encontrara no armário. Dois pincéis estavam duros, com as cerdas tortas; as tintas, quase no fim. Guardou um desenho da faculdade e decidiu comprar só o básico para voltar. O caderno azul serviria para os primeiros rascunhos.
+
+Na quinta-feira seguinte ao primeiro fim de semana inteiro sem os filhos, Camila saiu do trabalho e quase foi direto para casa. A reunião tinha passado do horário, o trânsito estava ruim, e a voz prática dentro dela sussurrou: *vai pra casa, Cá. Descansa. Tinta pode esperar.* Tinta já tinha esperado anos demais. Foi esse pensamento que a fez virar na direção da loja.
 
 Entrar na papelaria especializada foi como entrar em uma igreja. Um silêncio respeitoso, a luz suave sobre as prateleiras, e aquele cheiro — papel, grafite, madeira, algo úmido e antigo — que a levou de volta aos 20 anos de idade.
 
-Ela caminhou pelos corredores devagar, como quem revisita um lugar sagrado que jurou que nunca mais pisaria. Os tubos de tinta alinhados como um arco-íris. Os pincéis em potes de vidro, redondos e chatos, macios e duros. Os blocos de papel de algodão empilhados, grossos, prometendo absorver água e cor com generosidade.
+Ela caminhou pelos corredores devagar, como quem volta a um lugar que achava perdido. Os tubos de tinta alinhados como um arco-íris. Os pincéis em potes de vidro, redondos e chatos, macios e duros. Os blocos de papel de algodão empilhados, grossos, prometendo absorver água e cor com generosidade.
 
 Camila tocou num bloco de papel e sentiu a textura áspera sob os dedos. Fechou os olhos por um segundo e, por um instante, foi a menina de vinte anos outra vez, no chão do quartinho alugado, com o mundo inteiro cabendo numa folha molhada.
 
@@ -15,16 +17,16 @@ Uma vendedora jovem se aproximou.
 — Posso ajudar?
 — Eu... quero um kit de aquarela. Pra iniciante.
 — É presente?
-Camila hesitou. A pergunta era inocente, mas doeu. Presente? Quando foi a última vez que alguém comprou algo pra ela — ou que ela comprou algo pra si — que não fosse funcional, necessário, prático?
+Camila hesitou. No fim de semana, tinha comprado um caderno só para ela. Ainda estava aprendendo a dizer isso sem se explicar, como se todo gasto seu precisasse de autorização.
 — Não — respondeu, e a palavra saiu estranha e gostosa na boca. — É pra mim.
 
-A vendedora sorriu sem entender o peso daquilo. Montou um kit pequeno: uma caixinha de tintas, três pincéis, um bloco de papel 300g. Camila aceitou tudo sem discutir, como quem aceita um remédio receitado por médico.
+A vendedora sorriu sem entender o peso daquilo. Mostrou um kit pequeno: uma caixinha de tintas, três pincéis e um bloco de papel mais grosso, próprio para aquarela. Camila pediu o preço de cada item antes de levar.
 
-Ela gastou trezentos reais.
-Trezentos reais em tintas, pincéis e um bloco de papel de algodão 300g.
+Ela gastou cento e vinte reais.
+Cento e vinte reais em tintas, pincéis e um bloco de papel próprio para aquarela.
 No caixa, o cartão tremeu na mão.
 
-*Isso é dinheiro de mercado. Isso é meia mensalidade da natação do Léo. Isso é quase o botijão de gás. Isso é...*
+*Isso é parte da compra do mercado. Isso faz falta. Isso é...*
 
 A lista mental atacou sem piedade. Onze anos de treino a fizeram uma especialista em transformar qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. A conta automática da sobrecarga, sempre ligada, começava antes mesmo de ela decidir.
 
@@ -32,13 +34,13 @@ A lista mental atacou sem piedade. Onze anos de treino a fizeram uma especialist
 
 A culpa buzinou alto.
 Mas ela passou o cartão mesmo assim.
-*É remédio*, disse a si mesma, com uma firmeza que não sentia totalmente. *Dr. Lucas disse que é saúde mental. Remédio é caro mesmo.*
+Tinha separado aquele dinheiro aos poucos. As contas continuavam apertadas, mas havia conferido o saldo antes de sair. Podia fazer uma compra para si sem precisar fingir que era uma emergência.
 
 E, enfim, Camila não devolveu a sacola no balcão.
 
 Chegou em casa. As crianças estavam no pai. A noite era dela.
 
-O apartamento estava silencioso de um jeito que ela não conhecia. Não era o silêncio tenso de quando o Ricardo estava por perto, nem o silêncio ocupado de quando os filhos dormiam. Era um silêncio vazio, inteiro, só dela. Camila ficou parada na sala por um momento, só ouvindo. Nenhuma TV. Nenhum "mãe". Nenhuma obrigação chamando seu nome.
+O apartamento estava silencioso. Ela já conhecia aquelas horas sem os filhos, mas naquela noite tinha escolhido o que fazer com elas. Camila ficou parada na sala por um momento, só ouvindo. Nenhuma TV. Nenhum "mãe". Nenhuma obrigação chamando seu nome.
 
 Era estranho. E, ao mesmo tempo, libertador.
 
@@ -65,17 +67,17 @@ Pegou o pincel redondo número 6. Molhou. Pegou um pouco de azul-cobalto.
 A mão tremia.
 Ela encostou o pincel no papel.
 
-A tinta se espalhou na água do papel úmido. Uma explosão azulada, como uma nuvem se formando.
+A tinta se espalhou no papel. Uma mancha azulada, como uma nuvem se formando.
 
 Camila prendeu a respiração.
 Era lindo.
 
-Era como andar de bicicleta. O corpo lembrava. A mão lembrava o quanto de água, o ângulo do pincel, a paciência de esperar a cor assentar. Quatorze anos depois, e ainda estava tudo lá, guardado no músculo, esperando permissão para voltar.
+Era como andar de bicicleta. O corpo lembrava. A mão lembrava o quanto de água, o ângulo do pincel, a paciência de esperar a cor assentar. Depois de tantos anos, ainda estava tudo lá, guardado nas mãos, esperando permissão para voltar.
 
 Ela não sabia o que pintar. Flores? Paisagem? O apartamento vazio?
 
 Deixou a mão ir.
-Fez manchas. Misturou azul com carmesim. Viu o roxo nascer.
+Fez manchas. Misturou azul com vermelho. Viu o roxo nascer.
 Pingou água limpa e viu pequenas formas claras nascerem na tinta.
 
 A água ora obedecia, ora fazia o que queria. E Camila descobriu que não se importava. Havia beleza até no inesperado. Talvez fosse isso que a aquarela ensinava: você controla até certo ponto, e depois precisa confiar.
@@ -99,8 +101,7 @@ Ali, com o pincel na mão, ela estava *agindo*. Criando. Trazendo algo novo ao m
 
 Reagir era sobreviver. Agir era viver. Camila não sabia mais a diferença entre as duas coisas — até agora.
 
-Ficou ali por três horas.
-Esqueceu de jantar. Esqueceu de checar o celular, que vibrou duas vezes na bolsa e foi ignorado sem culpa alguma.
+Ficou ali por quase duas horas. Só parou quando o alarme que tinha colocado avisou que as crianças estavam para chegar.
 
 Quando parou, as costas doíam, a água do pote estava cor de lama, e havia cinco folhas pintadas espalhadas pela mesa secando.
 
@@ -108,7 +109,7 @@ Não eram obras-primas. Eram borrões coloridos.
 Mas eram dela.
 Eram pedaços da alma dela que ela tinha conseguido colocar para fora sem precisar explicar com palavras.
 
-Camila tentou se lembrar da última vez que tinha feito algo só para ela — sem ser pela casa, pelos filhos ou pelo trabalho. Não conseguiu. E aquela falta de memória mostrou quanto tempo tinha passado longe de si.
+Camila pensou nas pequenas escolhas recentes: o cinema, o cabelo cortado, o sábado na padaria. A pintura era diferente. Fazia anos que não criava algo só pelo prazer de criar.
 
 Camila olhou para as mãos sujas de tinta. Azul nas cutículas. Vermelho na palma.
 
@@ -127,7 +128,13 @@ Camila riu alto na sala vazia.
 
 Limpou os pincéis com carinho. Lavou o pote. Guardou as tintas na caixa nova como se fossem joias.
 
-Foi dormir com as mãos manchadas de cor e a mesa ainda ocupada por papéis úmidos.
+Pouco depois, a campainha tocou. Léo e Bia voltaram do passeio com Ricardo trazendo histórias de um cachorro enorme que tinham visto na praça. Camila os ouviu enquanto esquentava o jantar.
+
+Bia quis tocar numa das folhas.
+
+— Ainda está molhada, filha. Amanhã eu mostro direitinho.
+
+Depois do banho e da história dos filhos, Camila foi dormir com as mãos ainda manchadas de cor.
 
 Naquela noite, ela não sonhou com boletos.
 Sonhou que estava nadando em um mar de azul-cobalto, e que sabia respirar debaixo d'água.
@@ -138,6 +145,6 @@ Não eram obras-primas. Eram borrões, manchas e pequenas marcas abertas pela á
 
 E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mudaria tudo: não era sobre o quadro. Nunca foi sobre o quadro. Era sobre descobrir que ela ainda existia embaixo de todos aqueles papéis — mãe, esposa, funcionária — esperando para voltar a ser.
 
-Ela pegou o celular e, antes de qualquer outra coisa, ligou para a aula de aquarela e se matriculou para o semestre inteiro.
+Ela pegou o celular e, antes de qualquer outra coisa, respondeu à mensagem do ateliê. Perguntou o valor da turma semanal, fez as contas com o dinheiro dos bolos e reservou a primeira aula. Ainda não sabia se conseguiria manter o curso. Mas, naquela manhã, decidiu ao menos começar.
 
 

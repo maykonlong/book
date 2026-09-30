@@ -17,7 +17,7 @@ O ateliê estava abafado, cheio de gente e daquele cheiro de tinta misturado a v
 
 Camila quis se esconder atrás da mesa de bebidas. Também quis gritar "fui eu que fiz!" para o salão inteiro. Ficou num lugar desconfortável entre as duas vontades, o coração batendo na garganta, fingindo que estava muito interessada nos amendoins.
 
-Camila ficou num canto, perto da mesa de bebidas, tentando ficar invisível.
+Paula chamou seu nome e apontou para alguém que esperava perto dos quadros.
 
 Uma mulher elegante, de uns cinquenta anos, parou na frente de *Silêncio*.
 Ficou lá um tempo. Inclinou a cabeça.
@@ -58,7 +58,7 @@ Antes de ir, ela parou na frente de Camila. Havia algo úmido nos olhos dela, at
 — Sabe por que eu quis comprar esse quadro? — perguntou. — Eu perdi minha mãe há dois meses. E essa sala vazia com sol... é exatamente como eu imagino que ela está agora. Em paz. Descansando. Você pintou a minha mãe sem conhecer ela.
 Camila ficou sem palavras. Um nó subiu pela garganta.
 — Desculpa — a mulher limpou os olhos. — Não era pra emocionar. Mas você tem um dom, moça. Não deixa ninguém tirar isso de você.
-Ela apertou a mão de Camila, pegou o quadro embrulhado e foi embora, deixando para trás um perfume suave de alfazema e uma Camila parada no meio do salão, entendendo, enfim, o que a arte podia fazer: atravessar a distância entre duas estranhas e costurar, com cor, uma dor na outra.
+Ela apertou a mão de Camila e combinou de buscar o quadro no encerramento da mostra. Depois se afastou, deixando um perfume suave de alfazema. Camila permaneceu ali por um instante: tinha pintado uma sala da própria vida, e outra mulher reconhecera nela uma lembrança sua.
 
 Paula veio colocar uma bolinha vermelha adesiva ao lado do quadro. *Vendido.*
 
@@ -117,9 +117,11 @@ E Camila percebeu a diferença entre aquele sorriso e o que ela usava há onze a
 
 Aquele sorriso de agora não tinha plateia. Não tinha ensaio. Era só dela, e por isso era tão raro, e por isso era tão verdadeiro.
 
-Ela entendeu, ali, que a gente pode passar a vida inteira sorrindo para os outros — e morrer de sede de um sorriso que seja só nosso. Aquele, o primeiro sorriso real, era o fim de uma longa seca.
+Outras alegrias tinham aparecido nos últimos meses: uma sessão de cinema, as brincadeiras dos filhos, uma conversa com as amigas. Aquela tinha um gosto diferente. Camila conseguia dizer *sou artista* sem rir de si mesma logo depois.
 
-Enquanto voltava para casa, Camila decidiu o que fazer com os quinhentos reais. Nada de boletos. Nada de supermercado. Aqueles quinhentos reais eram a prova de que a dor dela valia alguma coisa — e mereciam virar algo que a fizesse feliz. Uma moldura nova para o próximo quadro. Um jantar com Fernanda. Talvez, um dia, uma viagem.
+Antes de ir embora, ajudou Paula a embrulhar *Silêncio* para a compradora. O espaço vazio na parede pareceu estranho. Era bom e dava um pouco de saudade.
+
+No caminho para casa, decidiu separar parte dos quinhentos reais para repor os materiais e emoldurar outro trabalho. O restante guardaria. Talvez entrasse na viagem que vinha adiando; talvez fosse necessário para uma conta. Gostava de poder escolher sem diminuir o valor daquela noite.
 
 Ela estava separada.
 Estava com a conta bancária apertada.

@@ -1,6 +1,6 @@
 ﻿# 🔍 RELATÓRIO DE REVISÃO (1ª passada — coesão e continuidade)
 
-> Atualizado em 24/09/2026 · Escopo: revisão estrutural, linguagem e continuidade do manuscrito (40 capítulos).
+> Registro histórico de 24/09/2026. As contagens e conclusões abaixo pertencem àquela edição; para a rodada atual, consulte [CHECKUP_EDITORIAL_2026-09-29.md](CHECKUP_EDITORIAL_2026-09-29.md).
 
 ---
 

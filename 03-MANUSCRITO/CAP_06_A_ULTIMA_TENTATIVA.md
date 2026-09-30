@@ -1,7 +1,7 @@
 # CAPÍTULO 6
 ## A Última Tentativa
 
-Faltava uma semana para o Carnaval. Camila passou a noite lembrando da suculenta no lixo e da proposta de Ricardo. Onze anos não saíam da vida dela com o barulho de um vaso caindo numa lixeira.
+Faltava uma semana para o Carnaval. Camila passou a noite lembrando da suculenta no lixo e da proposta de Ricardo. Tinham sido três anos de namoro e onze de casamento. Quatorze anos juntos não saíam da vida dela com o barulho de um vaso caindo numa lixeira.
 
 Na manhã seguinte, encontrou-o na cozinha.
 
@@ -23,7 +23,7 @@ O dia estava abafado, aquele calor pré-chuva que deixa todos irritados. Ricardo
 — Putz, trânsito tá um inferno. Já tá tudo pronto?
 — Tudo pronto. As malas estão no carro. As crianças já fizeram xixi. Só falta você tomar banho.
 
-Ele tomou banho. Demorou vinte minutos. Camila esperava na porta, suando, segurando Bia no colo que choramingava de sono.
+Ele tomou banho. Demorou vinte minutos. Camila esperava na porta, suando, com Bia no colo. A menina choramingava de sono.
 
 Por fim saíram.
 
@@ -81,7 +81,7 @@ Ele abriu a porta e saiu, alongando as costas.
 Camila saiu também. O ar da serra era fresco, cheirava a mato molhado.
 
 Ricardo foi até o porta-malas. Tirou a mala dele.
-— Vou fazer o check-in e pegar a chave. Tô morrendo de fome, ver se tem algo aberto ainda.
+— Vou dar entrada e pegar a chave. Tô morrendo de fome. Vou ver se tem algo aberto ainda.
 
 E começou a andar em direção à recepção.
 
@@ -94,7 +94,7 @@ Ele parou, virou-se, impaciente.
 — O que foi?
 
 — Você vai entrar?
-— Vou, ué. Fazer o check-in.
+— Vou, ué. Pegar a chave.
 — E as malas? E as crianças?
 
 Ele olhou para o carro como se fosse um problema de matemática complexo.
@@ -155,7 +155,7 @@ Camila estava em pé, perto da janela, olhando para a escuridão da mata lá for
 
 — Eu também tô cansada, Ricardo!
 
-— Mas você veio sentada lendo revista! Eu vim pisando na embreagem!
+— Mas você veio sentada! Eu vim pisando na embreagem!
 
 Camila calou-se.
 Não valia a pena.

@@ -1,96 +1,6 @@
 # CAPÍTULO 10
 ## O Vazio Barulhento
 
-A primeira noite depois da mudança definitiva de Ricardo não foi silenciosa.
-
-Foi barulhenta.
-
-Mas não era barulho de som. Era barulho de *falta*.
-
-A geladeira zumbia mais alto. O elevador parecia um trovão. O vento na janela da área de serviço soava como um lamento.
-
-Ricardo tinha saído à tarde, com duas malas grandes e uma cara de vítima que faria um ator de novela mexicana corar. Ele não se despediu dela. Só deu um beijo rápido nas crianças, prometeu mundos e fundos ("Papai vai levar vocês na Disney", "Papai vai comprar o videogame novo", "Papai vai ser o cara mais legal do mundo"), e saiu batendo a porta.
-
-Agora eram dez da noite.
-
-As crianças dormiam. Exaustas de chorar, de perguntar, de tentar entender a nova geografia da família.
-
-Camila estava na sala.
-Sentada no sofá.
-No "lugar dela".
-Olhou para o "lugar dele". O canto esquerdo do sofá em L, onde o estofado já tinha o formato da bunda dele de tanto ficar ali.
-
-Estava vazio.
-
-Não tinha ninguém rolando o Instagram. Ninguém reclamando do governo. Ninguém pedindo cerveja. Ninguém ignorando ela.
-
-Só o vazio.
-
-Camila levantou e foi até a cozinha. Abriu a geladeira.
-Lá estavam as cervejas dele. A marca artesanal cara que ele gostava e que custava o triplo da normal.
-
-Ela pegou uma garrafa. Olhou.
-Sentiu uma vontade súbita de jogar a garrafa na parede. De ver vidro e líquido dourado explodindo naquele chão de porcelanato branco que ela limpava com tanto cuidado.
-
-Mas não jogou. Porque quem teria que limpar depois seria ela.
-Sempre ela.
-
-Guardou a garrafa. Fechou a porta.
-
-Foi para o quarto.
-
-A cama parecia um oceano. King Size. Lençóis brancos.
-Ela deitou no seu lado.
-Estendeu a mão para o lado dele.
-Frio.
-Liso.
-Vazio.
-
-Por um momento, o pânico subiu pela garganta. *O que eu fiz? Meu Deus, o que eu fiz? Destruí minha família. Afastei o pai dos meus filhos. Vou morrer sozinha.*
-
-O medo era físico. Um aperto no peito que simulava um infarto.
-
-Ela correu para o banheiro. Ligou o chuveiro na temperatura máxima. Entrou de roupa e tudo no box. (Nem percebeu que estava de pijama de flanela).
-
-Sentou no chão, abraçou os joelhos, e deixou a água quente bater nas costas.
-
-Chorou.
-Berrou.
-Uivou.
-
-O som do choro se misturava com o barulho da água. Ali, no chão do box, molhada e miserável, ela deixou sair tudo. O medo. A culpa (ah, a maldita culpa materna). A raiva. A saudade do que nunca teve.
-
-Ficou ali até a água começar a esfriar.
-
-Levantou. Tirou a roupa molhada pesada. O pijama grudava na pele como uma segunda pele de tristeza.
-Secou-se. Vestiu uma camiseta velha.
-
-Voltou para o quarto.
-Deitou na cama outra vez.
-
-E então, aconteceu.
-
-No meio do silêncio, ela ouviu sua própria respiração.
-*Inspira. Expira.*
-Calma. Rítmica.
-
-Não havia ronco.
-Não havia a tensão de esperar ele chegar bêbado.
-Não havia a ansiedade de saber se ele estava bravo ou não.
-
-Havia apenas ela.
-
-Camila esticou as pernas. Ocupou o centro da cama. Abriu os braços, fazendo um anjo de neve imaginário no lençol.
-
-O vazio era barulhento, sim. Gritava solidão.
-Mas, enfim, o barulho era *dela*.
-
-Era o vazio barulhento da primeira noite sozinha. O pânico. O choro no chuveiro. E, depois, no meio do caos, a descoberta de que o silêncio também podia ser dela. Aos poucos, podia até virar paz.
-
-E ela podia lidar com o próprio barulho. O que ela não aguentava mais era o barulho dele silenciando a música dela.
-
-Adormeceu atravessada na cama, ocupando todo o espaço que, por direito, sempre deveria ter sido seu.
-
 A mudança definitiva aconteceu numa quinta-feira.
 
 Não houve nova briga, choro ou cena. Só... aconteceu.
@@ -99,7 +9,7 @@ Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitan
 
 Com frieza. Com praticidade. Como dois adultos.
 
-(era mentira, mas eles fingiam bem)
+Era mentira, mas os dois fingiam bem.
 
 — Eu vou para um apart-hotel — Ricardo disse. — Até a gente definir tudo.
 
@@ -137,9 +47,7 @@ Ricardo parou. Olhou para a filha.
 
 — Eu não vou voltar para morar aqui, princesa. Mas você vai me ver sempre. Fim de semana, a gente vai se divertir muito.
 
-Promessa vazia. Camila sabia. Ela conhecia o Ricardo. Nas primeiras semanas ele ia tentar. Ia buscar as crianças, ia fazer programas. Mas, com o tempo, ia cansar. Ia ter outros compromissos. Ia aparecer cada vez menos.
-
-Mas ela não disse nada. Deixou ele prometer. Porque as crianças precisavam daquela esperança, mesmo que falsa.
+Camila não sabia se ele conseguiria cumprir a promessa. Queria que sim, por Léo e Bia. Por isso não discutiu com Ricardo na frente deles.
 
 Quando Ricardo terminou de arrumar, ele foi até a sala.
 
@@ -231,7 +139,7 @@ Camila olhou para o filho. Para aqueles olhos que viam demais.
 
 — Eu também tô triste.
 
-— Eu sei meu amor.
+— Eu sei, meu amor.
 
 — Mas... — Léo hesitou. — Você tá mais leve.
 
@@ -239,11 +147,9 @@ Camila piscou.
 
 — O quê?
 
-— Você. Você tá mais leve. Não tão cansada. Faz tempo que eu não te vejo tão cansada.
+— Você não ficou brava quando a Bia derrubou água no sofá. Só pegou um pano.
 
-E ali. Naquela observação singela de uma criança.
-
-Camila percebeu: era verdade.
+Camila pensou na toalha ainda secando na área de serviço. Tinha limpado a água sem ouvir Ricardo perguntar por que ela não estava prestando atenção nas crianças.
 
 Ela tinha chorado. Estava assustada. Estava triste.
 
@@ -255,11 +161,11 @@ Agora ela só carregava a si mesma e as crianças.
 
 E isso, estranhamente, era mais leve.
 
-— Você é muito esperto sabia? — Ela abraçou o filho.
+— Você repara em tudo, sabia? — Ela abraçou o filho. — Mas pode me contar quando estiver triste também. Não precisa me animar.
 
 — Eu sei. — Ele deu um sorrisinho pequeno.
 
-E Fi ficaram ali, abraçados, no sofá, no silêncio da casa.
+Léo encostou a cabeça no ombro dela. Camila ficou ali com ele até Bia aparecer na porta e perguntar se já podiam jantar.
 
 Um silêncio que ainda assustava.
 
@@ -267,19 +173,19 @@ Mas que começava, só começava, a parecer um pouco menos vazio.
 
 ---
 
-Primeira noite sozinha.
-
-Bom, sozinha com as crianças. Mas sem Ricardo.
+Na primeira noite sem Ricardo, Camila ainda tinha Léo e Bia com ela.
 
 Camila fez o jantar. Deu banho nas crianças. Colocou para dormir.
 
-E então teve que voltar para o quarto vazio.
+E então voltou para o quarto vazio. Eram quase dez da noite. A geladeira zumbia na cozinha. O elevador parecia mais alto do que de costume.
 
 A cama de casal. Que agora era só dela.
 
-Ela deitou no meio. Estranho. Ela sempre dormia no "lado dela". Agora podia dormir em qualquer lugar.
+Deitou no lado de sempre e tocou o lençol ao lado. Frio. Por um instante, pensou: *O que eu fiz? Será que destruí a família?*
 
-Podia. Mas parecia errado.
+Levantou e foi até a cozinha. Na geladeira, ainda havia uma cerveja da marca cara que Ricardo gostava. Teve vontade de atirá-la na parede. Guardou a garrafa: seria ela quem limparia os cacos.
+
+No banheiro, ligou o chuveiro e deixou a água quente cair sobre os ombros. Chorou ali, longe dos quartos das crianças. Chorou pela casa que imaginara dividir com ele, pelo medo do dinheiro e por tudo o que Léo e Bia ainda teriam de entender. Quando a água esfriou, secou o rosto e voltou para a cama.
 
 Ela pegou o celular. Três mensagens de Fernanda:
 
@@ -287,47 +193,29 @@ Ela pegou o celular. Três mensagens de Fernanda:
 
 *"Como você tá?"*
 
-*"Me responde, to preocupada."*
+*"Me responde, tô preocupada."*
 
 Camila digitou:
 
 *"Ele saiu. Eu tô... esquisita. Assustada. Mas aliviada também. É estranho."*
 
-Resposta veio rapidinho:
+A resposta veio rapidinho:
 
-*"Normal. É muita coisa ao mesmo tempo. Mas você tá indo bem. Dia de cada vez."*
+*"Normal. É muita coisa ao mesmo tempo. Mas você tá indo bem. Um dia de cada vez."*
 
-*"Dia de cada vez."*
+*"Um dia de cada vez."*
 
 Camila repetiu mentalmente. Podia fazer isso. Um dia de cada vez.
 
-Ela desligou a luz. Deitou. Fechou os olhos.
+Apagou a luz. Ainda sentia medo, mas já não precisava esperar Ricardo chegar nem adivinhar seu humor. Ouviu a própria respiração e se esticou até o meio da cama.
 
-Até que enfim.
-
-Em semanas.
-
-Dormiu.
-
-Profundamente.
-
-Sem peso.
-
-Sem listas.
-
-Sem preocupação se Ricardo tinha chegado, se estava bem, se precisava de algo.
-
-Dormiu porque podia.
-
-Porque só precisava cuidar dela e das crianças agora.
-
-E isso, assustador como era, também era libertador.
+Dormiu depois de muito tempo acordada. E, quando o sono veio, foi fundo. Assim como era assustador, aquele silêncio também trazia alívio.
 
 ---
 
 Sexta-feira.
 
-Camila acordou sobressaltada.
+Camila acordou num susto.
 
 Olhou o relógio: sete horas.
 
@@ -349,13 +237,13 @@ E começou a chorar.
 
 Não de tristeza. Mas de amor. De orgulho. De percepção de que eles iam passar por isso juntos.
 
-— Ei, mãe, tá tudo bem — Léo veio abraçar. — A gente ainda dá tempo de chegar na escola.
+— Ei, mãe, tá tudo bem — disse Léo, abraçando-a. — Ainda dá tempo de a gente chegar na escola.
 
 Camila abraçou o filho. Forte.
 
-— Você é incrível, sabia?
+— Obrigada por tentar ajudar, filho. Mas pode me chamar quando eu perder a hora. Cuidar da Bia é minha responsabilidade.
 
-— Eu sei — ele sorriu.
+— Tá bom — disse ele, aliviado.
 
 Ela arrumou Bia. Terminaram de se aprontar. Café rápido. Lancheira.
 
@@ -367,7 +255,7 @@ Mas não era diferente de antes.
 
 Antes ela também fazia sozinha.
 
-A única diferença era que agora ninguém estava lá fazendo ela se sentir culpada por sentir sozinha.
+A diferença era que agora ninguém estava ali para fazê-la se sentir culpada por estar sozinha.
 
 ---
 
@@ -379,7 +267,7 @@ No trabalho, Fernanda apareceu na baia.
 
 — Bem-vinda à vida de solteira. — Fernanda sorriu. — Dá para dormir a noite toda sem ninguém roncando.
 
-Camila riu. Primeira risada genuína em muito tempo.
+Camila riu sem precisar forçar.
 
 — É estranho. Tá tudo estranho. A casa parece enorme e vazia. Mas... também parece mais leve.
 

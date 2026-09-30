@@ -1,8 +1,7 @@
 # CAPÍTULO 39
 ## Carta Para Mim Mesma
 
-Camila encontrou seu diário antigo. Aquele do começo de tudo.
-Capa preta. Primeira página datada de quase dois anos atrás.
+Com o diário antigo aberto sobre a mesa, Camila voltou às primeiras páginas. A capa era preta. A primeira anotação tinha quase dois anos.
 
 Leu as entradas antigas.
 *"Eu me sinto sozinha mesmo com ele do lado."*
@@ -21,7 +20,7 @@ Ela continuou lendo, sem conseguir parar. Era como revisitar um acidente em câm
 
 Camila sentiu o rosto arder. Não de vergonha daquela mulher — de compaixão. Aquela mulher não estava louca. Estava tentando sobreviver dentro de uma casa que a silenciava, e a loucura era a única explicação que aceitavam dar a ela.
 
-Ela leu a última entrada, escrita uma semana antes de pedir a separação. Uma linha só, tremida:
+Ela encontrou a última anotação antes do pedido de separação, escrita uma semana antes da conversa. Uma linha só, tremida:
 
 *"Não sei quem eu sou sem ele."*
 
@@ -37,7 +36,7 @@ Antes de responder àquela mulher do passado, precisava agir como a mulher que q
 
 ---
 
-No dia seguinte, Camila encontrou Daniel no mesmo café onde os dois tinham tentado conversar pela primeira vez.
+Na sexta-feira da semana seguinte, Camila encontrou Daniel no mesmo café onde os dois tinham tentado conversar pela primeira vez.
 
 Ele chegou antes, como sempre. O livro estava sobre a mesa, mas permanecia fechado.
 
@@ -145,7 +144,9 @@ Camila chorou no carro. Chorou porque perder uma pessoa boa ainda era perda. Cho
 
 As crianças estavam com Ricardo naquela noite. Camila dormiu sozinha.
 
-E acordou em paz.
+No dia seguinte, quase mandou uma foto do café para ele. Abriu a conversa por hábito e ficou olhando para a tela. Sentia falta. Ligou para Fernanda e perguntou se podia passar lá mais tarde.
+
+A paz não veio pronta na manhã seguinte. Foi chegando junto da saudade, nos dias em que Camila conseguia sentir falta dele sem prometer uma vida que não queria.
 
 Quando as crianças voltaram, contou a Léo e Bia antes que perguntassem por que Daniel não viria mais. Sentou com os dois no tapete da sala, onde ainda estava a caixa do jogo que ele levara no primeiro jantar.
 
@@ -171,7 +172,7 @@ Camila sentiu os olhos encherem. Tinha pensado tanto na dor dela e na de Daniel 
 
 Bia pediu para guardar a caixa, em vez de devolvê-la. Camila concordou. Léo ficou quieto por um tempo; mais tarde, chamou a mãe para uma partida. Nenhum dos três fingiu que estava tudo bem naquela tarde. Mesmo assim, jogaram.
 
-Abriu o diário. Dessa vez, a mão não parou.
+Naquela noite, abriu o diário. Dessa vez, a mão não parou.
 
 E escreveu uma resposta. Uma carta para aquela mulher do passado.
 
@@ -185,14 +186,12 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 *Vai doer como um parto. Vai rasgar você no meio.*
 *Você vai chorar no chão da cozinha. Vai se sentir pobre. Vai duvidar de tudo.*
 
-*Mas, por favor, pule.*
-
-*Pule desse precipício.*
-*Porque você não vai cair.*
-*Você vai aprender a voar.*
+*Mas você não precisa resolver tudo sozinha nem numa noite só.*
+*Ligue para a Fernanda. Aceite a cama que sua mãe oferecer. Leve as contas para a advogada, mesmo com vergonha de não entender os números.*
+*Haverá dias em que sair da cama vai parecer suficiente. Nesses dias, faça isso. O passo seguinte pode esperar até amanhã.*
 
 *Eu queria que você pudesse ver a gente agora.*
-*Você pinta quadros, Cá. Quadros lindos que as pessoas compram.*
+*Você voltou a pintar, Cá. Uma mulher escolheu um quadro seu para levar para casa. Você ainda sorri quando lembra.*
 *Seus filhos estão felizes. Eles aprenderam a enfrentar dias difíceis.*
 *Você conheceu Daniel, um homem bom que mostrou que carinho pode existir sem controle. O que vocês viveram foi verdadeiro. Mas ele não é o prêmio por você ter sobrevivido.*
 
@@ -225,7 +224,7 @@ E escreveu uma resposta. Uma carta para aquela mulher do passado.
 Camila fechou o caderno.
 Uma lágrima caiu na capa. Não de tristeza.
 De respeito profundo.
-Pela mulher que precisou deixar para trás para que essa pudesse viver.
+Pela mulher que suportou aqueles dias sem saber como seriam os próximos.
 E pela mulher que ela teve a coragem de se tornar.
 
 Abriu o diário de novo e escreveu duas palavras abaixo da assinatura:
@@ -236,13 +235,13 @@ Abriu o diário de novo e escreveu duas palavras abaixo da assinatura:
 
 Algumas semanas depois, ela levou o diário para o ateliê.
 
-Sobre a mesa estavam os três trabalhos que Paula escolhera para a exposição. Ela tinha pedido que Camila levasse de novo o quadro azul da primeira mostra e o colocasse ao lado de duas pinturas novas. Juntos, os três contavam a mesma mulher em momentos diferentes. Faltavam apenas os nomes.
+Sobre a mesa estavam os três trabalhos que Paula escolhera para a exposição. Ela tinha pedido que Camila levasse de novo o quadro azul da primeira mostra e o colocasse ao lado de duas pinturas novas. Juntos, os três contavam a mesma mulher em momentos diferentes. Faltavam os nomes das duas pinturas novas e as etiquetas para a montagem.
 
 Abriu o caderno na primeira frase: *Eu me sinto sozinha mesmo com ele do lado.*
 
 Olhou para o primeiro quadro, todo em azul-escuro, com uma figura quase escondida debaixo d'água.
 
-Pegou um lápis e escreveu numa etiqueta:
+Pegou um lápis e repetiu numa etiqueta o nome que ele já tinha:
 
 **Afogamento.**
 
@@ -256,13 +255,13 @@ Por fim, releu a carta que tinha escrito semanas antes. Aproximou-se da terceira
 
 **Voo.**
 
-Os nomes sempre estiveram ali. Ela só precisava chegar até aquela noite para reconhecê-los.
+Escreveu ainda o nome da série: **Renascimento**. Leu as etiquetas em sequência. Era a história que queria contar.
 
 O celular vibrou. Paula perguntava se as etiquetas estavam prontas.
 
 Camila fotografou as três e enviou.
 
-Depois abriu o armário. O vestido vermelho pendia sozinho, ainda com a etiqueta da loja presa na manga.
+Mais tarde, em casa, abriu o armário. O vestido vermelho pendia sozinho, ainda com a etiqueta da loja presa na manga.
 
 Ela o vestiria no dia seguinte.
 

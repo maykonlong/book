@@ -17,13 +17,13 @@ Depois da pergunta de Léo, Camila tinha ligado para Ricardo. Ele passaria a noi
 
 Naquela tarde, Camila decidiu que o Natal não ia ser um funeral.
 
-Levou as crianças ao mercado. Deixou Léo escolher a sobremesa e Bia escolher o papel de presente. Comprou um peru pequeno (porque peru grande era para família grande, e ela ainda estava aprendendo a ser uma família de três). Comprou panetone, uva, e um pisca-pisca novo para a árvore.
+Levou as crianças ao mercado. Deixou Léo escolher a sobremesa e Bia escolher o papel de presente. Comprou um frango resfriado para assar, panetone, uva e um pisca-pisca novo para a árvore. O frango cabia no forno, no orçamento e na mesa dos três.
 
 — A gente vai fazer a nossa ceia, só nós três — anunciou ela, no carro, tentando soar animada.
 
 — E o papai? — perguntou Bia, naquele tom inocente que cortava.
 
-— O papai vai passar o Natal na casa da vovó Vera — Camila respondeu, com a voz controlada. — E vocês vão ver ele no Ano Novo, tá? A gente combina.
+— O papai vai passar o Natal na casa da vovó Vera — Camila respondeu, com a voz controlada. — E vocês vão ficar com ele no Ano Novo, como a gente combinou.
 
 Bia aceitou. Léo ficou quieto, olhando pela janela.
 
@@ -37,13 +37,13 @@ Ela olhou pelo retrovisor, para os dois filhos no banco de trás.
 
 ---
 
-A noite caiu. Camila cozinhou o peru (que ficou meio seco, mas ninguém reclamou). Montou a mesa com a toalha boa. Acendeu o pisca-pisca.
+A noite caiu. Camila assou o frango, que ficou um pouco seco. Montou a mesa com a toalha boa e acendeu o pisca-pisca.
 
 E, enfim, naquele dezembro, a casa não pareceu vazia. Pareceu... deles.
 
-Comeram. Riram do peru seco. Bia derrubou o suco de uva na toalha boa, e Camila, em vez de surtar, riu e disse "faz parte". Léo ajudou a lavar a louça, sem ela pedir.
+Comeram. Léo pediu mais molho para o frango e fez Bia rir ao dizer que a carne estava com sede. A menina derrubou suco de uva na toalha boa, e Camila pegou um pano, dizendo "faz parte". Depois, Léo ajudou a recolher os pratos.
 
-As melhores lembranças não eram as perfeitas. Eram as que eles construíam juntos, do jeito torto, com o peru seco e o suco derramado. Essas ficavam.
+Camila olhou para a toalha manchada e decidiu deixá-la de molho depois. A sobremesa estava esperando.
 
 ---
 
@@ -81,7 +81,7 @@ Camila sentiu a velha raiva subir. Poderia dizer que o pai era egoísta. Poderia
 
 Mas a dor do filho não era lugar para a guerra dos adultos.
 
-— Queria, sim. Seu pai às vezes não percebe que pouco tempo pode parecer pouco amor. Mas uma coisa não é igual à outra.
+— Você queria contar mais coisas para ele, né?
 
 — Então por que ele desligou?
 
@@ -125,7 +125,7 @@ Sentiu-se, enfim, em paz.
 
 Pegou o diário e escreveu a pergunta que vinha evitando: *o que eu quero para o ano que vem?*
 
-Em onze anos, a resposta não envolvia o Ricardo. Não envolvia "manter a família", nem "fazer dar certo", nem "aguentar mais um pouco".
+A resposta já não envolvia Ricardo. Não era "fazer dar certo" nem "aguentar mais um pouco".
 
 A resposta, simples e assustadora, era: eu quero ser feliz.
 

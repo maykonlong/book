@@ -4,7 +4,19 @@
 O divórcio saiu numa terça-feira cinzenta.
 Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata. As decisões sobre os filhos já tinham sido aprovadas pela Justiça: guarda compartilhada, casa principal com Camila, fins de semana alternados com Ricardo, pensão, escola e plano de saúde.
 
-O apartamento também tinha deixado de ser uma ameaça sem resposta. A pensão das crianças já entrava todo mês; Ricardo assumira a escola e o plano de saúde. Assim, Camila conseguira negociar parcelas longas para pagar a parte dele no imóvel. Continuaria apertado por anos, e um atraso mudaria as contas de novo. Mas, pela primeira vez, havia um acordo que ela conseguia cumprir sem contar com o dinheiro dos bolos.
+O apartamento também tinha deixado de ser uma ameaça sem resposta. Mas não tinha sido simples chegar até ali.
+
+Na última reunião, Ricardo ainda queria receber a parte dele de uma vez. Camila abriu a planilha que levara impressa.
+
+— Se eu tivesse esse dinheiro, a gente não estaria discutindo parcelas — disse, com os dedos apertando a ponta da folha.
+
+Patrícia puxou a cadeira para perto. Repassaram os números, as propostas e os prazos. Houve uma pausa para cada um conversar com sua advogada ou advogado. Camila chegou a pensar que sairiam dali sem acordo outra vez.
+
+No fim, Ricardo aceitou receber sua parte em parcelas longas, registradas no acordo. A pensão continuaria em trinta por cento da renda líquida dele: com os doze mil que recebia naquele momento, eram três mil e seiscentos reais por mês para os dois filhos. Ele também assumiu a escola e o plano de saúde. Essa divisão levava em conta as despesas das crianças e a renda dos dois; não era uma conta pronta que servia para qualquer família.
+
+— A pensão é deles. Não entra como pagamento do apartamento — Patrícia lembrou, apontando os dois itens separados.
+
+Camila conferiu mais uma vez o que sobraria do próprio salário. Continuaria apertado por anos, e um atraso mudaria as contas de novo. Mas conseguia cumprir aquele acordo sem contar com o dinheiro dos bolos. Guardou a planilha na bolsa. Ainda teria contas para fazer. Já não precisava fazê-las no escuro.
 
 Com os filhos e os bens resolvidos, faltava o ato final. Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
 
@@ -28,7 +40,7 @@ Ele parou na porta. Hesitou.
 — Pra você também, Ricardo.
 
 E ele saiu.
-Onze anos de casamento. Dois filhos. Uma vida inteira construída e depois desfeita.
+Onze anos de vida de casados, mais um ano separados à espera dos papéis. Dois filhos. Uma vida inteira construída e depois desfeita.
 Encerrados em vinte minutos e uma caneta BIC.
 
 Camila saiu do cartório.
@@ -57,12 +69,12 @@ Ela estava sozinha.
 Divorciada.
 Com dois filhos para criar, uma carreira para alavancar, contas para pagar.
 
-E, em toda a sua vida adulta, ela não estava com medo.
+E, naquele momento, ela não estava com medo.
 Ela estava em paz.
 
 Ela pegou o celular. Abriu a câmera.
 Não tirou selfie. Tirou foto da xícara de café e do papel dobrado na mesa.
-Postou nos stories, apenas para ela (melhores amigos):
+Postou nos stories, só para a lista de melhores amigos:
 
 *"Fim. E começo."*
 
@@ -104,7 +116,7 @@ Camila olhou para a mesa, agora sem pratos nem papéis.
 
 — Cabem, sim.
 
-Na sexta-feira, Daniel escreveu para confirmar o café. Camila começou a digitar que talvez fosse cedo demais. Apagou. Não precisava sair com ele para provar que estava curada; também não precisava recusar só porque ainda sentia o peso daquele fim.
+Dias antes, Camila tinha escrito a Daniel perguntando se a oferta de outro café ainda valia. Na sexta-feira, ele escreveu para confirmar. Camila começou a digitar que talvez fosse cedo demais. Apagou. Não precisava sair com ele para provar que estava curada; também não precisava recusar só porque ainda sentia o peso daquele fim.
 
 *"Sábado, três horas. Posso ir devagar?"*, enviou.
 
@@ -174,7 +186,7 @@ Quando o garçom voltou, Daniel agradeceu. Camila percebeu que tinha prendido a 
 
 Conversaram mais.
 
-Ela contou que tinha voltado a pintar. Daniel perguntou se poderia ver um quadro algum dia. Ela disse que talvez, quando perdesse a vergonha. Ele contou sobre os alunos que insistiam em ler só o resumo dos livros.
+Ela contou de uma aquarela que tinha começado naquela semana. Daniel já conhecia os quadros da exposição, mas quis saber como uma pintura nascia. Camila explicou que às vezes começava só por uma cor e passava dias sem gostar de nada. Ele contou sobre os alunos que insistiam em ler só o resumo dos livros.
 
 E, num momento de silêncio confortável, Daniel disse algo que Camila não esperava:
 — Posso te confessar uma coisa? Eu também saí de um relacionamento difícil. Há três anos. Terminei um noivado. — Ele girou a xícara entre os dedos. — Não vou fingir que sei o que você passou. Cada dor é uma dor. Mas eu entendo o medo de confiar de novo. Eu tive esse medo.
@@ -234,7 +246,7 @@ Camila mexeu na xícara vazia. Era bom não precisar explicar o divórcio inteir
 
 ---
 
-Duas horas voaram.
+Mais de duas horas voaram.
 
 O garçom veio com dica sutil de que precisavam da mesa (fila de espera se formando).
 

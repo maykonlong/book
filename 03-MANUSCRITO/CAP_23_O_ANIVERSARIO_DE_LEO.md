@@ -8,9 +8,13 @@ Camila queria fazer uma festa. Não tinha dinheiro para bufê (o divórcio estav
 Festa das antigas. Bolo de cenoura com cobertura de chocolate. Brigadeiro enrolado na mão (com ajuda da Bia). Sanduíche de carne louca.
 Convidou três amigos da escola e os primos.
 
-Na véspera, a cozinha virou um campo de batalha doce. Camila ralou cenoura até o braço doer, com a Bia "ajudando" — ou seja, lambendo a espátula e espalhando chocolate pela testa. Ficaram até tarde enrolando brigadeiro, uma bola de cada vez, as mãos engorduradas e as risadas ecoando no apartamento. Não era uma festa de revista. Mas era feita de verdade, com tempo e suor e um amor que o dinheiro não comprava.
+Na véspera, a cozinha virou um campo de batalha doce. Camila preparou a massa do bolo, com Bia "ajudando" — ou seja, lambendo a espátula e espalhando chocolate pela testa. Enrolaram brigadeiros até a menina começar a bocejar. Camila a pôs na cama e terminou o restante com Dona Sônia, que tinha vindo ajudar.
 
-Quando a mesa ficou pronta, Camila olhou para aquilo — o bolo torto, os brigadeiros meio disformes, os copos descartáveis coloridos — e sentiu um orgulho esquisito. Era pouco. Mas era dela. Feito com as próprias mãos, no próprio tempo, sem delegar a ninguém.
+Quando a mesa ficou pronta, Camila olhou para o bolo, os brigadeiros de tamanhos diferentes e os copos coloridos. Dona Sônia puxou uma cadeira para ela.
+
+— Senta cinco minutos, filha. O resto espera.
+
+Camila sentou. A festa era simples e cabia no que podia oferecer naquele ano. Gostou de não ter precisado preparar tudo sozinha.
 
 Ricardo foi convidado, claro.
 — Vou passar lá — disse ele, seco.
@@ -23,7 +27,7 @@ Uma das mães, a do amigo Miguel, se aproximou enquanto Camila recolhia copos de
 — É... deu trabalho. — Camila sorriu, sem jeito.
 — Você é uma guerreira. — A mulher apertou o braço dela, num gesto de admiração genuína.
 
-*Guerreira.* Camila guardou a palavra. Não se sentia guerreira. Sentia-se exausta. Mas talvez exaustão e coragem fossem a mesma coisa, vista de fora.
+*Guerreira.* Camila não sabia o que responder ao elogio. Estava cansada e com sede. Pediu à mãe de Miguel que segurasse a bandeja enquanto ela bebia água.
 
 Às sete da noite, a campainha tocou.
 Era Ricardo.
@@ -40,7 +44,7 @@ Léo correu até o pai.
 Ricardo colocou a caixa no chão.
 Um PlayStation 5.
 
-O alarido foi geral. Os amigos do Léo gritaram "Ooooh!".
+A gritaria foi geral. Os amigos do Léo fizeram "Ooooh!".
 Léo arregalou os olhos.
 — Pai! Você comprou! Você comprou mesmo!
 
@@ -48,18 +52,18 @@ Léo arregalou os olhos.
 
 Camila sentiu um gosto amargo na boca.
 O presente dela estava em cima da mesa, embrulhado num papel simples.
-Era um kit de desenho profissional e um ingresso para eles irem juntos numa exposição de quadrinhos que o Léo queria muito ver.
+Era um estojo de lápis de cor e os ingressos para o passeio em família numa exposição de quadrinhos que Léo queria muito ver.
 Custou R$ 150,00.
 O videogame custava R$ 4.000,00.
 
-Léo rasgou a caixa do videogame. Estava em êxtase. Abraçou o pai.
+Léo rasgou o papel do videogame. Mal conseguia parar de pular. Abraçou o pai.
 — Você é o melhor pai do mundo!
 
 A frase foi uma facada.
 *Melhor pai do mundo.* O pai que não foi na apresentação da escola. O pai que não lavou a jaqueta. O pai que não sabia a data da prova de matemática.
 Mas o pai que comprou o brinquedo caro.
 
-E Camila engoliu a facada. Sorriu para o filho. Porque mãe não tem o direito de estragar o aniversário do menino com a própria dor. Mãe engole facada e continua servindo bolo. É o contrato invisível que ninguém assinou, mas todo mundo cumpre.
+Camila sentiu ciúme daquela alegria e teve vergonha do próprio ciúme. Levou a jarra vazia à cozinha e demorou um pouco enchendo-a. Léo podia gostar do presente do pai. O que ela sentia precisava de outro lugar, longe do aniversário dele.
 
 Ricardo ficou meia hora. Comeu dois brigadeiros, tirou fotos com Léo e o videogame para postar no Instagram (#Paizão #NiverDoLéo), e se despediu.
 
@@ -84,11 +88,11 @@ Mas ela continuou varrendo. Porque era isso que ela fazia: continuava. Varria, l
 Léo estava no sofá, quieto.
 — Mãe?
 — Oi, filho. Lava a mão pra dormir.
-— Mãe, abre seu presente.
+— Mãe, quero abrir o presente que você me deu.
 
 Camila parou.
 — Ah, filho. Deixa pra amanhã. O do pai foi tão legal...
-— Não. Abre agora. Eu quero ver.
+— Não. Quero ver agora.
 
 Camila pegou o pacote. Entregou para ele.
 Léo abriu com cuidado (diferente de como rasgou a caixa do pai).
@@ -118,18 +122,11 @@ Ele pegou o kit de desenho e foi para o quarto.
 
 Camila ficou na sala.
 Olhou para o papel de presente rasgado no chão.
-O dinheiro compra coisas. Compra barulho. Compra uma alegria que dura pouco.
-Mas não compra conexão.
-
-O presente simples podia valer mais que o caro porque vinha com presença. Criança sabe a diferença. No fundo, todo mundo sabe.
-
-Ricardo podia ter ganhado a noite com o cheque.
-Mas Camila tinha ganhado o filho com a presença.
-E, no fim das contas, era isso que ficava quando a festa acabava.
+Léo não precisava escolher um presente favorito para protegê-la. Podia querer jogar e querer passear com ela. Camila levou alguns segundos para aceitar uma coisa tão simples.
 
 Naquela noite, depois que a casa ficou em silêncio, Camila se sentou na cozinha, diante do que sobrou da festa: papel de presente rasgado, um prato com brigadeiros que ninguém comeu, o bolo cortado pela metade. E, num cantinho da mesa, o kit de desenho do Léo, aberto, com um lápis de cor azul já usado na ponta.
 
-Ele tinha dormido desenhando. Ela pegou o caderno dele. Havia um desenho novo: dois bonecos de mãos dadas, um grande e um pequeno, sob um sol amarelo. Embaixo, escrito com a letra torta de quem ainda está aprendendo:
+Ele não tinha esperado até a manhã seguinte para estrear os lápis. Antes de dormir, deixara na mesa um desenho novo: dois bonecos de mãos dadas, um grande e um pequeno, sob um sol amarelo. Embaixo, escrito com a letra dele:
 
 *"eu e a minha mãe na espozição"*.
 
@@ -137,17 +134,27 @@ Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na
 
 Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.
 
-Na manhã seguinte, Camila acordou com um barulho estranho vindo da sala. Foi ver. Léo estava sentado no sofá, de pijama, com o kit de desenho aberto no colo, copiando com uma concentração de adulto a capa de um gibi.
+No sábado seguinte, a promessa saiu do papel.
 
-Ela ficou parada na porta, sem querer interromper. O filho dela, que podia estar hipnotizado pelo videogame caro, tinha escolhido os lápis. Os lápis de quinze reais. Os lápis que vieram junto com a promessa de um sábado de metrô e pastel.
+Léo levou o caderno no metrô e tentou desenhar um homem que dormia sentado. O balanço do vagão deixou o nariz torto. Bia disse que parecia uma batata, e os dois riram até perder o ponto em que estavam.
 
-— Mãe, olha — ele disse, mostrando o desenho. Era um boneco de capa e espada, meio torto, meio lindo.
+Na exposição, Camila precisou conter a pressa de chamar os filhos para a sala seguinte. Léo tinha parado diante de uma sequência de desenhos: primeiro os riscos a lápis, depois a tinta, por fim a página colorida.
 
-— Tá incrível, filho. — Camila se sentou ao lado dele. — Quer ir comigo à exposição dos heróis no sábado? A gente leva o caderno e desenha lá.
+— Eles erram antes de ficar pronto, mãe?
 
-O sorriso que abriu no rosto do Léo valia mais do que qualquer PlayStation.
+— Bastante, pelo visto.
 
-E Camila soube, naquele instante, que tinha ganhado a noite não porque tinha comprado o presente mais barato, mas porque tinha comprado o presente que precisava dela para existir. O presente era só a desculpa. O verdadeiro presente era o sábado juntos.
+O menino olhou para o próprio caderno e apagou o nariz do passageiro com menos raiva do que costumava ter quando o desenho não saía como queria.
+
+Depois comeram pastel. Bia derrubou um pedaço do recheio no colo; Léo queimou a ponta da língua por não esperar esfriar. Camila tirou uma fotografia dos dois fazendo careta.
+
+— Posso mandar pro pai? — Léo perguntou.
+
+Ela lhe entregou o celular.
+
+Léo mandou a foto e escreveu que estava desenhando heróis. Esperou um pouco pela resposta. Quando ela não veio, guardou o aparelho e pegou o lápis de novo.
+
+Camila viu. Não tentou preencher aquele silêncio por Ricardo. Abriu um guardanapo sobre a mesa, e Bia pediu que ela desenhasse também.
 
 
 

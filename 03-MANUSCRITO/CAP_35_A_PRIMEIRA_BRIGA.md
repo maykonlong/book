@@ -3,7 +3,7 @@
 
 Começou por causa de uma mensagem não respondida.
 
-Não foi nada grave — Camila sabia disso. Mas às oito da noite, quando Daniel apareceu sem ter avisado que ia atrasar, e ainda por cima sem olhar o celular por três horas, uma coisa velha acordou dentro dela.
+Tinham combinado jantar às sete. Desde as cinco, as mensagens de Camila ficavam sem resposta. Às oito, quando Daniel apareceu sem ter avisado do atraso, ela já tinha servido as crianças. Os dois tinham ido para o quarto, mas o jantar dela continuava sobre a mesa. Uma coisa velha acordou dentro de Camila.
 
 — Você não respondeu nenhuma das minhas mensagens — disse ela, com uma calma que era pior do que gritar.
 
@@ -57,7 +57,7 @@ Camila virou de costas, com um prato em cada mão.
 
 — Nem eu. Mas isso já é uma briga.
 
-Por alguns segundos, nenhum dos dois soube como continuar. O jantar esfriava. A torneira pingava. Era uma cena comum — e talvez por isso doesse tanto.
+Por alguns segundos, nenhum dos dois soube como continuar. O jantar esfriava. O motor da geladeira fazia um ruído baixo. Era uma cena comum — e talvez por isso doesse tanto.
 
 Daniel passou as mãos pelo rosto.
 
@@ -83,7 +83,7 @@ A frase doeu porque era verdadeira.
 
 Daniel precisava entender a ferida dela. Mas ela também precisava enxergar o homem diante dela, não apenas o fantasma atrás dele.
 
-Os dez minutos pareceram uma hora. No oitavo, Camila teve certeza de que ele não voltaria. No nono, quis mandar uma mensagem. No décimo, ouviu a chave.
+Os dez minutos pareceram uma hora. No oitavo, Camila teve certeza de que ele não voltaria. No nono, quis mandar uma mensagem. No décimo, ouviu a campainha e foi abrir.
 
 Daniel entrou mais calmo. Deixou o celular sobre a mesa, como quem deixava uma arma longe.
 
@@ -131,7 +131,7 @@ Quando terminou, estava chorando. E o Daniel estava chorando também.
 
 Daniel a olhou com uma ternura que ela não esperava.
 
-— Eu vou fazer uma coisa que ele nunca fez — disse ele. — Eu vou ficar. E amanhã, quando eu atrasar de novo, eu vou te avisar. Porque agora eu sei que pra você isso não é frescura. É ferida.
+— Eu quero ficar — disse ele. — E devia ter avisado que a reunião atrasou, mesmo sem saber de tudo isso. A gente tinha combinado um horário. Você não precisava contar uma coisa tão difícil para ter razão de cobrar uma mensagem.
 
 Camila enxugou o rosto.
 
@@ -163,11 +163,13 @@ E, ainda assim, ela chorou.
 
 Porque o Ricardo tinha passado onze anos sem nunca entender que eram exatamente essas mensagens — as pequenas, as do dia a dia, as que diziam "eu me importo com o seu sossego" — que construíam a confiança.
 
-E o Daniel tinha entendido em uma noite.
+Daniel não tinha como entender tudo numa noite. Mas tinha ouvido o pedido e começado pelo que podia cumprir.
 
 Camila respondeu:
 
-*"Ok. Vou deixar o jantar quente."*
+*"Ok. Hoje você pode trazer o jantar?"*
+
+*"Posso. Já fica por minha conta."*
 
 E sentiu, enfim, que esperar alguém podia ser uma coisa boa.
 

@@ -1,12 +1,12 @@
 # Pendências da edição atual
 
-Atualizado em 26/09/2026. A lista detalhada e a ordem de decisão estão em [STATUS_ATUAL.md](STATUS_ATUAL.md). Este arquivo existe como índice curto para quem vinha usando o checklist antigo.
+Atualizado em 29/09/2026. A lista detalhada e a ordem de decisão estão em [STATUS_ATUAL.md](STATUS_ATUAL.md). Este arquivo existe como índice curto para quem vinha usando o checklist antigo.
 
 ## Já concluído
 
-- Manuscrito de 40 capítulos, 62.724 palavras de história, versão beta e leitor online no GitHub Pages.
+- Manuscrito de 40 capítulos, 63.505 palavras de história, versão beta e leitor atualizados; envio ao GitHub autorizado em 29/09, com conferência do deploy antes de compartilhar a edição pública.
 - Nome literário Mariana Duarte, bio e agradecimentos atualizados de acordo com a escolha do autor.
-- EPUB, capa Kindle, miolo de 324 páginas, capa impressa correspondente, metadados, ZIP e hashes gerados e validados tecnicamente.
+- EPUB, capa Kindle, miolo de 328 páginas, capa impressa correspondente, metadados, ZIP e hashes gerados e validados tecnicamente.
 
 ## A fazer, nesta ordem
 

@@ -1,7 +1,7 @@
 # CAPÍTULO 33
 ## As Crianças Conhecem Daniel
 
-Camila ensaiou aquele dia por semanas, como quem ensaia uma cirurgia. Não era só apresentar um homem aos filhos. Era apresentar uma possibilidade de felicidade — e arriscar, ao mesmo tempo, o porto seguro que ela tinha custado lágrimas para erguer.
+Camila ensaiou aquele dia por semanas. Não era só apresentar um homem aos filhos. Era deixar alguém entrar numa vida que ela tinha custado a reorganizar. Estava feliz com Daniel, mas não queria apressar as crianças para que acompanhassem a sua vontade.
 
 Léo tinha nove. Bia, cinco. Idades suficientes para sentir, mas não para entender direito. Camila sabia que aquele dia ficaria gravado neles para sempre.
 
@@ -15,7 +15,7 @@ Daniel chegou às cinco, pontual, com uma caixa de pizza e um jogo de tabuleiro 
 
 Léo estava no sofá, de braços cruzados, com cara de segurança de boate avaliando um suspeito. Bia estava no chão, desenhando.
 
-— Léo, Bia, esse é o Daniel. — A voz de Camila saiu mais firme do que ela se sentia. — Ele é meu amigo. Queria que vocês conhecessem.
+— Léo, Bia, esse é o Daniel, de quem eu falei. — A voz de Camila saiu mais firme do que ela se sentia. — A gente está namorando. Queria que vocês conhecessem.
 
 — Oi, gente. Trouxe pizza e um jogo. Alguém sabe jogar Detetive?
 
@@ -75,7 +75,7 @@ Mais tarde, enquanto Bia procurava uma peça do jogo embaixo do sofá, Léo perg
 
 — Você quer ser nosso pai agora?
 
-Camila congelou na cozinha.
+Camila, que tinha ido buscar mais suco, parou na porta da cozinha.
 
 Daniel também pareceu surpreso, mas não desviou.
 
@@ -105,7 +105,7 @@ Camila sentou ao lado de Léo. Ele se inclinou e sussurrou:
 
 Três palavras. Para Camila, valiam mais do que qualquer declaração.
 
-Na despedida, Daniel deu high five para Bia e um aperto de mão respeitoso para Léo, como entre dois cavalheiros.
+Na despedida, Daniel bateu a palma da mão na de Bia e deu um aperto de mão respeitoso em Léo, como entre dois cavalheiros.
 
 — Foi muito bom conhecer vocês.
 
@@ -123,13 +123,13 @@ Depois que ele foi embora, Camila colocou as crianças para dormir. Léo, antes 
 
 Camila beijou a testa do filho.
 
-— Ele faz, filho. Ele faz.
+— Ele faz, filho. Mas você pode conhecer ele no seu tempo. Não precisa gostar de alguém só porque eu gosto.
 
 ---
 
-Naquela semana, Camila observou os filhos de um jeito novo.
+Nas semanas seguintes, Camila observou os filhos de um jeito novo.
 
-Bia perguntava todo dia se "o amigo da mãe" ia voltar. Léo, mais discreto, fazia perguntas indiretas: "o Daniel gosta de videogame?", "ele torce pra que time?", "ele cozinha?".
+Bia perguntava todo dia se Daniel ia voltar. Léo, mais discreto, fazia perguntas indiretas: "o Daniel gosta de videogame?", "ele torce pra que time?", "ele cozinha?".
 
 Camila respondia tudo, com paciência. Porque sabia que, por trás de cada pergunta, havia uma pergunta maior: *esse homem vai ser bom pra minha mãe? Vai ser bom pra gente? Vai ficar?*
 
@@ -147,7 +147,7 @@ Camila sentiu a garganta fechar.
 
 — E o papai? — arriscou, com cuidado.
 
-— O papai vai ficar num desenho separado — disse Léo, simples. — Ele não mora mais com a gente.
+— O papai vai ficar num desenho separado — disse Léo, simples. — Vou fazer a casa dele também. Aqui é o dia da pizza.
 
 E continuou colorindo o sol.
 

@@ -1,23 +1,26 @@
 # CAPÍTULO 25
 ## O Contraste
 
-Sábado de manhã. Camila foi buscar as crianças no apart-hotel de Ricardo.
-Normalmente ele as deixava na portaria. Mas hoje, Léo tinha esquecido a bombinha de asma lá em cima. E Léo estava tossindo.
+Ricardo cumpriu a promessa de buscar os filhos no sábado. No domingo de manhã, porém, telefonou pedindo que Camila os pegasse mais cedo: tinha um compromisso de trabalho. Ela foi à kitnet que ele alugara depois de deixar o apart-hotel.
 
-— Sobe lá pra pegar, Camila. Tô terminando de me arrumar — disse Ricardo pelo interfone.
+Na portaria, Léo percebeu que a bombinha de asma tinha ficado lá em cima. Estava tossindo. Camila subiu com os dois para buscá-la.
+
+— Podem subir. Tô terminando de me arrumar — disse Ricardo pelo interfone.
 
 Camila subiu. Coração acelerado. Entrar na "casa" dele. Território inimigo.
 
-O elevador era daqueles antigos, com espelho arranhado e cheiro de cigarro velho. Camila olhou o próprio reflexo no metal e se perguntou o que exatamente temia encontrar. O Ricardo que ela conhecia era impecável. O Ricardo que vivia num apart-hotel, sozinho, sem ela para arrumar a cama e lavar as xícaras — esse era um desconhecido.
+O elevador era daqueles antigos, com espelho arranhado e cheiro de cigarro velho. Camila olhou o próprio reflexo no metal e se perguntou o que exatamente temia encontrar. O Ricardo que ela conhecia era impecável. O Ricardo que vivia sozinho numa kitnet, sem ela para arrumar a cama e lavar as xícaras — esse era um desconhecido.
 
 A porta estava destrancada.
 Ela entrou.
 
-O cheiro bateu primeiro. Uma mistura de roupas guardadas úmidas, pizza de ontem e desinfetante barato do hotel.
+O cheiro bateu primeiro. Uma mistura de roupas guardadas úmidas, pizza de ontem e desinfetante barato.
 A sala estava um caos. Caixa de pizza no sofá, aberta, com uma fatia endurecida. Tênis jogado no meio do caminho. Copos sujos na mesa de centro, um com uma película de café seco no fundo. A toalha dele enrolada na maçaneta da porta, como se ninguém nunca tivesse ensinado onde pendurar.
 
 Ricardo apareceu do quarto, abotoando a camisa. Cabelo molhado.
-— O Léo tá procurando a bombinha no quarto — disse ele, sem graça.
+— Deve estar perto da cama — disse ele, sem graça.
+
+Camila foi com Léo procurar. Encontraram o estojo de remédio debaixo da cama, junto de uma meia. Ela conferiu a bombinha e o ajudou a usá-la como o pediatra havia orientado. Só quando a tosse diminuiu voltou a prestar atenção à sala.
 
 Camila olhou em volta.
 Em casa, Ricardo sempre reclamava de "bagunça". Se tivesse um brinquedo no chão, era crise.
@@ -54,7 +57,7 @@ A frase não chegou com raiva. Chegou com uma clareza que a deixou tonta. Durant
 Durante onze anos, ela foi a gerente da vida dele. A que garantia que a camisa estava passada, que a casa cheirava a lavanda, que a comida estava na mesa.
 Ela era o andaime que sustentava a fachada de "homem de sucesso organizado".
 
-Sem ela, ele era isso. Um homem de 36 anos que não sabia lavar um copo.
+Sem ela recolhendo tudo, a bagunça dele ficava à vista.
 
 Camila sentiu uma vontade súbita de rir.
 Não de deboche. Mas de alívio.
@@ -62,15 +65,15 @@ Não de deboche. Mas de alívio.
 Ela passara anos achando que *ela* era o problema. Que *ela* não era boa o suficiente. Que *ela* era desorganizada.
 Mas a desordem dele provava o contrário.
 
-Durante onze anos, ela se perguntou por que a casa nunca ficava "perfeita" o suficiente, por que a louça nunca estava "no lugar" e por que ela nunca conseguia alcançar o padrão que ele parecia exigir.
+Naquela kitnet, ela enxergou quanto trabalho seu havia sustentado a aparência de ordem da antiga casa.
 
-A resposta estava ali, naquela kitnet fedorenta: o padrão não era dele. O padrão era o dela — alto, invisível, autoimposto — e ela o carregava sozinha. Ele só cobrava. Ele nunca construía.
+Léo guardou o estojo na mochila. Bia pegou a boneca que tinha deixado sobre uma almofada.
 
-Léo saiu do quarto com a bombinha.
-— Achei, mãe! Tava debaixo da cama do pai. Junto com uma meia suja.
+— O remédio precisa ficar num lugar fácil de achar, Ricardo — disse Camila. — Confere com o Léo antes de ele ir embora.
 
-Camila segurou o riso.
-— Vamos, filho. Tchau, Ricardo. Tente passar essa camisa melhor na próxima. Tá marcando.
+Ricardo assentiu, olhando para a mochila.
+
+— Vamos, crianças.
 
 Saiu e fechou a porta.
 Desceu o elevador sentindo-se três quilos mais leve.
@@ -79,7 +82,7 @@ No saguão, olhou para o próprio reflexo no vidro da portaria. A mulher de cost
 
 O mito do Ricardo Perfeito tinha caído.
 E com ele, a última ponta de admiração que ainda a prendia.
-Ela não tinha perdido um parceiro incrível. Tinha se livrado de um projeto de reabilitação vitalício.
+Ela não precisava voltar para pôr aquela casa em ordem. Podia cuidar da segurança dos filhos e deixar a camisa amarrotada por conta dele.
 
 Era um dia de clareza: ela enfim entendia que a bagunça, a culpa e a exaustão não eram defeitos dela. Havia liberdade naquela descoberta.
 
@@ -88,7 +91,7 @@ Era um dia de clareza: ela enfim entendia que a bagunça, a culpa e a exaustão 
 À tarde, em casa, Camila resolveu mexer numa caixa de fotos antigas.
 Precisava ver. Confirmar.
 
-Achou uma foto de dez anos atrás. Recém-casados.
+Achou uma foto de quase doze anos atrás, quando ainda eram recém-casados.
 Camila estava magra demais. Sorriso tenso. Olhos de quem quer agradar.
 Ricardo estava impecável. Sorriso de dono do mundo. Mão no ombro dela, possessivo.
 
@@ -119,16 +122,16 @@ E a nova Camila não trocaria de lugar com ela por nada nesse mundo.
 Antes de fechar a caixa, Camila pegou o celular e tirou uma foto daquela Camila antiga — a da boneca de porcelana. Não para guardar. Para lembrar de onde tinha vindo.
 
 Depois, mandou para Fernanda, com uma legenda:
-*"Essa aí eu enterrei hoje."*
+*"Olha a cara de quem achava que precisava acertar tudo. Deu vontade de abraçar essa Camila."*
 
 Fernanda respondeu em segundos:
-*"Descansa em paz. E viva a nova."*
+*"Abraça. Foi ela que te trouxe até aqui."*
 
 Camila riu. E, agora, olhar para o próprio passado não doeu.
 
 Foi como olhar um retrato antigo de uma parente distante: você reconhece, sente até um carinho, mas não é mais você.
 
-No sábado, três aquarelas suas estariam penduradas no ateliê, à vista de gente que não a conhecia. Camila olhou para as próprias mãos. Estava pronta para ser vista sem poder escolher o que os outros enxergariam?
+No sábado seguinte, três aquarelas suas estariam penduradas no ateliê, à vista de gente que não a conhecia. Camila olhou para as próprias mãos. Estava pronta para ser vista sem poder escolher o que os outros enxergariam?
 
 
 

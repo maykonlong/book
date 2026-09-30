@@ -17,7 +17,7 @@ Incluindo as crianças.
 
 ---
 
-Ricardo saiu naquela noite.
+Dona Vera foi embora pouco depois. Ricardo saiu naquela noite.
 
 Depois do confronto com Dona Vera, depois de Camila se trancar no quarto, ele bateu na porta e gritou mais algumas coisas (você vai se arrepender, você está sendo egoísta, você está destruindo essa família). Camila não respondeu. Por fim, ele cansou. Pegou as chaves. Saiu batendo a porta.
 
@@ -73,13 +73,17 @@ Camila tentou simplificar:
 
 — Às vezes duas pessoas se casam e são felizes, mas com o tempo percebem que não são mais. Quando isso acontece, o melhor é cada um seguir seu caminho, para que todos sejam mais felizes.
 
-— Eu sei, meus amores. Eu também não quero que fiquem separados, mas preciso ser honesta.
+— Mas eu não quero que vocês morem separados — disse Bia.
+
+— Eu sei, meu amor. Sei que é difícil ouvir isso. Vocês podem ficar tristes e perguntar o que quiserem.
 
 — Eu vou ter que escolher? — Léo perguntou. — Entre você e o papai?
 
 — Não. Nunca. Vocês vão ter os dois. Sempre. Só em casas diferentes.
 
-— Como vai ser? Ainda estamos definindo a rotina, mas vocês vão passar dias comigo e dias com o papai. Sempre podem me ligar.
+— Como vai ser? — perguntou Léo.
+
+— Ainda estamos definindo a rotina, mas vocês vão passar tempo comigo e com o papai. Sempre podem me ligar.
 
 — E nas férias? — Bia perguntou, ainda chorando. — E no Natal?
 
@@ -127,7 +131,7 @@ Ele parou ao vê-la.
 
 — Você contou para elas.
 
-— Contei. Eles mereciam saber direto da gente.
+— Contei. Eles mereciam ouvir a verdade de mim, já que você tinha saído.
 
 Ricardo passou a mão no rosto. Pareceu abalado de verdade.
 
@@ -141,9 +145,9 @@ Por um segundo - só um segundo - Camila quase sentiu pena. Quase voltou atrás.
 
 Mas então lembrou.
 
-Lembrou de todas as vezes que pediu ajuda e não recebeu. De todas as noites que chorou sozinha. De todas as tentativas ignoradas. De Léo, oito anos, tendo que acordar o pai porque a mãe estava doente.
+Lembrou de todas as vezes que pediu ajuda e não recebeu. De todas as noites que chorou sozinha. De Léo tocando sua testa febril depois de ouvir do pai que ela estava com preguiça.
 
-Lembrou que não era só uma briga. Era anos de desconexão.
+Lembrou que não era só uma briga. Eram anos sem poder contar com ele.
 
 E a pena passou.
 
@@ -175,7 +179,7 @@ Mas era tarde. Tarde demais.
 
 Camila balançou a cabeça.
 
-— Não é sobre fazer uma lista e checkbox. É sobre você não precisar de lista. É sobre você querer. E você só quer agora porque eu estou indo embora. Não porque você entendeu. Mas porque você está perdendo o conforto.
+— Não adianta eu fazer mais uma lista e você cumprir por dois dias. Eu preciso dividir a responsabilidade de verdade. E você só quer conversar agora que percebeu que eu estou indo embora.
 
 Ricardo ficou em silêncio.
 
@@ -201,13 +205,9 @@ Mas era paz.
 
 A paz de quem por fim parou de nadar contra a correnteza.
 
-De quem por fim se permitiu soltar.
+De quem por fim se permitiu soltar o que já não conseguia segurar.
 
-E se afundar.
-
-Ou flutuar.
-
-O que viesse, viria.
+Ainda não sabia como seriam os próximos dias.
 
 Mas ela não ia mais lutar sozinha por algo que precisava de dois.
 
@@ -217,7 +217,7 @@ Não mais.
 
 Na manhã seguinte, Camila acordou cedo.
 
-Fez café. Acordou as crianças. Lancheira. Fez tudo como sempre.
+A febre não tinha voltado, mas o corpo ainda estava fraco. Avisou ao trabalho que continuaria afastada naquele dia e pediu à mãe que buscasse as crianças à tarde. De manhã, conseguiu preparar as lancheiras e levá-las à escola.
 
 Mas algo era diferente.
 
@@ -245,9 +245,9 @@ A pergunta foi uma faca no coração. Porque oito anos. Ele tinha oito anos e es
 
 E Camila sentiu, ali, um medo que não tinha sentido nem diante do Ricardo: o medo de decepcionar aquele menino. De prometer uma felicidade que não sabia se conseguiria cumprir. De falhar com ele do jeito que o pai falhava.
 
-Mas Camila sorriu. Genuíno, como há muito não era.
+Mas Camila conseguiu dar um sorriso, pequeno e sincero.
 
-— Vou sim. Eu prometo. E você também vai. Todo mundo vai.
+— Eu estou cuidando disso, filho. A vovó e a Fê estão me ajudando. Você não precisa cuidar de mim, tá?
 
 Ele aceitou. Porque quis acreditar. E porque precisava acreditar.
 

@@ -2,7 +2,7 @@
 
 **Livro:** *A Metade Que Me Faltava Era Eu*
 
-**Versão do texto:** 40 capítulos, 62.724 palavras de história. Confira o commit enviado à equipe antes de registrar as respostas; as páginas bíblicas foram acrescentadas depois da base `cd09ccf`.
+**Versão do texto:** 40 capítulos, 63.505 palavras de história na revisão de 29/09/2026. Confira o commit enviado à equipe antes de registrar as respostas; não misture observações da base anterior `cd09ccf` com esta rodada.
 
 **Objetivo:** testar a experiência real de leitura antes de congelar os arquivos de publicação. Esta rodada não é autorização para publicar ou mudar a estratégia do site.
 

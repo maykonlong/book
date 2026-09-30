@@ -10,6 +10,8 @@ import sys
 import zipfile
 from pathlib import Path
 
+from pypdf import PdfReader
+
 
 ROOT = Path(__file__).resolve().parents[1]
 PACKAGE = ROOT / "PACOTE_PUBLICACAO" / "AMAZON_KDP"
@@ -82,6 +84,30 @@ def validate_chapters() -> int:
     leftovers = [token for token in FORBIDDEN_TEXT if token.casefold() in combined.casefold()]
     if leftovers:
         fail(f"Resíduos linguísticos encontrados: {leftovers}")
+    editorial_regressions = {
+        9: ("tendo que acordar o pai", "Eles mereciam saber direto da gente"),
+        10: ("E Fi ficaram", "sobressaltada", "por sentir sozinha", "A gente ainda dá tempo"),
+        11: ("caneta em riste", "Mais uma ruptura", "Léo tentando acordar o pai"),
+        12: ("Não apagaram as parcelas da escola", "Abril estava no dia 8"),
+        13: ("via jornal", "amava pequeno"),
+        15: ("(recém-cortado)", "Vira-se", "ia atrás quinze minutos", "Segunda, quarta e domingo:"),
+        16: ("primeira visita oficial", "Um Sábado Só Minha"),
+        17: ("Quatorze anos depois", "não conseguiu lembrar a última vez que tinha feito algo só para ela"),
+        18: ("Porque era terça. Crianças com o pai",),
+        21: ("se eles vão voltar", "Fechou diário", "Não felicidade. Mas aceitação"),
+        25: ("no apart-hotel de Ricardo",),
+        29: ("Ela contou que tinha voltado a pintar. Daniel perguntou", "apenas para ela (melhores amigos)"),
+        31: ("onze anos de Dia das Mães",),
+        38: ("malas na calçada", "gritando que ela tinha estragado tudo"),
+        39: ("Camila encontrou seu diário antigo", "No dia seguinte, Camila encontrou Daniel"),
+        40: ("Era o Ato I", "uma novidade recente que todos adoravam"),
+    }
+    for chapter_number, tokens in editorial_regressions.items():
+        for token in tokens:
+            if token.casefold() in texts[chapter_number - 1].casefold():
+                fail(f"Regressão editorial no capítulo {chapter_number}: {token}")
+    if re.search(r"(?<!Um )Dia de cada vez", texts[9], re.I):
+        fail("Expressão incompleta no capítulo 10: 'Dia de cada vez'")
     if "Tipo o quê? eu" in combined:
         fail("Letra minúscula indevida após interrogação")
 
@@ -91,9 +117,9 @@ def validate_chapters() -> int:
     continuity_markers = {
         1: "bombinha de asma do Léo",
         9: "Ricardo voltou para casa tarde",
-        10: "mudança definitiva de Ricardo",
+        10: "A mudança definitiva aconteceu",
         11: "gerente comercial",
-        12: "Abril estava no dia 8",
+        12: "Era a primeira semana de abril",
         19: "Não tinha parado de trabalhar",
         27: "Camila Ferreira Santos",
         29: "sempre imaginei que seria pai",
@@ -110,6 +136,12 @@ def validate_chapters() -> int:
         fail("Família de Daniel divergente entre os capítulos 30 e 37")
     if "Voltar ao escritório depois da separação" in texts[18]:
         fail("O capítulo 19 sugere uma ausência do trabalho que não ocorreu")
+
+    compiled = (ROOT / "manuscrito_completo.md").read_text(encoding="utf-8-sig")
+    for chapter_number, chapter_text in enumerate(texts, 1):
+        normalized = "\n".join(line.rstrip() for line in chapter_text.strip().splitlines())
+        if normalized not in compiled:
+            fail(f"Manuscrito consolidado desatualizado no capítulo {chapter_number}")
 
     repeated_sentences: dict[str, set[int]] = {}
     for chapter_number, text in enumerate(texts, 1):
@@ -159,6 +191,9 @@ def validate_site_links() -> None:
         fail("Referências locais ausentes: " + ", ".join(sorted(missing)))
 
     reader = (ROOT / "ler.html").read_text(encoding="utf-8")
+    for relative_path in re.findall(r"file:\s*'([^']+)'", reader):
+        if not (ROOT / relative_path).is_file():
+            fail(f"Fonte do leitor ausente: {relative_path}")
     if "00-PLANEJAMENTO/ULTIMA_PALAVRA.md" not in reader or 'class="front-cover"' not in reader:
         fail("Leitor sem capa de abertura ou convite final em tela própria")
     for source in ("ABERTURA_BIBLICA.md", "CONSAGRACAO_FINAL.md"):
@@ -168,6 +203,8 @@ def validate_site_links() -> None:
         fail("Índice online deve ter abertura, página bíblica, 40 capítulos e três páginas finais")
     if "metade-leitor-progresso-v2" not in reader or "metade-leitor-progresso-v1" not in reader:
         fail("Novo índice do leitor não preserva o marcador da edição anterior")
+    if "scroll-behavior: smooth" in reader or "behavior: 'instant'" not in reader or "loadSequence" not in reader:
+        fail("Troca de capítulo pode manter a rolagem anterior ou sofrer corrida entre carregamentos")
     index = (ROOT / "index.html").read_text(encoding="utf-8")
     if 'href="./ler.html?cap=1">Começar' in index or 'href="./ler.html?inicio=1"' not in index:
         fail("CTA de início não abre a capa e as páginas iniciais")
@@ -244,6 +281,13 @@ def validate_site_content() -> None:
     data = json.loads(json_match.group(1))
     graph = data.get("@graph", [])
     book = next(item for item in graph if item.get("@type") == "Book")
+    story_words = sum(
+        len(re.findall(r"\b[\wÀ-ÿ]+\b", "\n".join(path.read_text(encoding="utf-8-sig").splitlines()[2:])))
+        for path in (ROOT / "03-MANUSCRITO").glob("CAP_*.md")
+    )
+    print_pages = len(PdfReader(str(PACKAGE / "impresso" / "miolo-5.5x8.5-creme-sem-sangria.pdf")).pages)
+    if book.get("wordCount") != story_words or book.get("numberOfPages") != print_pages:
+        fail("Métricas do Book no site diferem da história ou do PDF atual")
     item_list = next(item for item in graph if item.get("@type") == "ItemList")
     faq = next(item for item in graph if item.get("@type") == "FAQPage")
 
@@ -376,7 +420,7 @@ def main() -> int:
                 "ilustracoes": len(ILLUSTRATED_CHAPTERS),
                 "temas_na_pagina": len(THEMES),
                 "arco_final": "OK",
-                "linguagem": "OK",
+                "regressoes_linguisticas_conhecidas": "OK (não substitui leitura editorial)",
                 "dados_estruturados": "OK",
                 "manuscrito_beta": "OK",
                 "links_locais": "OK",

@@ -7,9 +7,9 @@ Foi numa terça-feira à noite, quando Camila estava arrumando a cozinha e Léo 
 
 Camila fechou a torneira devagar, como se o tempo a ajudasse a achar as palavras certas.
 
-Léo tinha nove anos. Bia, cinco. Eles tinham ouvido "a gente não se ama mais", "não foi culpa de vocês", "o pai vai continuar amando vocês". Mas, como toda criança, ele tinha guardado a pergunta que doía mais: *por quê?*
+Léo tinha nove anos. Bia, cinco. Camila já tinha explicado, inclusive depois da apresentação na escola, que a separação não era culpa deles. Mas a pergunta voltava depois de uma promessa desfeita ou de uma despedida rápida demais.
 
-E, naquela noite, ela saiu.
+Naquela noite, precisava ouvir o que tinha mudado para o filho.
 
 ---
 
@@ -23,7 +23,7 @@ Léo deu de ombros.
 
 O coração de Camila apertou.
 
-*Claro.* Ela devia ter imaginado. Criança sempre acha que é por causa dela.
+Camila reconheceu a dúvida que ele já tinha trazido meses antes. Saber que não era culpado numa noite não fazia o medo desaparecer para sempre.
 
 — Léo — disse ela, segurando a mão do filho —, escuta o que eu vou te dizer, e escuta com atenção. O seu pai não foi embora por causa de você. Nem da Bia. Ele foi embora porque... a gente deixou de saber ficar junto. Isso é coisa de adulto. Nunca foi, e nunca vai ser, culpa de vocês.
 
@@ -43,7 +43,7 @@ Houve um silêncio. Do tipo que as mães aprendem a respeitar.
 
 Camila sentiu os olhos arderem.
 
-— Pode — disse ela, e a voz saiu firme, mesmo com o nó na garganta. — Você pode amar o seu pai o quanto quiser. Isso não me machuca. Isso não diminui o meu amor por você. Na verdade... — ela engoliu — me deixa mais orgulhosa ainda.
+— Pode — disse ela, e a voz saiu firme, mesmo com o nó na garganta. — Você pode amar o seu pai o quanto quiser. Não precisa esconder isso de mim. Também pode ficar bravo com ele. O que você sente não muda o meu amor por você.
 
 Léo baixou a cabeça, e Camila viu duas lágrimas caírem no tampo da mesa.
 
@@ -65,7 +65,7 @@ Bia fez que sim, mastigando devagar, como se digerisse algo maior do que cereal.
 
 Camila sentou ao lado da filha e passou a mão no cabelo dela.
 
-— A gente não vai fazer isso, Bia. Você e o Léo são a minha casa. Eu não vou a lugar nenhum sem vocês. Entendeu?
+— O combinado de vocês continua o mesmo, Bia. Se alguma coisa precisar mudar, vamos conversar com vocês antes. Ninguém vai te mandar embora de repente.
 
 Bia olhou para ela, e os olhos se encheram d'água.
 
@@ -153,7 +153,7 @@ Na manhã seguinte, Léo encontrou uma mensagem de voz do pai. Ouviu com o celul
 
 A pergunta veio com esperança e medo misturados.
 
-— Acho que ele vai tentar. E, se esquecer, você pode ficar bravo. Mas nunca precisa achar que foi culpa sua.
+— Ele disse que colocou no calendário. Vamos esperar o sábado. E você pode contar a ele como se sente quando ele não cumpre o combinado. Isso nunca é culpa sua.
 
 Léo guardou o celular no bolso.
 

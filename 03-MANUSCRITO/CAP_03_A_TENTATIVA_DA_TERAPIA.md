@@ -3,7 +3,7 @@
 
 Três dias depois do aniversário de Léo, Camila ainda pensava no que Ricardo tinha dito na cozinha. Tinha salvado o número de uma psicóloga, mas não sabia como tocar no assunto.
 
-Quarta-feira à noite.
+Terça-feira à noite.
 
 A casa estava por fim quieta. As crianças dormiam. A máquina de lavar louça fazia seu zumbido sem parar na cozinha — um dos poucos aparelhos naquela casa que realmente ajudava Camila quando ela apertava um botão.
 
@@ -49,7 +49,7 @@ Ele suspirou. Não foi um suspiro alto, teatral. Foi curto: soltou o ar pelo nar
 
 — Sozinha? — Ele riu, nervoso. — Agora vai dizer que eu não fiz nada?
 
-— Ricardo, escuta. — Ela se inclinou para frente. — A gente não está bem. Quase não conversa. Eu cuido da casa e das crianças, você trabalha e paga as contas, e a gente se cruza no corredor. Eu me sinto sozinha. E acho que você também deve sentir falta de como a gente era antes.
+— Ricardo, escuta. — Ela se inclinou para a frente. — A gente não está bem. Quase não conversa. Nós dois trabalhamos, mas a casa e as crianças ficam por minha conta. A gente só se cruza no corredor. Eu me sinto sozinha. E acho que você também deve sentir falta de como a gente era antes.
 
 Ele a encarava sem dizer nada. Tédio? Medo? Fome?
 
@@ -77,7 +77,7 @@ A "Barra do Mínimo" apareceu novamente.
 
 — Ah, pronto. O drama da "mulher guerreira". Camila, eu trabalho dez horas por dia! Você acha que eu fico coçando no escritório? Eu carrego o peso financeiro dessa família.
 
-— E eu cuido de todo o resto! — A voz dela subiu. — Quem marca médico? Quem sabe o tamanho do sapato das crianças? Quem lembra de comprar presente pra sua mãe? Quem organiza as férias? Quem?
+— E eu trabalho e cuido de todo o resto! — A voz dela subiu. — Quem marca médico? Quem sabe o tamanho do sapato das crianças? Quem lembra de comprar presente pra sua mãe? Quem organiza as férias? Quem?
 
 Ricardo levantou as mãos, como quem se rende a uma insanidade.
 
@@ -115,7 +115,7 @@ Claro que estava. Ele tinha uma cozinheira, governanta, babá, secretária execu
 
 Camila chorou. Um choro silencioso, quente, que queimava as têmporas.
 
-E naquela noite, uma certeza gelada começou a se formar no peito dela, mais fria que o ar condicionado:
+E naquela noite, uma certeza gelada começou a se formar no peito dela, mais fria que o ar-condicionado:
 *Eu estou sozinha.*
 *E nada do que eu fizer vai mudar quem ele é.*
 
@@ -183,7 +183,7 @@ Ele sorriu para ela quando ela entrou.
 
 — E aí, amor? Passou a neura de ontem?
 
-Camila olhou para ele. Para o hospedeiro saudável sugando a vida dela.
+Camila olhou para ele. Parecia tão descansado. Nenhum sinal de que a conversa da véspera tivesse tirado um minuto do sono dele.
 
 — Passou — mentiu ela.
 
@@ -195,7 +195,7 @@ Ele pediu pizza. Sentiu-se o herói da noite.
 
 Camila foi para o quarto tirar os sapatos. Olhou para o espelho.
 
-— Você escolhe você — sussurrou Fernanda em sua memória.
+Lembrou do que Fernanda tinha dito sobre o custo de manter tudo funcionando. Quanto ainda estava disposta a pagar?
 
 *Ainda não*, pensou Camila. *Ainda não tenho coragem.*
 

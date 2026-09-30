@@ -125,7 +125,7 @@ E riram.
 
 Na volta, Camila ficou quieta, olhando a estrada.
 
-— O que foi? — perguntou Daniel, preocupado. — Ela foi demais, né? Eu avisei.
+— O que foi? — perguntou Daniel, preocupado. — A pergunta da minha mãe te incomodou?
 
 — Não foi isso — disse Camila, a voz embargada. — É que... eu passei onze anos tentando agradar uma sogra que nunca gostou de mim. E a sua mãe me aceitou em cinco minutos, sem eu fazer nada para merecer.
 
@@ -133,7 +133,7 @@ Na volta, Camila ficou quieta, olhando a estrada.
 
 Camila olhou para ele. E, enfim, entendeu de verdade.
 
-Amor que a gente tem que conquistar não é amor. É dívida.
+Talvez não precisasse passar o almoço inteiro provando que merecia estar ali.
 
 E ela estava, por fim, aprendendo a diferença. Mas a pergunta de Lúcia continuava dentro do carro, mesmo depois de todos terem mudado de assunto.
 
@@ -181,7 +181,7 @@ Ele estendeu a mão. Camila segurou. O gesto continuava carinhoso, mas não esco
 
 Pela primeira vez, ela entendeu que um homem podia ser bom e, ainda assim, talvez não ser o homem certo para o caminho que ela queria seguir. Ninguém precisava virar vilão para uma história mudar de rumo.
 
-O celular vibrou antes que chegassem à rodovia.
+Já em São Paulo, enquanto Daniel estacionava diante do prédio dela, o celular vibrou.
 
 Era uma mensagem da professora Paula:
 

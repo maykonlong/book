@@ -3,7 +3,7 @@
 
 No domingo, o telefone tocou às nove da manhã. Camila reconheceu o nome da mãe e lembrou da mensagem sobre o almoço com as tias.
 
-Camila estava na cama, aproveitando o raro luxo de acordar sem despertador (os filhos estavam com Ricardo). Ela atendeu com a voz rouca de sono.
+Camila tinha voltado para a cama depois que Ricardo buscara os filhos às oito. Tentava cochilar mais um pouco. Atendeu com a voz rouca de sono.
 
 — Alô?
 — Camila. Bom dia.
@@ -84,7 +84,7 @@ Todas olharam para ela.
 
 Jorge era o pai de Camila. O irmão "santo" das tias.
 
-— Mas eu passei quarenta anos casada com o Jorge — continuou Dona Sônia, a voz tremendo levemente — servindo café na xícara que ele gostava, passando a camisa do jeito que ele queria, fazendo silêncio quando ele via jornal. E em quarenta anos, ele nunca, *nunca* me perguntou se eu estava feliz. Ele nunca soube qual era a minha flor preferida. Ele nunca notou quando eu cortava o cabelo, a não ser pra reclamar do preço.
+— Mas eu passei quarenta anos casada com o Jorge — continuou Dona Sônia, a voz tremendo levemente — servindo café na xícara que ele gostava, passando a camisa do jeito que ele queria, fazendo silêncio quando ele lia o jornal. E em quarenta anos, ele nunca, *nunca* me perguntou se eu estava feliz. Ele nunca soube qual era a minha flor preferida. Ele nunca notou quando eu cortava o cabelo, a não ser pra reclamar do preço.
 
 As tias estavam de boca aberta. Camila também.
 
@@ -119,7 +119,7 @@ Dona Sônia desligou a torneira. Enxugou as mãos no avental.
 
 — Você amava ele? O pai?
 
-— Amava. Mas amava pequeno. Amava com medo. E ele... ele me amava do jeito dele. Mas o jeito dele não tinha espaço para mim. Só para a esposa dele.
+— Amava. Mas, com medo de perder a paz da casa, eu mostrava pouco do que sentia. E ele... ele me amava do jeito dele. Mas o jeito dele não tinha espaço para mim. Só para a esposa dele.
 
 Dona Sônia virou-se para Camila.
 

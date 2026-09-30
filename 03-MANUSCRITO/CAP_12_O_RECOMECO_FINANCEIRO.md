@@ -9,7 +9,7 @@ Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz.
 
 Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
-Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. Abril estava no dia 8.
+Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. Era a primeira semana de abril.
 
 Ela fechou o aplicativo. Abriu outra vez, como se esperasse que o número tivesse mudado. Não tinha.
 
@@ -73,7 +73,7 @@ Camila desceu no elevador com três potes numa sacola de mercado, o coração ba
 
 O porteiro não perguntou. A Dona Lourdes não viu. E a vizinha do 501, que tinha pedido dois potes, abriu a porta de pijama e disse:
 
-— Camila! Que delícia que você tá fazendo isso. Meu marido é viciado no seu bolo de cenoura desde o aniversário do Léo.
+— Camila! Que bom que você está fazendo isso. Meu marido adora bolo de cenoura. Já perguntou se você vai vender no próximo domingo.
 
 Camila voltou para o apartamento sentindo o rosto quente. Mas, desta vez, não de vergonha.
 
@@ -83,7 +83,7 @@ Porque, enfim, alguém tinha reconhecido nela um talento que não era "ser a esp
 
 E, no fundo, era disso que ela mais precisava naquele mês: não só do dinheiro, mas da prova de que ela existia fora daqueles papéis de esposa e mãe.
 
-Na segunda-feira, levou dois potes para o trabalho. Fernanda comprou um; a moça da recepção comprou o outro e pediu o número de Camila. Na quarta, vieram cinco encomendas da agência. Na sexta, Camila chegou em casa com uma lista de nomes anotados atrás de uma pauta de reunião.
+Na segunda-feira, levou dois potes para o trabalho. Fernanda comprou um; a moça da recepção comprou o outro e pediu o número de Camila. Na quarta, vieram cinco encomendas do escritório. Na sexta, Camila chegou em casa com uma lista de nomes anotados atrás de uma pauta de reunião.
 
 Às dez da noite, depois de pôr as crianças para dormir, ainda estava lavando potes na pia. As costas doíam. O forno tinha aquecido a cozinha inteira. Não havia nada de mágico naquele recomeço. Havia uma mulher cansada tentando fazer a conta fechar.
 
@@ -103,11 +103,11 @@ Camila olhou para a forma no forno, para a planilha aberta no celular e para a f
 
 Desligou o forno quando o bolo ficou pronto e foi ler a história que tinha prometido. O dinheiro era necessário. Não podia, porém, transformar a casa nova na mesma casa onde ninguém tinha tempo de olhar para ninguém.
 
-Não era muito dinheiro. Mas era dinheiro DELA. Ganho com as próprias mãos, sem depender de ninguém, sem esperar o Ricardo cumprir a promessa de pensão que, até agora, não tinha cumprido.
+Não era muito dinheiro. Era uma renda extra que chegava pelas próprias mãos, enquanto a pensão ainda não tinha entrado.
 
-Os cortes nas contas e o que sobrava dos bolos diminuíram a diferença. Não apagaram as parcelas da escola, nem criaram uma reserva para uma emergência. Naquele abril, Camila pagou o condomínio alguns dias depois do vencimento e precisou telefonar para combinar a data. Desligou com vergonha e alívio misturados.
+Os cortes nas contas e o que sobrava dos bolos diminuíram a diferença. As parcelas da escola ainda precisavam ser pagas, e ela não tinha uma reserva para emergências. Naquele abril, Camila pagou o condomínio alguns dias depois do vencimento e precisou telefonar para combinar a data. Desligou com vergonha e alívio misturados.
 
-Havia uma dignidade nova em ganhar o próprio sustento, mesmo que aos poucos, mesmo que com as unhas sujas de chocolate. Uma dignidade que ninguém podia tirar.
+Ela já ganhava o próprio salário havia anos. O que havia de novo era saber quanto custava manter aquela casa e começar a decidir como faria isso.
 
 ---
 

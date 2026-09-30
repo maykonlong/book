@@ -7,7 +7,7 @@ O escritório ficava em um prédio comercial antigo no centro. Carpete cinza, ch
 
 Dra. Patrícia era direta. Uma mulher de quarenta e dois anos com óculos de armação vermelha e sem paciência para rodeios.
 
-— Bens? — perguntou ela, caneta em riste sobre um bloco amarelo.
+— Bens? — perguntou ela, com a caneta pronta sobre um bloco amarelo.
 
 — Um apartamento quitado. Um carro 2018 no meu nome. Um carro 2020 no nome dele. Mobília completa.
 
@@ -21,15 +21,19 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — Não. A gente dividia as contas da casa, mas cada um cuidava do seu salário.
 
-— Erro clássico número um — murmurou a advogada, anotando algo. — Se ele não aceitar um acordo, podemos pedir ao juiz acesso às contas bancárias. Mas primeiro vamos tentar resolver sem briga. Quanto ele ganha?
+— Então vamos reunir o que você tem e verificar o que falta — disse a advogada, anotando. — Se houver dúvida sobre a renda e os bens, podemos pedir ao juiz as informações necessárias. Qual era o regime de bens?
 
-— Acho que uns doze mil líquido. Ele é gerente comercial.
+— Comunhão parcial. O apartamento e os carros foram comprados depois que casamos.
+
+— Certo. Vou conferir os documentos. E quanto ele ganha?
+
+— Acho que uns doze mil líquidos. Ele é gerente comercial.
 
 — E você?
 
 — Seis mil. Sou coordenadora de marketing.
 
-— Ótimo. Ele ganha o dobro. Vamos pedir pensão alimentícia de 30% do líquido dele para as duas crianças, mais plano de saúde e escola.
+— Precisamos anotar as despesas das crianças e comprovar a renda dos dois. Pelo que você trouxe, vamos pedir 30% do salário líquido dele para os dois filhos. Se os doze mil se confirmarem, são três mil e seiscentos reais por mês: mil e oitocentos para cada um. Esse é o pedido para o caso de vocês; o juiz vai avaliar as despesas e as condições dos dois. Também vou pedir um valor provisório, para que vocês não fiquem esperando o fim do processo.
 
 — Ele não vai aceitar — disse Camila, sentindo o estômago embrulhar. — Ele já disse que não vai me dar "nenhum centavo".
 
@@ -45,21 +49,21 @@ Dra. Patrícia virou a página.
 
 — Quero. É perto da escola das crianças. É a casa delas.
 
-— Então você vai ter que comprar a parte dele. Ou vender e dividir. Você tem dinheiro para comprar 50% de um imóvel agora?
+— Pelo que você contou, o apartamento entra na divisão. Uma possibilidade é você comprar a parte dele; outra é venderem e dividirem o valor. Podemos negociar prazo e forma de pagamento. Você tem alguma reserva?
 
 Camila gelou.
 — Não. Não tenho nem dez mil guardados.
 
-— Então temos um problema. Se ele exigir a parte dele em dinheiro, vocês vão ter que vender.
+— Então vamos precisar negociar com cuidado. Ainda não estou dizendo que vocês terão de sair. Primeiro, vamos saber o que é possível e colocar qualquer acordo por escrito.
 
 Vender a casa.
-Tirar Léo e Bia do único lar que conheciam. Mais uma ruptura.
+Tirar Léo e Bia do único lar que conheciam. Mais uma mudança para eles.
 
 Camila sentiu o peso do dinheiro — ou da falta dele — esmagando seus ombros.
 
 Lembrou do dia em que eles assinaram a compra daquele apartamento. Ricardo segurando a chave, girando no dedo como um troféu. Camila grávida do Léo, os pés inchados, imaginando o berço no quarto azul. "Nosso cantinho", ela tinha dito, e ele tinha rido. Na época, aquilo parecia o começo de tudo.
 
-Agora, sentada no carro quente, ela entendia que a casa tinha virado uma âncora — e que soltá-la, se fosse preciso, seria só mais um luto na longa lista de lutos daquele ano.
+Ali, diante da advogada, ela entendeu que talvez precisasse se despedir também daquela casa.
 
 Ela pensou no apartamento. Não no imóvel, no investimento, na "parte que teria que comprar". Pensou na casa.
 
@@ -73,7 +77,7 @@ Camila fechou os olhos por um segundo. De repente, o escritório, com suas pilha
 
 — E se... e se eu abrir mão da pensão para mim? E ficar com a casa como compensação? — sugeriu Camila.
 
-— Pensão para ex-marido ou ex-esposa é rara hoje em dia, Camila. Você trabalha, é jovem. Dificilmente o juiz daria. O que estamos falando é pensão para os filhos. E disso você *não pode* abrir mão. É direito deles, não seu.
+— São questões diferentes, Camila. Uma pensão para você dependeria de uma necessidade que teríamos de demonstrar; não é algo garantido para trocar pelo apartamento. E o sustento dos filhos não pode entrar nessa troca. É direito deles.
 
 Camila saiu do escritório com uma lista de documentos para providenciar que parecia uma enciclopédia.
 
@@ -90,7 +94,7 @@ Pegou o celular para ver o saldo da conta.
 R$ 420,00.
 O mês estava no dia 12.
 
-Quatrocentos e vinte reais. Menos do que uma compra de mês inteiro no tempo em que a geladeira se enchia sem ela fazer as contas duas vezes. Aquele número na tela era um soco — não pelo valor em si, mas pelo que ele significava: ela estava sozinha agora. Realmente sozinha, sem rede, sem a ilusão do "nós" que sempre fez o fim do mês parecer menos assustador.
+Quatrocentos e vinte reais. Menos do que uma compra de mês inteiro no tempo em que a geladeira se enchia sem ela fazer as contas duas vezes. Tinha o apoio da mãe e da Fernanda, mas não outro salário para dividir aquelas despesas. O número na tela deixava isso claro demais.
 
 Como ela ia pagar advogado?
 Como ia pagar condomínio sozinha?
@@ -113,12 +117,12 @@ E a vergonha veio antes do medo. Vergonha de ser uma mulher de 34 anos que não 
 
 Vergonha de ter assinado documentos sem ler. De ter acreditado no "confia em mim" que o Ricardo repetia com aquele sorriso de quem manda. De ter sido criada para achar que mulher boa não se mete em dinheiro, deixa o marido resolver — e agora estar pagando, sozinha, o preço dessa mentira.
 
-*Erro clássico número um*, ecoou a voz da advogada na cabeça dela.
+*Vamos reunir o que você tem*, a advogada tinha dito. Camila tentou voltar àquela frase. Podia começar por ali, mesmo com vergonha do que ainda não sabia.
 
 A "mulher empoderada" que tinha encarado a separação com firmeza dias antes agora estava ali, suando no carro quente, contando moedas mentais e sentindo-se uma fraude.
 
 Mas então ela lembrou da cena do leite derramado.
-Lembrou do Léo tentando acordar o pai.
+Lembrou do Léo tocando sua testa quando ela estava com febre, preocupado com a mãe enquanto Ricardo dizia que ela tinha preguiça.
 
 *Dinheiro a gente corre atrás,* pensou ela, ligando o carro. *Dignidade, uma vez perdida, não se compra de volta.*
 

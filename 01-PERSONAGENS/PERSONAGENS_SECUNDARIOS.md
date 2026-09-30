@@ -108,7 +108,7 @@
 
 ### Como Conheceu Camila
 
-- Paula os apresenta na segunda exposição do ateliê.
+- Daniel e Paula estudaram na mesma escola; ele vai à segunda exposição a convite dela. Ele próprio puxa conversa com Camila diante de Afogamento.
 - Daniel se interessa primeiro pelo quadro e depois pela história de Camila.
 - A aproximação começa por mensagens e cafés, sem pressa.
 
@@ -118,7 +118,7 @@
 3. **Primeiras tentativas**: Daniel convida, Camila recusa
 4. **Paciência**: Ele espera, sem cobrar
 5. **Abertura gradual**: Camila aceita café, depois jantar
-6. **Teste de confiança**: Camila projeta Ricardo nele, Daniel não reage mal
+6. **Teste de confiança**: Daniel falha ao não avisar um atraso; os dois se irritam, conversam e combinam como agir. Ele não é perfeito, e o passado não justifica qualquer reação dela.
 7. **Entrega**: Camila se permite amar sem deixar de observar o que deseja
 8. **Diferença de futuro**: Daniel quer ser pai; Camila não quer mais filhos
 9. **Despedida madura**: Eles terminam com carinho, sem transformar ninguém em vilão
@@ -279,12 +279,18 @@ Personagens menores que aparecem ocasionalmente:
 
 ### Teresa (55)
 - Viúva recentemente
+- Foi casada por trinta anos
 - Mais insegura que Camila
 - Camila vira mentora dela (círculo completo)
 
+### Clara (40)
+- Mãe de gêmeos, colega da aquarela
+- Oferece carona antes do cap. 18 e ajuda Camila a levar os filhos à escola
+- No cap. 20, a amizade se aprofunda; trocam apoio, não se apresentam novamente
+
 ### Professora Paula
 - Professora da aula
-- Gentil, incentivador
+- Gentil, incentivadora
 - Vê talento em Camila
 - Encoraja ela a expor trabalhos
 

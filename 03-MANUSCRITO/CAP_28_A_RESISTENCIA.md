@@ -2,7 +2,7 @@
 ## A Resistência
 
 Ricardo apareceu na quarta-feira à noite. Sem avisar.
-Normalmente ele só vinha de fim de semana.
+Naquela quarta, não havia nenhuma visita combinada.
 
 A campainha tocou às oito. Camila estava de pijama (aquele velho e confortável), lendo no sofá depois que as crianças dormiram. A casa estava em silêncio, a luz baixa, uma xícara de chá esfriando na mesinha ao lado do livro. O tipo de noite que ela tinha aprendido a amar — e que, um ano atrás, nem sabia que podia existir.
 
@@ -12,7 +12,7 @@ Segurava algo. Flores?
 O estômago dela se contraiu antes do cérebro. Onze anos de reflexo: Ricardo na porta com flores sempre vinha antes de uma briga, de um pedido de desculpas que não era desculpa, de um favor que ela não queria fazer.
 
 Camila abriu a porta, mas não tirou a corrente de segurança.
-— Ricardo? Aconteceu alguma coisa com as crianças?
+— Ricardo? Aconteceu alguma coisa?
 
 — Não, não. Tudo bem. — Ele sorriu. Aquele sorriso de "bom moço" que costumava funcionar há doze anos. — Vim falar com você.
 
@@ -47,7 +47,7 @@ Ele suspirou. Olhou para ela com olhos de cachorro pidão.
 Camila sentiu o estômago revirar. Não de amor. De alerta.
 
 — Ricardo, a gente tá separado há onze meses. O divórcio sai mês que vem.
-— Eu sei. Mas... eu andei pensando. Será que a gente não precipitou? Onze anos, Camila. É muita história pra jogar fora.
+— Eu sei. Mas... eu andei pensando. Será que a gente não se precipitou? Onze anos, Camila. É muita história pra jogar fora.
 
 Ele levantou e chegou perto dela.
 — Eu sei que eu errei. Fui ausente. Mas eu mudei. Aquele apartamento, ficar sozinho... me fez ver o valor que você tem. Eu juro que vai ser diferente.
@@ -118,11 +118,11 @@ O silêncio da casa nunca tinha sido tão delicioso.
 
 Ela tinha passado no teste.
 O passado bateu na porta com flores e promessas.
-E ela não abriu.
+E ela não o deixou ficar.
 
 Depois, sem conseguir voltar ao livro, Camila pegou o celular e ligou para Fernanda.
 
-— Adivinha quem apareceu aqui com flores — disse ela, sem preâmbulo.
+— Adivinha quem apareceu aqui com flores — disse ela, indo direto ao assunto.
 — Não. Me conta.
 — Ricardo. Lírios. Querendo voltar.
 — E você?
@@ -132,7 +132,7 @@ Um silêncio. Então, um gritinho abafado e comemorativo do outro lado:
 Camila riu. Riu de verdade, alto, solto, até doer a barriga.
 — Ele falou que eu vou me arrepender de envelhecer sozinha.
 — Amiga, a única coisa pior do que envelhecer sozinha é envelhecer ao lado de quem te anula. Você escolheu certo.
-— Eu sei. — Camila olhou para o canto da sala, onde um dia teve uma planta que ela quase matou e, no fim, conseguiu reviver. — Eu por fim sei.
+— Eu sei. — Camila olhou para uma aquarela que deixara secando no canto da sala. — Eu não quero voltar, Fê. Não quero mesmo.
 
 Na manhã seguinte, Camila acordou antes do despertador. Não por ansiedade, como nos velhos tempos. Por... leveza.
 

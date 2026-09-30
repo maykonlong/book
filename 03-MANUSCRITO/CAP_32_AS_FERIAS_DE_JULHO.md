@@ -7,13 +7,15 @@ Onze anos de férias com o Ricardo tinham ensinado a ela que "férias em famíli
 
 Mas agora não havia Ricardo. E, enfim, Camila percebeu que férias podiam ser... dela.
 
-— Pra onde a gente vai, mãe? — perguntou Léo, animado, espalhando mapas pela mesa.
+Desde o Dia das Mães, a palavra *praia* continuava escrita no verso do vale sobre a geladeira. Camila guardara dinheiro e pesquisara pousadas até encontrar uma que coubesse no orçamento. Agora a reserva estava feita.
 
-— Pra praia? — sugeriu Bia, que tinha visto um desenho de mar na escola.
+— Mostra onde a gente vai, mãe — pediu Léo, espalhando um mapa pela mesa.
 
-Camila olhou para os dois, para o mapa, para o saldo do banco (que ainda não era folgado, mas já não era desesperador). E tomou uma decisão que, um ano atrás, teria achado irresponsável:
+Bia trouxe o vale, já amassado de tanto tirar da geladeira.
 
-— A gente vai pra praia. Só nós três.
+— É aqui que tem o nosso mar?
+
+Camila apontou uma cidade no litoral. O saldo ainda não era folgado, mas os quatro dias tinham sido planejados. Só faltava acreditar que podia aproveitar.
 
 ---
 
@@ -79,7 +81,7 @@ Camila percebeu que, às vezes, a exaustão não vinha do trabalho, mas da compa
 
 A pousada era simples. Um quarto com uma cama de casal e uma beliche, cheiro de maresia e uma rede na varanda. Não era o resort que o Ricardo escolhia (e parcelava em doze vezes). Era menor, mais barato, mais... deles.
 
-No primeiro dia, Camila ensinou os filhos a boiar. Léo teve medo no começo, agarrando o braço dela com força, depois soltou e descobriu que conseguia flutuar sozinho.
+No primeiro dia, ficaram numa parte rasa e calma, perto da areia. Léo sabia boiar na piscina das aulas de natação, mas o movimento do mar dava medo. Agarrou o braço da mãe até se acostumar. Ela ficou ao lado enquanto ele tentava de novo.
 
 — MÃE, EU TÔ BOIANDO! — gritou ele, com uma alegria que atravessou a praia inteira.
 
@@ -87,7 +89,7 @@ No primeiro dia, Camila ensinou os filhos a boiar. Léo teve medo no começo, ag
 
 Bia, sentada na areia, construía um castelo com um balde furado. Camila ajudou, cavando o fosso, enchendo o balde, fazendo torres tortas.
 
-E, naquele fim de tarde, com o sol se pondo no mar e os filhos cansados e felizes ao lado dela, Camila sentiu uma paz que não sentia desde... desde antes de casar, talvez.
+E, naquele fim de tarde, com a luz diminuindo sobre a areia e os filhos cansados e felizes ao lado dela, Camila quis ficar mais um pouco. Não havia ninguém reclamando da demora.
 
 *É isso*, pensou. *É isso que eu queria. Uma família de três, inteira, feliz, sem medo.*
 
@@ -105,7 +107,7 @@ Então se lembrou de que não precisava fabricar felicidade o tempo todo.
 
 — Hoje o passeio é aqui — anunciou. — Campeonato de cartas, macarrão no quarto e chuva na janela.
 
-Compraram um baralho na recepção. Léo inventou regras para ganhar. Bia perdeu três vezes e acusou todo mundo de roubo. Camila fez macarrão instantâneo com a chaleira elétrica, uma ideia ruim que se tornou uma história ótima.
+Compraram um baralho na recepção. Léo inventou regras para ganhar. Bia perdeu três vezes e acusou todo mundo de roubo. Para o almoço, pediram um macarrão num restaurante ali perto. Veio frio. Camila trocou de cadeira com Léo para conferir se, como ele garantia, o lado dele da mesa atraía todas as cartas ruins.
 
 No meio da tarde, a energia caiu.
 
@@ -117,7 +119,7 @@ Camila percebeu que as férias não precisavam provar nada. Nem todo dia tinha d
 
 ---
 
-À noite, os três deitaram na rede, enrolados numa toalha, olhando as estrelas (que na praia, sem a luz da cidade, pareciam mais perto). Léo contou as constelações que tinha aprendido na escola. Bia dormiu no meio da frase, com a bochecha colada no peito da mãe.
+A chuva parou ao anoitecer. Mais tarde, os três se acomodaram na rede da varanda, enrolados numa manta, olhando as estrelas entre as nuvens. Léo contou as constelações que tinha aprendido na escola. Bia dormiu no meio da frase, com a bochecha colada no peito da mãe.
 
 — Mãe — sussurrou Léo, já com sono —, a gente pode voltar aqui nas próximas férias?
 
@@ -151,7 +153,7 @@ E entendeu que tinha chegado num lugar novo. Não era um lugar no mapa. Era um l
 
 Ela tinha aprendido a ser feliz. Com eles. Por ela.
 
-O celular vibrou no criado-mudo. Era uma mensagem de Daniel:
+Depois de levar os filhos para as camas, Camila ouviu o celular vibrar no criado-mudo. Era uma mensagem de Daniel:
 
 *"O mar estava bonito hoje?"*
 

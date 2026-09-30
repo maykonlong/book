@@ -1,6 +1,6 @@
 # Relatório de validação final
 
-**Data:** 27/09/2026
+**Data:** 27/09/2026 — registro histórico. A edição atual está em [RELATORIO_REVISAO_2026-09-29.md](RELATORIO_REVISAO_2026-09-29.md); não use a paginação abaixo para enviar arquivos à KDP.
 **Escopo:** manuscrito, continuidade, linguagem, página de apresentação, leitor online e pacote Amazon KDP.
 
 ## Resultado

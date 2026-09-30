@@ -25,7 +25,7 @@ Sentiu... nada.
 
 Era como olhar para um colega de trabalho distante, de uma empresa onde ela não trabalhava mais.
 
-Ela se lembrou, de repente, da última vez que tinha ficado a sós com Ricardo — no cartório, no dia em que assinaram o divórcio. E também do dia em que ele saiu de casa, com as malas na calçada, gritando que ela tinha estragado tudo. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
+Ela se lembrou do cartório, no dia em que assinaram o divórcio. E também da quinta-feira em que Ricardo saiu de casa com duas malas, dizendo que ela ia se arrepender. A porta tinha fechado sem uma despedida. Naquela época, só de ouvir o nome dele, o estômago dela virava do avesso.
 
 E agora, ali, no corredor de congelados, o estômago estava quieto.
 
@@ -181,7 +181,7 @@ Camila assistiu à filha, depois olhou para o outro lado do auditório. Ricardo 
 
 Talvez ele mudasse. Talvez mudasse só um pouco. Já não cabia a ela esperar para descobrir.
 
-Quando as luzes se apagaram e a música começou, Camila voltou os olhos para Bia.
+Quando Bia procurou a mãe na plateia outra vez, Camila acenou.
 
 Era para a frente que ela queria olhar agora.
 

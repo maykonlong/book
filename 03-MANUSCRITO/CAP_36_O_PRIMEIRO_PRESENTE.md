@@ -17,7 +17,7 @@ Camila abriu a caixa devagar, quase com medo.
 
 Dentro, havia um pincel.
 
-Não era um pincel qualquer. Era um pincel profissional, de cerdas muito macias, daquele tipo caro que os artistas guardam para ocasiões especiais. Camila tinha comentado, uma vez, de passagem, olhando a vitrine de uma loja de materiais de arte, que um dia queria ter um pincel daqueles.
+Não era um pincel qualquer. Era um pincel profissional, de cerdas muito macias, do tipo que Camila olhava e adiava comprar. Ela tinha comentado depois da caminhada no parque, diante da vitrine de uma loja de materiais de arte, que um dia queria ter um daqueles.
 
 Uma vez. De passagem.
 
@@ -39,11 +39,11 @@ Então veio o medo.
 
 Daniel inclinou a cabeça.
 
-— Isso importa?
+— Quer ver a nota? Está na caixa.
 
 — Importa. Se foi muito caro, eu não posso aceitar.
 
-— Por quê?
+— Cabe no meu orçamento, Cá. Mas me fala o que está te preocupando.
 
 Camila procurou uma resposta que não soasse absurda.
 
@@ -99,7 +99,7 @@ Camila riu. O peso no peito diminuiu.
 
 ---
 
-Naquela noite, Camila foi para o ateliê e estreou o pincel novo.
+Naquela noite, depois que Daniel foi embora e as crianças dormiram, Camila abriu os materiais na mesa de casa. Queria estrear o pincel novo.
 
 Era diferente. Não só porque o pincel era bom — porque era. Mas porque cada pincelada carregava uma memória nova: a de que alguém a tinha ouvido. A de que ela importava o suficiente para alguém anotar os seus sonhos.
 

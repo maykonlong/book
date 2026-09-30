@@ -8,7 +8,7 @@ Eram vitórias que não davam manchete e que ninguém aplaudia: acordar sem o pe
 
 ---
 
-A primeira pequena vitória foi uma manhã de terça.
+A primeira pequena vitória veio num domingo de manhã, depois que os fins de semana alternados com Ricardo começaram.
 
 Camila acordou. Olhou para o relógio: sete da manhã.
 
@@ -28,7 +28,7 @@ E sorriu.
 
 Pequeno sorriso. Tranquilo.
 
-Porque ela podia. Porque era terça. Crianças com o pai. Dia livre pela frente.
+Porque ela podia. As crianças estavam com o pai e, daquela vez, a manhã livre não pareceu uma ameaça.
 
 Levantou no próprio ritmo. Fez café — forte, do jeito que ela gostava. Sentou perto da janela com a xícara e um livro.
 
@@ -68,7 +68,7 @@ R$ 35.
 
 Antes, ela teria colocado de volta. Porque "não precisa". Porque "é desperdício". Porque "tem coisa mais importante".
 
-Mas essa vez, ela olhou para a revista. Pensou nas quintas no ateliê. Na alegria que pintura estava trazendo de volta.
+Mas dessa vez ela olhou para a revista. Pensou nas quintas no ateliê e na alegria que a pintura estava trazendo de volta. Conferiu o que ainda precisava comprar antes de decidir.
 
 E colocou no carrinho.
 
@@ -82,11 +82,11 @@ Bia viu.
 
 — Vou. É de pintura.
 
-— Você pinta?
+— É para pintar igual àqueles papéis da mesa?
 
-A pergunta pegou Camila de surpresa. Bia tinha quatro anos. Não lembrava da mãe pintando. Porque Camila tinha parado antes dela nascer.
+Bia ainda estava descobrindo aquela parte da mãe. Até pouco tempo antes, não havia tintas nem pincéis espalhados pela casa.
 
-— Estou voltando a pintar. Faço aula toda quinta.
+— É. Estou aprendendo outras coisas na aula de quinta.
 
 — Sério? — Léo olhou. — Que legal.
 
@@ -96,7 +96,7 @@ A pergunta pegou Camila de surpresa. Bia tinha quatro anos. Não lembrava da mã
 
 Oito anos. Dando permissão para a mãe ser pessoa.
 
-Camila abraçou os filhos ali, meio do corredor do mercado.
+Camila abraçou os filhos ali, no meio do corredor do mercado.
 
 E comprou a revista.
 
@@ -152,7 +152,7 @@ Pequena vitória.
 
 A quarta pequena vitória foi na terapia.
 
-Quarta sessão. Camila já estava se acostumando com Dr. Lucas. Começava a confiar.
+Em uma das sessões daquele mês, Camila percebeu que já estava mais à vontade com Dr. Lucas. Começava a confiar.
 
 Ele perguntou:
 
@@ -178,7 +178,7 @@ Camila pensou. Honestamente.
 
 — É?
 
-— Muito. Você está integrando. Aceitando que decisões difíceis podem trazer alívio. Que não é traição do casamento, dos filhos, ou de você mesma, sentir melhor.
+— Você está percebendo que uma decisão pode doer e trazer alívio ao mesmo tempo. Sentir-se melhor não é uma traição aos seus filhos nem apaga o que você viveu.
 
 Camila respirou fundo.
 
@@ -196,7 +196,7 @@ A quinta pequena vitória — a mais importante — aconteceu numa quinta à noi
 
 Aula de aquarela. Quarta semana.
 
-Paula tinha proposto: pintar algo pessoal. Algo que significa algo para você.
+Paula tinha proposto pintar algo pessoal, que tivesse um significado para cada uma.
 
 Camila ficou parada na frente do papel em branco.
 
@@ -242,7 +242,7 @@ Paula veio ver.
 
 — Mesmo?
 
-— Muito. Tem emoção. Você consegue sentir o que você estava sentindo quando pintou.
+— Muito. Dá para sentir a emoção que você colocou aqui.
 
 E Camila percebeu: era verdade.
 
@@ -278,7 +278,7 @@ Isso era vitória. Enorme.
 
 Naquela noite, Camila pendurou a pintura na porta da geladeira.
 
-Não espaço das crianças. Mas dela.
+Escolheu um espaço ao lado dos desenhos das crianças.
 
 Quando Léo viu no dia seguinte, perguntou:
 
@@ -317,44 +317,41 @@ Léo perguntou: *"é do namorado, mãe?"*. Camila riu: *"é meu. Eu comprei pra 
 
 E o menino sorriu, como se entendesse — talvez entendesse — o tamanho daquilo.
 
-E, na sexta, uma vitória que ela não tinha planejado: foi ao cinema sozinha. Comprou o ingresso, escolheu a poltrona do meio, comeu pipoca sem dividir. No início, sentiu os olhares — ou imaginou que sentia. *Uma mulher sozinha no cinema. Coitada. Deve ter sido largada.* Mas, na metade do filme, ela tinha esquecido do mundo. E, ao sair, percebeu que não tinha se sentido sozinha nem por um segundo. Tinha se sentido... em paz.
-
-Ir ao cinema sozinha parecia um pequeno rito de passagem: a prova de que a própria companhia também podia ser boa.
+Na sexta-feira seguinte, com as crianças no fim de semana do pai, voltou ao cinema sozinha. Dessa vez, comprou o ingresso sem ensaiar uma explicação para ninguém. Na saída, ficou discutindo mentalmente o final do filme. Só no carro percebeu: tinha passado a sessão inteira interessada na história, sem procurar sinais de pena nos rostos ao redor.
 
 E houve uma vitória ainda mais difícil, que ela quase não reconheceu como vitória: pedir ajuda.
 
 Foi numa terça, quando o carro não quis pegar de manhã e ela tinha uma reunião importante às nove. O velho instinto disse: *dá teu jeito, se vira, não enche o saco de ninguém*. Mas o novo instinto — aquele que ela estava cultivando aos poucos, como quem rega uma planta frágil — disse outra coisa.
 
-Ela pegou o celular e ligou para a Clara, do grupo de aquarela.
+Ela pegou o celular e ligou para Clara, uma colega da aquarela que já tinha oferecido carona caso os horários coincidissem.
 
-— Clara, eu tô sem carro e preciso levar o Léo na escola. Você pode...?
-— Mando o endereço, te busco em vinte minutos.
+— Clara, eu tô sem carro e preciso levar as crianças na escola. Você consegue ajudar hoje?
+— Consigo. Já deixei meus meninos na escola. Manda o endereço; pego vocês em vinte minutos.
 
 Sem perguntar por quê. Sem cobrar favor depois. Só... ajudou.
 
 E Camila descobriu, naquele banco de carona, uma verdade que a sobrecarga tinha escondido dela: pedir ajuda não é fraqueza. É a forma mais corajosa de dizer "eu não vou carregar isso sozinha de novo".
 
-Domingo à noite, depois de colocar as crianças para dormir, Camila sentou no sofá com caderninho.
+Num domingo à noite, depois de colocar as crianças para dormir, Camila sentou no sofá com um caderninho.
 
 Estava fazendo isso recentemente: listar. Não tarefas. Não obrigações.
 
 Mas vitórias.
 
-Pequenas vitórias da semana.
+Pequenas vitórias das últimas semanas.
 
 Ela escreveu:
 
-**VITÓRIAS DA SEMANA:**
-- Acordei sem peso (terça)
-- Comprei revista para mim sem culpa excessiva (sábado)
-- Disse não para Ricardo (domingo)
-- Admiti na terapia que estou me perdoando (quarta)
-- Pintei algo pessoal e compartilhei (quinta)
-- Léo disse que eu sou boa em pintar (sexta)
+**COISAS QUE QUERO LEMBRAR:**
+- Acordei em paz num domingo sozinha.
+- Comprei a revista de pintura.
+- Deixei Ricardo cuidar da roupa que estava com ele.
+- Consegui falar do meu alívio na terapia.
+- Mostrei uma pintura para a turma.
+- Voltei ao cinema sem me sentir observada.
+- Pedi ajuda à Clara.
 
-Seis coisas. Em uma semana.
-
-Seis momentos onde ela foi mais ela mesma. Mais inteira. Mais livre.
+Não tinha acontecido tudo de uma vez. Nem todos os dias tinham sido bons. Mas aquelas linhas mostravam mudanças que o cansaço às vezes a fazia esquecer.
 
 Há seis meses, lista como essa era inimaginável.
 
@@ -380,7 +377,7 @@ Não hoje. Não amanhã.
 
 Mas um dia.
 
-Camila fechou o caderninho. Olhou para pintura na geladeira. Para casa silenciosa mas não mais tão vazia.
+Camila fechou o caderninho. Olhou para a pintura na geladeira. Para a casa silenciosa, mas já não tão vazia.
 
 E sentiu algo raro:
 

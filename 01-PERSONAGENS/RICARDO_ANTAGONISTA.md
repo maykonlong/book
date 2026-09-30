@@ -192,12 +192,12 @@ Ele **NÃO** é o foco da história. O foco é Camila se libertando dele.
 ## Evolução (ou Falta Dela)
 
 ### Durante o Livro
-Ricardo **não tem redenção**. Ele:
+Ricardo **não recebe uma redenção completa nem volta para Camila**. Ele:
 - Continua achando que Camila é o problema
 - Tenta manipular para ela voltar
 - Dificulta o divórcio por orgulho
 - Eventualmente desiste e segue em frente
-- Permanece emocionalmente imaturo
+- No cap. 38, reconhece parte da sobrecarga que impunha e comparece à apresentação de Bia. Esses atos limitados não apagam o passado nem garantem mudança permanente.
 
 ### Por quê?
 - Nem todo antagonista precisa de redenção
@@ -251,7 +251,7 @@ Ricardo **não tem redenção**. Ele:
 - ❌ Torná-lo monstro unidimensional
 - ❌ Dar vitória ou satisfação a ele
 - ❌ Fazer Camila voltar para ele
-- ❌ Redimi-lo (ele não aprende)
+- ❌ Usar seu reconhecimento parcial como desculpa para apagar o passado ou reatar o casamento
 
 ### Cenas Importantes
 1. **Cena do aniversário esquecido** - Ricardo esquece aniversário de Léo

@@ -1,17 +1,17 @@
 # CAPÍTULO 2
 ## O Aniversário Esquecido
 
-Quinze dias.
+Dez dias.
 
 Camila olhou para o calendário magnético preso à porta da geladeira — uma daquelas propagandas de farmácia que ela mantinha porque era grátis e, francamente, porque era a única coisa naquela casa que parecia organizada.
 
-Quinze dias para o aniversário de Léo.
+Dez dias para o aniversário de Léo. Na noite anterior, o lembrete no celular tinha tirado o pouco sono que restava.
 
 Oito anos.
 
 Seu filho mais velho ia completar oito voltas ao redor do sol, e ela ainda não tinha organizado nada. A culpa veio na mesma hora, aquele soco familiar no estômago que toda mãe conhece.
 
-Não que ela tivesse esquecido. Impossível esquecer. Camila pensava nisso toda vez que o celular vibrava com o lembrete programado há meses. Pensava toda vez que Léo voltava da escola excitado, contando sobre a festa do Pedro (que teve um mágico) ou da Sofia (que teve uma cascata de chocolate). Pensava toda vez que Bia, com seus quatro anos de pura ansiedade, perguntava se "no do mano vai ter bolo de super-herói".
+Não que ela tivesse esquecido. Impossível esquecer. Camila pensava nisso toda vez que o celular vibrava com o lembrete programado há meses. Pensava toda vez que Léo voltava da escola animado, contando sobre a festa do Pedro (que teve um mágico) ou da Sofia (que teve uma cascata de chocolate). Pensava toda vez que Bia, com seus quatro anos de pura ansiedade, perguntava se "no do mano vai ter bolo de super-herói".
 
 O problema não era lembrar. A mente de Camila era um arquivo implacável.
 
@@ -55,7 +55,7 @@ Ele não tirou os olhos da tela do celular. O brilho azul iluminava o rosto dele
 
 — Hum? — murmurou, sem pausar o vídeo.
 
-— Precisamos conversar sobre o aniversário do Léo. É daqui a duas semanas.
+— Precisamos conversar sobre o aniversário do Léo. Falta pouco mais de uma semana.
 
 — Ah, é verdade. Oito anos, né? O moleque tá crescendo rápido.
 
@@ -125,7 +125,7 @@ Porque se ela não fizesse, Léo não teria festa. E Léo não tinha culpa de te
 
 ---
 
-Os quinze dias seguintes foram um borrão de ansiedade e correrias na hora do almoço.
+Os dez dias seguintes foram um borrão de ansiedade e correrias na hora do almoço.
 
 Camila decidiu fazer a festa no salão do prédio. Era mais barato que um bufê e dava menos trabalho que fazer dentro do apartamento. Mas "menos trabalho" era relativo.
 
@@ -141,11 +141,11 @@ Ele transferiu o dinheiro. E sentiu que sua parte estava feita.
 
 O dia da festa amanheceu cinza, mas quente. Sábado, no fim de janeiro.
 
-Camila acordou às 05h30. Não conseguia dormir mais. A lista mental estava gritando: *buscar o bolo, encher as bebidas, levar a decoração pro salão, limpar o salão (porque o zelador nunca limpava direito), arrumar as crianças...*
+Camila acordou às 05h30. Não conseguia dormir mais. A lista mental estava gritando: *buscar o bolo, gelar as bebidas, levar a decoração pro salão, limpar o salão, arrumar as crianças...*
 
 Ela levantou, tomou um café preto em pé e começou.
 
-Às 09h00, ela estava no salão de festas, em cima de uma escada bamba, tentando prender um painel gigante do Homem-Aranha na parede de azulejos.
+Às 09h00, Dona Sônia chegou para ficar com os netos no apartamento. Camila desceu para o salão de festas e subiu numa escada bamba, tentando prender um painel gigante do Homem-Aranha na parede de azulejos.
 
 Ricardo desceu às 09h30, vestindo bermuda e calçando chinelos, segurando sua caneca de café.
 
@@ -191,7 +191,7 @@ Ela subiu para o apartamento suada, descabelada e cheirando a látex.
 
 Ricardo não tinha voltado.
 
-Léo estava na sala, pulando no sofá de ansiedade.
+Léo estava na sala, pulando no sofá de ansiedade. Dona Sônia tinha dado almoço às crianças e se despediu para ir se arrumar para a festa.
 
 — Mãe! A festa vai começar? O Homem-Aranha vem?
 
@@ -211,7 +211,7 @@ O celular dele dava caixa postal.
 
 Três horas.
 
-Os primeiros convidados chegaram. Eram os pais pontuais da escola, aqueles que Camila mal conhecia mas precisava socializar.
+Os primeiros convidados chegaram. Eram os pais pontuais da escola, aqueles com quem Camila ainda mal tinha conversado.
 
 — Nossa, que lindo que ficou! — elogiou uma mãe. — Você contratou decoradora?
 
@@ -236,7 +236,7 @@ E cada vez que Léo olhava para a porta, o coração dela quebrava um pouco mais
 Ela mandou a décima mensagem para Ricardo:
 *"ONDE VOCÊ ESTÁ??? O Léo está perguntando de você. Todo mundo já chegou."*
 
-Duas gaivotas cinzas. Visualizada.
+A mensagem apareceu como lida.
 Nenhuma resposta.
 
 Quatro e meia. Hora do parabéns.
@@ -247,7 +247,7 @@ Camila reuniu as crianças. Apagou as luzes.
 
 Léo foi para trás da mesa. O rostinho dele estava iluminado pelas velas faiscantes. Ele sorria, mas seus olhos varriam o salão escuro, procurando. Procurando o pai.
 
-— Vamos lá, pessoal! Com quem será? — animou Camila, com a voz embargada.
+— Vamos cantar, pessoal! — chamou Camila, tentando firmar a voz.
 
 Todos cantaram. *"Parabéns pra você..."*
 
