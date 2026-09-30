@@ -42,11 +42,11 @@ Leitoras adultas, especialmente mulheres que vivem ou viveram sobrecarga familia
 
 ## Estrutura e formatos
 - 40 capítulos em 4 atos
-- Cerca de 62,4 mil palavras de história nos capítulos
-- Edição impressa preparada com 318 páginas em 5,5 × 8,5 polegadas
+- 63.505 palavras de história nos capítulos
+- Edição impressa preparada com 328 páginas em 5,5 × 8,5 polegadas
 - Dez ilustrações narrativas em aquarela editorial
 
 ## Links
 - Página oficial: https://maykonlong.github.io/book/
-- Leitura online gratuita: https://maykonlong.github.io/book/ler.html?cap=1
+- Leitura online gratuita, desde a capa e as páginas iniciais: https://maykonlong.github.io/book/ler.html?inicio=1
 - Índice para buscadores: https://maykonlong.github.io/book/sitemap.xml

@@ -35,8 +35,19 @@ A abertura ganhou uma página com Eclesiastes 3:1 antes do capítulo 1. Os agrad
 | `PACOTE_PUBLICACAO/AMAZON_KDP/` | EPUB, capas, PDF, metadados, checklist e hashes |
 | `tools/build_publication.py` | reconstrói as versões de publicação após mudança no texto |
 | `tools/validate_release.py` | verifica estrutura, sincronização, links, artes e integridade |
+| `tools/test_landing.cjs` | testes da landing, retomada, FAQ, temas e indicação, sem dependências externas |
 
 Depois de qualquer alteração aprovada na história ou nos dados bibliográficos, execute `python tools/build_publication.py` e `python tools/validate_release.py`. Confira o EPUB no Kindle Previewer e o impresso no Previewer da KDP. Se a paginação mudar, refaça a capa e seus checksums/ZIP. Os arquivos atuais são **candidatos de publicação**, não uma autorização para enviar o impresso sem a conferência final.
+
+## Landing editorial — atualização de 29/09/2026
+
+A landing foi reorganizada para celular: capa e ação de leitura na primeira tela, trecho fiel do capítulo 7 logo após a abertura, sinopse com as artes existentes e três situações em destaque. Os outros dez temas ficam em um controle nativo expansível, acessível também sem JavaScript. Os 13 temas continuam no HTML e nos dados estruturados; as respostas do FAQ visível e do JSON-LD são iguais. A página não antecipa a escolha final de Camila, não inventa depoimentos e mantém a leitura completa gratuita durante esta fase. O lançamento comercial ainda é uma decisão futura.
+
+A indicação só ocorre após ação da visitante: compartilhamento nativo, cópia do endereço ou campo selecionável quando o navegador não permite copiar. Não há envio automático, rastreadores ou cadastros. A retomada consulta o marcador atual `v2` e o legado `v1`, sem alterar a posição salva; atualiza os botões ao voltar pelo histórico ou ao receber mudança de outra aba. O app continua sem guardar o romance inteiro offline.
+
+Antes de publicar qualquer alteração da landing, rode `node tools/test_landing.cjs` e `python tools/validate_release.py`. Os testes de compartilhamento são simulações locais, não envios reais. Confira no navegador a primeira visita, a retomada, início pela capa, navegação por teclado, expansão/recolhimento dos temas, FAQ, botão móvel e falta de rolagem lateral. Nesta rodada, a inspeção visual cobriu 320, 390, 768 e 1440 px. Em 390 × 844, a página fechada passou de cerca de 14,3 mil para 5,7 mil pixels de altura, mantendo os 13 temas acessíveis. Isso mede a redução de rolagem, não aumento garantido de vendas.
+
+Somente a apresentação do site mudou nesta rodada: manuscrito, EPUB, PDF, capas e ZIP KDP não foram reescritos. As informações de 63.505 palavras e 328 páginas também foram sincronizadas no `llms.txt`. Qualquer futura edição dessas métricas precisa manter livro, site e esse arquivo em acordo.
 
 ## Protocolo obrigatório de revisão para pessoas e IAs
 
