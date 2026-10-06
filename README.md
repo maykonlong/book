@@ -2,20 +2,20 @@
 
 Romance contemporâneo em primeira edição independente, assinado com o nome literário **Mariana Duarte**. Camila sai de um casamento em que carregava sozinha a casa, os filhos e a própria esperança. O primeiro volume da trilogia encerra seu arco com uma escolha por autonomia: ela termina solteira, feliz e inteira. O segundo livro não é necessário para compreender este desfecho.
 
-## Estado da edição — 29/09/2026
+## Estado da edição — 05/10/2026
 
 | Item | Situação |
 | --- | --- |
-| História | 40 capítulos, 63.505 palavras de história; candidata à nova rodada da equipe |
-| Manuscrito consolidado | 64.227 palavras com cabeçalhos e textos iniciais/finais |
+| História | 40 capítulos, 64.266 palavras de história; candidata à nova rodada da equipe |
+| Manuscrito consolidado | 64.988 palavras com cabeçalhos e textos iniciais/finais |
 | Site e leitor | [GitHub Pages](https://maykonlong.github.io/book/) no ar; leitor instalável que retoma o progresso, sem livro inteiro offline |
 | Artes | 10 ilustrações narrativas presentes no leitor, EPUB e miolo |
 | eBook | EPUB e capa Kindle preparados; EPUBCheck: 0 erros e 0 avisos |
-| Impresso | Miolo de 328 páginas, 5,5 × 8,5 pol., e capa recalculada para essa paginação |
-| Validação local | `python tools/validate_release.py` — aprovado em 29/09/2026 |
+| Impresso | Miolo de 330 páginas, 5,5 × 8,5 pol., e capa recalculada para essa paginação |
+| Validação local | Executar `node tools/test_landing.cjs`, `python tools/validate_release.py` e `python tools/inspect_publication.py --render` após mudanças |
 | Ainda falta | retorno da equipe, decisões finais de autoria/ISBN/ficha, Previewers da KDP e prova física |
 
-O [checkup integral](04-MATERIAL_APOIO/CHECKUP_EDITORIAL_2026-09-29.md) registra os 40 capítulos e a revisão por categoria da edição **2026-09-29-checkup-integral**. O [relatório mais curto do mesmo dia](04-MATERIAL_APOIO/RELATORIO_REVISAO_2026-09-29.md) descreve a passagem anterior. O estado de cada pendência está em [STATUS_ATUAL.md](04-MATERIAL_APOIO/STATUS_ATUAL.md). Nenhum teste automático garante ausência absoluta de erros ou reação comercial das leitoras.
+O [relatório atual](04-MATERIAL_APOIO/REVISAO_CONTINUIDADE_2026-10-05.md) registra a revisão dirigida de duração da relação, namoro com Daniel, linguagem e continuidade de cenas. A edição é **2026-10-05-cronologia-e-namoro**, com [identificação e hashes](05-PUBLICACAO/EDICAO_2026-10-05.md). O [checkup integral anterior](04-MATERIAL_APOIO/CHECKUP_EDITORIAL_2026-09-29.md) é histórico: seus números descrevem a edição de 29/09, não a atual. O estado de cada pendência está em [STATUS_ATUAL.md](04-MATERIAL_APOIO/STATUS_ATUAL.md). Nenhum teste automático garante ausência absoluta de erros ou reação comercial das leitoras.
 
 ## Para a equipe de leitura
 
@@ -47,7 +47,7 @@ A indicação só ocorre após ação da visitante: compartilhamento nativo, có
 
 Antes de publicar qualquer alteração da landing, rode `node tools/test_landing.cjs` e `python tools/validate_release.py`. Os testes de compartilhamento são simulações locais, não envios reais. Confira no navegador a primeira visita, a retomada, início pela capa, navegação por teclado, expansão/recolhimento dos temas, FAQ, botão móvel e falta de rolagem lateral. Nesta rodada, a inspeção visual cobriu 320, 390, 768 e 1440 px. Em 390 × 844, a página fechada passou de cerca de 14,3 mil para 5,7 mil pixels de altura, mantendo os 13 temas acessíveis. Isso mede a redução de rolagem, não aumento garantido de vendas.
 
-Somente a apresentação do site mudou nesta rodada: manuscrito, EPUB, PDF, capas e ZIP KDP não foram reescritos. As informações de 63.505 palavras e 328 páginas também foram sincronizadas no `llms.txt`. Qualquer futura edição dessas métricas precisa manter livro, site e esse arquivo em acordo.
+Na rodada da landing de 29/09, somente a apresentação do site mudou; o manuscrito e o pacote permaneceram iguais naquele momento. A revisão de 05/10 alterou a narrativa e regenerou as saídas: os números atuais são 64.266 palavras de história e 330 páginas. Qualquer futura edição dessas métricas precisa manter livro, site e `llms.txt` em acordo.
 
 ## Protocolo obrigatório de revisão para pessoas e IAs
 
@@ -79,6 +79,8 @@ Use este mapa de verificação; não substitui a leitura integral de cada capít
 | 39–40 | diário, término respeitoso, exposição final, Joana | diário já foi aberto no 38; conversa no café é na semana seguinte; final sem novo romance |
 
 ### 3. Etapa grande — arcos e continuidade entre capítulos
+
+**Regras reforçadas em 05/10:** 14 anos são de relação (3 de namoro + 11 de vida de casados), não de maternidade nem de sofrimento ininterrupto. Explicar a conta no início e usar o número adequado ao fato; não fazer substituição global de 11 por 14. O ano até o divórcio formal não prolonga o relacionamento. Não igualar o tempo sem pintar à duração do casamento sem evidência. Antes de usar “namorado”, mostrar aproximação, passagem de tempo e escolha mútua: cap. 30 agora tem primeiro beijo e decisão de namorar no fim de abril; apresentação aos filhos só em julho. Uma lembrança deve respeitar o lugar, o sujeito e o que de fato aconteceu: Ricardo perdeu o parabéns, não esqueceu que havia festa; falava da sala, não da cozinha; não estabelecer barulho de carro ouvido do apartamento sem sustentação. Rastrear objetos entre ações, inclusive recolher/devolver. Distinguir erro de preferência: “tinha querido” e “tinha rido” são gramaticais, mas podem ser simplificados quando a relação temporal continuar clara.
 
 Controle também a situação dos objetos e compromissos: quem já viu os quadros; quando o quadro vendido é retirado; quem prometeu passeio; onde estão carro, chaves e crianças; se uma mensagem pode ser privada e receber respostas ao mesmo tempo. Confira o dinheiro sem transformar o romance em conselho: 30% é o pedido/acordo desta família, não uma regra geral. Não confunda pensão dos filhos com parcela do imóvel. Não use uma frase carinhosa dos filhos como prova de que a separação não os afeta.
 

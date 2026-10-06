@@ -15,7 +15,7 @@ Tinham combinado jantar às sete. Desde as cinco, as mensagens de Camila ficavam
 
 Mas não resolvia. Porque dentro de Camila não era o Daniel que estava ali. Era o Ricardo. O Ricardo que sumia, que não avisava, que deixava ela esperando e ainda fazia parecer que ela era a louca por perguntar.
 
-*Onze anos*, pensou ela. *Onze anos treinando meu corpo para o silêncio.*
+*É só um atraso*, pensou ela. Mas o corpo ainda esperava a discussão que tantas vezes vinha depois.
 
 — Estar aqui agora não apaga as três horas em que eu não sabia de nada.
 
@@ -135,7 +135,7 @@ Daniel a olhou com uma ternura que ela não esperava.
 
 Camila enxugou o rosto.
 
-— E eu vou tentar não transformar um atraso seu em onze anos dele.
+— E eu vou tentar não colocar toda a minha história com ele em cima de um atraso seu.
 
 — Eu preciso que tente. Posso avisar quando atrasar. Posso ser claro. Mas talvez eu erre de novo, Cá. Não quero que cada erro meu vire uma prova de que sou uma pessoa ruim.
 
@@ -161,7 +161,7 @@ Camila ficou olhando para a mensagem por um longo tempo. Não era uma declaraç�
 
 E, ainda assim, ela chorou.
 
-Porque o Ricardo tinha passado onze anos sem nunca entender que eram exatamente essas mensagens — as pequenas, as do dia a dia, as que diziam "eu me importo com o seu sossego" — que construíam a confiança.
+Nos últimos tempos com Ricardo, ela precisava ligar várias vezes para conseguir uma resposta. Agora, começava o dia sabendo o que os dois tinham combinado. Aquela mensagem pequena tinha feito diferença.
 
 Daniel não tinha como entender tudo numa noite. Mas tinha ouvido o pedido e começado pelo que podia cumprir.
 
@@ -187,7 +187,7 @@ Durante o jantar, combinaram uma regra simples: se um dos dois fosse atrasar, av
 
 Eles riram. Não porque tudo estivesse resolvido, mas porque já conseguiam respirar dentro do assunto.
 
-Naquela noite, Camila e Daniel não resolveram tudo. Ninguém resolve uma ferida de onze anos em uma conversa. Mas ele voltou, ela falou e os dois combinaram um jeito simples de cuidar do que havia doído.
+Naquela noite, Camila e Daniel não resolveram tudo. Uma conversa não apagava anos de medo. Mas ele voltou, ela falou e os dois combinaram um jeito simples de cuidar do que havia doído.
 
 Camila releu a mensagem das sete e meia e deixou o celular sobre a mesa.
 

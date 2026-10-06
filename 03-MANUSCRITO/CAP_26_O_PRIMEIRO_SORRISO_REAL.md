@@ -42,7 +42,7 @@ Era pelo valor.
 
 Alguém via valor naquilo que ela criou a partir da própria dor.
 
-Por onze anos, o valor de Camila tinha sido medido pelo que fazia pelos outros: o que produzia, limpava, lembrava e organizava. Agora uma desconhecida escolhia levar para casa algo que existia porque Camila tinha sentido e criado. Como quem compra um espelho.
+Por muito tempo, Camila tinha medido o próprio valor pelo que fazia pelos outros: o que produzia, limpava, lembrava e organizava. Agora uma desconhecida escolhia levar para casa algo que existia porque Camila tinha sentido e criado. Como quem compra um espelho.
 
 Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só uma aquarela. Era o retrato de uma manhã qualquer em que Camila por fim tinha conseguido respirar. E uma desconhecida tinha olhado para aquilo e sentido paz.
 
@@ -113,7 +113,7 @@ Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito be
 
 Era um sorriso que ninguém precisava ver, que vinha de dentro e não pedia plateia. O sorriso de quem tinha se salvado. O mais precioso que existia.
 
-E Camila percebeu a diferença entre aquele sorriso e o que ela usava há onze anos. O sorriso de antes era de vitrine: medido, ensaiado, calculado para agradar. Era o sorriso da esposa que ria da piada sem graça, da funcionária que concordava sem concordar, da mulher que sorria para não chorar.
+E Camila percebeu a diferença entre aquele sorriso e o que tinha se acostumado a usar. O sorriso de antes era de vitrine: medido, ensaiado, calculado para agradar. Era o sorriso da esposa que ria da piada sem graça, da funcionária que concordava sem concordar, da mulher que sorria para não chorar.
 
 Aquele sorriso de agora não tinha plateia. Não tinha ensaio. Era só dela, e por isso era tão raro, e por isso era tão verdadeiro.
 

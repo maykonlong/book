@@ -115,9 +115,9 @@
 ### Evolução do Relacionamento
 1. **Amizade inicial**: Conversas leves, sem pressão
 2. **Interesse mútuo**: Camila percebe, mas resiste
-3. **Primeiras tentativas**: Daniel convida, Camila recusa
-4. **Paciência**: Ele espera, sem cobrar
-5. **Abertura gradual**: Camila aceita café, depois jantar
+3. **Primeiro café (cap. 27)**: Camila aceita o convite, mas ao final diz que não está pronta para começar uma relação
+4. **Paciência**: Ele respeita o limite; ela procura saber se ainda podem tomar outro café (cap. 29)
+5. **Abertura gradual (caps. 29–33)**: segundo café, dois almoços, cinema, parque, jantar com Mariana e primeiro beijo; duas semanas depois, no fim de abril, decidem namorar. Camila conta aos filhos sobre Daniel em maio e só o apresenta em julho
 6. **Teste de confiança**: Daniel falha ao não avisar um atraso; os dois se irritam, conversam e combinam como agir. Ele não é perfeito, e o passado não justifica qualquer reação dela.
 7. **Entrega**: Camila se permite amar sem deixar de observar o que deseja
 8. **Diferença de futuro**: Daniel quer ser pai; Camila não quer mais filhos

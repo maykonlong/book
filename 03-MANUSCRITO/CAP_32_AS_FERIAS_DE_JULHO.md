@@ -3,7 +3,7 @@
 
 Quando as férias de julho chegaram, Camila teve um momento de pânico.
 
-Onze anos de férias com o Ricardo tinham ensinado a ela que "férias em família" era uma expressão elegante para "mais trabalho, só que em outra cidade". Era ela quem planejava tudo, arrumava as malas das crianças, separava os remédios, dirigia, organizava as refeições — enquanto o Ricardo tirava fotos e reclamava do calor.
+As últimas férias com Ricardo tinham ensinado a ela que "férias em família" significava "mais trabalho, só que em outra cidade". Desde que os filhos nasceram, cada viagem parecia acrescentar alguma coisa à lista dela: malas das crianças, remédios, lanches, horários. Mesmo quando ele dirigia, como na viagem a Atibaia, Camila continuava cuidando de todo o resto.
 
 Mas agora não havia Ricardo. E, enfim, Camila percebeu que férias podiam ser... dela.
 
@@ -129,7 +129,7 @@ A chuva parou ao anoitecer. Mais tarde, os três se acomodaram na rede da varand
 
 Camila sorriu no escuro.
 
-— É alguém de quem eu gosto muito.
+— É, filho. A gente está namorando. Eu gosto muito dele.
 
 — A gente vai conhecer ele?
 

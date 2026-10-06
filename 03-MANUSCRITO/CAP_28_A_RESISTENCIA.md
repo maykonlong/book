@@ -9,7 +9,7 @@ A campainha tocou às oito. Camila estava de pijama (aquele velho e confortável
 Ela olhou no olho mágico. Ricardo.
 Segurava algo. Flores?
 
-O estômago dela se contraiu antes do cérebro. Onze anos de reflexo: Ricardo na porta com flores sempre vinha antes de uma briga, de um pedido de desculpas que não era desculpa, de um favor que ela não queria fazer.
+O estômago dela se contraiu antes do cérebro. Conhecia aquele jeito de chegar com um presente antes de pedir alguma coisa ou de fingir que uma briga não tinha acontecido.
 
 Camila abriu a porta, mas não tirou a corrente de segurança.
 — Ricardo? Aconteceu alguma coisa?
@@ -47,7 +47,7 @@ Ele suspirou. Olhou para ela com olhos de cachorro pidão.
 Camila sentiu o estômago revirar. Não de amor. De alerta.
 
 — Ricardo, a gente tá separado há onze meses. O divórcio sai mês que vem.
-— Eu sei. Mas... eu andei pensando. Será que a gente não se precipitou? Onze anos, Camila. É muita história pra jogar fora.
+— Eu sei. Mas... eu andei pensando. Será que a gente não se precipitou? Quatorze anos juntos, Camila. É muita história pra jogar fora.
 
 Ele levantou e chegou perto dela.
 — Eu sei que eu errei. Fui ausente. Mas eu mudei. Aquele apartamento, ficar sozinho... me fez ver o valor que você tem. Eu juro que vai ser diferente.

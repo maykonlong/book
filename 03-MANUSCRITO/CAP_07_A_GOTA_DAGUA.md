@@ -136,7 +136,7 @@ Um pano. Dois segundos. Era tudo o que separava a parceria da exploração. E el
 
 Ele contava que ela daria conta. Até naquele estado.
 
-Era impressionante como uma coisa tão pequena podia carregar tanto. Aquele leite trazia de volta a reunião da escola à qual ele faltou, o aniversário perdido, cada "vou tentar" que nunca virou "fiz". Era a última gota de uma torneira que vazava havia onze anos.
+Era impressionante como uma coisa tão pequena podia carregar tanto. Aquele leite trazia de volta a reunião da escola à qual ele faltou, o aniversário perdido, cada "vou tentar" que nunca virou "fiz". Era a última gota de uma torneira que vazava havia anos.
 
 Camila sentiu uma raiva tão branca, tão pura, tão quente, que superou a febre.
 A vontade de limpar veio por costume. Ela segurou a borda da pia até a tontura diminuir e deixou o pano onde estava.
@@ -179,9 +179,9 @@ Deixou em cima da poça de leite seco no balcão.
 
 *Eu vou embora.*
 
-Três palavras que custaram onze anos para sair. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, por fim entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
+Três palavras que ela tinha engolido por tempo demais. Ela olhou para o bilhete por um segundo, imaginando a cena: Ricardo chegando, vendo o papel, por fim entendendo — ou não entendendo. Provavelmente não entenderia. Provavelmente diria "drama", como sempre.
 
-Mas a opinião dele não importava. O que importava era que, depois de onze anos, ela estava indo embora sem pedir desculpa.
+Mas a opinião dele não importava. O que importava era que ela estava indo embora sem pedir desculpa.
 
 Saiu.
 Bateu a porta.

@@ -61,7 +61,7 @@ Camila estava sentada no sofá. Tentando parecer firme. Tentando não desmoronar
 
 *Você tem certeza?*
 
-Ele ainda perguntava. Como se onze anos de tentativa não fossem resposta suficiente.
+Ele ainda perguntava. Como se todas aquelas tentativas de conversar não fossem resposta suficiente.
 
 — Tenho.
 
@@ -89,7 +89,7 @@ E o silêncio.
 
 O silêncio era estranho.
 
-Camila sempre tinha querido silêncio. Sempre tinha sonhado com um momento de paz, sem barulho, sem demandas.
+Camila sempre quis um pouco de silêncio. Tinha imaginado uma pausa nas cobranças, um momento em que ninguém precisasse dela.
 
 Mas agora que tinha... era ensurdecedor.
 
@@ -105,7 +105,7 @@ Ela sentou no sofá. Respirou.
 
 Lágrimas vieram. Não porque queria ele de volta. Mas porque era real. Era final. Era assustador.
 
-Onze anos. Acabaram. Assim.
+Quatorze anos juntos. Como era possível que uma história tão comprida terminasse com duas malas saindo pela porta?
 
 Será que ela tinha feito certo?
 
@@ -141,7 +141,7 @@ Camila olhou para o filho. Para aqueles olhos que viam demais.
 
 — Eu sei, meu amor.
 
-— Mas... — Léo hesitou. — Você tá mais leve.
+— Mas... — Léo hesitou. — Você tá mais calma.
 
 Camila piscou.
 
@@ -341,7 +341,7 @@ Ia descobrir quem era Camila.
 
 A mulher que existia além de mãe, de esposa, de funcionária.
 
-A Camila que ela tinha perdido há onze anos.
+A Camila que tinha deixado de lado aos poucos, sem perceber quanto de si estava perdendo.
 
 E estava na hora de reencontrar.
 

@@ -254,7 +254,7 @@ Ricardo **não recebe uma redenção completa nem volta para Camila**. Ele:
 - ❌ Usar seu reconhecimento parcial como desculpa para apagar o passado ou reatar o casamento
 
 ### Cenas Importantes
-1. **Cena do aniversário esquecido** - Ricardo esquece aniversário de Léo
+1. **Cena do aniversário esquecido** - Ricardo sabe da festa, mas fica no bar e chega depois do parabéns; não confundir ausência/prioridade com desconhecimento da data
 2. **Cena da terapia rejeitada** - Ricardo recusa ajuda profissional
 3. **Cena do divórcio** - Ricardo se vitimiza e ameaça
 4. **Última cena juntos** - Camila estabelece limite final e firme

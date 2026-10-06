@@ -56,7 +56,7 @@ Foram para a mesa. A lasanha estava ótima, como sempre. Mas Camila mal consegui
 — Não.
 — Então foi o quê? Cansaço? — Cida riu. — Se todo mundo separasse por cansaço, não sobrava um casal no mundo, minha filha. Casamento cansa mesmo. É normal.
 
-— É normal o marido não saber a data de aniversário dos filhos? — Camila soltou. Não aguentou. — É normal a mulher trabalhar fora, cuidar da casa, das crianças, da agenda social, das contas, e o marido chegar e perguntar "o que tem pro jantar"? Se isso é normal, tia, então eu prefiro ser anormal.
+— É normal o marido perder o parabéns do próprio filho porque ficou no bar? — Camila soltou. Não aguentou. — É normal a mulher trabalhar fora, cuidar da casa, das crianças, da agenda social, das contas, e o marido chegar e perguntar "o que tem pro jantar"? Se isso é normal, tia, então eu prefiro ser anormal.
 
 Fez-se um silêncio na mesa. Aquele silêncio de talheres batendo na louça.
 
@@ -66,7 +66,7 @@ Dona Sônia, na cabeceira, continuava comendo devagar.
 
 *Homem é assim mesmo.* A frase era repetida como se o descuido viesse de nascença. Como se cuidar da própria casa fosse um dom que eles não tinham e as mulheres, por obrigação, tinham.
 
-— Estourada? — Camila sentiu as lágrimas virem. — Eu aguentei onze anos, tia! Onze anos pedindo ajuda. Onze anos me sentindo sozinha acompanhada. Isso é ser estourada?
+— Estourada? — Camila sentiu as lágrimas virem. — Foram quatorze anos juntos, tia! Você acha que eu decidi isso de uma hora pra outra? Faz anos que eu peço ajuda, que tento conversar. Isso é ser estourada?
 
 — Ah, mas ele não bebia, não batia... — começou Vilma.
 

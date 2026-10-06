@@ -66,7 +66,7 @@
 
 ### Juventude (18-23 anos)
 - Conheceu Ricardo na faculdade (ele cursava Administração)
-- Namoro de 3 anos
+- Namoro de 3 anos; somado aos 11 de casamento, são 14 anos juntos até a separação (não 14 anos casados nem 14 de maternidade)
 - Era mais leve, sonhadora, criativa
 - Tinha grupo de amigas próximas
 - Trabalhava em agência de publicidade (adorava!)
@@ -120,6 +120,7 @@
 ### Com Daniel (Amor sem dependência)
 - **Início**: Camila resiste, desconfia, compara com Ricardo
 - **Desenvolvimento**: Percebe que ele é diferente - gentil, paciente, parceiro
+- **Passagem para o namoro**: primeiro beijo depois do jantar com Mariana; duas semanas depois, no fim de abril do Ano 1, os dois decidem namorar numa conversa no café (cap. 30). Os filhos só o conhecem pessoalmente em julho (cap. 33).
 - **Conflito interno**: Medo de se machucar vs. desejo de se abrir
 - **Resolução**: Reconhece que uma relação pode ser boa e ainda assim não servir aos dois; termina com respeito porque não quer mais filhos e Daniel quer ser pai
 

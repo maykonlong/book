@@ -46,17 +46,15 @@ Camila beijou a testa dele.
 
 Depois de apagar a luz do quarto, ela recolheu as roupas molhadas do banheiro. Ainda precisaria lavar a lancheira de Bia e separar o uniforme de Léo. A vida não tinha ficado fácil. Mas, quando passou pelo corredor, não precisou adivinhar o humor de ninguém antes de entrar na própria sala.
 
-As semanas seguintes passaram entre trabalho, tarefas da escola e encontros que precisavam caber na agenda dos dois. Quando Camila se deu conta, fazia um mês desde o café em que decidira dar uma chance a Daniel.
+As semanas seguintes passaram entre trabalho, tarefas da escola e encontros que precisavam caber na agenda dos dois. Quando Camila se deu conta, abril já tinha chegado. Fazia um mês desde o segundo café, aquele em que decidira conhecer Daniel melhor.
 
-E nesse mês, eles tinham se encontrado cinco vezes. O primeiro almoço tinha sido convite dela. Nos outros encontros, um chamava o outro.
-
-Café. Dois almoços. Cinema. Caminhada no parque.
+Depois daquele sábado, vieram dois almoços, um cinema e uma caminhada no parque. O primeiro almoço tinha sido convite dela. Nos outros encontros, um chamava o outro.
 
 Mesmo assim, Camila se pegava esperando um motivo para recuar.
 
 ---
 
-Encontro três. Almoço.
+Na terça-feira depois do segundo café, foram ao restaurante que Camila tinha escolhido, perto do trabalho dela.
 
 Daniel ofereceu pagar.
 
@@ -76,7 +74,7 @@ Na volta, percebeu que a conversa tinha seguido normalmente depois da conta. Gos
 
 ---
 
-Encontro quatro. Cinema.
+Depois de mais um almoço juntos, combinaram um cinema.
 
 No escuro da sala, Daniel procurou a mão dela no apoio entre as poltronas. Camila afastou a sua. Ele voltou os olhos para o filme, sem perguntar o motivo.
 
@@ -92,7 +90,7 @@ Do lado de fora, na fila do estacionamento, Camila segurou a mão dele. Daniel s
 
 ---
 
-Encontro cinco. Caminhada no parque.
+O passeio no parque ficou para a semana seguinte.
 
 Daniel cancelou de última hora.
 
@@ -211,13 +209,71 @@ Camila saiu do restaurante de mãos dadas com Daniel. Não sabia quanto tempo aq
 
 No caminho de volta, Daniel comentou que Mariana sempre levava aquela foto na bolsa para envergonhá-lo. Camila quis saber se existiam outras. Ele respondeu que não contaria sem um advogado presente. Ela riu até o carro parar diante do prédio.
 
-Na porta de casa, Daniel perguntou se podia vê-la de novo na semana seguinte. Camila sentiu a velha vontade de medir o que aquela resposta significaria daqui a um ano.
+Na entrada do prédio, Daniel perguntou se podia vê-la de novo na semana seguinte.
 
-Olhou para ele, ali, agora.
+— Pode — disse ela.
 
-— Pode — disse.
+Ele apertou sua mão e se aproximou um pouco. Parou antes de beijá-la.
 
-Entrou em casa sem refazer a noite à procura de um sinal que tivesse deixado passar.
+— Tudo bem?
+
+Camila olhou para ele. Ainda tinha medo, mas não era só isso que sentia. Queria ficar mais alguns minutos ali.
+
+— Tudo.
+
+O primeiro beijo foi curto. Ela sorriu antes de abrir os olhos e encostou a testa na dele.
+
+— Eu estava com saudade disso — confessou.
+
+— De quê?
+
+— De ter vontade de uma coisa sem começar pela lista do que pode dar errado.
+
+Daniel riu baixo. Ela o beijou outra vez, por vontade própria, antes de subir. Dona Sônia esperava com as crianças no apartamento; a vida de Camila continuava lá, inteira, e ela queria voltar para ela também.
+
+---
+
+Duas semanas depois, num sábado no fim de abril, os dois se encontraram para um café. Léo e Bia estavam com Ricardo. Camila tinha aula para repor no ateliê à tarde e avisara que precisaria sair antes das duas.
+
+Daniel ouviu o horário e perguntou se dava tempo de dividirem um pedaço de bolo. Dava.
+
+Ela já não vigiava cada palavra dele. Ainda havia momentos de medo: uma mensagem sem resposta, um silêncio que não sabia interpretar. Mas agora também havia assuntos só dos dois, piadas que ninguém mais entenderia e vontade de contar como tinha sido o dia.
+
+— Posso perguntar uma coisa meio boba? — Camila disse, mexendo na borda do guardanapo.
+
+— Depois que eu derrubei farelo na própria camisa, você pode perguntar qualquer coisa.
+
+Ela sorriu, mas não desviou.
+
+— O que a gente está fazendo? Quer dizer... eu gosto de sair com você. Não estou saindo com mais ninguém. Mas não quero adivinhar o que isso é pra você.
+
+Daniel deixou o garfo no prato.
+
+— Eu também não estou conhecendo outra pessoa. E quero continuar com você. Namorar, se você quiser chamar assim.
+
+A palavra fez Camila olhar para ele. Não era um pedido de casamento, uma chave de casa nem uma promessa de que nunca sofreriam. Mesmo assim, importava.
+
+— Eu quero — respondeu. Depois respirou. — Mas não quero juntar a nossa vida toda de uma vez. Ainda não estou pronta para apresentar você às crianças.
+
+— Tudo bem. Não precisa ser agora.
+
+— E eu não vou deixar de ir à pintura porque a gente começou a namorar.
+
+Daniel olhou o relógio.
+
+— Então é melhor a gente pedir a conta. Você falou que a aula começa às duas.
+
+Camila riu. Era uma resposta pequena, mas servia mais do que um discurso.
+
+Quando saíram, ele segurou sua mão.
+
+— Então estamos namorando?
+
+— Estamos — disse ela, sentindo o rosto esquentar. — Só não me faz chegar atrasada no primeiro dia.
+
+Foram até a esquina e seguiram por ruas diferentes: ele tinha provas para corrigir; ela, uma tarde no ateliê. Camila caminhou com vontade de contar a Fernanda. Gostava dele. Gostava de ter dito o que queria.
+
+Mais tarde, ao guardar o celular na bolsa para pintar, pensou em Léo e Bia. A decisão dos dois estava tomada. Agora precisava encontrar um jeito de contar aos filhos sem fazê-los pensar que tudo mudaria outra vez.
 
 
 

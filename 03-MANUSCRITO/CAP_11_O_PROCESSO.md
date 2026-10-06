@@ -61,7 +61,7 @@ Tirar Léo e Bia do único lar que conheciam. Mais uma mudança para eles.
 
 Camila sentiu o peso do dinheiro — ou da falta dele — esmagando seus ombros.
 
-Lembrou do dia em que eles assinaram a compra daquele apartamento. Ricardo segurando a chave, girando no dedo como um troféu. Camila grávida do Léo, os pés inchados, imaginando o berço no quarto azul. "Nosso cantinho", ela tinha dito, e ele tinha rido. Na época, aquilo parecia o começo de tudo.
+Lembrou do dia em que eles assinaram a compra daquele apartamento. Ricardo segurando a chave, girando no dedo como um troféu. Camila grávida do Léo, os pés inchados, imaginando o berço no quarto azul. "Nosso cantinho", ela disse, e ele riu. Na época, aquilo parecia o começo de tudo.
 
 Ali, diante da advogada, ela entendeu que talvez precisasse se despedir também daquela casa.
 
@@ -111,7 +111,7 @@ O medo de passar necessidade depois do divórcio é um fantasma frio para toda m
 
 *Será que eu vou virar aquela mãe que conta moedas no caixa do supermercado com o coração disparado?*
 
-Ela nunca tinha sido rica. Mas tinha sido *protegida*. Ricardo ganhava bem e o dinheiro, mesmo que nunca sobrasse, sempre aparecia no fim do mês. Agora ela estava prestes a descobrir o que era viver no fio da navalha. Sozinha. Sem rede.
+Ela nunca tinha sido rica. Mas tinha sido *protegida*. Ricardo ganhava bem e o dinheiro, mesmo que nunca sobrasse, sempre aparecia no fim do mês. Agora ela estava prestes a descobrir o que era viver no limite. Tinha quem a acolhesse, mas não sabia como pagar as contas do mês seguinte.
 
 E a vergonha veio antes do medo. Vergonha de ser uma mulher de 34 anos que não sabia o que era investir porque sempre deixou o marido cuidar das "coisas de dinheiro". Vergonha de ter sido ingênua. De ter confiado.
 

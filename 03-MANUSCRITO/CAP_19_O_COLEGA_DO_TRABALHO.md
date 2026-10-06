@@ -23,7 +23,7 @@ Camila ficou olhando para o café. Era um cappuccino, do jeito que ela gostava. 
 
 *Calma*, pensou ela. *Ele é só um colega simpático. Nem todo gesto é um sinal de alerta. Nem todo homem é o Ricardo.*
 
-Mas o coração dela, treinado por onze anos para desconfiar, demorou a acreditar.
+Mas Camila tinha se acostumado a desconfiar dos elogios e demorou a acreditar.
 
 ---
 
@@ -49,7 +49,7 @@ Na sexta-feira, o Marcos tentou outra vez. Dessa vez, esperou Camila na saída d
 
 *Sem pressão.* A expressão soou estranhamente boa.
 
-Camila quase recusou por reflexo. Onze anos de "não" automático, de achar que todo convite vinha com uma cobrança escondida.
+Camila quase recusou por reflexo. Estava acostumada a dizer não antes de descobrir se tinha vontade de ir.
 
 Mas então ela pensou: *eu sou uma mulher solteira. Eu posso almoçar com quem eu quiser. Isso não é traição de ninguém. Isso não é errado.*
 
@@ -71,9 +71,9 @@ Na segunda-feira, o almoço aconteceu. E, para surpresa de Camila, foi... normal
 
 Marcos escolheu um restaurante simples, de self-service, perto do trabalho. Ele falou sobre os filhos (tinha dois, como ela), sobre a ex-mulher (sem veneno, o que Camila achou um bom sinal), sobre o futebol de quinta.
 
-Camila, no começo, ficou tensa, esperando a cantada, o olhar insistente, a mão que avança. Onze anos de Ricardo a tinham ensinado que todo almoço com homem vinha com uma cobrança escondida no final.
+Camila, no começo, ficou tensa, esperando a cantada, o olhar insistente, a mão que avança. Com Ricardo, tinha aprendido a procurar a cobrança escondida atrás de cada gentileza. Ainda levava essa desconfiança para outras conversas.
 
-Não veio.
+A cobrança não veio.
 
 — Obrigado por ter vindo — disse Marcos, na volta, parando na porta do escritório. — Eu só queria almoçar com alguém que entende o que é recomeçar. A gente fica tão no automático que esquece como é ter uma conversa de verdade.
 

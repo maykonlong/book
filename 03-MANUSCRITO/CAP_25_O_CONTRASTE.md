@@ -52,9 +52,9 @@ Ricardo não era organizado. Ricardo não era exigente.
 Ricardo era *cuidado*.
 Por ela.
 
-A frase não chegou com raiva. Chegou com uma clareza que a deixou tonta. Durante onze anos, ela acreditou que ele era o parceiro detalhista e ela a desleixada que nunca alcançava o padrão. Mas a verdade era outra: o padrão não era dele. Era dela. Ele só cobrava — e ela, exausta, atendia. Ele nunca construiu uma casa organizada; ele morou numa, às custas dela.
+A frase não chegou com raiva. Chegou com uma clareza que a deixou tonta. De tanto ouvir as críticas de Ricardo, ela tinha acreditado que ele era o parceiro detalhista e ela a desleixada que nunca alcançava o padrão. Mas a verdade era outra: o padrão não era dele. Era dela. Ele só cobrava — e ela, exausta, atendia. Ele não mantinha uma casa organizada; morava numa, às custas dela.
 
-Durante onze anos, ela foi a gerente da vida dele. A que garantia que a camisa estava passada, que a casa cheirava a lavanda, que a comida estava na mesa.
+Sem perceber, tinha virado a gerente da vida dele. A que garantia que a camisa estava passada, que a casa cheirava a lavanda, que a comida estava na mesa.
 Ela era o andaime que sustentava a fachada de "homem de sucesso organizado".
 
 Sem ela recolhendo tudo, a bagunça dele ficava à vista.

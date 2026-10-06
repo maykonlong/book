@@ -85,8 +85,11 @@ def validate_chapters() -> int:
     if leftovers:
         fail(f"Resíduos linguísticos encontrados: {leftovers}")
     editorial_regressions = {
-        9: ("tendo que acordar o pai", "Eles mereciam saber direto da gente"),
-        10: ("E Fi ficaram", "sobressaltada", "por sentir sozinha", "A gente ainda dá tempo"),
+        3: ("Ricardo tinha dito na cozinha", "uma esposa de onze anos"),
+        6: ("mensageiro", "invisível sob a marquise"),
+        8: ("nunca tinha visto. Ferro.", "seu filho esquece o aniversário"),
+        9: ("tendo que acordar o pai", "Eles mereciam saber direto da gente", "ouvir o carro ir embora"),
+        10: ("E Fi ficaram", "sobressaltada", "por sentir sozinha", "A gente ainda dá tempo", "Léo hesitou. — Você tá mais leve", "Camila sempre tinha querido silêncio"),
         11: ("caneta em riste", "Mais uma ruptura", "Léo tentando acordar o pai"),
         12: ("Não apagaram as parcelas da escola", "Abril estava no dia 8"),
         13: ("via jornal", "amava pequeno"),
@@ -96,10 +99,16 @@ def validate_chapters() -> int:
         18: ("Porque era terça. Crianças com o pai",),
         21: ("se eles vão voltar", "Fechou diário", "Não felicidade. Mas aceitação"),
         25: ("no apart-hotel de Ricardo",),
-        29: ("Ela contou que tinha voltado a pintar. Daniel perguntou", "apenas para ela (melhores amigos)"),
+        27: ("Isso era uma informação nova e valiosa",),
+        29: ("Ela contou que tinha voltado a pintar. Daniel perguntou", "apenas para ela (melhores amigos)", "pedaço que o casamento tinha ficado"),
+        30: ("Encontro três.", "Encontro quatro.", "Encontro cinco."),
         31: ("onze anos de Dia das Mães",),
-        38: ("malas na calçada", "gritando que ela tinha estragado tudo"),
-        39: ("Camila encontrou seu diário antigo", "No dia seguinte, Camila encontrou Daniel"),
+        32: ("Onze anos de férias",),
+        33: ("— Eu também. Mas vai dar certo.",),
+        34: ("Fez os dois devolverem o pegador",),
+        36: ("Onze anos com o Ricardo",),
+        38: ("malas na calçada", "gritando que ela tinha estragado tudo", "Ricardo não estava no celular. Estava filmando"),
+        39: ("Camila encontrou seu diário antigo", "No dia seguinte, Camila encontrou Daniel", "Hoje ele esqueceu o aniversário do Léo"),
         40: ("Era o Ato I", "uma novidade recente que todos adoravam"),
     }
     for chapter_number, tokens in editorial_regressions.items():
@@ -113,6 +122,20 @@ def validate_chapters() -> int:
 
     if any("Daniel" in text for text in texts[:26]):
         fail("Daniel aparece antes do capítulo 27")
+
+    # Âncoras editoriais: detectam regressões conhecidas, não julgam naturalidade.
+    if "quatorze anos: três de namoro e onze de casamento" not in texts[0]:
+        fail("Abertura deve distinguir 14 anos juntos de 11 anos de casamento")
+    if re.search(r"(?:quatorze|catorze|14) anos de casamento", combined, re.I):
+        fail("Duração da relação confundida com duração do casamento")
+    romance_steps = ("O primeiro beijo foi curto", "no fim de abril", "— Então estamos namorando?")
+    positions = [texts[29].find(marker) for marker in romance_steps]
+    if min(positions) < 0 or positions != sorted(positions):
+        fail("Capítulo 30 sem progressão de beijo, passagem de tempo e decisão de namorar")
+    if "— É, filho. A gente está namorando." not in texts[31]:
+        fail("Camila não responde claramente a Léo sobre o namoro no capítulo 32")
+    if "um domingo de julho" not in texts[32] or "No começo de agosto" not in texts[32]:
+        fail("Apresentação aos filhos e aproximação antes da viagem perderam a ponte temporal")
 
     continuity_markers = {
         1: "bombinha de asma do Léo",
@@ -300,6 +323,16 @@ def validate_site_content() -> None:
         fail("Pergunta AEO sobre os 13 temas ausente")
 
     llms = (ROOT / "llms.txt").read_text(encoding="utf-8")
+    public_descriptions = {
+        "landing": index,
+        "llms": llms,
+        "Amazon": (PACKAGE / "metadados" / "descricao-amazon.txt").read_text(encoding="utf-8"),
+    }
+    for name, text in public_descriptions.items():
+        if "quatorze" not in text.casefold() or "onze" not in text.casefold():
+            fail(f"Descrição de {name} sem distinção entre relação e casamento")
+        if "Há onze anos, ela organiza a casa, os filhos" in text:
+            fail(f"Descrição de {name} atribui 11 anos à maternidade")
     numbered_themes = re.findall(r"(?m)^\d+\. ", llms)
     if len(numbered_themes) != len(THEMES):
         fail(f"llms.txt contém {len(numbered_themes)} temas numerados")

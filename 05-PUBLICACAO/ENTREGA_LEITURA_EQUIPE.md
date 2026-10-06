@@ -2,7 +2,7 @@
 
 **Livro:** *A Metade Que Me Faltava Era Eu*
 
-**Versão do texto:** 40 capítulos, 63.505 palavras de história na revisão de 29/09/2026. Confira o commit enviado à equipe antes de registrar as respostas; não misture observações da base anterior `cd09ccf` com esta rodada.
+**Versão do texto:** 40 capítulos, 64.266 palavras de história na edição **2026-10-05-cronologia-e-namoro**. Confira o commit enviado à equipe antes de registrar as respostas; não misture observações da versão `5ad548d` ou de outras bases anteriores com esta rodada.
 
 **Objetivo:** testar a experiência real de leitura antes de congelar os arquivos de publicação. Esta rodada não é autorização para publicar ou mudar a estratégia do site.
 
@@ -16,7 +16,7 @@
 
 1. **Entrada:** em que capítulo você decidiu continuar? Algum começo demorou para envolver?
 2. **Ritmo:** onde você quis virar a página imediatamente? Onde parou, pulou ou releu? Os capítulos 11–21 mantêm interesse apesar de retratarem rotina, dinheiro e reconstrução?
-3. **Ligações:** alguma ação, tempo, idade, trabalho ou conversa não combina com o capítulo anterior? A passagem 29→30 deixa claro o tempo e a ordem dos encontros?
+3. **Ligações:** alguma ação, tempo, idade, trabalho ou conversa não combina com o capítulo anterior? Fica claro que são 14 anos juntos e 11 de casamento? A sequência 27→33 permite acompanhar os cafés, o beijo, a decisão de namorar e a apresentação aos filhos, sem salto ou repetição de “primeira vez”?
 4. **Voz:** alguma palavra pareceu difícil ou formal demais para Camila, narrador ou público? Alguma fala soou como discurso em vez de conversa?
 5. **Personagens:** Ricardo é crível sem virar caricatura? Daniel tem desejos próprios? Léo e Bia reagem de modo compreensível às escolhas dos adultos?
 6. **Final:** o desejo de Daniel de ter um filho foi preparado? A despedida nos capítulos 37–39 parece madura ou apressada? O capítulo 40 fecha a jornada e deixa curiosidade pelo segundo livro sem desfazer a felicidade solteira de Camila?

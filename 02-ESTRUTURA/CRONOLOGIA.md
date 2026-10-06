@@ -9,12 +9,12 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - Aos 26 anos, nasce Léo.
 - Quatro anos depois, nasce Bia.
 - No início do livro, Camila tem 34 anos, Léo está prestes a completar 8 e Bia tem 4. Camila faz aniversário na segunda quinzena de março do Ano 0, depois da consulta jurídica do dia 12; no março do Ano 1, completa 36.
-- O casamento dura 11 anos.
-- Antes do casamento, Camila e Ricardo namoram por 3 anos: 14 anos de relação ao todo. Não confundir duração do casamento com idade de Léo ou número de Dias das Mães.
+- Ao se separarem, Camila e Ricardo completaram 11 anos de vida de casados. O divórcio formal vem cerca de um ano depois; esse período de espera não é uma retomada da relação.
+- Antes do casamento, namoraram por 3 anos: 14 anos juntos até a separação. A conta aparece no cap. 1; depois, usar 14 anos para a história compartilhada, 11 para a vida de casados e referências sem número para o desgaste gradual. Não transformar todo o namoro/casamento em 14 anos de sofrimento, maternidade, férias com filhos ou abandono da pintura.
 
 ## Ano 0
 
-### Janeiro — o desgaste fica impossível de ignorar
+### Janeiro e início de fevereiro — o desgaste fica impossível de ignorar
 
 - **Cap. 1 — A Rotina Invisível:** Camila carrega sozinha a casa, os filhos e a carga mental da família.
 - **Cap. 2 — O Aniversário Esquecido:** Léo completa 8 anos; Ricardo chega tarde à festa.
@@ -62,14 +62,14 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - **Cap. 27 — O Encontro:** quase um ano após a separação, uma segunda exposição apresenta Daniel.
 - **Cap. 28 — A Resistência:** depois de onze meses separados, Ricardo tenta voltar; Camila mantém a decisão.
 - **Cap. 29 — O Fim e o Começo:** guarda, pensão, visitas e apartamento já estão resolvidos; o divórcio é concluído, Camila conversa com os filhos, aceita um segundo café com Daniel e toma a iniciativa de convidá-lo para almoçar.
-- **Cap. 30 — Um Ano Depois:** começa em março, doze meses após a saída de Ricardo; passa às semanas seguintes, até abril. Camila experimenta ir devagar com Daniel. No passeio pelo parque, aponta os pincéis da vitrine, preparando o presente do cap. 36.
+- **Cap. 30 — Um Ano Depois:** começa em março, doze meses após a saída de Ricardo; passa às semanas seguintes, até o fim de abril. Depois do segundo café vêm dois almoços, cinema e parque. No passeio, aponta os pincéis da vitrine, preparando o presente do cap. 36. Após jantar com Mariana, ocorre o primeiro beijo. Duas semanas depois, no fim de abril, Camila e Daniel conversam e decidem namorar, preservando atividades próprias e adiando a apresentação aos filhos.
 
 ### Maio ao começo de agosto — a família se abre ao novo
 
-- **Cap. 31 — O Dia das Mães:** primeiro Dia das Mães oficialmente divorciada.
+- **Cap. 31 — O Dia das Mães:** primeiro Dia das Mães oficialmente divorciada. Retoma uma conversa dos dias anteriores: Camila contou aos filhos que está conhecendo Daniel; eles ainda não o conhecem pessoalmente.
 - **Cap. 32 — As Férias de Julho:** Camila descobre que viajar com os filhos pode ser leve.
-- **Cap. 33 — As Crianças Conhecem Daniel:** apresentação cuidadosa, sem forçar intimidade.
-- **Cap. 34 — A Primeira Viagem a Quatro:** o novo vínculo ganha espaço.
+- **Cap. 33 — As Crianças Conhecem Daniel:** depois da praia, num domingo de julho, apresentação combinada com Léo e Bia, sem forçar intimidade. Seguem-se duas semanas de aproximação; no começo de agosto há um piquenique e o planejamento da viagem daquele mês.
+- **Cap. 34 — A Primeira Viagem a Quatro:** em agosto, depois da apresentação e dos passeios, o novo vínculo ganha espaço.
 
 ### Agosto e setembro — amor sem dependência
 
@@ -104,3 +104,6 @@ Este arquivo acompanha a versão atual do manuscrito, com 40 capítulos.
 - Camila usa Ferreira Santos durante o casamento e escolhe voltar a Ferreira no divórcio.
 - Daniel tem uma irmã mais velha, Mariana; a mãe Lúcia criou os dois após a morte do pai.
 - A história cobre cerca de 20 meses, de janeiro do Ano 0 a setembro do Ano 1.
+- Geografia doméstica: o lar é um apartamento. No fim do cap. 2, Ricardo está na sala e Camila na cozinha; o cap. 3 retoma o que foi dito depois da festa, sem mudar Ricardo de lugar. No cap. 9, Camila espera os passos no corredor, não o motor do carro na garagem. Não inventar andar baixo ou planta aberta para justificar som ou visão não estabelecidos.
+- No hotel (cap. 6), o funcionário entrega as malas antes do banho/pijamas; o abandono de Camila com os filhos permanece o centro da cena.
+- Cap. 2: Ricardo sabe da festa e chega depois do parabéns porque ficou com amigos no bar. O título permanece uma imagem da prioridade esquecida; as retomadas nos caps. 8, 13 e 39 narram a ausência, não uma amnésia da data.

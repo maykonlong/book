@@ -3,7 +3,7 @@
 
 Camila não esperava presentes.
 
-Onze anos com o Ricardo a tinham ensinado que presentes eram, na melhor das hipóteses, uma transferência de dinheiro ("compra você, que eu não sei o que você gosta") e, na pior, uma prova de que ele não prestava atenção ("eu vi esse perfume e lembrei de você" — de um perfume que ela nunca tinha usado na vida).
+Nos últimos anos com Ricardo, os presentes tinham virado, na melhor das hipóteses, uma transferência de dinheiro ("compra você, que eu não sei o que você gosta") e, na pior, uma prova de que ele não prestava atenção ("eu vi esse perfume e lembrei de você" — um perfume que ela nunca tinha usado na vida).
 
 Por isso, quando o Daniel apareceu com uma caixa embrulhada em papel pardo, sem data especial nenhuma, Camila desconfiou.
 
@@ -31,7 +31,7 @@ Camila segurou o pincel na mão, sentindo o peso leve, a maciez do pelo.
 
 E chorou.
 
-Não por causa do pincel. Por causa de tudo o que ele representava: atenção. Memória. Cuidado. As coisas que ela tinha implorado por onze anos e nunca recebido — agora chegando de graça, num papel pardo, numa terça-feira comum.
+Não por causa do pincel. Por causa de tudo o que ele representava: atenção. Memória. Cuidado. Coisas de que ela sentia falta havia tanto tempo — agora chegando sem cobrança, num papel pardo, numa terça-feira comum.
 
 Então veio o medo.
 
@@ -41,7 +41,7 @@ Daniel inclinou a cabeça.
 
 — Quer ver a nota? Está na caixa.
 
-— Importa. Se foi muito caro, eu não posso aceitar.
+— Quero. Se foi muito caro, eu não posso aceitar.
 
 — Cabe no meu orçamento, Cá. Mas me fala o que está te preocupando.
 

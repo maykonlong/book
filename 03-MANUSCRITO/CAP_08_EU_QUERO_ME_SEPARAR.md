@@ -48,7 +48,7 @@ Camila fez que sim. Lágrimas quentes escorreram sem aviso.
 
 — O que foi? — perguntou a médica, oferecendo um lenço.
 
-— Não. Meu casamento acabou.
+— Meu casamento acabou.
 
 — E você está conseguindo pedir ajuda a alguém?
 
@@ -118,7 +118,7 @@ Camila colocou a bolsa no balcão da cozinha. Sentia as pernas fracas, mas sabia
 
 — Senta. — O comando foi baixo, mas cortante.
 
-Ricardo parou. Viu algo nos olhos dela que nunca tinha visto. Ferro.
+Ricardo parou. Camila sustentou o olhar, sem baixar a cabeça. Ele pareceu entender que, dessa vez, ela não ia recuar.
 
 Ele sentou.
 
@@ -142,7 +142,7 @@ Ele riu. Uma risada nervosa.
 
 Ricardo ficou vermelho.
 
-— Você vai jogar onze anos no lixo? Uma família? Por cansaço?
+— Você vai jogar quatorze anos juntos no lixo? Uma família? Por cansaço?
 
 — Vou salvar o resto da minha vida do lixo.
 
@@ -169,7 +169,7 @@ Dona Vera fechou a cara.
 
 Camila olhou para a sogra. Olhou para o marido.
 
-— Dona Vera, seu filho esquece o aniversário das crianças. Seu filho me viu com 39 graus de febre hoje de manhã e reclamou que eu estava com preguiça. Se isso é ser um bom marido no seu livro, no meu não é.
+— Dona Vera, seu filho perdeu o parabéns do Léo para beber com os amigos. Hoje de manhã, me viu com 39 graus de febre e reclamou que eu estava com preguiça. Se isso é ser um bom marido para a senhora, para mim não é.
 
 — Homem é assim mesmo — defendeu Dona Vera.
 

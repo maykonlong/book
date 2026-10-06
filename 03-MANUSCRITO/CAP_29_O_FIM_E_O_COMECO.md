@@ -27,7 +27,7 @@ Camila assinou também.
 Sua mão não tremeu.
 Sua assinatura saiu firme: *Camila Ferreira Santos*, como ainda constava nos documentos. No acordo, tinha escolhido voltar a usar apenas o nome de antes do casamento: *Camila Ferreira*. O sobrenome de Ricardo sairia dos documentos. A decisão já tinha tirado um peso da alma.
 
-Ela tinha ensaiado esse momento por meses, nas noites de insônia, imaginando que ia desmoronar. Mas quando a caneta tocou o papel, o que veio não foi choro. Foi uma espécie de clareza serena, como se cada letra do próprio nome estivesse devolvendo a ela um pedaço que o casamento tinha ficado.
+Ela tinha ensaiado esse momento por meses, nas noites de insônia, imaginando que ia desmoronar. Mas quando a caneta tocou o papel, o que veio não foi choro. Foi uma espécie de clareza serena, como se cada letra do próprio nome lhe devolvesse um pedaço de si que tinha deixado para trás.
 
 — Pronto — disse o tabelião. — Estão divorciados.
 
@@ -42,6 +42,8 @@ Ele parou na porta. Hesitou.
 E ele saiu.
 Onze anos de vida de casados, mais um ano separados à espera dos papéis. Dois filhos. Uma vida inteira construída e depois desfeita.
 Encerrados em vinte minutos e uma caneta BIC.
+
+Os três anos de namoro também faziam parte daquela história. O documento encerrava o casamento; não apagava o que tinham vivido antes dele.
 
 Camila saiu do cartório.
 O céu lá fora ainda estava cinza. A cidade continuava barulhenta. O mundo não tinha parado porque o casamento dela tinha acabado oficialmente.
@@ -168,13 +170,13 @@ Camila congelou.
 
 *E agora? Ele vai descontar a raiva em alguém?*
 
-Daniel deu um pulo para trás. Depois pegou os guardanapos.
+Daniel deu um pulo para trás. Depois pegou os guardanapos e começou a limpar.
 
-— Ai, não! — Pegou guardanapos. Começou a limpar. — Tá tudo bem, moço. Acontece.
+— Opa! Tá tudo bem, moço. Acontece.
 
 Camila esperou o comentário irritado que viria se Ricardo estivesse à mesa. Daniel só puxou a bolsa dela para longe do café derramado.
 
-O garçom, novinho, mortificado:
+O garçom, novinho, ficou sem jeito:
 
 — Desculpa! Vou trazer outro!
 

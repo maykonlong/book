@@ -17,6 +17,8 @@ Ao seu lado, Ricardo dormia o sono dos justos. Ou melhor, o sono dos isentos.
 
 Ele estava virado de costas, ocupando quase toda a cama grande, com o edredom embolado entre as pernas. A respiração dele era pesada, ritmada, profunda. Camila ficou ali, imóvel, observando as costas largas do marido. Havia uma inveja amarga subindo por sua garganta.
 
+Estavam juntos havia quatorze anos: três de namoro e onze de casamento. Ela ainda lembrava do rapaz que atravessava a cidade só para vê-la por meia hora. Agora, na mesma cama, parecia longe demais.
+
 Como ele conseguia? Como ele conseguia desligar o mundo daquele jeito? Como ele não acordava pensando se tinha pão para o lanche das crianças, se o uniforme do Léo tinha secado a tempo, se a reunião das 10h ia conflitar com a entrega do relatório trimestral?
 
 Camila teve uma vontade súbita, quase infantil, de chutar a canela dele. De sacudi-lo pelos ombros e gritar: *"ACORDA! A vida está acontecendo e eu estou carregando ela sozinha!"*

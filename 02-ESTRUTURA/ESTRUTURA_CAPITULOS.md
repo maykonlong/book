@@ -50,7 +50,7 @@
 | 27 | O Encontro | Na segunda exposição, Camila conhece Daniel. |
 | 28 | A Resistência | Ricardo tenta voltar; Camila não recua. |
 | 29 | O Fim e o Começo | O divórcio e os acordos são concluídos; Daniel se aproxima. |
-| 30 | Um Ano Depois | A nova paz já faz parte da rotina. |
+| 30 | Um Ano Depois | A nova paz já faz parte da rotina; encontros, primeiro beijo e decisão explícita de namorar Daniel, sem abandonar a própria vida. |
 
 ## Ato IV — Amar sem depender e escolher a si mesma
 

@@ -12,7 +12,7 @@ A dor daquela Camila saltava das páginas. Uma dor crua, desesperada, de um anim
 
 Ela continuou lendo, sem conseguir parar. Era como revisitar um acidente em câmera lenta.
 
-*"Hoje ele esqueceu o aniversário do Léo. Eu fiz a festa sozinha, enchi os balões sozinha, cantei parabéns sozinha. E depois disse para todo mundo que foi ótimo."*
+*"Hoje ele perdeu o parabéns do Léo. Eu fiz a festa sozinha, enchi os balões sozinha, cantei sem ele ao lado. E depois disse para todo mundo que foi ótimo."*
 
 *"Ele disse que eu 'vivo no mundo da lua'. Que eu 'invento problema'. Talvez ele esteja certo. Talvez eu seja mesmo a louca."*
 

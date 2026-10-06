@@ -1,7 +1,7 @@
 # CAPÍTULO 3
 ## A Tentativa da Terapia
 
-Três dias depois do aniversário de Léo, Camila ainda pensava no que Ricardo tinha dito na cozinha. Tinha salvado o número de uma psicóloga, mas não sabia como tocar no assunto.
+Três dias depois do aniversário de Léo, Camila ainda pensava no que Ricardo tinha dito depois da festa. Tinha salvado o número de uma psicóloga, mas não sabia como tocar no assunto.
 
 Terça-feira à noite.
 
@@ -37,7 +37,7 @@ Sempre as crianças. Como se fosse a única catástrofe possível. O casamento d
 
 — Não. É com a gente.
 
-Ele suspirou. Não foi um suspiro alto, teatral. Foi curto: soltou o ar pelo nariz e revirou os olhos. Quase ninguém perceberia, mas, para uma esposa de onze anos, o recado era claro. *Lá vem ela.*
+Ele suspirou. Não foi um suspiro alto, teatral. Foi curto: soltou o ar pelo nariz e revirou os olhos. Quase ninguém perceberia, mas Camila conhecia aquele gesto. *Lá vem ela.*
 
 — Tá. Pode falar.
 
@@ -91,7 +91,7 @@ Ricardo levantou as mãos, como quem se rende a uma insanidade.
 
 Camila sentiu como se tivesse levado um tapa físico.
 
-Ela olhou para o homem com quem dividia a cama há onze anos. Viu a recusa nos olhos dele. Ele não via "nós". Ele via "ela". O problema era ela. A insatisfação era dela. O trabalho era dela.
+Ela olhou para o homem com quem tinha construído uma história de quatorze anos. Viu a recusa nos olhos dele. Ele não via "nós". Ele via "ela". O problema era ela. A insatisfação era dela. O trabalho era dela.
 
 — Então é isso? — perguntou ela, a voz fina. — Você não vai?
 

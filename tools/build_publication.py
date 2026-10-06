@@ -705,7 +705,7 @@ def build_print_cover(front_cover: Path, page_count: int) -> tuple[Path, Path, f
     draw.text((x, y), "QUERIA VOLTAR A EXISTIR.", font=head_font, fill=gold)
     y += 104
     blurb = (
-        "Camila cuida da casa, dos filhos, do trabalho e da vida de todo mundo. Ricardo diz que ajuda — mas nunca vê o que precisa ser feito. Depois de onze anos de casamento, uma manhã comum mostra o que ela já não consegue negar: está sozinha, mesmo acompanhada."
+        "Quatorze anos juntos, onze deles de casamento. Camila cuida da casa, dos filhos, do trabalho e da vida de todo mundo. Ricardo diz que ajuda, mas nunca vê o que precisa ser feito. Até que uma manhã comum mostra o que ela já não consegue negar: está sozinha, mesmo acompanhada."
     )
     for line in wrap_text(draw, blurb, body_font, panel_x2 - x - 48):
         draw.text((x, y), line, font=body_font, fill=cream)
@@ -846,7 +846,7 @@ O livro completo está disponível gratuitamente no site oficial. Não inscreva 
     (OUT / "LEIA-ME.md").write_text(readme, encoding="utf-8")
 
     description = '''<p><strong>Camila cuida de tudo. Mas ninguém cuida dela.</strong></p>
-<p>Há onze anos, ela organiza a casa, os filhos, o trabalho e até as responsabilidades de Ricardo. Ele diz que ajuda — mas nunca vê o que precisa ser feito.</p>
+<p>São quatorze anos com Ricardo, onze deles de casamento. Aos poucos, Camila ficou responsável pela casa, pelos filhos e até pelas tarefas dele, sem deixar o próprio trabalho. Ricardo diz que ajuda — mas nunca vê o que precisa ser feito.</p>
 <p>Até que uma manhã comum, entre febre, lancheiras e leite derramado, mostra o que Camila já não consegue negar: está sozinha, mesmo acompanhada.</p>
 <p>Ao escolher o divórcio, ela não encontra uma saída fácil. Encontra culpa, contas apertadas, medo de ferir os filhos e o julgamento de quem acha que mulher deve aguentar. Mas também reencontra os pincéis, a própria voz e uma vida que ainda pode ser sua.</p>
 <p>Ao conhecer um homem gentil, Camila enfrenta uma pergunta ainda mais difícil: como amar sem transformar carinho em dependência — e continuar ouvindo a própria vontade?</p>

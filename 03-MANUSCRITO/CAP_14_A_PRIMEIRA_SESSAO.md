@@ -75,7 +75,7 @@ Enquanto falava, Camila percebeu uma coisa que não esperava: estava sendo escut
 Dr. Lucas ouvia. Às vezes fazia uma pergunta curta ("E o que ele disse?"), às vezes só assentia. Às vezes anotava uma palavra solta no bloco, como quem guarda uma chave para abrir uma porta mais tarde.
 Era estranho ser ouvida. Realmente ouvida. Sem interrupção. Sem "ah, mas você devia ter feito tal coisa". Sem "mas ele também tem o lado dele". Sem "pensa nas crianças". Apenas escuta ativa.
 
-Camila tinha passado onze anos sendo ouvida pela metade — ouvida enquanto lavava louça, ouvida enquanto o Ricardo olhava o celular, ouvida até o meio da frase antes de ele responder uma coisa que não tinha nada a ver. Ser ouvida de verdade, por inteiro, era uma sensação tão nova que doía.
+Camila tinha se acostumado a ser ouvida pela metade — ouvida enquanto lavava louça, ouvida enquanto o Ricardo olhava o celular, ouvida até o meio da frase antes de ele responder uma coisa que não tinha nada a ver. Ser ouvida de verdade, por inteiro, era uma sensação tão rara que doía.
 
 Mais perto do final, ele colocou o bloco de lado.
 

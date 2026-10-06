@@ -61,7 +61,7 @@
 
 > Olá! Estou finalizando meu livro de ficção feminina, **"A Metade Que Me Faltava Era Eu"**, e procuro **leitoras beta** para dar um feedback sincero sobre a história antes da publicação.
 >
-> **Sobre o livro:** Camila, 34 anos, casada há 11 anos, decide se divorciar depois de carregar sozinha a casa, os filhos e a carga mental do casamento. É uma história de recomeço, autodescoberta e amor-próprio.
+> **Sobre o livro:** Camila, 34 anos, está com Ricardo há 14 anos, sendo 11 de casamento. Ao perceber que carrega sozinha a casa, os filhos e a carga mental da família, decide se divorciar. É uma história de recomeço, autodescoberta e amor-próprio.
 >
 > **O que preciso de você:** apenas ler e responder um questionário curto sobre o que funcionou e o que não funcionou para você. Não precisa corrigir gramática — só a sua opinião de leitora.
 >

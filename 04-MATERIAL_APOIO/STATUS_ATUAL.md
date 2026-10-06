@@ -1,12 +1,12 @@
-# Estado atual e portões de publicação — 29/09/2026
+# Estado atual e portões de publicação — 05/10/2026
 
-Este documento substitui checklists antigos como referência rápida. **Pronto para leitura da equipe não significa pronto para clicar em “Publicar”.** A revisão editorial de 29/09 alterou o texto; use o commit que contiver esta rodada para identificar a versão enviada, não o commit antigo `cd09ccf`.
+Este documento substitui checklists antigos como referência rápida. **Pronto para leitura da equipe não significa pronto para clicar em “Publicar”.** A edição atual é **2026-10-05-cronologia-e-namoro**; use o commit desta rodada para identificar a versão enviada, não o antigo `5ad548d` da landing.
 
 ## O que já pode ser usado agora
 
-- 40 capítulos em sequência; 63.505 palavras de história; fechamento do primeiro volume com Camila solteira, feliz e inteira.
+- 40 capítulos em sequência; 64.266 palavras de história; 14 anos de relação (3 de namoro + 11 de casamento); namoro com Daniel construído em cena; fechamento do primeiro volume com Camila solteira, feliz e inteira.
 - `05-PUBLICACAO/manuscrito_beta.html` e [leitor online](https://maykonlong.github.io/book/ler.html) para a equipe, com [roteiro de leitura](../05-PUBLICACAO/ENTREGA_LEITURA_EQUIPE.md).
-- Site e 10 artes integradas, com pacote KDP candidato reconstruído: EPUB, capa Kindle, miolo impresso de 328 páginas, capa correspondente, metadados, hashes e ZIP. O autor autorizou o envio desta edição ao GitHub em 29/09. O leitor público utiliza a versão do último deploy bem-sucedido de `main`; confira esse deploy ao compartilhar com a equipe.
+- Site e 10 artes integradas, com pacote KDP candidato reconstruído: EPUB, capa Kindle, miolo impresso de 330 páginas, capa correspondente, metadados, hashes e ZIP. O autor autorizou manter o GitHub atualizado ao concluir as revisões. O leitor público utiliza a versão do último deploy bem-sucedido de `main`; confira esse deploy ao compartilhar com a equipe.
 - Leitor instalável como webapp: abre no ponto salvo neste aparelho; os capítulos continuam dependentes da internet e não são guardados offline pelo app. Veja [PWA_LEITOR.md](../05-PUBLICACAO/PWA_LEITOR.md).
 - Eclesiastes 3:1 em página própria antes do capítulo 1, gratidão a Deus nos agradecimentos e consagração final com Salmos 90:17. Os versículos não fazem parte das cenas de Camila; veja [FONTES_BIBLICAS.md](../05-PUBLICACAO/FONTES_BIBLICAS.md).
 - `python tools/validate_release.py` passou na versão atual; o EPUBCheck registrado no pacote tem 0 erros e 0 avisos.
@@ -31,4 +31,4 @@ O livro completo está no GitHub Pages e também no repositório público, inclu
 
 ## Referência técnica
 
-O [relatório da rodada de 29/09](CHECKUP_EDITORIAL_2026-09-29.md) documenta correções e limites; o [relatório anterior](RELATORIO_VALIDACAO_FINAL.md) e o [pente-fino anterior](PENTE_FINO_2026-09-26.md) são históricos. Este documento e os arquivos gerados atuais prevalecem para a próxima rodada da equipe.
+O [relatório de 05/10](REVISAO_CONTINUIDADE_2026-10-05.md) documenta as correções e o alcance desta revisão. O [checkup de 29/09](CHECKUP_EDITORIAL_2026-09-29.md), o [relatório anterior](RELATORIO_VALIDACAO_FINAL.md) e o [pente-fino anterior](PENTE_FINO_2026-09-26.md) são históricos. Este documento e os arquivos gerados atuais prevalecem para a próxima rodada da equipe.

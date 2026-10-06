@@ -28,7 +28,7 @@ No caixa, o cartão tremeu na mão.
 
 *Isso é parte da compra do mercado. Isso faz falta. Isso é...*
 
-A lista mental atacou sem piedade. Onze anos de treino a fizeram uma especialista em transformar qualquer prazer em culpa. Cada real gasto nela era um real tirado deles — dos filhos, da casa, da responsabilidade. A conta automática da sobrecarga, sempre ligada, começava antes mesmo de ela decidir.
+A lista mental atacou sem piedade. Camila tinha aprendido a transformar qualquer prazer em culpa. Cada real gasto nela parecia um real tirado deles — dos filhos, da casa, da responsabilidade. A conta automática da sobrecarga, sempre ligada, começava antes mesmo de ela decidir.
 
 *Quem você pensa que é? Artista?* A voz da mãe ecoou do passado, pontual como sempre. *Arte é passatempo. Passatempo sem futuro.*
 
@@ -94,7 +94,7 @@ E enquanto pintava, percebeu que estava chorando.
 Não choro de tristeza. Choro de alívio.
 Como se tivesse tirado uma rolha de uma garrafa de pressão.
 
-As lágrimas caíram no papel e se misturaram à tinta, virando parte da pintura. Onze anos de "segura, engole, finge" escorrendo pelo rosto e encontrando, enfim, um lugar para sair.
+As lágrimas caíram no papel e se misturaram à tinta, virando parte da pintura. Anos de "segura, engole, finge" escorrendo pelo rosto e encontrando, enfim, um lugar para sair.
 
 Ela tinha passado meses apenas *reagindo*. Reagindo ao marido, aos filhos, ao trabalho, ao divórcio, aos problemas.
 Ali, com o pincel na mão, ela estava *agindo*. Criando. Trazendo algo novo ao mundo que não existia cinco minutos atrás.

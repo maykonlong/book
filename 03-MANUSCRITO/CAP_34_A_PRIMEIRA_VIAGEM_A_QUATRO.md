@@ -65,7 +65,7 @@ Daniel largou as malas e a puxou para um abraço, ali mesmo, na frente de todo m
 
 Camila não respondeu. Só apertou o abraço.
 
-Porque, naquele momento, ela entendeu uma coisa que tinha passado onze anos sem sentir: família não é só o sangue que a gente recebe. É também o que a gente escolhe. E ela, enfim, tinha escolhido.
+Naquele momento, Camila conseguiu imaginar Daniel participando da vida dos três sem tomar o lugar de ninguém. Gostou da possibilidade. Ainda teriam de descobrir, juntos, como seria.
 
 ---
 
@@ -95,7 +95,7 @@ Camila respirou.
 
 — Fica com o pão. Eu converso com eles.
 
-Sentou as crianças na varanda. Ouviu Léo dizer que Bia estragava tudo. Ouviu Bia dizer que só queria participar. Fez os dois devolverem o pegador, pedirem desculpa e encontrarem tarefas separadas.
+Sentou as crianças na varanda. Ouviu Léo dizer que Bia estragava tudo. Ouviu Bia dizer que só queria participar. Pediu que se desculpassem e combinou tarefas separadas, longe da churrasqueira.
 
 Quando voltaram, Daniel tinha raspado a parte queimada do pão e colocado queijo por cima.
 

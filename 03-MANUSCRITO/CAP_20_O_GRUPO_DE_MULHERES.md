@@ -48,7 +48,7 @@ Ela fez uma pausa, girando a xícara entre os dedos.
 
 Ficaram em silêncio por um segundo. A chuva batia na janela.
 
-Camila olhou para o próprio café esfriando. Alguém tinha acabado de colocar em palavras o que ela sentia há onze anos sem conseguir nomear.
+Camila olhou para o próprio café esfriando. Alguém tinha acabado de colocar em palavras o que ela sentia havia tanto tempo sem conseguir explicar.
 
 *Invisível.*
 

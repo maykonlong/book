@@ -9,7 +9,7 @@ Seus. Dela. Camila Ferreira Santos, 35 anos, mãe de dois, quase divorciada, sob
 
 Artista.
 
-A palavra ainda era estranha na boca, como um sapato de festa que ela não tinha certeza se merecia calçar. "Artista" era coisa para quem tinha talento, vocação, permissão. Ela era só uma mulher que tinha pegado um pincel de volta depois de onze anos — e descoberto, no fundo de uma caixa, uma parte de si que julgara morta. Mas estava ali. Em três aquarelas penduradas na parede branca da pequena galeria em Pinheiros. E se aquilo não era arte, ela não sabia mais o que era.
+A palavra ainda era estranha na boca, como um sapato de festa que ela não tinha certeza se merecia calçar. "Artista" era coisa para quem tinha talento, vocação, permissão. Ela era só uma mulher que tinha pegado um pincel de volta depois de mais de dez anos — e descoberto, no fundo de uma caixa, uma parte de si que julgara morta. Mas estava ali. Em três aquarelas penduradas na parede branca da pequena galeria em Pinheiros. E se aquilo não era arte, ela não sabia mais o que era.
 
 — Esse é muito bonito.
 
@@ -131,7 +131,7 @@ Não conseguiu.
 
 Pelo resto da noite, enquanto ajudava a desmontar a exposição, o bilhete pareceu queimar no fundo da bolsa. Cada vez que Camila mexia para pegar algo, seus dedos roçavam o papel dobrado, e o coração dava um salto — pequeno, sem querer, irritante.
 
-Ela se pegou pensando por que aquele gesto mexia tanto com ela. Não era a cantada. Era a ausência de pressão. *"Sem pressão. Só se você quiser."* Onze anos de casamento a tinham ensinado que todo gesto de homem vinha com cobrança embutida. E aquele bilhete — aquele bilhete simples, educado, que pedia nada — tinha desmontado uma crença que ela nem sabia que carregava.
+Ela se pegou pensando por que aquele gesto mexia tanto com ela. Não era a cantada. Era a ausência de pressão. *"Sem pressão. Só se você quiser."* Nos últimos anos do casamento, tinha aprendido a esperar uma cobrança depois de cada gentileza. Aquele bilhete não provava que Daniel era diferente. Mas deixava a escolha com ela, e isso já fazia diferença.
 
 Talvez existissem homens que davam sem esperar em troca. Talvez.
 
@@ -373,7 +373,7 @@ Ela tinha sido honesta. Tinha estabelecido limite. Tinha reconhecido que não es
 E ele tinha respeitado.
 
 *Homens que respeitam existem*, pensou ela, ligando o motor.
-Isso era uma informação nova e valiosa.
+Marcos já tinha aceitado ser apenas amigo sem se ofender. Agora Daniel também respeitava um limite. Camila ainda tinha medo, mas começava a juntar experiências diferentes daquelas que vivera com Ricardo.
 
 Naquele momento, não queria começar um namoro.
 Mas saber que existiam homens como ele no mundo fazia o futuro parecer muito menos assustador.

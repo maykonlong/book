@@ -1,7 +1,7 @@
 # CAPÍTULO 6
 ## A Última Tentativa
 
-Faltava uma semana para o Carnaval. Camila passou a noite lembrando da suculenta no lixo e da proposta de Ricardo. Tinham sido três anos de namoro e onze de casamento. Quatorze anos juntos não saíam da vida dela com o barulho de um vaso caindo numa lixeira.
+Faltava uma semana para o Carnaval. Camila passou a noite lembrando da suculenta no lixo e da proposta de Ricardo. Quatorze anos juntos não saíam da vida dela com o barulho de um vaso caindo numa lixeira.
 
 Na manhã seguinte, encontrou-o na cozinha.
 
@@ -99,7 +99,7 @@ Ele parou, virou-se, impaciente.
 
 Ele olhou para o carro como se fosse um problema de matemática complexo.
 
-— Ué, acorda eles. Traz as coisas leves. Eu mando o mensageiro buscar as malas depois.
+— Ué, acorda eles. Traz as coisas leves. Eu mando um funcionário do hotel buscar as malas depois.
 
 E virou as costas.
 Continuou andando.
@@ -110,7 +110,7 @@ Com duas crianças adormecidas pesadas para carregar.
 Com mochilas.
 Com a responsabilidade.
 
-E foi nesse instante, molhada e invisível sob a marquise, que ela entendeu: a viagem era uma amostra grátis do resto da vida dela se não fizesse nada.
+E foi nesse instante, molhada e invisível, olhando a marquise distante da recepção, que ela entendeu: a viagem era uma amostra grátis do resto da vida dela se não fizesse nada.
 
 Ela não gritou. Não discutiu.
 Abriu a porta de trás. Desafivelou o cinto de Bia. Pegou a menina no colo — ela estava pesada, quatro anos de peso morto adormecido.
@@ -132,6 +132,8 @@ Camila ajeitou Bia no colo. Seus braços tremiam de esforço.
 Camila pegou a chave do balcão. Não olhou para ele.
 Subiu para o quarto com as crianças.
 
+Pouco depois, um funcionário bateu à porta com as malas. Camila agradeceu e pegou os pijamas, tentando não acordar Bia de vez.
+
 Deu banho neles (meio dormindo). Colocou pijamas. Colocou na cama.
 Ricardo chegou meia hora depois, cheirando a mostarda e vinho.
 
@@ -147,7 +149,7 @@ Camila estava em pé, perto da janela, olhando para a escuridão da mata lá for
 
 — Você me deixou sozinha no estacionamento com as crianças e as malas.
 
-— Ai, Camila, lá vem. Eu vim pegar a chave! Mandei o mensageiro lá, não mandei? As malas já estão aqui. Qual o problema?
+— Ai, Camila, lá vem. Eu vim pegar a chave! Mandei o funcionário lá, não mandei? As malas já estão aqui. Qual o problema?
 
 — O problema é que a sua primeira reação não é "como eu ajudo minha família". A sua primeira reação é "como eu resolvo o meu lado". Você pegou sua mala e saiu. Você nem olhou pra trás.
 

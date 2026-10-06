@@ -23,7 +23,7 @@ Livro de ficção contemporânea focado na jornada de autodescoberta de uma mulh
 ## 📖 Resumo da História
 
 ### A Protagonista
-**Camila** (34 anos) está casada há 11 anos com Ricardo e tem dois filhos: Léo (8 anos) e Bia (4 anos). O casamento chegou a um ponto de estagnação tóxica, onde Ricardo se acomodou no papel de "provedor" passivo, esperando que Camila cuide de tudo.
+**Camila** (34 anos) está com Ricardo há 14 anos: 3 de namoro e 11 de casamento. Tem dois filhos: Léo, que completa 8 no capítulo 2, e Bia (4 anos). O casamento se desgastou aos poucos, até Ricardo se acomodar no papel de "provedor", esperando que Camila cuide de tudo.
 
 ### O Estopim
 Cansada da solidão a dois e da falta de parceria, Camila tenta salvar o casamento:

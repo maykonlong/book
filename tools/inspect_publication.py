@@ -12,6 +12,7 @@ import shutil
 import subprocess
 import unicodedata
 import zipfile
+from datetime import date
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
@@ -93,7 +94,7 @@ def main() -> None:
     report = {"status": "OK", "story_words": sum(x["story_words"] for x in counts), "chapters": counts,
               "pdf_pages": page_count, "chapter_physical_pages": starts, "epub_source_sync": "40/40",
               "pdf_source_sync": "40/40", "body_margins": "OK", "cover_geometry": "OK", "fonts_embedded": "OK"}
-    qa = build.ROOT / "tmp" / "pdfs" / "checkup-2026-09-29"
+    qa = build.ROOT / "tmp" / "pdfs" / f"checkup-{date.today().isoformat()}"
     qa.mkdir(parents=True, exist_ok=True)
     (qa / "inspection.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False))
@@ -101,7 +102,8 @@ def main() -> None:
         render = shutil.which("pdftoppm")
         if not render:
             raise SystemExit("pdftoppm ausente: instalar Poppler para a inspeção visual")
-        selected = sorted(set([1,2,3,4,5,6,7,8, *[starts[n] for n in (1,8,10,11,16,17,29,31,36,39,40)], *range(page_count-3,page_count+1)]))
+        # Inclui o capítulo 30 inteiro: nova ponte entre encontros e namoro.
+        selected = sorted(set([1,2,3,4,5,6,7,8, *[starts[n] for n in (1,6,8,10,11,16,17,29,31,32,33,36,39,40)], *range(starts[30], starts[31]), *range(page_count-3,page_count+1)]))
         for number in selected:
             subprocess.run([render,"-f",str(number),"-l",str(number),"-scale-to","1000","-singlefile","-png",str(pdf_path),str(qa/f"page-{number:03}")],check=True,capture_output=True)
         for start in range(0, len(selected), 6):

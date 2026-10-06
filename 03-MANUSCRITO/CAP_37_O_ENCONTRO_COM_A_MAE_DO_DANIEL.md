@@ -127,7 +127,7 @@ Na volta, Camila ficou quieta, olhando a estrada.
 
 — O que foi? — perguntou Daniel, preocupado. — A pergunta da minha mãe te incomodou?
 
-— Não foi isso — disse Camila, a voz embargada. — É que... eu passei onze anos tentando agradar uma sogra que nunca gostou de mim. E a sua mãe me aceitou em cinco minutos, sem eu fazer nada para merecer.
+— Não foi isso — disse Camila, a voz embargada. — É que... eu passei tanto tempo tentando agradar minha ex-sogra. Sempre parecia que faltava alguma coisa. E hoje eu pude só sentar à mesa. Não tive que provar nada.
 
 — Você não precisa fazer nada para merecer, Cá. É isso que eu venho tentando te mostrar.
 

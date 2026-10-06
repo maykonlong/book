@@ -7,7 +7,7 @@
 
 Camila faz tudo. A lista mental, a casa, os filhos, o trabalho, o calendário de todo mundo. Ricardo "ajuda" — daquele jeito que a gente "ajuda" quando não quer responsabilidade nenhuma.
 
-Onze anos de casamento. Dois filhos. E uma solidão tão grande que ela já não distingue onde termina o cansaço e começa o vazio.
+Quatorze anos juntos, onze deles de casamento. Dois filhos. E uma solidão tão grande que ela já não distingue onde termina o cansaço e começa o vazio.
 
 O fim não veio com uma traição de novela. Veio com uma poça de leite derramado, numa manhã em que Camila estava com febre e percebeu que, mesmo doente, ninguém ia limpar aquilo por ela. Ninguém nunca limpava.
 
@@ -23,7 +23,7 @@ Como amar de novo sem trocar uma dependência por outra? E como reconhecer o que
 
 ### ⚡ Versão curta (anúncio / Amazon ~60 palavras)
 
-Camila estava casada havia onze anos, mas vivia sozinha. Cuidava de tudo — da casa, dos filhos, da vida inteira — enquanto Ricardo "ajudava". O divórcio não começou com uma traição; começou com uma poça de leite que ninguém limpou. Esta é a história de uma mulher que parou de esperar por alguém que a completasse... e descobriu que já era inteira.
+Depois de quatorze anos com Ricardo, Camila se sente sozinha dentro do casamento. Cuida da casa, dos filhos e da vida inteira — enquanto ele "ajuda". O divórcio não começa com uma traição, mas com uma poça de leite que ninguém limpa. É a história de uma mulher que para de esperar por alguém que a complete e começa a se reencontrar.
 
 ---
 

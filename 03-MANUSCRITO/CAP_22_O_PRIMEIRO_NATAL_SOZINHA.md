@@ -7,7 +7,7 @@ O primeiro Natal sozinha.
 
 Ela não sabia o que doía mais: montar a árvore sem o Ricardo resmungando que "enfeite é coisa de mulher", ou perceber que, na verdade, ele nunca tinha ajudado — e que a árvore, como tudo naquela casa, sempre foi ela quem fez.
 
-Na véspera, Camila acordou com um aperto no peito que não era fome, nem gripe, nem cansaço. Era saudade — não do Ricardo, mas da ideia de Natal que ela tinha passado onze anos tentando construir: a mesa cheia, a família reunida, a ilusão de que tudo estava bem.
+Na véspera, Camila acordou com um aperto no peito que não era fome, nem gripe, nem cansaço. Era saudade — não do Ricardo, mas da ideia de Natal que tinha tentado manter durante o casamento: a mesa cheia, a família reunida, a aparência de que tudo estava bem.
 
 Não era estar fisicamente sozinha — havia os filhos, a ceia, os presentes. Era sentir-se sozinha na alma, como se o mundo inteiro estivesse em família e ela tivesse ficado de fora. Uma solidão que parecia existir apenas em dezembro.
 

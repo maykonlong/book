@@ -25,7 +25,7 @@ Provavelmente foi para a casa da mãe.
 
 Tanto melhor.
 
-Camila esperou ouvir o carro ir embora. Depois saiu do quarto.
+Camila esperou os passos dele sumirem no corredor do prédio. Ficou mais um instante atrás da porta do quarto, respirando, antes de sair.
 
 Léo e Bia estavam na sala. Assistindo desenho. Mas não realmente assistindo. Só olhando para a TV com aquela expressão vazia de quem está tentando não sentir o que está sentindo.
 
@@ -167,7 +167,7 @@ Quantas vezes ela tinha ouvido isso?
 
 Quantas?
 
-— Ricardo, você teve onze anos para mudar. Eu pedi. Eu implorei. E você só prometeu quando eu disse que ia embora. Isso não é querer mudar. Isso é querer me segurar.
+— Ricardo, você teve tempo para mudar. Foram anos de pedidos, de conversas que você não quis ter. E agora, quando eu digo que vou embora, você promete fazer tudo. Isso não é querer mudar. Isso é querer me segurar.
 
 — Não é isso! Eu te amo!
 

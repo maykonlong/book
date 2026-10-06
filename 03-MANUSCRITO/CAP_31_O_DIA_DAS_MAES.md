@@ -117,7 +117,15 @@ O celular vibrou. Uma mensagem de Daniel:
 
 Sem flores entregues no meio do café. Sem tentar entrar numa data que não era sobre ele. Só uma frase no momento certo.
 
-Camila mostrou a mensagem a Léo. Já tinha contado a ele que estava saindo com alguém chamado Daniel, mas os dois ainda não se conheciam.
+Camila mostrou a mensagem a Léo. Dias antes, tinha contado aos filhos sobre Daniel, enquanto guardavam os brinquedos da sala.
+
+— Estou conhecendo uma pessoa de quem eu gosto — dissera. — Vocês vão ouvir esse nome às vezes. Daniel.
+
+Bia perguntara se ele gostava de boneca. Léo quisera saber se a mãe ia sair mais de casa.
+
+— A nossa rotina continua. Quando chegar a hora de vocês conhecerem ele, eu converso com os dois antes.
+
+Na padaria, Léo leu a mensagem até o fim antes de devolver o celular.
 
 — Ele pode vir comer bolo? — o menino perguntou.
 

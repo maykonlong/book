@@ -5,13 +5,13 @@ Camila ensaiou aquele dia por semanas. Não era só apresentar um homem aos filh
 
 Léo tinha nove. Bia, cinco. Idades suficientes para sentir, mas não para entender direito. Camila sabia que aquele dia ficaria gravado neles para sempre.
 
-Ela escolheu um domingo comum, de pizza na sala. Porque pizza desarma qualquer um.
+Depois da volta da praia, escolheu um domingo de julho, de pizza na sala. Tinha conversado com os dois antes de fazer o convite. Léo quis saber quanto tempo Daniel ficaria. Bia perguntou se ele gostava de brincar. Camila combinou uma visita curta, sem obrigação de abraçar ou de gostar logo de cara.
 
 Daniel chegou às cinco, pontual, com uma caixa de pizza e um jogo de tabuleiro debaixo do braço.
 
 — E aí. — Ele sorriu, baixinho. — Tudo bem?
 — Tô mais nervosa do que no dia do meu casamento — confessou ela.
-— Eu também. Mas vai dar certo. Ou não. E a gente lida.
+— Também tô nervoso. Mas vai dar certo. Ou não. E a gente lida.
 
 Léo estava no sofá, de braços cruzados, com cara de segurança de boate avaliando um suspeito. Bia estava no chão, desenhando.
 
@@ -127,7 +127,7 @@ Camila beijou a testa do filho.
 
 ---
 
-Nas semanas seguintes, Camila observou os filhos de um jeito novo.
+Nas duas semanas seguintes, Camila observou os filhos de um jeito novo.
 
 Bia perguntava todo dia se Daniel ia voltar. Léo, mais discreto, fazia perguntas indiretas: "o Daniel gosta de videogame?", "ele torce pra que time?", "ele cozinha?".
 
@@ -185,7 +185,7 @@ Camila saiu do quarto entendendo que os filhos não precisavam de garantias sobr
 
 ---
 
-Duas semanas depois, os quatro fizeram um piquenique no parque. Daniel levou frutas já cortadas, suco e guardanapos. Camila levou sanduíches. Léo levou a bola. Bia levou uma boneca e a convicção de que todos precisavam conversar com ela.
+No começo de agosto, os quatro fizeram um piquenique no parque. Daniel levou frutas já cortadas, suco e guardanapos. Camila levou sanduíches. Léo levou a bola. Bia levou uma boneca e a convicção de que todos precisavam conversar com ela.
 
 Quando começou a chover, correram até o carro sob uma toalha pequena demais. Chegaram encharcados, rindo.
 
@@ -207,7 +207,7 @@ O medo apareceu primeiro.
 
 Logo atrás dele veio uma vontade enorme de tentar.
 
-No sábado seguinte, desenhou um círculo em volta de uma data e escreveu:
+Depois de combinar os dias com Daniel e conferir o fim de semana das crianças, desenhou um círculo em volta de uma data daquele mês e escreveu:
 
 **SÍTIO — NÓS QUATRO.**
 

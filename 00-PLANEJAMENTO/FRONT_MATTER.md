@@ -10,7 +10,7 @@
 
 Camila faz tudo. A lista mental, a casa, os filhos, o trabalho, o calendário de todo mundo. Ricardo "ajuda" — daquele jeito que a gente "ajuda" quando não quer responsabilidade nenhuma.
 
-Onze anos de casamento. Dois filhos. E uma solidão tão grande que ela já não distingue onde termina o cansaço e começa o vazio.
+Quatorze anos juntos, onze deles de casamento. Dois filhos. E uma solidão tão grande que ela já não distingue onde termina o cansaço e começa o vazio.
 
 O fim não veio com uma traição de novela. Veio com uma poça de leite derramado, numa manhã em que Camila estava com febre e percebeu que, mesmo doente, ninguém ia limpar aquilo por ela. Ninguém nunca limpava.
 

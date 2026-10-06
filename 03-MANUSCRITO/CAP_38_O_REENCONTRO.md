@@ -11,7 +11,7 @@ Ricardo.
 
 Parado no fim do corredor, com uma cesta pequena na mão, o cabelo mais ralo, uma camiseta de time que Camila conhecia. Atrás dele, as luzes frias do freezer piscavam levemente.
 
-Por um segundo — um segundo inteiro — o corpo de Camila reagiu como os últimos onze anos tinham treinado: o coração disparou, a garganta secou, a mão apertou a alça do carrinho.
+Por um segundo — um segundo inteiro — o corpo de Camila reagiu do jeito antigo: o coração disparou, a garganta secou, a mão apertou a alça do carrinho.
 
 E então... nada.
 
@@ -29,7 +29,7 @@ Ela se lembrou do cartório, no dia em que assinaram o divórcio. E também da q
 
 E agora, ali, no corredor de congelados, o estômago estava quieto.
 
-Onze anos de tempestade. E o mar, por fim, tinha virado um lago.
+Por tanto tempo, encontrar Ricardo significava medir cada palavra. Agora, ela podia apenas terminar as compras.
 
 ---
 
@@ -125,7 +125,7 @@ Não era uma desculpa perfeita. Não devolvia os anos. Mas, pela primeira vez, R
 
 — Eu acho que por fim entendi uma parte de como eu era — continuou. — Sinto muito.
 
-Onze anos de sobrecarga, de silêncio, de solidão a dois — e as palavras que Camila esperou a vida inteira ouvir chegaram tarde, no corredor de congelados, como o eco de uma guerra que já tinha acabado.
+Ela tinha esperado ouvir aquilo em tantas conversas interrompidas. As palavras chegaram tarde, no corredor de congelados. Faziam diferença, mas não mudavam a decisão que tinha tomado.
 
 E o mais surpreendente de tudo: ela não precisava mais delas.
 
@@ -177,7 +177,7 @@ Na quinta-feira, Ricardo chegou à escola às cinco e cinquenta e dois.
 
 Bia o viu na plateia e abriu um sorriso tão grande que perdeu o primeiro passo da dança.
 
-Camila assistiu à filha, depois olhou para o outro lado do auditório. Ricardo não estava no celular. Estava filmando, com os olhos cheios d'água.
+Camila assistiu à filha, depois olhou para o outro lado do auditório. Ricardo segurava o celular para filmar Bia, com os olhos cheios d'água. Não se distraía com mensagens; acompanhava cada passo da filha.
 
 Talvez ele mudasse. Talvez mudasse só um pouco. Já não cabia a ela esperar para descobrir.
 
