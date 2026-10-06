@@ -11,6 +11,10 @@
 | **Escolaridade** | Superior Completo (Administração) |
 | **Cidade** | São Paulo, SP |
 
+### Continuidade de moradia e dinheiro
+
+O salário líquido é aproximadamente o dobro do de Camila; bônus são eventuais. Reclamar de uma pizza escolhida por ela, mas pedir quando ele quer, revela prioridades e controle, não pobreza permanente. Sai do apartamento da Lapa para um apart-hotel temporário e aluga uma kitnet antes do primeiro fim de semana completo com as crianças, no capítulo 16. Desde maio, a contribuição provisória inclui pensão, escola e saúde infantil; o acordo definitivo mantém isso e separa o pagamento de sua parte no imóvel. Consultar a [ficha financeira](../02-ESTRUTURA/CONTINUIDADE_FINANCEIRA.md) e a [cronologia](../02-ESTRUTURA/CRONOLOGIA.md) para não ampliar despesas sem fonte.
+
 ---
 
 ## Aparência Física

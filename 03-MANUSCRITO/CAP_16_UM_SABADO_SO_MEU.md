@@ -3,7 +3,7 @@
 
 Foi a primeira vez desde a separação que Camila acordou num sábado sem os filhos em casa.
 
-As crianças tinham ido passar o fim de semana inteiro com Ricardo. Já ficavam com ele em algumas tardes e domingos, mas nunca tinham dormido lá desde a separação. Camila conhecia algumas horas sozinha; acordar e saber que tinha o sábado todo pela frente era diferente.
+As crianças tinham ido passar o fim de semana inteiro com Ricardo. Ele deixara o apart-hotel e alugara uma kitnet, onde abrira espaço para os dois dormirem. Já ficavam com ele em algumas tardes e domingos, mas nunca tinham passado a noite lá desde a separação. Camila conhecia algumas horas sozinha; acordar e saber que tinha o sábado todo pela frente era diferente.
 
 Camila ficou deitada, olhando para o teto, sem saber o que fazer com as mãos.
 
@@ -111,7 +111,7 @@ Porque ela tinha acabado de descobrir uma coisa que ninguém tinha ensinado a el
 
 Passou a tarde vendo um filme que ninguém mais na casa gostaria de assistir. Dormiu vinte minutos no sofá. Acordou assustada, achando que tinha perdido algum compromisso, e precisou lembrar a si mesma: não havia compromisso.
 
-O sábado não tinha produzido nada. Nenhuma roupa lavada. Nenhuma compra feita. Nenhuma planilha adiantada.
+O sábado não tinha rendido roupa lavada, compra de mercado nem planilha adiantada.
 
 Mesmo assim, tinha sido um dia cheio.
 

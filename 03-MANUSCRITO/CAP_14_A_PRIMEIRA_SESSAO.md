@@ -39,7 +39,7 @@ Fernanda tinha insistido. *"Cá, divórcio não se cura só com vinho e amiga. P
 
 A porta abriu.
 — Camila?
-Um homem. Dr. Lucas. Ela tinha escolhido um terapeuta homem de propósito? Talvez. Talvez quisesse provar que conseguia falar com um homem que ouvisse. Ou talvez fosse só o primeiro nome que o plano de saúde cobria. Camila preferia acreditar na segunda versão. A primeira era honesta demais.
+Um homem. Dr. Lucas. Era um dos profissionais atendidos pelo plano do emprego, com horário depois do trabalho. Camila tinha confirmado a pequena cobrança por sessão antes de marcar. Precisava daquela ajuda sem abrir mais uma conta que não pudesse pagar. Ainda assim, ao vê-lo, pensou em como seria falar com um homem que realmente ouvisse.
 
 Ele tinha olhos gentis e não usava jaleco. Usava uma camisa social dobrada até o cotovelo.
 — Pode entrar.
@@ -143,7 +143,7 @@ Entrou no carro. Pegou um papelzinho de estacionamento e uma caneta bic perdida 
 *Três coisas.*
 
 Fechou os olhos e tentou lembrar.
-Quem era ela aos 20 anos? Antes do Ricardo? Antes dos boletos?
+Quem era ela aos 20 anos? Antes de organizar a vida inteira em volta do casamento e dos boletos?
 
 A memória veio como um flash de luz — e, com ela, um cheiro.
 

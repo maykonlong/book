@@ -435,7 +435,15 @@ def render_interior(path: Path, art_paths: dict[int, Path], toc_pages: dict[int,
         if num in art_paths:
             img = RLImage(str(art_paths[num]), width=4.14 * inch, height=2.76 * inch)
             story += [Spacer(1, 4), img, Spacer(1, 16)]
-        story += body_flowables(md, styles, skip_headings=True)
+        chapter_body = body_flowables(md, styles, skip_headings=True)
+        # Keep a short closing beat together: do not strand the final sentence
+        # on an otherwise empty page. Never compress or remove manuscript text.
+        ending = chapter_body[-3:]
+        if len(ending) == 3 and all(isinstance(item, Paragraph) for item in ending):
+            ending_height = sum(item.wrap(4.14 * inch, 1000)[1] + item.getSpaceAfter() for item in ending)
+            if ending_height <= 110:
+                chapter_body[-3:] = [KeepTogether(ending)]
+        story += chapter_body
         if idx < len(CHAPTERS) - 1:
             story.append(PageBreak())
 
@@ -775,8 +783,9 @@ def build_source_manuscript() -> Path:
     ]
     text = "\n\n---\n\n".join(pieces) + "\n"
     path = SOURCE / "manuscrito_final.md"
-    path.write_text(text, encoding="utf-8")
-    (ROOT / "manuscrito_completo.md").write_text(text, encoding="utf-8")
+    # Match .gitattributes so the manuscript hash also survives a Git checkout.
+    path.write_text(text, encoding="utf-8", newline="\n")
+    (ROOT / "manuscrito_completo.md").write_text(text, encoding="utf-8", newline="\n")
     return path
 
 
@@ -812,7 +821,7 @@ def build_beta_html() -> Path:
         f'</head>\n<body>\n{body}\n</body>\n</html>\n'
     )
     path = ROOT / "05-PUBLICACAO" / "manuscrito_beta.html"
-    path.write_text(result, encoding="utf-8")
+    path.write_text(result, encoding="utf-8", newline="\n")
     return path
 
 

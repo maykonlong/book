@@ -8,7 +8,7 @@ Eram vitórias que não davam manchete e que ninguém aplaudia: acordar sem o pe
 
 ---
 
-A primeira pequena vitória veio num domingo de manhã, depois que os fins de semana alternados com Ricardo começaram.
+A primeira vitória daquela lista veio num domingo de manhã, depois que os fins de semana alternados com Ricardo começaram.
 
 Camila acordou. Olhou para o relógio: sete da manhã.
 
@@ -64,7 +64,7 @@ Camila pegou. Folheou.
 
 Bonita. Interessante. Cara.
 
-R$ 35.
+Virou a revista para conferir o preço mais uma vez.
 
 Antes, ela teria colocado de volta. Porque "não precisa". Porque "é desperdício". Porque "tem coisa mais importante".
 
@@ -122,7 +122,7 @@ Ricardo piscou.
 
 — Não. Ela estava com você. Você lava.
 
-— Mas eu não tenho máquina de lavar aqui no apart-hotel.
+— Mas eu não tenho máquina de lavar aqui na kitnet.
 
 — Então leva em lavanderia. Ou lava na mão. Não sei. Mas não é minha responsabilidade.
 

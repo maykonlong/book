@@ -32,10 +32,10 @@ Ela pegou o celular e abriu o bloco de notas. Criou uma lista nova, digitando co
 8. *Decoração (Ver o que tem na 25 de Março).*
 9. *Lembrancinha.*
 10. *Refrigerante/Suco/Cerveja pros adultos.*
-11. *Presente (Ele quer o videogame novo. Impossível agora).*
+11. *Presente (Ele quer o videogame novo. Não cabe junto com a festa).*
 12. *Animação? (Eu mesma? Socorro).*
 
-Camila olhou para a lista e sentiu o ar ficar escasso. Doze itens. Doze categorias de problemas que exigiriam tempo, dinheiro e energia que ela não tinha.
+Camila olhou para a lista e sentiu o ar ficar escasso. Doze itens. Doze categorias de problemas para encaixar no orçamento e nas horas que já faltavam.
 
 Ela olhou para a sala. Ricardo estava no sofá, assistindo a um vídeo no YouTube sobre carros, rindo sozinho.
 

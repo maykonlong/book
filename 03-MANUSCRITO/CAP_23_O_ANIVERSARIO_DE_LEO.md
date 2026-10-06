@@ -4,7 +4,7 @@
 Nove anos.
 O primeiro aniversário do Léo pós-separação.
 
-Camila queria fazer uma festa. Não tinha dinheiro para bufê (o divórcio estava drenando tudo), então decidiu fazer em casa.
+Camila queria fazer uma festa. Já tinha conseguido pagar as contas que ficaram para trás nos primeiros meses da separação, mas ainda pagava a advogada e refazia a reserva. A parte de Ricardo no apartamento continuava sem acordo. Contratar um bufê significaria tirar dinheiro dali. Decidiu fazer em casa.
 Festa das antigas. Bolo de cenoura com cobertura de chocolate. Brigadeiro enrolado na mão (com ajuda da Bia). Sanduíche de carne louca.
 Convidou três amigos da escola e os primos.
 
@@ -42,7 +42,7 @@ Léo correu até o pai.
 — Claro que vim! E trouxe seu presente!
 
 Ricardo colocou a caixa no chão.
-Um PlayStation 5.
+O videogame que Léo tinha pedido no aniversário anterior.
 
 A gritaria foi geral. Os amigos do Léo fizeram "Ooooh!".
 Léo arregalou os olhos.
@@ -53,14 +53,14 @@ Léo arregalou os olhos.
 Camila sentiu um gosto amargo na boca.
 O presente dela estava em cima da mesa, embrulhado num papel simples.
 Era um estojo de lápis de cor e os ingressos para o passeio em família numa exposição de quadrinhos que Léo queria muito ver.
-Custou R$ 150,00.
-O videogame custava R$ 4.000,00.
+Tinha escolhido um presente que cabia no orçamento.
+Ricardo comentava com outro pai que parcelara o videogame no cartão. Para Camila, aquele gasto significaria adiar por meses o dinheiro que tentava guardar.
 
 Léo rasgou o papel do videogame. Mal conseguia parar de pular. Abraçou o pai.
 — Você é o melhor pai do mundo!
 
 A frase foi uma facada.
-*Melhor pai do mundo.* O pai que não foi na apresentação da escola. O pai que não lavou a jaqueta. O pai que não sabia a data da prova de matemática.
+*Melhor pai do mundo.* O pai que não foi na apresentação da escola. O pai que não lavou a calça. O pai que não sabia a data da prova de matemática.
 Mas o pai que comprou o brinquedo caro.
 
 Camila sentiu ciúme daquela alegria e teve vergonha do próprio ciúme. Levou a jarra vazia à cozinha e demorou um pouco enchendo-a. Léo podia gostar do presente do pai. O que ela sentia precisava de outro lugar, longe do aniversário dele.
@@ -73,17 +73,17 @@ Ela não disse nada. Só observou, com aquele gosto amargo que a foto não captu
 — Tenho um compromisso, filho. Mas depois a gente instala isso aí na minha casa, tá? Porque aqui na sua mãe não cabe na TV. (Mentira, cabia. Mas ele queria o trunfo de ter o videogame na casa dele).
 
 — Ah... — Léo murchou. — Vai ficar na sua casa?
-— Claro. Lá tem a TV 4K. Aqui é velha.
+— Claro. Lá a TV é maior. Aqui é velha.
 — Tá bom.
 
-Ricardo saiu. O furacão passou.
+Ricardo levou a caixa, prometendo deixar tudo instalado para a próxima visita. O furacão passou.
 
 A festa acabou. Os amigos foram embora.
 Camila começou a limpar a bagunça. O coração doía. Se sentia pequena. Pobre. A mãe chata que dá sanduíche enquanto o pai dá tecnologia.
 
-Enquanto varria o confete espalhado pelo chão, ela se pegou fazendo contas outra vez. O videogame custava quase o triplo do que ela tinha conseguido guardar em meses de moedinhas e renúncias. E doía. Doía não poder dar ao filho o brinquedo que o fez gritar de alegria. Doía ser a "mãe chata" enquanto o pai era o "herói".
+Enquanto varria o confete espalhado pelo chão, ela se pegou fazendo contas outra vez. Até a prestação daquele brinquedo ocuparia o lugar de alguma coisa importante no seu orçamento. E doía. Doía não poder dar ao filho o que o fez gritar de alegria. Doía ser a "mãe chata" enquanto o pai era o "herói".
 
-Mas ela continuou varrendo. Porque era isso que ela fazia: continuava. Varria, limpava, seguia — mesmo com o coração pequeno e as contas não fechando.
+Mas ela continuou varrendo. Porque era isso que ela fazia: continuava. Varria, limpava, seguia — mesmo com o coração pequeno e tão pouca folga nas contas.
 
 Léo estava no sofá, quieto.
 — Mãe?
@@ -105,7 +105,7 @@ Ele olhou para o ingresso.
 
 Léo sorriu. Um sorriso diferente do grito eufórico do videogame. Um sorriso quentinho.
 
-— O videogame é legal — disse Léo. — Mas só dá pra jogar lá no pai. E lá ele nunca joga comigo. Ele fica no celular.
+— O videogame é legal — disse Léo. — Mas vai ficar lá no pai. E ele quase sempre fica no celular quando eu tô lá.
 
 Camila parou de varrer.
 
@@ -130,7 +130,7 @@ Ele não tinha esperado até a manhã seguinte para estrear os lápis. Antes de 
 
 *"eu e a minha mãe na espozição"*.
 
-Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na festa, não no videogame, mas na promessa de um passeio a dois. Aquilo, ali, era o presente de verdade. Não o que se compra. O que se constrói.
+Camila levou a mão à boca. O menino tinha desenhado os dois juntos — não na festa, não no videogame, mas no passeio que tinham combinado. Bia também iria, mas naquele desenho Léo tinha guardado um lugar só para ele e a mãe. Aquilo, ali, era o presente de verdade. Não o que se compra. O que se constrói.
 
 Ela guardou o desenho na carteira, ao lado do bilhete da exposição. E foi dormir sabendo que, mesmo sem o videogame caro, tinha dado ao filho algo que nenhum cartão de crédito comprava: a certeza de que, com ela, ele sempre teria companhia.
 

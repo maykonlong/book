@@ -5,23 +5,25 @@ O primeiro boleto chegou numa quinta-feira, e Camila ficou dez minutos segurando
 
 Não se tornou.
 
-Era o condomínio. Depois viriam a escola, o plano de saúde, a internet, a luz. Camila recebia seis mil reais por mês. Somou apenas o que não podia deixar de pagar e chegou a quase seis mil e setecentos. Ainda faltavam o mercado e qualquer imprevisto. A matemática não fechava. E, pela primeira vez em onze anos, não havia outro salário para dividir a conta.
+Era o condomínio. Depois viriam a escola, o plano de saúde das crianças, a internet, a luz. Só essas contas e os compromissos já assumidos passavam do salário que recebia. Ainda faltavam o mercado e qualquer imprevisto. A matemática não fechava. Pela primeira vez, precisava cobrir sozinha despesas que os dois tinham escolhido juntos.
 
 Era a conta que não fechava, feita no silêncio da cozinha, com o café esfriando e uma planilha aberta no celular. Talvez a conta mais solitária que existisse.
 
-Camila abriu o aplicativo do banco. O saldo: R$ 1.847,52. Era a primeira semana de abril.
+Camila abriu o aplicativo do banco. Parte do salário já tinha ido embora, e o saldo não cobria os boletos que estavam sobre a mesa. Era a primeira semana de abril.
 
 Ela fechou o aplicativo. Abriu outra vez, como se esperasse que o número tivesse mudado. Não tinha.
 
 *Respira*, disse a si mesma. *Uma coisa de cada vez.*
 
-E então fez o que nunca tinha feito: sentou e listou. Não a lista mental da casa, das crianças, do Ricardo. A lista do dinheiro. De onde vinha. Para onde ia. O que dava para cortar.
+E então fez o que vinha adiando: reuniu as contas que pagava e as que antes ficavam com Ricardo. Não a lista mental da casa, das crianças, do Ricardo. A lista do dinheiro. De onde vinha. Para onde ia. O que dava para cortar.
 
 A lista doía mais do que qualquer outra.
 
 Na última linha da planilha, escreveu **pensão das crianças**. Deixou o espaço do valor em branco. Patrícia tinha feito o pedido, mas Ricardo ainda não pagara nada. Camila não podia comprar comida com uma promessa.
 
-Ligou para a escola e perguntou se havia como dividir a mensalidade daquele mês. Foi a primeira vez que precisou dizer em voz alta: "Estou me separando e não consigo pagar tudo na data." A secretária não fez perguntas. Ofereceu duas parcelas, com um acréscimo pequeno. Camila anotou o novo vencimento e agradeceu antes que a voz falhasse.
+Ligou para a escola e perguntou se havia como dividir as mensalidades daquele mês. Foi a primeira vez que precisou dizer em voz alta: "Estou me separando e não consigo pagar tudo na data." A secretária conferiu o desconto que já davam aos irmãos e ofereceu dividir o saldo entre os meses seguintes, com um acréscimo pequeno. Camila anotou os vencimentos e agradeceu antes que a voz falhasse.
+
+Era uma escola de bairro, sem os luxos de outras que tinham visitado. O período estendido permitia que os dois trabalhassem. Tirar os filhos dali também significava encontrar quem ficasse com eles à tarde; não era uma decisão para tomar diante de um boleto.
 
 Não era dinheiro novo. Era só um pouco de tempo. Naquele momento, tempo também ajudava.
 
@@ -49,7 +51,7 @@ Camila riu, achando que era piada.
 
 — Eu, vendendo bolo? Fernanda, eu mal dou conta do meu emprego.
 
-— Não é pra largar o emprego. É pra complementar. — Fernanda deu de ombros. — Eu vendi brigadeiro gourmet no primeiro ano pós-divórcio. Pagava o aluguel. Depois larguei, quando o salário cobriu.
+— Não é pra largar o emprego. É pra complementar. — Fernanda deu de ombros. — Eu vendi brigadeiro no primeiro ano pós-divórcio. Ajudava a completar o aluguel. Depois larguei, quando o salário cobriu.
 
 Camila ficou olhando para a amiga, pensando no que tinha acabado de ouvir. Bolo no pote. Ela, a "coordenadora de marketing", vendendo bolo no pote.
 
@@ -57,13 +59,13 @@ Camila ficou olhando para a amiga, pensando no que tinha acabado de ouvir. Bolo 
 
 Naquela semana, Camila fez o primeiro teste. Comprou os ingredientes com o cartão (sentindo o estômago revirar a cada centavo), passou a noite de sábado assando, e no domingo de manhã postou no grupo do prédio:
 
-*"Bolo no pote caseiro. R$ 8,00. Entrega no condomínio."*
+*"Vou fazer bolo de cenoura e de chocolate no pote. Entrego aqui no prédio. Quem quiser, me chama que eu passo os preços e os horários."*
 
 Depois desligou o celular e foi esconder a cara no travesseiro, morrendo de vergonha.
 
 Quando voltou, havia sete pedidos.
 
-Ela pegou o caderno de receitas e fez outra conta. Sete potes a oito reais: cinquenta e seis reais. Chocolate, leite, farinha, ovos, embalagens — quase metade já tinha sido gasta. E havia o gás, que ela nem sabia calcular direito. Fernanda tinha razão: podia ajudar. Mas sete pedidos não iam salvar o mês.
+Ela pegou o caderno de receitas e fez outra conta. Chocolate, leite, farinha, ovos, embalagens — boa parte do que receberia já tinha sido gasta. E havia o gás, que ela nem sabia calcular direito. Fernanda tinha razão: podia ajudar. Mas sete pedidos não iam salvar o mês.
 
 ---
 
@@ -91,7 +93,7 @@ Na segunda-feira, levou dois potes para o trabalho. Fernanda comprou um; a moça
 
 Sete pedidos viraram quinze na semana seguinte. Na outra, Camila fez trinta potes entre o prédio e o trabalho. Descobriu que tinha um dom para bolo de cenoura com cobertura de chocolate — o mesmo que fazia para as festas dos filhos — e que as pessoas pagavam, com prazer, por um pedaço de conforto caseiro.
 
-Mas ela parou de chamar de ganho tudo o que entrava. Em trinta potes, recebia duzentos e quarenta reais. Depois dos ingredientes e das embalagens, sobrava pouco mais de cem. Para repetir aquilo a cada semana, precisava comprar, assar, vender, entregar e limpar tudo antes de dormir.
+Mas ela parou de chamar de ganho tudo o que entrava. Separava primeiro o dinheiro dos ingredientes, das embalagens e do gás. O que sobrava ajudava no mercado, não sustentava a casa. Para repetir aquilo a cada semana, precisava comprar, assar, vender, entregar e limpar tudo antes de dormir.
 
 Uma noite, Bia apareceu na porta da cozinha arrastando o cobertor.
 
@@ -101,13 +103,17 @@ Camila olhou para a forma no forno, para a planilha aberta no celular e para a f
 
 — Tô. Mas agora vou sentar um pouco com você.
 
-Desligou o forno quando o bolo ficou pronto e foi ler a história que tinha prometido. O dinheiro era necessário. Não podia, porém, transformar a casa nova na mesma casa onde ninguém tinha tempo de olhar para ninguém.
+Desligou o forno quando o bolo ficou pronto e foi ler a história que tinha prometido. O dinheiro era necessário. Não podia, porém, reconstruir a rotina de um jeito em que ninguém tivesse tempo de olhar para ninguém.
 
 Não era muito dinheiro. Era uma renda extra que chegava pelas próprias mãos, enquanto a pensão ainda não tinha entrado.
 
-Os cortes nas contas e o que sobrava dos bolos diminuíram a diferença. As parcelas da escola ainda precisavam ser pagas, e ela não tinha uma reserva para emergências. Naquele abril, Camila pagou o condomínio alguns dias depois do vencimento e precisou telefonar para combinar a data. Desligou com vergonha e alívio misturados.
+Os cortes nas contas e o que sobrava dos bolos diminuíram a diferença. Não a apagaram. Dona Sônia trouxe compras em duas semanas daquele abril. Camila começou a dizer que não precisava, mas parou quando a mãe colocou o leite na bancada.
 
-Ela já ganhava o próprio salário havia anos. O que havia de novo era saber quanto custava manter aquela casa e começar a decidir como faria isso.
+— Eu sei que você está tentando, filha. Deixa eu ajudar com isso.
+
+Camila guardou as compras. O alívio não tirava a preocupação com o mês seguinte. A escola ainda tinha parcelas por receber, e o condomínio foi pago alguns dias depois do vencimento. Patrícia também dividira os honorários. Cada prazo combinado ficava anotado; adiar não era deixar de dever.
+
+Ela já ganhava o próprio salário havia anos. O que havia de novo era enxergar o custo inteiro daquela casa e começar a decidir como o dividiria sem continuar casada.
 
 ---
 
@@ -115,7 +121,7 @@ Na última quinta-feira do mês, Camila sentou outra vez com a planilha aberta. 
 
 Ela sabia o que venceria no próximo dia 8. Ainda tinha medo, mas agora conseguia olhar para o número sem fechar o aplicativo.
 
-Se tudo apertasse outra vez, ela tinha as mãos. Tinha o fogão. Tinha a receita do bolo de cenoura. E tinha uma planilha que não mentia para protegê-la.
+Tinha as mãos, o fogão, a receita do bolo de cenoura. Mas também tinha um limite. Se as contas apertassem de novo, precisaria voltar a negociar e cobrar o que cabia a Ricardo, não apenas dormir menos para assar mais.
 
 E tinha, principalmente, a certeza — dura como uma pedra no peito — de que nunca mais deixaria outra pessoa cuidar do dinheiro da sua vida.
 

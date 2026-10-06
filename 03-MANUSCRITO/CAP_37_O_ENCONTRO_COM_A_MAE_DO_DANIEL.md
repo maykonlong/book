@@ -11,7 +11,7 @@ Camila estava mais nervosa do que no dia do divórcio.
 
 Ele riu.
 
-— A minha não. A minha é a pessoa mais tranquila que existe. Ela já me disse que só quer que eu seja feliz. E eu sou feliz com você. Então, já tá resolvido.
+— A sua, dessa vez, não. Minha mãe é a pessoa mais tranquila que existe. Ela já me disse que só quer que eu seja feliz. E eu sou feliz com você. Então, já tá resolvido.
 
 Camila queria acreditar. Mas os nervos não obedeciam.
 

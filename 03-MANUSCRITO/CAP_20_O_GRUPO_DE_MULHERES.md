@@ -27,7 +27,7 @@ O assunto começou trivial (tintas, pincéis, a chuva), mas logo, como sempre ac
 
 — E aí, Camila? — perguntou Júlia. — Como tá a vida de recém-solteira? O Ex-Marido-Que-Não-Deve-Ser-Nomeado já parou de encher o saco?
 
-Camila riu. Ela tinha contado algumas histórias (a da jaqueta, a do aniversário esquecido).
+Camila riu. Ela tinha contado algumas histórias: a da calça devolvida suja, a do aniversário em que Ricardo chegou depois do parabéns.
 — Parar não parou. Mas eu parei de me importar. Essa é a diferença.
 
 — Aleluia! — brindou Júlia com a xícara. — A indiferença é o oposto do amor, gata. Quando você para de sentir raiva e passa a sentir "tanto faz", aí você tá curada.
@@ -52,7 +52,7 @@ Camila olhou para o próprio café esfriando. Alguém tinha acabado de colocar e
 
 *Invisível.*
 
-Não era drama. Não era frescura. Não era "exagero de mulher cansada". Era uma condição real, compartilhada, reconhecida por outras quatro mulheres que também carregavam casas, filhos, trabalho e culpa nas costas — e que ainda assim estavam ali, numa quinta-feira de chuva, pintando aquarelas e rindo.
+Não era drama. Não era frescura. Não era "exagero de mulher cansada". Aquelas mulheres conheciam pesos parecidos, embora cada vida fosse diferente. Umas cuidavam de filhos, outras tinham passado anos cuidando do marido. Todas sabiam como era deixar o próprio descanso para depois — e ainda assim estavam ali, numa quinta-feira de chuva, pintando aquarelas e rindo.
 
 Camila percebeu que tinha passado a vida inteira achando que o problema era ela. Que se fosse mais organizada, mais paciente, mais forte, mais silenciosa, o peso sumiria. Mas o peso não era só dela. O peso era a regra de um jogo que todas elas, naquela mesa, conheciam de cor — cada uma carregando o seu em silêncio, achando que era a única.
 
@@ -130,7 +130,7 @@ E a Camila de agora estava começando a gostar muito, mas muito mesmo, dessa nov
 Antes de dormir, ela puxou o caderno e anotou uma única linha:
 *"Hoje eu me senti vista."*
 
-Depois apagou a luz e voltou a dormir sem peso no peito.
+Depois apagou a luz e adormeceu sem peso no peito.
 
 Na manhã seguinte, o bilhete da escola voltou para a mesa: apresentação de Léo, quinta-feira, duas da tarde. Ricardo tinha dito que tentaria ir. Camila dobrou o papel e o guardou na bolsa, sem saber qual pergunta do filho doeria mais se o pai faltasse.
 

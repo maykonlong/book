@@ -1,10 +1,10 @@
 # 📋 VISÃO GERAL DO PROJETO
 
 ## Status Atual
-✅ **Manuscrito preparado para leitura da equipe** — 40 capítulos, 62.724 palavras de história (63.439 no manuscrito completo, com cabeçalhos e textos iniciais e finais)
+✅ **Manuscrito preparado para leitura da equipe** — 40 capítulos, 65.156 palavras de história (65.878 no manuscrito completo, com cabeçalhos e textos iniciais e finais). Edição 2026-10-06-financas-e-continuidade; ver relatório e pendências no README.
 ✅ **Site e leitor atualizados** — landing page (`index.html`) + leitor online ilustrado (`ler.html`), com FAQ, JSON-LD e layout mobile-first (ver `05-PUBLICACAO/SEO_GEO.md`)
 
-✅ **Pacote KDP gerado para avaliação** — EPUB 3, capa Kindle, miolo de 324 páginas com sumário, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`. A edição impressa ainda depende da ficha catalográfica, do Previewer e da prova física.
+✅ **Pacote KDP gerado para avaliação** — EPUB 3, capa Kindle, miolo de 332 páginas com sumário, capa impressa, metadados e checklist em `PACOTE_PUBLICACAO/AMAZON_KDP/`. A edição impressa ainda depende da ficha catalográfica, do Previewer e da prova física.
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### Fase 3: Escrita do Manuscrito ✅
 - [x] Escrever primeiro rascunho
-- [x] **ATO I - ESTAGNAÇÃO E RUPTURA** ✅ (Cap 1-9)
+- [x] **ATO I - DESGASTE E SEPARAÇÃO** ✅ (Cap 1-10)
   - [x] Capítulo 1 - "A Rotina Invisível" ✅
   - [x] Capítulo 2 - "O Aniversário Esquecido" ✅
   - [x] Capítulo 3 - "A Tentativa da Terapia" ✅
@@ -42,8 +42,8 @@
   - [x] Capítulo 7 - "A Gota D'água" ✅
   - [x] Capítulo 8 - "Eu Quero me Separar" ✅
   - [x] Capítulo 9 - "A Conversa com os Filhos" ✅
-- [x] **ATO II - DESCONSTRUÇÃO E REDESCOBRIMENTO** ✅ (Cap 10-18)
-- [x] **ATO III - REDE, AUTONOMIA E FECHAMENTO** ✅ (Cap 19-30)
+- [x] **ATO II - RECONSTRUÇÃO E REDE DE APOIO** ✅ (Cap 11-21)
+- [x] **ATO III - DATAS MARCANTES E ABERTURA AO NOVO** ✅ (Cap 22-30)
 - [x] **ATO IV - AMAR SEM DEPENDER** ✅ (Cap 31-40)
 - [x] Cena de abertura impactante ✅
 - [x] Clímax emocional ✅
@@ -109,15 +109,15 @@ Criar um livro que ressoe com mulheres brasileiras adultas, especialmente mães,
 ## Cenários Principais
 
 ### Ambiente Doméstico
-- Casa de Camila e Ricardo (antes da separação)
-- Novo apartamento de Camila (após a separação)
+- Apartamento antigo de três quartos pequenos na Lapa, São Paulo; Camila e os filhos continuam no mesmo imóvel após a separação
+- Apart-hotel temporário de Ricardo; kitnet alugada antes das primeiras pernoites dos filhos, em maio
 
 ### Locais de Trabalho
 - Escritório/ambiente profissional de Camila
 
 ### Espaços de Transformação
-- Academia ou estúdio de arte
-- Consultório da terapeuta
+- Ateliê de aquarela numa travessa de Perdizes
+- Consultório do psicólogo Dr. Lucas, pelo plano do emprego de Camila
 - Cafés e restaurantes (encontros com amigas e Daniel)
 
 ### Espaços Familiares

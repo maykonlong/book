@@ -199,7 +199,6 @@ Fechou os olhos.
 
 A febre queimava. Mas por dentro, onde importava, o incêndio tinha por fim parado.
 
-Ela tinha se salvado.
-Sozinha.
-Como sempre.
-Mas agora, para sempre.
+Ainda não sabia como seriam os próximos dias.
+Mas tinha pedido ajuda.
+E, naquela manhã, não voltaria para limpar a cozinha.

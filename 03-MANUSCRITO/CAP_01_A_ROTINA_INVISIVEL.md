@@ -181,7 +181,7 @@ Ela pegou a xícara e virou o líquido gelado e amargo de uma vez só, como se f
 
 ---
 
-O trânsito da Avenida Rebouças era o retrato da cabeça de Camila: caótico, barulhento e travado.
+O trânsito da Rua Clélia era o retrato da cabeça de Camila: caótico, barulhento e travado. A escola ficava perto do apartamento, na Lapa, mas bastava um cruzamento parado para atrasar tudo.
 
 Bia cantava "Livre Estou" no banco de trás, desafinando sem vergonha. Léo olhava pela janela, quieto demais para uma criança de sete anos, quase oito.
 
@@ -276,7 +276,7 @@ Bloqueou a tela. Sentiu aquele gosto amargo na boca que não tinha nada a ver co
 
 Buscar crianças. Trânsito. Ouvir como foi o dia. Trânsito. Chegar em casa.
 
-A porta do apartamento se abriu às 18h45.
+A porta do apartamento se abriu às 18h45. O prédio era antigo, e os três quartos pequenos tinham aprendido a abrigar a vida dos quatro.
 
 O cenário era o mesmo de sempre. A casa estava vazia e silenciosa, mas as almofadas do sofá ainda guardavam o formato do corpo de Ricardo de manhã. A xícara de café dele continuava no balcão, agora com uma crosta de leite seco na borda.
 

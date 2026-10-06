@@ -22,8 +22,7 @@ Camila hesitou. No fim de semana, tinha comprado um caderno só para ela. Ainda 
 
 A vendedora sorriu sem entender o peso daquilo. Mostrou um kit pequeno: uma caixinha de tintas, três pincéis e um bloco de papel mais grosso, próprio para aquarela. Camila pediu o preço de cada item antes de levar.
 
-Ela gastou cento e vinte reais.
-Cento e vinte reais em tintas, pincéis e um bloco de papel próprio para aquarela.
+Era uma compra pequena, do tamanho da quantia que tinha separado para si.
 No caixa, o cartão tremeu na mão.
 
 *Isso é parte da compra do mercado. Isso faz falta. Isso é...*
@@ -145,6 +144,6 @@ Não eram obras-primas. Eram borrões, manchas e pequenas marcas abertas pela á
 
 E Camila entendeu, ali, de pijama e com o cabelo despenteado, uma verdade que mudaria tudo: não era sobre o quadro. Nunca foi sobre o quadro. Era sobre descobrir que ela ainda existia embaixo de todos aqueles papéis — mãe, esposa, funcionária — esperando para voltar a ser.
 
-Ela pegou o celular e, antes de qualquer outra coisa, respondeu à mensagem do ateliê. Perguntou o valor da turma semanal, fez as contas com o dinheiro dos bolos e reservou a primeira aula. Ainda não sabia se conseguiria manter o curso. Mas, naquela manhã, decidiu ao menos começar.
+Ela pegou o celular e, antes de qualquer outra coisa, respondeu à mensagem do ateliê. Perguntou o valor da turma semanal e separou no orçamento o custo das aulas. Começaria com o material básico que já tinha. Se apertasse, conversaria com Paula antes de assumir outra mensalidade. Naquela manhã, reservou a primeira aula.
 
 

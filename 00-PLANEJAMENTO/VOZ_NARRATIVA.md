@@ -60,7 +60,7 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 > É difícil explicar para quem nunca viveu. Como você ama alguém e, ao mesmo tempo, se sente sozinha ao lado dessa pessoa?
 
 #### Frequência:
-- **2-3 vezes por capítulo** (não exagerar)
+- Sem quota por capítulo: usar apenas quando aproximar a leitora sem interromper a cena
 - Principalmente em momentos emocionais-chave
 - NUNCA em cenas de diálogo (quebra imersão)
 
@@ -70,7 +70,7 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 
 ### Tom Geral por Ato
 
-#### ATO I (Cap. 1-9): Estagnação e Ruptura
+#### ATO I (Cap. 1-10): Desgaste e separação
 **Tom**: Sufocante, cansado, crescentemente tenso
 - Frases curtas e recortadas (refletindo exaustão)
 - Listas mentais (sobrecarga mental)
@@ -80,7 +80,7 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 **Exemplo**:
 > Acordar. Café. Uniforme. Lancheira. Escola. Trabalho. Lição. Jantar. Banho. Dormir. Repetir. A vida de Camila era uma lista infinita que nunca era riscada por completo.
 
-#### ATO II (Cap. 10-18): Desconstrução e Redescobrimento
+#### ATO II (Cap. 11-21): Reconstrução e rede de apoio
 **Tom**: Oscilante - dor e esperança alternadas
 - Frases mais longas, respiração retorna
 - Momentos de introspecção
@@ -90,7 +90,7 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 **Exemplo**:
 > Nos primeiros dias sozinha, o silêncio era ensurdecedor. Camila andava pela casa estranhando a ausência de ruído, de tensão. Era como tirar um sapato apertado depois de horas - dói o alívio.
 
-#### ATO III (Cap. 19-30): Rede, autonomia e fechamento
+#### ATO III (Cap. 22-30): Datas marcantes e abertura ao novo
 **Tom**: Mais leve, esperançoso, presente
 - Frases fluidas
 - Mais descrições sensoriais
@@ -112,7 +112,7 @@ Ocasionalmente, a narração se dirige diretamente à leitora para criar **cumpl
 ## 🗣️ LINGUAGEM E VOCABULÁRIO
 
 ### Registro Linguístico
-**Coloquial culto** - nem formal demais, nem informal demais
+**Português brasileiro próximo da fala, claro e cuidado** — sem palavras difíceis por enfeite; preservar a personalidade de cada voz e a gramática da narração.
 
 ✅ **Usar**:
 - Linguagem acessível e natural

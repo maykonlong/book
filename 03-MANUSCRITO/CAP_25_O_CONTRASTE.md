@@ -17,7 +17,7 @@ Ela entrou.
 O cheiro bateu primeiro. Uma mistura de roupas guardadas úmidas, pizza de ontem e desinfetante barato.
 A sala estava um caos. Caixa de pizza no sofá, aberta, com uma fatia endurecida. Tênis jogado no meio do caminho. Copos sujos na mesa de centro, um com uma película de café seco no fundo. A toalha dele enrolada na maçaneta da porta, como se ninguém nunca tivesse ensinado onde pendurar.
 
-Ricardo apareceu do quarto, abotoando a camisa. Cabelo molhado.
+Ricardo saiu do banheiro, abotoando a camisa. Cabelo molhado.
 — Deve estar perto da cama — disse ele, sem graça.
 
 Camila foi com Léo procurar. Encontraram o estojo de remédio debaixo da cama, junto de uma meia. Ela conferiu a bombinha e o ajudou a usá-la como o pediatra havia orientado. Só quando a tosse diminuiu voltou a prestar atenção à sala.

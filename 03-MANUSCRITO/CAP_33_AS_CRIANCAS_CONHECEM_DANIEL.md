@@ -133,7 +133,7 @@ Bia perguntava todo dia se Daniel ia voltar. Léo, mais discreto, fazia pergunta
 
 Camila respondia tudo, com paciência. Porque sabia que, por trás de cada pergunta, havia uma pergunta maior: *esse homem vai ser bom pra minha mãe? Vai ser bom pra gente? Vai ficar?*
 
-E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Lembrou do dia da prova do Léo. Mandou mensagem de boa sorte na apresentação de dança da Bia. Quando Camila comentou que precisava montar uma estante nova, ofereceu ajuda e só apareceu depois que ela aceitou.
+E, dia após dia, o Daniel ia respondendo essa pergunta maior — não com palavras, mas com presença. Quando as aulas recomeçaram, lembrou do dia da prova do Léo. Mandou mensagem de boa sorte para uma atividade de dança da Bia. Quando Camila comentou que precisava montar uma estante nova, ofereceu ajuda e só apareceu depois que ela aceitou.
 
 Uma tarde, Camila flagrou o Léo no quarto, desenhando. Ele desenhava sempre — mas desta vez o desenho era diferente: quatro figuras de mãos dadas, de tamanhos diferentes, embaixo de um sol grande e torto.
 

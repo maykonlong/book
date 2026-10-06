@@ -137,7 +137,7 @@ Camila guardou.
 
 E, no fim do dia, quando os filhos dormiram, Camila pegou o cartão de cartolina e o pendurou na porta da geladeira, no lugar de honra.
 
-Depois, fez algo que nunca tinha feito desde que Léo nasceu: deu um presente para si mesma no Dia das Mães.
+Depois, escolheu um presente para si mesma que não vinha de loja nenhuma: tempo sem precisar atender ninguém.
 
 Sentou no sofá, com uma taça de vinho barato e um livro que estava há meses esperando na estante, e ficou ali, em silêncio, sem culpa, sem pressa.
 

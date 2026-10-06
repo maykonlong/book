@@ -36,7 +36,7 @@ O interrogatório começou antes mesmo do suco de uva.
 — Com o pai.
 — Ah, então ele tá pegando? Que bom. Porque homem quando separa costuma sumir, né? O Ricardo não, o Ricardo é ponta firme.
 
-Primeira alfinetada. *Ricardo é ponta firme.* O mesmo Ricardo que esqueceu o aniversário do filho.
+Primeira alfinetada. *Ricardo é ponta firme.* O mesmo Ricardo que chegou depois do parabéns porque ficou no bar.
 
 — Ele é o pai, tia. É obrigação dele.
 

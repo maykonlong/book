@@ -120,6 +120,28 @@ def validate_chapters() -> int:
     if "Tipo o quê? eu" in combined:
         fail("Letra minúscula indevida após interrogação")
 
+    # Valores ficam na ficha de plausibilidade, não na prosa atemporal.
+    if re.search(r"R\$|\b\d[\d.,]*\s+reais\b|\b(?:mil|cento|duzentos|trezentos|quatrocentos|quinhentos)\s+reais\b", combined, re.I):
+        fail("Quantia monetária explícita voltou à narrativa; conferir ficha financeira")
+    finance_markers = {
+        1: ("Lapa",),
+        11: ("no fim do ano passado", "quase oito anos", "fundo de garantia", "antes de sair"),
+        12: ("saldo entre os meses seguintes", "Dona Sônia"),
+        15: ("escola", "plano de saúde", "pensão provisória"),
+        16: ("deixara o apart-hotel", "kitnet"),
+        23: ("parcelara", "levou a caixa"),
+        29: ("reajuste anual", "acordo provisório", "A pensão é deles", "parte dele ainda precisava ser paga"),
+        32: ("adicional de férias", "reserva para imprevistos"),
+        34: ("dividir a hospedagem",),
+    }
+    for number, markers in finance_markers.items():
+        for marker in markers:
+            if marker.casefold() not in texts[number - 1].casefold():
+                fail(f"Âncora financeira/continuidade ausente no capítulo {number}: {marker}")
+    for number, token in ((13, "esqueceu o aniversário"), (18, "apart-hotel"), (20, "a da jaqueta"), (23, "não lavou a jaqueta"), (26, "fez no dia da raiva da torneira")):
+        if token.casefold() in texts[number - 1].casefold():
+            fail(f"Regressão de lembrança/local no capítulo {number}: {token}")
+
     if any("Daniel" in text for text in texts[:26]):
         fail("Daniel aparece antes do capítulo 27")
 

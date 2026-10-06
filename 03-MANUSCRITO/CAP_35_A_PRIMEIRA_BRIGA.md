@@ -3,7 +3,7 @@
 
 Começou por causa de uma mensagem não respondida.
 
-Tinham combinado jantar às sete. Desde as cinco, as mensagens de Camila ficavam sem resposta. Às oito, quando Daniel apareceu sem ter avisado do atraso, ela já tinha servido as crianças. Os dois tinham ido para o quarto, mas o jantar dela continuava sobre a mesa. Uma coisa velha acordou dentro de Camila.
+Tinham combinado jantar às sete. Ricardo havia trocado a visita daquela terça pela quarta, e as crianças estavam em casa. Desde as cinco, as mensagens de Camila ficavam sem resposta. Às oito, quando Daniel apareceu sem ter avisado do atraso, ela já tinha servido os filhos. Os dois tinham ido para o quarto, mas o jantar dela continuava sobre a mesa. Uma coisa velha acordou dentro de Camila.
 
 — Você não respondeu nenhuma das minhas mensagens — disse ela, com uma calma que era pior do que gritar.
 

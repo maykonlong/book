@@ -101,7 +101,7 @@ Ele desligou.
 
 Camila ficou segurando o celular mudo na cozinha silenciosa.
 
-Olhou para o filé mignon de oitenta reais.
+Olhou para o filé mignon que escolhera depois de conferir duas vezes a etiqueta.
 Olhou para as velas apagadas.
 Sentiu-se a mulher mais ridícula do planeta.
 

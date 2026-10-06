@@ -4,19 +4,21 @@
 O divórcio saiu numa terça-feira cinzenta.
 Não houve tribunal dramático como nos filmes. Não houve briga por talheres de prata. As decisões sobre os filhos já tinham sido aprovadas pela Justiça: guarda compartilhada, casa principal com Camila, fins de semana alternados com Ricardo, pensão, escola e plano de saúde.
 
-O apartamento também tinha deixado de ser uma ameaça sem resposta. Mas não tinha sido simples chegar até ali.
+O apartamento também tinha deixado de ser uma ameaça sem resposta. Mas não tinha sido simples chegar até ali. Tinham reunido extratos, documentos e uma avaliação do imóvel. Não havia uma grande aplicação esquecida que resolvesse a divisão: quase tudo que juntaram estava naquelas paredes. Os carros e os móveis também entraram na conversa, até acertarem o que ficaria com cada um.
 
 Na última reunião, Ricardo ainda queria receber a parte dele de uma vez. Camila abriu a planilha que levara impressa.
 
 — Se eu tivesse esse dinheiro, a gente não estaria discutindo parcelas — disse, com os dedos apertando a ponta da folha.
 
-Patrícia puxou a cadeira para perto. Repassaram os números, as propostas e os prazos. Houve uma pausa para cada um conversar com sua advogada ou advogado. Camila chegou a pensar que sairiam dali sem acordo outra vez.
+Patrícia puxou a cadeira para perto. Repassaram as propostas e os prazos. Vender o imóvel também levaria tempo, teria despesas e obrigaria as crianças a mudar. Receber todo mês era uma alternativa, desde que Ricardo aceitasse esperar. Houve uma pausa para cada um conversar com sua advogada ou advogado. Camila chegou a pensar que sairiam dali sem acordo outra vez.
 
-No fim, Ricardo aceitou receber sua parte em parcelas longas, registradas no acordo. A pensão continuaria em trinta por cento da renda líquida dele: com os doze mil que recebia naquele momento, eram três mil e seiscentos reais por mês para os dois filhos. Ele também assumiu a escola e o plano de saúde. Essa divisão levava em conta as despesas das crianças e a renda dos dois; não era uma conta pronta que servia para qualquer família.
+No fim, Ricardo aceitou receber sua parte ao longo de muitos anos. Deixaram por escrito o reajuste anual, os vencimentos e o que aconteceria se ela atrasasse. Se pudesse adiantar alguma parcela, diminuiria o tempo da dívida. O apartamento estava quitado com o banco, mas a parte dele ainda precisava ser paga.
+
+A pensão continuaria em trinta por cento da renda líquida de Ricardo para os dois filhos. Ele manteria o pagamento direto da escola e do plano de saúde, como vinha fazendo desde o acordo provisório. Essa divisão levava em conta as despesas das crianças e a renda dos dois; não era uma conta pronta que servia para qualquer família.
 
 — A pensão é deles. Não entra como pagamento do apartamento — Patrícia lembrou, apontando os dois itens separados.
 
-Camila conferiu mais uma vez o que sobraria do próprio salário. Continuaria apertado por anos, e um atraso mudaria as contas de novo. Mas conseguia cumprir aquele acordo sem contar com o dinheiro dos bolos. Guardou a planilha na bolsa. Ainda teria contas para fazer. Já não precisava fazê-las no escuro.
+Camila conferiu mais uma vez o que sobraria do próprio salário. Na folha, tinha separado o dinheiro das crianças, as despesas da casa e a parcela do imóvel. As contas atrasadas do começo já estavam pagas; agora, parte do que vinha guardando todo mês iria para o acordo. Continuaria sem poder gastar por impulso, e um atraso exigiria rever tudo. Mas conseguia cumprir o combinado sem contar com os bolos ou com uma próxima venda de quadro. Guardou a planilha na bolsa. Ainda teria contas para fazer. Já não precisava fazê-las no escuro.
 
 Com os filhos e os bens resolvidos, faltava o ato final. Houve apenas uma sala de cartório com ar-condicionado frio demais e cheiro de café velho.
 
@@ -276,7 +278,7 @@ E ali estava. A pergunta.
 
 Parte de Camila queria correr. Criar desculpa. Manter distância segura.
 
-Mas a nova parte - a parte crescente - queria tentar.
+Mas a outra parte, que crescia a cada encontro, queria tentar.
 
 — Eu gostaria. Mas... — Era hora de abrir o coração. — Eu preciso ir devagar. Saí de algo muito difícil. E ainda estou... descobrindo coisas.
 

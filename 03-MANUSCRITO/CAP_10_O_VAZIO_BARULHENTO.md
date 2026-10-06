@@ -5,7 +5,7 @@ A mudança definitiva aconteceu numa quinta-feira.
 
 Não houve nova briga, choro ou cena. Só... aconteceu.
 
-Depois de duas semanas de tensão silenciosa - ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças mas morrendo por dentro - eles por fim sentaram para combinar como seria a saída dele.
+Depois de duas semanas de tensão silenciosa — ele dormindo no sofá, ela evitando estar no mesmo cômodo, os dois fingindo normalidade na frente das crianças — eles por fim sentaram para combinar como seria a saída dele.
 
 Com frieza. Com praticidade. Como dois adultos.
 
@@ -95,7 +95,7 @@ Mas agora que tinha... era ensurdecedor.
 
 A casa parecia maior. Vazia. Fria.
 
-Camila andou pelos cômodos. Olhou para o espaço que Ricardo tinha ocupado - guarda-roupa mais vazio, banheiro faltando produtos dele, controle remoto abandonado no sofá.
+Camila andou pelos cômodos. Olhou para o espaço que Ricardo tinha ocupado: guarda-roupa mais vazio, banheiro sem os produtos dele, controle remoto abandonado no sofá.
 
 Sinais de ausência.
 
@@ -153,7 +153,7 @@ Camila pensou na toalha ainda secando na área de serviço. Tinha limpado a águ
 
 Ela tinha chorado. Estava assustada. Estava triste.
 
-Mas o peso no peito - aquele peso constante de anos - estava menor.
+Mas o peso no peito — aquele peso constante de anos — estava menor.
 
 Porque não tinha mais que carregar sozinha algo que precisava de dois.
 
@@ -223,7 +223,7 @@ SETE HORAS.
 
 Ela tinha dormido demais. As crianças. A escola.
 
-Ela pulou da cama, correu para o quarto deles—
+Ela pulou da cama e correu para o quarto deles.
 
 Léo estava vestido. Uniforme todo torto, mas vestido.
 

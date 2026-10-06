@@ -129,7 +129,7 @@ A resposta já não envolvia Ricardo. Não era "fazer dar certo" nem "aguentar m
 
 A resposta, simples e assustadora, era: eu quero ser feliz.
 
-E Camila foi dormir sabendo que aquilo, enfim, não era um sonho distante.
+E Camila percebeu que aquilo, enfim, não era um sonho distante.
 
 Era um plano.
 

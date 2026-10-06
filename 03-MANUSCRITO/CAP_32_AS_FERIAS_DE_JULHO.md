@@ -7,7 +7,7 @@ As últimas férias com Ricardo tinham ensinado a ela que "férias em família" 
 
 Mas agora não havia Ricardo. E, enfim, Camila percebeu que férias podiam ser... dela.
 
-Desde o Dia das Mães, a palavra *praia* continuava escrita no verso do vale sobre a geladeira. Camila guardara dinheiro e pesquisara pousadas até encontrar uma que coubesse no orçamento. Agora a reserva estava feita.
+Desde o Dia das Mães, a palavra *praia* continuava escrita no verso do vale sobre a geladeira. A lata já recebia pequenas sobras havia meses. Camila juntara a elas parte do que restou da venda do quadro, depois de pagar os materiais, e separara um pouco do adicional de férias. Pesquisara pousadas até encontrar uma que coubesse no orçamento, sem mexer no dinheiro das contas nem na reserva para imprevistos. Agora a viagem estava marcada.
 
 — Mostra onde a gente vai, mãe — pediu Léo, espalhando um mapa pela mesa.
 
@@ -123,7 +123,7 @@ A chuva parou ao anoitecer. Mais tarde, os três se acomodaram na rede da varand
 
 — Mãe — sussurrou Léo, já com sono —, a gente pode voltar aqui nas próximas férias?
 
-— Pode, filho. Pode voltar sempre.
+— Vamos tentar, filho. A gente pode guardar dinheiro para voltar.
 
 — O Daniel é seu namorado? — perguntou Léo.
 

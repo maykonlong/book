@@ -167,7 +167,7 @@ Ele respondeu em segundos:
 
 *"Tudo. Pela primeira vez, tudo."*
 
-E era verdade. Tudo estava bem. Porque o reencontro que ela temia há meses tinha acabado de acontecer — e não tinha sido um terremoto.
+E era verdade. Estava bem. Via Ricardo quando ele buscava as crianças, mas quase sempre falavam de horários e mochilas. Encontrá-lo assim, sem nada para combinar nem filhos entre os dois, ainda dava medo. E tinha acabado de acontecer — sem virar um terremoto.
 
 Tinha sido só um sábado de manhã, no corredor de congelados, comprando ervilha.
 

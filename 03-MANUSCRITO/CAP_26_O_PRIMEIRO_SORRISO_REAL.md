@@ -6,7 +6,7 @@ Sábado à noite.
 
 Camila estava nervosa. Tinha escolhido o vestido azul (o que ela gostava, não o que ela achava que devia usar).
 
-Seus três quadros estavam lá: *Afogamento*, a mulher sob a água procurando luz; *Caos*, o abstrato colorido que ela fez no dia da raiva da torneira; e *Silêncio*, uma sala vazia recebendo o sol da manhã.
+Seus três quadros estavam lá: *Afogamento*, a mulher sob a água procurando luz; *Caos*, o abstrato colorido que pintara lembrando da raiva com a torneira; e *Silêncio*, uma sala vazia recebendo o sol da manhã.
 
 As pessoas circulavam. Bebiam vinho barato em copos de plástico. Comiam amendoim.
 Mas olhavam.
@@ -33,10 +33,9 @@ Ela nunca tinha pensado em preço.
 Era terapia, não produto.
 
 — Eu... não sei. Não pensei em vender.
-— Eu pago quinhentos reais — disse a mulher. — Ele me traz uma paz... me lembra a casa da minha avó. Eu quero levar essa paz pra minha sala.
+— Posso fazer uma proposta? — perguntou a mulher. Disse quanto podia pagar e apontou para o quadro. — Ele me traz uma paz... me lembra a casa da minha avó. Eu quero levar essa paz pra minha sala.
 
-Quinhentos reais.
-Camila fez a conta rápida. Era o valor da mensalidade da natação. Era metade do condomínio.
+Camila fez a conta rápida. Dava para repor os materiais, cobrir a moldura e ainda guardar um pouco.
 Mas não era pelo dinheiro.
 Era pelo valor.
 
@@ -46,9 +45,9 @@ Por muito tempo, Camila tinha medido o próprio valor pelo que fazia pelos outro
 
 Porque aquilo — o *Silêncio* com sol entrando na sala vazia — não era só uma aquarela. Era o retrato de uma manhã qualquer em que Camila por fim tinha conseguido respirar. E uma desconhecida tinha olhado para aquilo e sentido paz.
 
-A arte dela tinha atravessado a distância entre duas mulheres que nunca se conheceram. E tinha dito: *eu também.*
+A arte dela tinha atravessado a distância entre duas mulheres que nunca tinham se visto. E tinha dito: *eu também.*
 
-Isso valia mais que os quinhentos reais. Valia uma vida inteira de "isso não é passatempo, é perda de tempo".
+Isso valia mais que o dinheiro. Respondia a tantos anos ouvindo "isso não é passatempo, é perda de tempo".
 
 — Pode ser — disse Camila, tentando não tremer.
 
@@ -108,7 +107,7 @@ E sorriu.
 Não para alguém.
 Para ela mesma.
 
-Foi um sorriso que veio das entranhas, subiu pelo estômago, aqueceu o peito e explodiu no rosto.
+Foi um sorriso que veio lá de dentro, aqueceu o peito e se espalhou pelo rosto.
 Um sorriso de quem sobreviveu ao naufrágio e descobriu que sabia nadar muito bem, obrigada.
 
 Era um sorriso que ninguém precisava ver, que vinha de dentro e não pedia plateia. O sorriso de quem tinha se salvado. O mais precioso que existia.
@@ -121,7 +120,7 @@ Outras alegrias tinham aparecido nos últimos meses: uma sessão de cinema, as b
 
 Antes de ir embora, ajudou Paula a embrulhar *Silêncio* para a compradora. O espaço vazio na parede pareceu estranho. Era bom e dava um pouco de saudade.
 
-No caminho para casa, decidiu separar parte dos quinhentos reais para repor os materiais e emoldurar outro trabalho. O restante guardaria. Talvez entrasse na viagem que vinha adiando; talvez fosse necessário para uma conta. Gostava de poder escolher sem diminuir o valor daquela noite.
+No caminho para casa, decidiu separar primeiro o que tinha gasto com o quadro e reservar o material do próximo. O restante guardaria. Talvez entrasse na viagem que vinha adiando; talvez fosse necessário para uma conta. Gostava de poder escolher sem diminuir o valor daquela noite.
 
 Ela estava separada.
 Estava com a conta bancária apertada.

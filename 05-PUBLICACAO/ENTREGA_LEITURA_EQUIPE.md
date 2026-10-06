@@ -2,7 +2,7 @@
 
 **Livro:** *A Metade Que Me Faltava Era Eu*
 
-**Versão do texto:** 40 capítulos, 64.266 palavras de história na edição **2026-10-05-cronologia-e-namoro**. Confira o commit enviado à equipe antes de registrar as respostas; não misture observações da versão `5ad548d` ou de outras bases anteriores com esta rodada.
+**Versão do texto:** 40 capítulos, 65.156 palavras de história na edição **2026-10-06-financas-e-continuidade**. Confira o commit enviado à equipe antes de registrar as respostas; não misture observações da versão `5ad548d` ou de outras bases anteriores com esta rodada.
 
 **Objetivo:** testar a experiência real de leitura antes de congelar os arquivos de publicação. Esta rodada não é autorização para publicar ou mudar a estratégia do site.
 
@@ -22,6 +22,7 @@
 6. **Final:** o desejo de Daniel de ter um filho foi preparado? A despedida nos capítulos 37–39 parece madura ou apressada? O capítulo 40 fecha a jornada e deixa curiosidade pelo segundo livro sem desfazer a felicidade solteira de Camila?
 7. **Formato:** no aparelho usado, houve problema de fonte, navegação, arte, contraste, retomada ou cansaço visual? Anote dispositivo e navegador.
 8. **Páginas de fé:** Eclesiastes antes do capítulo 1, gratidão a Deus no fim e a consagração final parecem naturais? Elas acolhem sem mudar a promessa de ficção contemporânea?
+9. **Dinheiro sem aula de contas:** fica claro por que Camila passa aperto em abril mesmo tendo um apartamento quitado? A melhora após maio parece gradual? A partilha, a terapia, a pintura e as viagens ficam compreensíveis sem preços e salários em reais? Alguma explicação interrompeu a cena ou deixou dúvida?
 
 ## Registro de feedback
 

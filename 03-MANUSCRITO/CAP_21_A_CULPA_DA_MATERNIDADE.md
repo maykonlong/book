@@ -5,7 +5,7 @@ Léo tinha apresentação na escola.
 
 "Minha Família" — trabalho de História sobre estruturas familiares ao longo do tempo. Cada criança apresentaria a própria família. Quinta-feira, duas da tarde.
 
-Camila tinha pedido para sair mais cedo do trabalho. Confirmado duas semanas antes.
+Camila tinha pedido para sair mais cedo do trabalho. Confirmado duas semanas antes. Naquela quinta, as crianças voltariam com ela depois da apresentação, em vez de passarem a noite com o pai, como de costume.
 
 E Ricardo... Ricardo tinha prometido tentar.
 
@@ -27,7 +27,7 @@ Camila tinha hesitado um segundo a mais do que devia.
 
 Quinta-feira chegou.
 
-Camila saiu do escritório ao meio-dia. Almoçou rápido. Chegou na escola uma hora e quarenta e cinco - quinze minutos antes da apresentação começar.
+Camila saiu do escritório ao meio-dia. Almoçou rápido. Chegou à escola à uma e quarenta e cinco — quinze minutos antes de a apresentação começar.
 
 Auditório pequeno enchendo de pais. Mães, na maioria. Alguns pais. Poucos avós.
 
@@ -83,7 +83,7 @@ Camila reconheceu o desenho. Tinha sido ela a ajudá-lo a colar aquele sol amare
 
 — Mas agora meus pais são separados. Então é assim.
 
-Virou outra vez. Novo desenho. Ele e Bia no centro. Camila de um lado. Ricardo do outro - mais longe, em canto separado.
+Virou outra vez. Novo desenho. Ele e Bia no centro. Camila de um lado. Ricardo do outro — mais longe, num canto separado.
 
 A professora sorriu encorajadora. A sala estava em silêncio respeitoso.
 
@@ -151,7 +151,7 @@ Depois de buscarem Bia na pré-escola, ela tagarelou sobre o dia inteiro. Léo o
 
 Camila segurou o volante com força. A raiva crescia.
 
-Quando chegaram em casa, colocou desenho animado para as crianças. Pegou celular. Foi para o quarto.
+Quando chegaram em casa, colocou desenho animado para as crianças. Pegou o celular. Foi para o quarto.
 
 Ligou para Ricardo.
 
@@ -285,19 +285,19 @@ Quando ele por fim dormiu, exausto, Camila saiu do quarto e mandou uma mensagem 
 
 — Vamos com calma. Eu posso conversar um pouco agora, e amanhã a gente procura um horário para se encontrar. Me conta uma coisa de cada vez.
 
-— Pode.
+— Tá.
 
 Conversaram por alguns minutos. Dr. Lucas ouviu e fez perguntas.
 
 Desmontando a culpa. Separando o que era responsabilidade dela do que era responsabilidade de Ricardo.
 
-— Você não pode controlar ações dele, Camila. Só pode controlar suas.
+— Você não pode controlar as ações dele, Camila. Só pode escolher o que você faz.
 
 — Mas as crianças sofrem.
 
 — A separação traz mudanças, e eles podem sentir falta da vida de antes. Isso precisa de cuidado. Mas a ausência de Ricardo hoje foi uma escolha dele. Você não causou essa falta por ter encerrado o casamento.
 
-Camila ficou em silêncio, deixando a pergunta assentar.
+Camila ficou em silêncio, tentando aceitar aquelas palavras.
 
 — Como eu não confundo? Eu comecei isso!
 

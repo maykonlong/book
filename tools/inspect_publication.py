@@ -1,7 +1,8 @@
 """Inspeção complementar: fontes, EPUB, texto integral do PDF e geometria.
 
 Não avalia qualidade literária nem substitui a inspeção visual ou o Previewer.
-Execute depois de build_publication.py. --render cria amostras em tmp/pdfs/.
+Execute depois de build_publication.py. --render cria amostras em tmp/pdfs/;
+--render-all renderiza todas as páginas. Imagens geradas não significam inspeção humana.
 """
 from __future__ import annotations
 
@@ -35,6 +36,8 @@ def source_text(path: Path) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--render", action="store_true")
+    parser.add_argument("--render-all", action="store_true")
+    parser.add_argument("--edition-date", default=date.today().isoformat())
     args = parser.parse_args()
     counts = []
     for path in build.CHAPTERS:
@@ -94,29 +97,32 @@ def main() -> None:
     report = {"status": "OK", "story_words": sum(x["story_words"] for x in counts), "chapters": counts,
               "pdf_pages": page_count, "chapter_physical_pages": starts, "epub_source_sync": "40/40",
               "pdf_source_sync": "40/40", "body_margins": "OK", "cover_geometry": "OK", "fonts_embedded": "OK"}
-    qa = build.ROOT / "tmp" / "pdfs" / f"checkup-{date.today().isoformat()}"
+    date.fromisoformat(args.edition_date)
+    qa = build.ROOT / "tmp" / "pdfs" / f"checkup-{args.edition_date}"
     qa.mkdir(parents=True, exist_ok=True)
     (qa / "inspection.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False))
-    if args.render:
+    if args.render or args.render_all:
         render = shutil.which("pdftoppm")
         if not render:
             raise SystemExit("pdftoppm ausente: instalar Poppler para a inspeção visual")
         # Inclui o capítulo 30 inteiro: nova ponte entre encontros e namoro.
         selected = sorted(set([1,2,3,4,5,6,7,8, *[starts[n] for n in (1,6,8,10,11,16,17,29,31,32,33,36,39,40)], *range(starts[30], starts[31]), *range(page_count-3,page_count+1)]))
+        if args.render_all:
+            selected = list(range(1, page_count + 1))
         for number in selected:
             subprocess.run([render,"-f",str(number),"-l",str(number),"-scale-to","1000","-singlefile","-png",str(pdf_path),str(qa/f"page-{number:03}")],check=True,capture_output=True)
-        for start in range(0, len(selected), 6):
-            group = selected[start:start+6]
-            sheet = Image.new("RGB", (1050, 1100), "#ccc")
+        for start in range(0, len(selected), 12):
+            group = selected[start:start+12]
+            sheet = Image.new("RGB", (1400, 1650), "#ccc")
             draw = ImageDraw.Draw(sheet)
             for i, number in enumerate(group):
                 page = Image.open(qa/f"page-{number:03}.png").convert("RGB")
                 page.thumbnail((340, 520))
-                x,y = (i%3)*350, (i//3)*550
+                x,y = (i%4)*350, (i//4)*550
                 sheet.paste(page,(x,y+22))
                 draw.text((x+4,y+4), f"PDF p. {number}", fill="black")
-            sheet.save(qa/f"contact-{start//6+1}.jpg", quality=90)
+            sheet.save(qa/f"contact-{start//12+1:02}.jpg", quality=90)
 
 
 if __name__ == "__main__":

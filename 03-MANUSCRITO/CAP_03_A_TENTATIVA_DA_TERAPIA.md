@@ -81,7 +81,7 @@ A "Barra do Mínimo" apareceu novamente.
 
 Ricardo levantou as mãos, como quem se rende a uma insanidade.
 
-— Tá bom, tá bom. Você faz tudo. Você é a mártir. Entendi. E você acha que pagar trezentos reais por hora pra uma mulher ouvir isso vai mudar o quê?
+— Tá bom, tá bom. Você faz tudo. Você é a vítima. Entendi. E você acha que pagar uma consulta toda semana pra uma mulher ouvir isso vai mudar o quê?
 
 — Vai mudar que talvez você me escute lá! Porque aqui você não escuta!
 
@@ -191,7 +191,7 @@ Mas não tinha passado. Tinha mudado. A tristeza tinha endurecido e virado outra
 
 — Que bom. Pedi pizza, tá? De preguiça hoje.
 
-Ele pediu pizza. Sentiu-se o herói da noite.
+Camila olhou para o telefone na mão dele. Quando ela pedia pizza porque estava cansada, ouvia que era preciso economizar. Naquela noite, a preguiça dele não precisava de explicação.
 
 Camila foi para o quarto tirar os sapatos. Olhou para o espelho.
 

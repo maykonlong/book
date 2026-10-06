@@ -43,13 +43,13 @@ Bia pensou por um segundo.
 
 — Os dois. E o de vocês também.
 
-E, enfim, no dia, os quatro riram juntos.
+E, pela primeira vez naquele dia, os quatro riram juntos.
 
 Foi um riso curto, meio tímido, de gente que ainda estava se conhecendo. Mas era um riso verdadeiro. E Camila guardou aquele som no peito como quem guarda uma fotografia.
 
 ---
 
-À tarde, chegaram ao sítio que Daniel tinha alugado para o fim de semana: uma casa simples, com rede na varanda, um lago perto e um silêncio que só o interior tem.
+À tarde, chegaram ao sítio que Daniel tinha reservado para o fim de semana: uma casa simples, com rede na varanda, um lago perto e um silêncio que só o interior tem. Antes de confirmar, os dois tinham combinado como dividir a hospedagem, a comida e a gasolina. Camila sabia quanto gastaria. Não precisava passar a viagem esperando uma conta que não pudesse pagar.
 
 Léo correu para a rede. Bia foi atrás do gato da vizinha. Daniel começou a descarregar as malas.
 

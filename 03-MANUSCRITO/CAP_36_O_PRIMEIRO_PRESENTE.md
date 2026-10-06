@@ -5,7 +5,7 @@ Camila não esperava presentes.
 
 Nos últimos anos com Ricardo, os presentes tinham virado, na melhor das hipóteses, uma transferência de dinheiro ("compra você, que eu não sei o que você gosta") e, na pior, uma prova de que ele não prestava atenção ("eu vi esse perfume e lembrei de você" — um perfume que ela nunca tinha usado na vida).
 
-Por isso, quando o Daniel apareceu com uma caixa embrulhada em papel pardo, sem data especial nenhuma, Camila desconfiou.
+Alguns dias depois daquela conversa sobre avisar quando fosse se atrasar, Daniel apareceu com uma caixa embrulhada em papel pardo. Não havia data especial nenhuma, e Camila desconfiou.
 
 — Que dia é hoje? — perguntou ela, tentando lembrar. — Meu aniversário é em março. Dia dos Namorados é em junho. O que eu esqueci?
 
@@ -31,7 +31,7 @@ Camila segurou o pincel na mão, sentindo o peso leve, a maciez do pelo.
 
 E chorou.
 
-Não por causa do pincel. Por causa de tudo o que ele representava: atenção. Memória. Cuidado. Coisas de que ela sentia falta havia tanto tempo — agora chegando sem cobrança, num papel pardo, numa terça-feira comum.
+Não por causa do pincel. Por causa de tudo o que ele representava: atenção. Memória. Cuidado. Coisas de que ela sentia falta havia tanto tempo — agora chegando sem cobrança, num papel pardo, numa noite comum.
 
 Então veio o medo.
 

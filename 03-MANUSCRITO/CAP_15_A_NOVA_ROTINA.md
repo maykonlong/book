@@ -21,7 +21,7 @@ Vídeo de 5 minutos. Parecia simples. Desligar o registro. Desenroscar não sei 
 
 Camila foi à loja de ferragens. O vendedor olhou para ela com aquele ar de "querida, você sabe o que está fazendo?".
 — Eu quero uma vedação de borracha para torneira Deca — disse ela, firme, lendo o papelzinho.
-Ele vendeu. Custou dois reais.
+Ele vendeu duas. Custavam tão pouco que Camila levou a segunda por garantia.
 
 Voltou para casa. Desligou o registro (teve que brigar com o registro emperrado, usando um pano pra não machucar a mão, xingando três gerações da família do fabricante).
 
@@ -55,7 +55,7 @@ E, com uma raiva fria, largou o celular no balcão.
 — Nem fodendo — sussurrou.
 
 Levantou. Secou o rosto na manga molhada.
-Abriu o vídeo outra vez. Assistiu com atenção e desmontou a peça. A borrachinha tinha ficado dobrada e saído do lugar. Precisava encaixá-la direito antes de fechar tudo.
+Abriu o vídeo outra vez. Assistiu com atenção e desmontou a peça. A borrachinha tinha ficado dobrada, e ela não rosqueara o conjunto direito. Precisava encaixar tudo com cuidado antes de abrir o registro.
 
 Abriu a caixa de ferramentas outra vez. Pegou outra borrachinha (tinha comprado duas, por garantia).
 
@@ -93,7 +93,9 @@ Naquele dia, tinha conseguido com paciência e um pouco de teimosia. Isso, Camil
 
 Agora, pouco mais de dois meses após Ricardo sair de casa, aquela torneira continuava funcionando. Outras partes da rotina também começavam a se ajeitar.
 
-A pensão provisória tinha sido fixada e o primeiro pagamento por fim chegara. Não apagava as contas atrasadas, mas permitiu combinar as parcelas da escola sem depender só dos bolos. Camila manteve as encomendas num limite que conseguia atender.
+A pensão provisória tinha sido fixada e o primeiro pagamento por fim chegara. Patrícia também conseguira registrar um acordo para Ricardo pagar diretamente a escola e o plano de saúde das crianças dali em diante. Ele reclamara, apresentara as próprias despesas, discutira com o advogado. Não tinha sido um favor nem uma volta atrás no casamento.
+
+Na geladeira, Camila prendia com um ímã a lista do que ainda devia. A mensalidade que ficara para trás, o acréscimo pelo atraso, as parcelas da advogada. A cada pagamento, riscava uma linha. Ainda levaria meses, mas já não precisava empurrar uma conta nova para pagar a anterior. Manteve os bolos por encomenda, num limite que conseguia atender, e começou a guardar uma pequena quantia para imprevistos.
 
 Não foi fácil. Não foi rápido. Mas aconteceu.
 
@@ -209,7 +211,7 @@ A parte mais estranha da nova rotina não eram os dias com as crianças.
 
 Eram as horas sem elas.
 
-Nas tardes de terça e quinta e em alguns domingos, depois que Ricardo buscava as crianças, Camila voltava para uma casa vazia. Ainda não tinha passado uma noite inteira sem elas, mas aquelas horas já a assustavam.
+No começo da noite de terça e quinta, ao voltar do trabalho, e em alguns domingos, Camila encontrava a casa vazia. As crianças estavam com Ricardo. Ainda não tinha passado uma noite inteira sem elas, mas aquelas horas já a assustavam.
 
 No começo, foi apavorante.
 
@@ -237,7 +239,7 @@ E foi assim que Camila começou.
 
 ---
 
-Numa terça-feira, após a conversa com Dr. Lucas, Camila fez algo que não fazia havia anos:
+Num domingo em que as crianças estavam com Ricardo, Camila fez algo que não fazia havia anos:
 
 Foi ao cinema.
 

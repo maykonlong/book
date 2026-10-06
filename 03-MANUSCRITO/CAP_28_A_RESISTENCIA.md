@@ -65,7 +65,7 @@ Era um tédio quase físico, como assistir a um filme que ela já tinha visto on
 
 Ela se lembrou, sem querer, de uma noite específica. Oito anos atrás, quando o Léo ainda era bebê e pegou uma febre que não baixava. Camila tinha passado a madrugada inteira acordada, alternando compressas frias e choro abafado, enquanto Ricardo dormia. De manhã, quando ela mencionou o cansaço, ele respondeu, sem tirar os olhos do celular: *"mas você podia ter me acordado."* Podia. Mas depois de tantos "não", ela tinha aprendido a não pedir. Aquele tinha sido um dos dias em que ela entendeu, sem palavras, que pedir ajuda dava mais trabalho do que carregar tudo sozinha.
 
-Ela viu a camisa dele levemente amarrotada (ninguém passava para ele).
+Ela viu a camisa dele levemente amarrotada.
 Viu o corte de cabelo meio atrasado.
 Viu a necessidade nos olhos dele.
 

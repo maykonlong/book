@@ -2,20 +2,20 @@
 
 Romance contemporâneo em primeira edição independente, assinado com o nome literário **Mariana Duarte**. Camila sai de um casamento em que carregava sozinha a casa, os filhos e a própria esperança. O primeiro volume da trilogia encerra seu arco com uma escolha por autonomia: ela termina solteira, feliz e inteira. O segundo livro não é necessário para compreender este desfecho.
 
-## Estado da edição — 05/10/2026
+## Estado da edição — 06/10/2026
 
 | Item | Situação |
 | --- | --- |
-| História | 40 capítulos, 64.266 palavras de história; candidata à nova rodada da equipe |
-| Manuscrito consolidado | 64.988 palavras com cabeçalhos e textos iniciais/finais |
+| História | 40 capítulos, 65.156 palavras de história; candidata à nova rodada da equipe |
+| Manuscrito consolidado | 65.878 palavras com cabeçalhos e textos iniciais/finais |
 | Site e leitor | [GitHub Pages](https://maykonlong.github.io/book/) no ar; leitor instalável que retoma o progresso, sem livro inteiro offline |
 | Artes | 10 ilustrações narrativas presentes no leitor, EPUB e miolo |
 | eBook | EPUB e capa Kindle preparados; EPUBCheck: 0 erros e 0 avisos |
-| Impresso | Miolo de 330 páginas, 5,5 × 8,5 pol., e capa recalculada para essa paginação |
+| Impresso | Miolo de 332 páginas, 5,5 × 8,5 pol., e capa recalculada para essa paginação |
 | Validação local | Executar `node tools/test_landing.cjs`, `python tools/validate_release.py` e `python tools/inspect_publication.py --render` após mudanças |
 | Ainda falta | retorno da equipe, decisões finais de autoria/ISBN/ficha, Previewers da KDP e prova física |
 
-O [relatório atual](04-MATERIAL_APOIO/REVISAO_CONTINUIDADE_2026-10-05.md) registra a revisão dirigida de duração da relação, namoro com Daniel, linguagem e continuidade de cenas. A edição é **2026-10-05-cronologia-e-namoro**, com [identificação e hashes](05-PUBLICACAO/EDICAO_2026-10-05.md). O [checkup integral anterior](04-MATERIAL_APOIO/CHECKUP_EDITORIAL_2026-09-29.md) é histórico: seus números descrevem a edição de 29/09, não a atual. O estado de cada pendência está em [STATUS_ATUAL.md](04-MATERIAL_APOIO/STATUS_ATUAL.md). Nenhum teste automático garante ausência absoluta de erros ou reação comercial das leitoras.
+O [relatório atual, por categoria e capítulo](04-MATERIAL_APOIO/REVISAO_INTEGRAL_2026-10-06.md) registra a revisão de finanças, linguagem, cenas, cronologia, transições e final. A edição é **2026-10-06-financas-e-continuidade**, com [identificação e hashes](05-PUBLICACAO/EDICAO_2026-10-06.md). Os relatórios anteriores são históricos: seus números descrevem as respectivas edições, não a atual. O estado das pendências está em [STATUS_ATUAL.md](04-MATERIAL_APOIO/STATUS_ATUAL.md). Nenhum teste automático garante ausência absoluta de erros ou reação comercial das leitoras.
 
 ## Para a equipe de leitura
 
@@ -47,7 +47,7 @@ A indicação só ocorre após ação da visitante: compartilhamento nativo, có
 
 Antes de publicar qualquer alteração da landing, rode `node tools/test_landing.cjs` e `python tools/validate_release.py`. Os testes de compartilhamento são simulações locais, não envios reais. Confira no navegador a primeira visita, a retomada, início pela capa, navegação por teclado, expansão/recolhimento dos temas, FAQ, botão móvel e falta de rolagem lateral. Nesta rodada, a inspeção visual cobriu 320, 390, 768 e 1440 px. Em 390 × 844, a página fechada passou de cerca de 14,3 mil para 5,7 mil pixels de altura, mantendo os 13 temas acessíveis. Isso mede a redução de rolagem, não aumento garantido de vendas.
 
-Na rodada da landing de 29/09, somente a apresentação do site mudou; o manuscrito e o pacote permaneceram iguais naquele momento. A revisão de 05/10 alterou a narrativa e regenerou as saídas: os números atuais são 64.266 palavras de história e 330 páginas. Qualquer futura edição dessas métricas precisa manter livro, site e `llms.txt` em acordo.
+Na rodada da landing de 29/09, somente a apresentação do site mudou. As revisões posteriores alteraram a narrativa e regeneraram as saídas: os números atuais são 65.156 palavras de história e 332 páginas. Qualquer futura edição dessas métricas precisa manter livro, site e `llms.txt` em acordo.
 
 ## Protocolo obrigatório de revisão para pessoas e IAs
 
@@ -84,6 +84,8 @@ Use este mapa de verificação; não substitui a leitura integral de cada capít
 
 Controle também a situação dos objetos e compromissos: quem já viu os quadros; quando o quadro vendido é retirado; quem prometeu passeio; onde estão carro, chaves e crianças; se uma mensagem pode ser privada e receber respostas ao mesmo tempo. Confira o dinheiro sem transformar o romance em conselho: 30% é o pedido/acordo desta família, não uma regra geral. Não confunda pensão dos filhos com parcela do imóvel. Não use uma frase carinhosa dos filhos como prova de que a separação não os afeta.
 
+**Regras financeiras de 06/10:** leia [a ficha de continuidade financeira](02-ESTRUTURA/CONTINUIDADE_FINANCEIRA.md) antes de alterar renda, moradia, escola, trabalho, gastos, viagens ou partilha. Ela guarda hipóteses numéricas, fontes e contas; não entra no miolo. No romance, manter explicações relativas, sem preços e salários em reais. Distinguir falta de caixa, culpa ao gastar e prioridades de Ricardo. Patrimônio não é renda; venda não é lucro; FGTS e bônus não são livres nem garantidos. O imóvel na Lapa foi financiado e quitado antes da abertura; a dívida posterior é com a parte de Ricardo, não com o banco. Escola e saúde são pagas diretamente por ele desde o acordo provisório de maio. Recalcular o conjunto ao mudar qualquer obrigação, incluindo o orçamento dele. Exceções às visitas devem aparecer em cena.
+
 Compare pares de capítulos vizinhos **e** todos os capítulos que retomam um fato. Faça uma linha de eventos com evidência (capítulo e frase), sem deduzir que algo ocorreu fora da página só porque seria conveniente. A régua atual é: 3 anos de namoro + 11 de casamento; Léo completa 8 no cap. 2 e 9 no cap. 23; Bia tem 4 no início e 5 no segundo ano; Camila faz 35 na segunda quinzena de março do Ano 0 e 36 no Ano 1. Ricardo sai numa quinta-feira após duas semanas tensas; antes do cap. 16 as visitas das crianças são sem pernoite, depois começam fins de semana alternados. Camila trabalha durante a semana. O apart-hotel é temporário; antes do cap. 25 Ricardo já alugou uma kitnet. A primeira exposição é no cap. 26, a segunda no 27. Cap. 38 abre o diário; cap. 39 continua a leitura e, na semana seguinte, Camila termina com Daniel. Confira finanças, escola, asma/bombinha de Léo, terapia, arte, guarda, nomes, deslocamentos, estações e idades. Quando houver dúvida, corrija também `02-ESTRUTURA/CRONOLOGIA.md` ou registre a decisão pendente; não deixe dois cânones incompatíveis.
 
 ### 4. Etapa geral — leitura fria, site e publicação
@@ -93,6 +95,8 @@ Depois dos ajustes locais, releia o romance na ordem 1–40, incluindo carta, p�
 ### Registro de achados e regra de conclusão
 
 Além do validador, execute `python tools/inspect_publication.py --render`: compara o texto dos 40 capítulos com EPUB e PDF, verifica dimensões, fontes e margens e gera amostras para inspeção visual. Reexecute EPUBCheck após reconstruir; só depois refaça hashes e ZIP. Atualize `numberOfPages` e `wordCount` do site. Registre uma cópia identificada da edição e seu SHA-256 antes de enviá-la à equipe. Não declare verificação no Kindle Previewer ou prova física se apenas scripts foram executados.
+
+Para uma varredura de todas as páginas, execute `python tools/inspect_publication.py --render-all --edition-date AAAA-MM-DD`. Isso gera cada página e folhas de contato em `tmp/pdfs/`; **é preciso abri-las**, não basta gerar imagens. Distinga no relatório: leitura do texto integral, comparação de todas as páginas, inspeção do layout em miniaturas e inspeção ampliada. Uma miniatura não prova revisão tipográfica de cada linha. Registre também o menor e o maior capítulo, mas não aumente texto apenas para cumprir uma contagem. Preserve a cena curta quando ela cumpre sua função.
 
 Para cada problema, registre **capítulo + trecho + tipo** (linguagem, concordância, cronologia, continuidade, cena, ritmo, leitor/site ou publicação), o fato canônico, a correção e como foi conferida. Classifique como bloqueante (contradição factual, capítulo quebrado, arquivo fora de sincronia), importante (frase confusa, cena corrida, transição fraca) ou polimento (preferência de estilo). Depois de corrigir, releia a cena e os dois lados da transição; procure todas as outras menções do mesmo fato no repositório. Só considere a rodada encerrada quando não houver achado bloqueante conhecido, os testes passarem e as pendências subjetivas estiverem explicitadas para a equipe.
 

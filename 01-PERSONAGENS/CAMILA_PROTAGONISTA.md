@@ -11,6 +11,10 @@
 | **Escolaridade** | Superior Completo (Comunicação Social) |
 | **Cidade** | São Paulo, SP |
 
+### Continuidade de moradia e dinheiro
+
+Mora em um apartamento de prédio antigo na Lapa, com três quartos pequenos. Tem renda própria; a separação expõe a diferença entre pagar sua parte das contas e sustentar sozinha os compromissos anteriores. A reserva foi reduzida pela quitação antecipada do imóvel, não pela ausência de trabalho. Em maio começa a contribuição provisória de Ricardo. O acordo posterior parcela a parte dele no imóvel; não recria o financiamento bancário. Terapia pelo plano do emprego, arte e viagens planejadas não dependem de Daniel. Consultar a [ficha financeira](../02-ESTRUTURA/CONTINUIDADE_FINANCEIRA.md) e a [cronologia](../02-ESTRUTURA/CRONOLOGIA.md) antes de alterar esses fatos.
+
 ---
 
 ## Aparência Física

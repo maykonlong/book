@@ -141,7 +141,7 @@ Ricardo passou a mão no rosto. Pareceu abalado de verdade.
 
 Ele sentou no sofá. Pareceu menor. Mais quebrado.
 
-Por um segundo - só um segundo - Camila quase sentiu pena. Quase voltou atrás.
+Por um segundo — só um segundo — Camila quase sentiu pena. Quase voltou atrás.
 
 Mas então lembrou.
 
@@ -255,9 +255,7 @@ Camila os viu entrando na escola. Acenou. Esperou até eles sumirem de vista.
 
 E então pegou o celular.
 
-Procurou: *"advogado divórcio são paulo"*
-
-Abriu a primeira página.
+Abriu o contato da advogada que Fernanda acabara de indicar.
 
 Ligou.
 

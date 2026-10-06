@@ -221,7 +221,7 @@ Parte dela gritava SIM. Parte dela gritava CORRE.
 
 Pensou em Ricardo. Nos anos dolorosos. Nas quebras de parceria uma após a outra.
 
-Pensou em sinais de alerta para procurar. Em guardas para manter levantadas.
+Pensou nos sinais de alerta que precisava observar. No medo de baixar a guarda.
 
 Mas também pensou no sorriso gentil de Daniel. Em como ele conversou com ela como igual. No bilhete deixado sem expectativa, apenas possibilidade.
 
@@ -262,6 +262,8 @@ Talvez.
 E talvez fosse um começo.
 
 ---
+
+No sábado, Dona Sônia ficou com as crianças por algumas horas. Camila quase usou a falta de uma blusa limpa como desculpa para desistir, mas escolheu outra e saiu.
 
 O café "Grão" em Pinheiros era charmoso, com mesas de madeira rústica e cheiro de torra fresca.
 

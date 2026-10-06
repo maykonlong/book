@@ -30,7 +30,7 @@
 - O peso invisível que ninguém vê
 
 **Cenas Importantes**:
-- Camila lembrando do aniversário das crianças enquanto Ricardo esquece
+- Camila organizando o aniversário de Léo enquanto Ricardo sabe da festa, mas chega depois do parabéns
 - Ela tendo que pedir para ele fazer coisas básicas
 - O contraste com Daniel, que oferece ajuda antes dela pedir
 
@@ -105,7 +105,7 @@
 - Maternidade não exige autossacrifício total
 
 **Lições de Camila**:
-- Mãe feliz = filhos felizes
+- Cuidar de si ajuda Camila a acolher os filhos, mas não apaga a tristeza e as dúvidas deles
 - Modelo de força para Léo e Bia
 - Ensinar limites saudáveis aos filhos
 

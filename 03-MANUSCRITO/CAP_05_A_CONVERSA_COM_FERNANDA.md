@@ -92,7 +92,7 @@ Fernanda apertou a mão dela.
 Fernanda baixou a voz, como quem conta um segredo que ainda dói um pouco.
 — Eu demorei três anos pra sair, sabia? Três anos sabendo que tinha acabado, e ficando. Sabe o que por fim me fez ir embora? Não foi uma briga. Foi uma terça-feira comum. Cheguei do trabalho exausta, e ele nem levantou os olhos do celular pra me cumprimentar. E eu pensei: "se eu sumir agora, ele não percebe". E era verdade. Testei. Fiquei uma semana inteira fingindo que era invisível. Ele não percebeu. Aí eu entendi que já estava sozinha. Só faltava assumir.
 
-Camila ouviu e sentiu um arrepio de reconhecimento. Ela já tinha feito aquele mesmo teste, sem saber que era um teste. Nas últimas semanas, tinha começado a reparar em quanto tempo Ricardo levava para notar que ela tinha cortado o cabelo, que tinha trocado o perfume, que tinha chorado no banheiro antes de dormir. A resposta, quase sempre, era: nunca.
+Camila ouviu e sentiu um arrepio de reconhecimento. Ela já tinha feito aquele mesmo teste, sem saber que era um teste. Nas últimas semanas, tinha começado a reparar em quanto tempo Ricardo levava para notar que ela tinha aparado as pontas do cabelo, que tinha trocado o perfume, que tinha chorado no banheiro antes de dormir. A resposta, quase sempre, era: nunca.
 
 — E o pior — continuou Fernanda — é que a gente se acostuma. Acha normal ninguém reparar se a gente está cansada ou triste. Não é normal, Cá. Você também importa nessa casa.
 

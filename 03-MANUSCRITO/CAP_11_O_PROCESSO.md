@@ -9,15 +9,15 @@ Dra. Patrícia era direta. Uma mulher de quarenta e dois anos com óculos de arm
 
 — Bens? — perguntou ela, com a caneta pronta sobre um bloco amarelo.
 
-— Um apartamento quitado. Um carro 2018 no meu nome. Um carro 2020 no nome dele. Mobília completa.
+— Um apartamento quitado. Dois carros usados, também pagos. O meu é mais antigo. E os móveis.
 
 — Investimentos? Poupança? Ações?
 
 Camila hesitou.
-— Acho que não. O Ricardo sempre disse que a gente vivia "no limite". Que não sobrava para investir.
+— Quase tudo o que a gente juntava ia para o apartamento. Terminamos de pagar no fim do ano passado. Depois disso, ele continuou dizendo que não sobrava. Eu não sei quanto tem na conta dele.
 
 Dra. Patrícia levantou uma sobrancelha pintada.
-— "Acha"? Você não tinha acesso às contas dele?
+— Você não tinha acesso às contas dele?
 
 — Não. A gente dividia as contas da casa, mas cada um cuidava do seu salário.
 
@@ -27,13 +27,13 @@ Dra. Patrícia levantou uma sobrancelha pintada.
 
 — Certo. Vou conferir os documentos. E quanto ele ganha?
 
-— Acho que uns doze mil líquidos. Ele é gerente comercial.
+— É gerente comercial. O salário que cai na conta dele é o dobro do meu. Às vezes recebe bônus por resultado, mas eu não sei quanto.
 
 — E você?
 
-— Seis mil. Sou coordenadora de marketing.
+— Sou coordenadora de marketing. Trouxe meus comprovantes. Meu plano de saúde vem pelo emprego; o das crianças a gente paga separado.
 
-— Precisamos anotar as despesas das crianças e comprovar a renda dos dois. Pelo que você trouxe, vamos pedir 30% do salário líquido dele para os dois filhos. Se os doze mil se confirmarem, são três mil e seiscentos reais por mês: mil e oitocentos para cada um. Esse é o pedido para o caso de vocês; o juiz vai avaliar as despesas e as condições dos dois. Também vou pedir um valor provisório, para que vocês não fiquem esperando o fim do processo.
+— Precisamos anotar as despesas das crianças e comprovar a renda dos dois. Pelo que você trouxe, vamos pedir 30% do salário líquido dele para os dois filhos. Esse é o pedido para o caso de vocês; o juiz vai avaliar as despesas e as condições dos dois. Também vou pedir um valor provisório, para que vocês não fiquem esperando o fim do processo. Escola e plano de saúde precisam entrar nessa conversa. E vamos conferir os bônus, sem tratar um dinheiro eventual como salário garantido.
 
 — Ele não vai aceitar — disse Camila, sentindo o estômago embrulhar. — Ele já disse que não vai me dar "nenhum centavo".
 
@@ -52,7 +52,7 @@ Dra. Patrícia virou a página.
 — Pelo que você contou, o apartamento entra na divisão. Uma possibilidade é você comprar a parte dele; outra é venderem e dividirem o valor. Podemos negociar prazo e forma de pagamento. Você tem alguma reserva?
 
 Camila gelou.
-— Não. Não tenho nem dez mil guardados.
+— Sobrou muito pouco depois da quitação. Não chega nem perto do que ele vai querer.
 
 — Então vamos precisar negociar com cuidado. Ainda não estou dizendo que vocês terão de sair. Primeiro, vamos saber o que é possível e colocar qualquer acordo por escrito.
 
@@ -62,6 +62,10 @@ Tirar Léo e Bia do único lar que conheciam. Mais uma mudança para eles.
 Camila sentiu o peso do dinheiro — ou da falta dele — esmagando seus ombros.
 
 Lembrou do dia em que eles assinaram a compra daquele apartamento. Ricardo segurando a chave, girando no dedo como um troféu. Camila grávida do Léo, os pés inchados, imaginando o berço no quarto azul. "Nosso cantinho", ela disse, e ele riu. Na época, aquilo parecia o começo de tudo.
+
+Tinham juntado a entrada nos primeiros anos de casados, quando os salários eram menores e ainda não havia crianças. Usaram também o dinheiro que podiam tirar do fundo de garantia. O resto veio em prestações. Por quase oito anos, décimos terceiros, novos saques do fundo e parte dos bônus dele encurtaram a dívida. Na última parcela, colocaram boa parte do que ainda tinham guardado.
+
+Camila lembrava de ter passado a mão na parede da sala naquele dia. Estava pago. Achou que, enfim, poderiam respirar. Não imaginou que tão pouco tempo depois precisaria comprar de novo uma parte daquela casa.
 
 Ali, diante da advogada, ela entendeu que talvez precisasse se despedir também daquela casa.
 
@@ -90,11 +94,9 @@ Declaração de Imposto de Renda.
 
 Ela entrou no carro. O calor de março transformava o veículo num forno.
 
-Pegou o celular para ver o saldo da conta.
-R$ 420,00.
-O mês estava no dia 12.
+Pegou o celular para ver o saldo da conta. O mês estava no dia 12, e o que restava não cobria uma compra grande de mercado.
 
-Quatrocentos e vinte reais. Menos do que uma compra de mês inteiro no tempo em que a geladeira se enchia sem ela fazer as contas duas vezes. Tinha o apoio da mãe e da Fernanda, mas não outro salário para dividir aquelas despesas. O número na tela deixava isso claro demais.
+Ricardo tinha pago a escola e o plano das crianças antes de sair. Aquele mês ainda estava coberto. O próximo, não. Ela gastara o salário com as outras contas, e a pequena sobra da quitação já estava acabando.
 
 Como ela ia pagar advogado?
 Como ia pagar condomínio sozinha?
@@ -111,11 +113,11 @@ O medo de passar necessidade depois do divórcio é um fantasma frio para toda m
 
 *Será que eu vou virar aquela mãe que conta moedas no caixa do supermercado com o coração disparado?*
 
-Ela nunca tinha sido rica. Mas tinha sido *protegida*. Ricardo ganhava bem e o dinheiro, mesmo que nunca sobrasse, sempre aparecia no fim do mês. Agora ela estava prestes a descobrir o que era viver no limite. Tinha quem a acolhesse, mas não sabia como pagar as contas do mês seguinte.
+Os dois ganhavam bem. Tinham construído uma vida confortável, com escola particular e um carro para cada um, mas quase nenhuma reserva fora das paredes daquela casa. Manter as mesmas despesas sem a parte dele era outra história.
 
-E a vergonha veio antes do medo. Vergonha de ser uma mulher de 34 anos que não sabia o que era investir porque sempre deixou o marido cuidar das "coisas de dinheiro". Vergonha de ter sido ingênua. De ter confiado.
+E a vergonha veio junto com o medo. Ela pagava contas, conhecia o próprio salário, sabia quanto custava o mercado. Mesmo assim, nunca tinha reunido tudo. Ricardo cuidava das conversas com o banco, e ela aceitava o "já resolvi" enquanto corria para resolver o resto da vida.
 
-Vergonha de ter assinado documentos sem ler. De ter acreditado no "confia em mim" que o Ricardo repetia com aquele sorriso de quem manda. De ter sido criada para achar que mulher boa não se mete em dinheiro, deixa o marido resolver — e agora estar pagando, sozinha, o preço dessa mentira.
+Agora precisava entender também aquilo. Não era incapaz. Estava assustada, e as contas não esperavam o medo passar.
 
 *Vamos reunir o que você tem*, a advogada tinha dito. Camila tentou voltar àquela frase. Podia começar por ali, mesmo com vergonha do que ainda não sabia.
 
@@ -124,7 +126,7 @@ A "mulher empoderada" que tinha encarado a separação com firmeza dias antes ag
 Mas então ela lembrou da cena do leite derramado.
 Lembrou do Léo tocando sua testa quando ela estava com febre, preocupado com a mãe enquanto Ricardo dizia que ela tinha preguiça.
 
-*Dinheiro a gente corre atrás,* pensou ela, ligando o carro. *Dignidade, uma vez perdida, não se compra de volta.*
+*Eu preciso de um plano,* pensou ela, ligando o carro. *Voltar não pode ser o único jeito de pagar as contas.*
 
 Ela ia dar um jeito.
 Ia vender bolo de pote. Ia fazer Uber no fim de semana. Ia pedir aumento.
